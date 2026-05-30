@@ -1,0 +1,1156 @@
+{
+  "group_stage": [
+    {
+      "match_id": "GS001",
+      "group": "A",
+      "home": "Team_A1",
+      "away": "Team_A2",
+      "date": "2026-06-11",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS002",
+      "group": "A",
+      "home": "Team_A1",
+      "away": "Team_A3",
+      "date": "2026-06-12",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS003",
+      "group": "A",
+      "home": "Team_A1",
+      "away": "Team_A4",
+      "date": "2026-06-13",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS004",
+      "group": "A",
+      "home": "Team_A2",
+      "away": "Team_A3",
+      "date": "2026-06-14",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS005",
+      "group": "A",
+      "home": "Team_A2",
+      "away": "Team_A4",
+      "date": "2026-06-15",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS006",
+      "group": "A",
+      "home": "Team_A3",
+      "away": "Team_A4",
+      "date": "2026-06-16",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS007",
+      "group": "B",
+      "home": "Team_B1",
+      "away": "Team_B2",
+      "date": "2026-06-12",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS008",
+      "group": "B",
+      "home": "Team_B1",
+      "away": "Team_B3",
+      "date": "2026-06-13",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS009",
+      "group": "B",
+      "home": "Team_B1",
+      "away": "Team_B4",
+      "date": "2026-06-14",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS010",
+      "group": "B",
+      "home": "Team_B2",
+      "away": "Team_B3",
+      "date": "2026-06-15",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS011",
+      "group": "B",
+      "home": "Team_B2",
+      "away": "Team_B4",
+      "date": "2026-06-16",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS012",
+      "group": "B",
+      "home": "Team_B3",
+      "away": "Team_B4",
+      "date": "2026-06-17",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS013",
+      "group": "C",
+      "home": "Team_C1",
+      "away": "Team_C2",
+      "date": "2026-06-13",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS014",
+      "group": "C",
+      "home": "Team_C1",
+      "away": "Team_C3",
+      "date": "2026-06-14",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS015",
+      "group": "C",
+      "home": "Team_C1",
+      "away": "Team_C4",
+      "date": "2026-06-15",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS016",
+      "group": "C",
+      "home": "Team_C2",
+      "away": "Team_C3",
+      "date": "2026-06-16",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS017",
+      "group": "C",
+      "home": "Team_C2",
+      "away": "Team_C4",
+      "date": "2026-06-17",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS018",
+      "group": "C",
+      "home": "Team_C3",
+      "away": "Team_C4",
+      "date": "2026-06-18",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS019",
+      "group": "D",
+      "home": "Team_D1",
+      "away": "Team_D2",
+      "date": "2026-06-14",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS020",
+      "group": "D",
+      "home": "Team_D1",
+      "away": "Team_D3",
+      "date": "2026-06-15",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS021",
+      "group": "D",
+      "home": "Team_D1",
+      "away": "Team_D4",
+      "date": "2026-06-16",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS022",
+      "group": "D",
+      "home": "Team_D2",
+      "away": "Team_D3",
+      "date": "2026-06-17",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS023",
+      "group": "D",
+      "home": "Team_D2",
+      "away": "Team_D4",
+      "date": "2026-06-18",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS024",
+      "group": "D",
+      "home": "Team_D3",
+      "away": "Team_D4",
+      "date": "2026-06-19",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS025",
+      "group": "E",
+      "home": "Team_E1",
+      "away": "Team_E2",
+      "date": "2026-06-15",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS026",
+      "group": "E",
+      "home": "Team_E1",
+      "away": "Team_E3",
+      "date": "2026-06-16",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS027",
+      "group": "E",
+      "home": "Team_E1",
+      "away": "Team_E4",
+      "date": "2026-06-17",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS028",
+      "group": "E",
+      "home": "Team_E2",
+      "away": "Team_E3",
+      "date": "2026-06-18",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS029",
+      "group": "E",
+      "home": "Team_E2",
+      "away": "Team_E4",
+      "date": "2026-06-19",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS030",
+      "group": "E",
+      "home": "Team_E3",
+      "away": "Team_E4",
+      "date": "2026-06-20",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS031",
+      "group": "F",
+      "home": "Team_F1",
+      "away": "Team_F2",
+      "date": "2026-06-16",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS032",
+      "group": "F",
+      "home": "Team_F1",
+      "away": "Team_F3",
+      "date": "2026-06-17",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS033",
+      "group": "F",
+      "home": "Team_F1",
+      "away": "Team_F4",
+      "date": "2026-06-18",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS034",
+      "group": "F",
+      "home": "Team_F2",
+      "away": "Team_F3",
+      "date": "2026-06-19",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS035",
+      "group": "F",
+      "home": "Team_F2",
+      "away": "Team_F4",
+      "date": "2026-06-20",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS036",
+      "group": "F",
+      "home": "Team_F3",
+      "away": "Team_F4",
+      "date": "2026-06-21",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS037",
+      "group": "G",
+      "home": "Team_G1",
+      "away": "Team_G2",
+      "date": "2026-06-17",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS038",
+      "group": "G",
+      "home": "Team_G1",
+      "away": "Team_G3",
+      "date": "2026-06-18",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS039",
+      "group": "G",
+      "home": "Team_G1",
+      "away": "Team_G4",
+      "date": "2026-06-19",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS040",
+      "group": "G",
+      "home": "Team_G2",
+      "away": "Team_G3",
+      "date": "2026-06-20",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS041",
+      "group": "G",
+      "home": "Team_G2",
+      "away": "Team_G4",
+      "date": "2026-06-21",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS042",
+      "group": "G",
+      "home": "Team_G3",
+      "away": "Team_G4",
+      "date": "2026-06-22",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS043",
+      "group": "H",
+      "home": "Team_H1",
+      "away": "Team_H2",
+      "date": "2026-06-18",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS044",
+      "group": "H",
+      "home": "Team_H1",
+      "away": "Team_H3",
+      "date": "2026-06-19",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS045",
+      "group": "H",
+      "home": "Team_H1",
+      "away": "Team_H4",
+      "date": "2026-06-20",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS046",
+      "group": "H",
+      "home": "Team_H2",
+      "away": "Team_H3",
+      "date": "2026-06-21",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS047",
+      "group": "H",
+      "home": "Team_H2",
+      "away": "Team_H4",
+      "date": "2026-06-22",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS048",
+      "group": "H",
+      "home": "Team_H3",
+      "away": "Team_H4",
+      "date": "2026-06-23",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS049",
+      "group": "I",
+      "home": "Team_I1",
+      "away": "Team_I2",
+      "date": "2026-06-19",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS050",
+      "group": "I",
+      "home": "Team_I1",
+      "away": "Team_I3",
+      "date": "2026-06-20",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS051",
+      "group": "I",
+      "home": "Team_I1",
+      "away": "Team_I4",
+      "date": "2026-06-21",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS052",
+      "group": "I",
+      "home": "Team_I2",
+      "away": "Team_I3",
+      "date": "2026-06-22",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS053",
+      "group": "I",
+      "home": "Team_I2",
+      "away": "Team_I4",
+      "date": "2026-06-23",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS054",
+      "group": "I",
+      "home": "Team_I3",
+      "away": "Team_I4",
+      "date": "2026-06-24",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS055",
+      "group": "J",
+      "home": "Team_J1",
+      "away": "Team_J2",
+      "date": "2026-06-20",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS056",
+      "group": "J",
+      "home": "Team_J1",
+      "away": "Team_J3",
+      "date": "2026-06-21",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS057",
+      "group": "J",
+      "home": "Team_J1",
+      "away": "Team_J4",
+      "date": "2026-06-22",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS058",
+      "group": "J",
+      "home": "Team_J2",
+      "away": "Team_J3",
+      "date": "2026-06-23",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS059",
+      "group": "J",
+      "home": "Team_J2",
+      "away": "Team_J4",
+      "date": "2026-06-24",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS060",
+      "group": "J",
+      "home": "Team_J3",
+      "away": "Team_J4",
+      "date": "2026-06-25",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS061",
+      "group": "K",
+      "home": "Team_K1",
+      "away": "Team_K2",
+      "date": "2026-06-21",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS062",
+      "group": "K",
+      "home": "Team_K1",
+      "away": "Team_K3",
+      "date": "2026-06-22",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS063",
+      "group": "K",
+      "home": "Team_K1",
+      "away": "Team_K4",
+      "date": "2026-06-23",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS064",
+      "group": "K",
+      "home": "Team_K2",
+      "away": "Team_K3",
+      "date": "2026-06-24",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS065",
+      "group": "K",
+      "home": "Team_K2",
+      "away": "Team_K4",
+      "date": "2026-06-25",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS066",
+      "group": "K",
+      "home": "Team_K3",
+      "away": "Team_K4",
+      "date": "2026-06-26",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS067",
+      "group": "L",
+      "home": "Team_L1",
+      "away": "Team_L2",
+      "date": "2026-06-22",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS068",
+      "group": "L",
+      "home": "Team_L1",
+      "away": "Team_L3",
+      "date": "2026-06-23",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS069",
+      "group": "L",
+      "home": "Team_L1",
+      "away": "Team_L4",
+      "date": "2026-06-24",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS070",
+      "group": "L",
+      "home": "Team_L2",
+      "away": "Team_L3",
+      "date": "2026-06-25",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS071",
+      "group": "L",
+      "home": "Team_L2",
+      "away": "Team_L4",
+      "date": "2026-06-26",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    },
+    {
+      "match_id": "GS072",
+      "group": "L",
+      "home": "Team_L3",
+      "away": "Team_L4",
+      "date": "2026-06-27",
+      "venue": "TBD",
+      "prediction": {
+        "home_score": null,
+        "away_score": null
+      },
+      "result": {
+        "home_score": null,
+        "away_score": null
+      }
+    }
+  ]
+}

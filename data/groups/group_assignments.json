@@ -1,0 +1,16 @@
+{
+  "groups": {
+    "A": ["Team_A1", "Team_A2", "Team_A3", "Team_A4"],
+    "B": ["Team_B1", "Team_B2", "Team_B3", "Team_B4"],
+    "C": ["Team_C1", "Team_C2", "Team_C3", "Team_C4"],
+    "D": ["Team_D1", "Team_D2", "Team_D3", "Team_D4"],
+    "E": ["Team_E1", "Team_E2", "Team_E3", "Team_E4"],
+    "F": ["Team_F1", "Team_F2", "Team_F3", "Team_F4"],
+    "G": ["Team_G1", "Team_G2", "Team_G3", "Team_G4"],
+    "H": ["Team_H1", "Team_H2", "Team_H3", "Team_H4"],
+    "I": ["Team_I1", "Team_I2", "Team_I3", "Team_I4"],
+    "J": ["Team_J1", "Team_J2", "Team_J3", "Team_J4"],
+    "K": ["Team_K1", "Team_K2", "Team_K3", "Team_K4"],
+    "L": ["Team_L1", "Team_L2", "Team_L3", "Team_L4"]
+  }
+}
