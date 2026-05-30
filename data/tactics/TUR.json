@@ -1,0 +1,176 @@
+{
+  "name": "Türkiye",
+  "code": "TUR",
+  "matches_analyzed": 5,
+  "formations": {
+    "4-2-3-1": 6,
+    "3-4-3": 4,
+    "4-4-1-1": 2,
+    "4-3-3": 1,
+    "3-5-2": 1
+  },
+  "primary_formation": "4-2-3-1",
+  "top_starters": [
+    "Ferdi Erenay Kadıoğlu",
+    "Barış Alper Yılmaz",
+    "Fehmi Mert Günok",
+    "Mert Müldür",
+    "Samet Akaydin",
+    "Abdülkerim Bardakcı",
+    "Hakan Çalhanoğlu",
+    "Kaan Ayhan",
+    "Arda Güler",
+    "Kenan Yildiz",
+    "Orkun Kökçü",
+    "Salih Özcan",
+    "Merih Demiral",
+    "İsmail Yüksek",
+    "Altay Bayındır"
+  ],
+  "top_subs": [
+    "Muhammed Kerem Aktürkoğlu",
+    "Okay Yokuşlu",
+    "Yusuf Yazıcı",
+    "Merih Demiral",
+    "Mehmet Zeki Çelik",
+    "Salih Özcan",
+    "Cenk Tosun",
+    "İsmail Yüksek"
+  ],
+  "matches": [
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3938639,
+      "opponent": "Georgia",
+      "score": "3-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Fehmi Mert Günok",
+        "Mert Müldür",
+        "Samet Akaydin",
+        "Abdülkerim Bardakcı",
+        "Ferdi Erenay Kadıoğlu",
+        "Hakan Çalhanoğlu",
+        "Kaan Ayhan",
+        "Arda Güler",
+        "Orkun Kökçü",
+        "Kenan Yildiz",
+        "Barış Alper Yılmaz"
+      ],
+      "subs_in": [
+        "Yusuf Yazıcı",
+        "Merih Demiral",
+        "Mehmet Zeki Çelik",
+        "Muhammed Kerem Aktürkoğlu",
+        "Salih Özcan"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930174,
+      "opponent": "Portugal",
+      "score": "0-3",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Altay Bayındır",
+        "Mehmet Zeki Çelik",
+        "Samet Akaydin",
+        "Abdülkerim Bardakcı",
+        "Ferdi Erenay Kadıoğlu",
+        "Hakan Çalhanoğlu",
+        "Kaan Ayhan",
+        "Yunus Akgün",
+        "Orkun Kökçü",
+        "Muhammed Kerem Aktürkoğlu",
+        "Barış Alper Yılmaz"
+      ],
+      "subs_in": [
+        "Yusuf Yazıcı",
+        "İsmail Yüksek",
+        "Kenan Yildiz",
+        "Arda Güler",
+        "Merih Demiral"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3942382,
+      "opponent": "Netherlands",
+      "score": "1-2",
+      "formation": "3-4-3",
+      "starting_xi": [
+        "Fehmi Mert Günok",
+        "Kaan Ayhan",
+        "Samet Akaydin",
+        "Abdülkerim Bardakcı",
+        "Mert Müldür",
+        "Ferdi Erenay Kadıoğlu",
+        "Salih Özcan",
+        "Hakan Çalhanoğlu",
+        "Arda Güler",
+        "Kenan Yildiz",
+        "Barış Alper Yılmaz"
+      ],
+      "subs_in": [
+        "Muhammed Kerem Aktürkoğlu",
+        "Okay Yokuşlu",
+        "Mehmet Zeki Çelik",
+        "Cenk Tosun",
+        "Semih Kılıçsoy"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930184,
+      "opponent": "Czech Republic",
+      "score": "2-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Fehmi Mert Günok",
+        "Mert Müldür",
+        "Samet Akaydin",
+        "Merih Demiral",
+        "Ferdi Erenay Kadıoğlu",
+        "Salih Özcan",
+        "İsmail Yüksek",
+        "Barış Alper Yılmaz",
+        "Hakan Çalhanoğlu",
+        "Kenan Yildiz",
+        "Arda Güler"
+      ],
+      "subs_in": [
+        "Kaan Ayhan",
+        "Okay Yokuşlu",
+        "Cenk Tosun",
+        "Muhammed Kerem Aktürkoğlu",
+        "Orkun Kökçü"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3941022,
+      "opponent": "Austria",
+      "score": "2-1",
+      "formation": "3-4-3",
+      "starting_xi": [
+        "Fehmi Mert Günok",
+        "Kaan Ayhan",
+        "Merih Demiral",
+        "Abdülkerim Bardakcı",
+        "Mert Müldür",
+        "Ferdi Erenay Kadıoğlu",
+        "İsmail Yüksek",
+        "Orkun Kökçü",
+        "Barış Alper Yılmaz",
+        "Kenan Yildiz",
+        "Arda Güler"
+      ],
+      "subs_in": [
+        "Salih Özcan",
+        "Okay Yokuşlu",
+        "Muhammed Kerem Aktürkoğlu",
+        "İrfan Can Kahveci"
+      ]
+    }
+  ]
+}

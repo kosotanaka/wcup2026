@@ -1,0 +1,259 @@
+{
+  "name": "Germany",
+  "code": "GER",
+  "matches_analyzed": 8,
+  "formations": {
+    "4-2-3-1": 19,
+    "4-4-2": 3,
+    "3-5-2": 1,
+    "4-1-2-1-2": 1,
+    "3-4-3": 1
+  },
+  "primary_formation": "4-2-3-1",
+  "top_starters": [
+    "Manuel Neuer",
+    "Antonio Rüdiger",
+    "Joshua Kimmich",
+    "İlkay Gündoğan",
+    "Jamal Musiala",
+    "Kai Havertz",
+    "David Raum",
+    "Toni Kroos",
+    "Jonathan Tah",
+    "Robert Andrich",
+    "Niklas Süle",
+    "Serge Gnabry",
+    "Thomas Müller",
+    "Leroy Sané",
+    "Maximilian Mittelstädt"
+  ],
+  "top_subs": [
+    "Niclas Füllkrug",
+    "Leroy Sané",
+    "Emre Can",
+    "Jonas Hofmann",
+    "Mario Götze",
+    "Lukas Klostermann",
+    "Nico Schlotterbeck",
+    "Florian Wirtz"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857284,
+      "opponent": "Japan",
+      "score": "1-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Manuel Neuer",
+        "Niklas Süle",
+        "Antonio Rüdiger",
+        "Nico Schlotterbeck",
+        "David Raum",
+        "Joshua Kimmich",
+        "İlkay Gündoğan",
+        "Serge Gnabry",
+        "Thomas Müller",
+        "Jamal Musiala",
+        "Kai Havertz"
+      ],
+      "subs_in": [
+        "Jonas Hofmann",
+        "Leon Goretzka",
+        "Mario Götze",
+        "Niclas Füllkrug",
+        "Youssoufa Moukoko"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857292,
+      "opponent": "Costa Rica",
+      "score": "4-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Manuel Neuer",
+        "Joshua Kimmich",
+        "Niklas Süle",
+        "Antonio Rüdiger",
+        "David Raum",
+        "Leon Goretzka",
+        "İlkay Gündoğan",
+        "Leroy Sané",
+        "Jamal Musiala",
+        "Serge Gnabry",
+        "Thomas Müller"
+      ],
+      "subs_in": [
+        "Lukas Klostermann",
+        "Niclas Füllkrug",
+        "Kai Havertz",
+        "Mario Götze",
+        "Matthias Ginter"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857263,
+      "opponent": "Spain",
+      "score": "1-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Manuel Neuer",
+        "Thilo Kehrer",
+        "Niklas Süle",
+        "Antonio Rüdiger",
+        "David Raum",
+        "Joshua Kimmich",
+        "Leon Goretzka",
+        "Serge Gnabry",
+        "İlkay Gündoğan",
+        "Jamal Musiala",
+        "Thomas Müller"
+      ],
+      "subs_in": [
+        "Leroy Sané",
+        "Niclas Füllkrug",
+        "Lukas Klostermann",
+        "Jonas Hofmann",
+        "Nico Schlotterbeck"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930176,
+      "opponent": "Switzerland",
+      "score": "1-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Manuel Neuer",
+        "Joshua Kimmich",
+        "Antonio Rüdiger",
+        "Jonathan Tah",
+        "Maximilian Mittelstädt",
+        "Robert Andrich",
+        "Toni Kroos",
+        "Jamal Musiala",
+        "İlkay Gündoğan",
+        "Florian Wirtz",
+        "Kai Havertz"
+      ],
+      "subs_in": [
+        "Nico Schlotterbeck",
+        "David Raum",
+        "Maximilian Beier",
+        "Leroy Sané",
+        "Niclas Füllkrug"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3942226,
+      "opponent": "Spain",
+      "score": "1-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Manuel Neuer",
+        "Joshua Kimmich",
+        "Antonio Rüdiger",
+        "Jonathan Tah",
+        "David Raum",
+        "Emre Can",
+        "Toni Kroos",
+        "Leroy Sané",
+        "İlkay Gündoğan",
+        "Jamal Musiala",
+        "Kai Havertz"
+      ],
+      "subs_in": [
+        "Florian Wirtz",
+        "Robert Andrich",
+        "Maximilian Mittelstädt",
+        "Niclas Füllkrug",
+        "Thomas Müller",
+        "Waldemar Anton"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3940983,
+      "opponent": "Denmark",
+      "score": "2-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Manuel Neuer",
+        "Joshua Kimmich",
+        "Antonio Rüdiger",
+        "Nico Schlotterbeck",
+        "David Raum",
+        "Robert Andrich",
+        "Toni Kroos",
+        "Leroy Sané",
+        "İlkay Gündoğan",
+        "Jamal Musiala",
+        "Kai Havertz"
+      ],
+      "subs_in": [
+        "Emre Can",
+        "Niclas Füllkrug",
+        "Florian Wirtz",
+        "Benjamin Henrichs",
+        "Waldemar Anton"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930168,
+      "opponent": "Hungary",
+      "score": "2-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Manuel Neuer",
+        "Joshua Kimmich",
+        "Antonio Rüdiger",
+        "Jonathan Tah",
+        "Maximilian Mittelstädt",
+        "Robert Andrich",
+        "Toni Kroos",
+        "Jamal Musiala",
+        "İlkay Gündoğan",
+        "Florian Wirtz",
+        "Kai Havertz"
+      ],
+      "subs_in": [
+        "Leroy Sané",
+        "Niclas Füllkrug",
+        "Emre Can",
+        "Chris Führich",
+        "Deniz Undav"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930158,
+      "opponent": "Scotland",
+      "score": "5-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Manuel Neuer",
+        "Joshua Kimmich",
+        "Antonio Rüdiger",
+        "Jonathan Tah",
+        "Maximilian Mittelstädt",
+        "Robert Andrich",
+        "Toni Kroos",
+        "Jamal Musiala",
+        "İlkay Gündoğan",
+        "Florian Wirtz",
+        "Kai Havertz"
+      ],
+      "subs_in": [
+        "Pascal Groß",
+        "Leroy Sané",
+        "Niclas Füllkrug",
+        "Thomas Müller",
+        "Emre Can"
+      ]
+    }
+  ]
+}

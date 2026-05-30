@@ -1,0 +1,122 @@
+{
+  "name": "Saudi Arabia",
+  "code": "KSA",
+  "matches_analyzed": 3,
+  "formations": {
+    "4-2-3-1": 3,
+    "4-4-2": 3,
+    "3-4-3": 3,
+    "4-1-4-1": 1,
+    "4-4-1-1": 3
+  },
+  "primary_formation": "4-2-3-1",
+  "top_starters": [
+    "Mohammed Khalil Al Owais",
+    "Saud Abdullah Abdul Hamid",
+    "Ali Albulayhi",
+    "Mohammed Kanoo",
+    "Firas Tariq Nasser Al Albirakan",
+    "Salem Mohammed Al Dawsari",
+    "Saleh Khalid Al Shehri",
+    "Abdulelah Al Amri",
+    "Abdulelah Saad Hameed Al-Malki",
+    "Hassan Mohammed Al-Tambakti",
+    "Mohammed Al Burayk",
+    "Sami Khalil Al Naji",
+    "Sultan Abdullah Salim Al Ghannam",
+    "Ali Al Hassan",
+    "Yasir Gharsan Al Shahrani"
+  ],
+  "top_subs": [
+    "Nawaf Shaker Al Abid",
+    "Sultan Abdullah Salim Al Ghannam",
+    "Abdulrahman Al-Obood",
+    "Hattan Babhir",
+    "Nasser Al Dawsari",
+    "Riyadh Sharahili",
+    "Abdullah Mohammed Madu",
+    "Abdulelah Al Amri"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857297,
+      "opponent": "Poland",
+      "score": "0-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Mohammed Khalil Al Owais",
+        "Saud Abdullah Abdul Hamid",
+        "Abdulelah Al Amri",
+        "Ali Albulayhi",
+        "Mohammed Al Burayk",
+        "Mohammed Kanoo",
+        "Abdulelah Saad Hameed Al-Malki",
+        "Firas Tariq Nasser Al Albirakan",
+        "Sami Khalil Al Naji",
+        "Salem Mohammed Al Dawsari",
+        "Saleh Khalid Al Shehri"
+      ],
+      "subs_in": [
+        "Nawaf Shaker Al Abid",
+        "Sultan Abdullah Salim Al Ghannam",
+        "Abdulrahman Al-Obood",
+        "Nasser Al Dawsari",
+        "Hattan Babhir"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857260,
+      "opponent": "Mexico",
+      "score": "1-2",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Mohammed Khalil Al Owais",
+        "Sultan Abdullah Salim Al Ghannam",
+        "Abdulelah Al Amri",
+        "Hassan Mohammed Al-Tambakti",
+        "Ali Albulayhi",
+        "Ali Al Hassan",
+        "Saud Abdullah Abdul Hamid",
+        "Firas Tariq Nasser Al Albirakan",
+        "Salem Mohammed Al Dawsari",
+        "Saleh Khalid Al Shehri",
+        "Mohammed Kanoo"
+      ],
+      "subs_in": [
+        "Riyadh Sharahili",
+        "Abdullah Mohammed Madu",
+        "Abdulrahman Al-Obood",
+        "Hattan Babhir"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857300,
+      "opponent": "Argentina",
+      "score": "2-1",
+      "formation": "4-1-4-1",
+      "starting_xi": [
+        "Mohammed Khalil Al Owais",
+        "Saud Abdullah Abdul Hamid",
+        "Hassan Mohammed Al-Tambakti",
+        "Ali Albulayhi",
+        "Yasir Gharsan Al Shahrani",
+        "Abdulelah Saad Hameed Al-Malki",
+        "Firas Tariq Nasser Al Albirakan",
+        "Salman Mohammed Al Faraj",
+        "Mohammed Kanoo",
+        "Salem Mohammed Al Dawsari",
+        "Saleh Khalid Al Shehri"
+      ],
+      "subs_in": [
+        "Nawaf Shaker Al Abid",
+        "Sultan Abdullah Salim Al Ghannam",
+        "Abdulelah Al Amri",
+        "Haitham Mohammed Asiri",
+        "Mohammed Al Burayk"
+      ]
+    }
+  ]
+}

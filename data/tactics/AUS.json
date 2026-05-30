@@ -1,0 +1,147 @@
+{
+  "name": "Australia",
+  "code": "AUS",
+  "matches_analyzed": 4,
+  "formations": {
+    "4-4-2": 6,
+    "4-2-3-1": 4,
+    "3-4-3": 1,
+    "4-1-4-1": 3
+  },
+  "primary_formation": "4-4-2",
+  "top_starters": [
+    "Mathew Ryan",
+    "Harry Souttar",
+    "Kye Rowles",
+    "Aziz Eraltay Behich",
+    "Aaron Mooy",
+    "Mathew Leckie",
+    "Riley McGree",
+    "Mitchell Thomas Duke",
+    "Jackson Irvine",
+    "Craig Goodwin",
+    "Miloš Degenek",
+    "Keanu Baccus",
+    "Fran Karačić",
+    "Nathaniel Atkinson"
+  ],
+  "top_subs": [
+    "Ajdin Hrustic",
+    "Jamie MacLaren",
+    "Keanu Baccus",
+    "Garang Kuol",
+    "Miloš Degenek",
+    "Awer Denis Bul Mabil",
+    "Craig Goodwin",
+    "Fran Karačić"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869151,
+      "opponent": "Argentina",
+      "score": "1-2",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Mathew Ryan",
+        "Miloš Degenek",
+        "Harry Souttar",
+        "Kye Rowles",
+        "Aziz Eraltay Behich",
+        "Keanu Baccus",
+        "Aaron Mooy",
+        "Mathew Leckie",
+        "Riley McGree",
+        "Mitchell Thomas Duke",
+        "Jackson Irvine"
+      ],
+      "subs_in": [
+        "Craig Goodwin",
+        "Ajdin Hrustic",
+        "Jamie MacLaren",
+        "Garang Kuol",
+        "Fran Karačić"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857257,
+      "opponent": "Denmark",
+      "score": "1-0",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Mathew Ryan",
+        "Miloš Degenek",
+        "Harry Souttar",
+        "Kye Rowles",
+        "Aziz Eraltay Behich",
+        "Aaron Mooy",
+        "Jackson Irvine",
+        "Mathew Leckie",
+        "Craig Goodwin",
+        "Riley McGree",
+        "Mitchell Thomas Duke"
+      ],
+      "subs_in": [
+        "Keanu Baccus",
+        "Bailey Wright",
+        "Jamie MacLaren",
+        "Ajdin Hrustic"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857288,
+      "opponent": "Tunisia",
+      "score": "1-0",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Mathew Ryan",
+        "Fran Karačić",
+        "Harry Souttar",
+        "Kye Rowles",
+        "Aziz Eraltay Behich",
+        "Jackson Irvine",
+        "Aaron Mooy",
+        "Mathew Leckie",
+        "Craig Goodwin",
+        "Mitchell Thomas Duke",
+        "Riley McGree"
+      ],
+      "subs_in": [
+        "Jamie MacLaren",
+        "Ajdin Hrustic",
+        "Miloš Degenek",
+        "Keanu Baccus",
+        "Awer Denis Bul Mabil"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857279,
+      "opponent": "France",
+      "score": "1-4",
+      "formation": "4-1-4-1",
+      "starting_xi": [
+        "Mathew Ryan",
+        "Nathaniel Atkinson",
+        "Harry Souttar",
+        "Kye Rowles",
+        "Aziz Eraltay Behich",
+        "Aaron Mooy",
+        "Mathew Leckie",
+        "Jackson Irvine",
+        "Riley McGree",
+        "Craig Goodwin",
+        "Mitchell Thomas Duke"
+      ],
+      "subs_in": [
+        "Jason Cummings",
+        "Awer Denis Bul Mabil",
+        "Garang Kuol",
+        "Keanu Baccus",
+        "Miloš Degenek"
+      ]
+    }
+  ]
+}

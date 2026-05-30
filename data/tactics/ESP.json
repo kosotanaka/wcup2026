@@ -1,0 +1,337 @@
+{
+  "name": "Spain",
+  "code": "ESP",
+  "matches_analyzed": 11,
+  "formations": {
+    "4-3-3": 15,
+    "4-2-3-1": 10,
+    "4-4-2": 1
+  },
+  "primary_formation": "4-3-3",
+  "top_starters": [
+    "Unai Simón Mendibil",
+    "Rodrigo Hernández Cascante",
+    "Aymeric Laporte",
+    "Pedro González López",
+    "Nicholas Williams Arthuer",
+    "Daniel Olmo Carvajal",
+    "Álvaro Borja Morata Martín",
+    "Daniel Carvajal Ramos",
+    "Marc Cucurella Saseta",
+    "Fabián Ruiz Peña",
+    "Lamine Yamal Nasraoui Ebana",
+    "Robin Aime Robert Le Normand",
+    "Sergio Busquets i Burgos",
+    "Pablo Martín Páez Gavira",
+    "Ferrán Torres García"
+  ],
+  "top_subs": [
+    "Mikel Oyarzabal Ugarte",
+    "Mikel Merino Zazón",
+    "Ferrán Torres García",
+    "Álvaro Borja Morata Martín",
+    "Nicholas Williams Arthuer",
+    "Alejandro Balde Martínez",
+    "Daniel Olmo Carvajal",
+    "Martín Zubimendi Ibáñez"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857255,
+      "opponent": "Japan",
+      "score": "1-2",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Unai Simón Mendibil",
+        "César Azpilicueta Tanco",
+        "Rodrigo Hernández Cascante",
+        "Pau Francisco Torres",
+        "Alejandro Balde Martínez",
+        "Sergio Busquets i Burgos",
+        "Pablo Martín Páez Gavira",
+        "Pedro González López",
+        "Nicholas Williams Arthuer",
+        "Daniel Olmo Carvajal",
+        "Álvaro Borja Morata Martín"
+      ],
+      "subs_in": [
+        "Daniel Carvajal Ramos",
+        "Ferrán Torres García",
+        "Marco Asensio Willemsen",
+        "Anssumane Fati",
+        "Jordi Alba Ramos"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869220,
+      "opponent": "Morocco",
+      "score": "0-0",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Unai Simón Mendibil",
+        "Marcos Llorente Moreno",
+        "Rodrigo Hernández Cascante",
+        "Aymeric Laporte",
+        "Jordi Alba Ramos",
+        "Sergio Busquets i Burgos",
+        "Pablo Martín Páez Gavira",
+        "Pedro González López",
+        "Ferrán Torres García",
+        "Daniel Olmo Carvajal",
+        "Marco Asensio Willemsen"
+      ],
+      "subs_in": [
+        "Carlos Soler Barragán",
+        "Álvaro Borja Morata Martín",
+        "Nicholas Williams Arthuer",
+        "Anssumane Fati",
+        "Alejandro Balde Martínez",
+        "Pablo Sarabia García"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857263,
+      "opponent": "Germany",
+      "score": "1-1",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Unai Simón Mendibil",
+        "Daniel Carvajal Ramos",
+        "Rodrigo Hernández Cascante",
+        "Aymeric Laporte",
+        "Jordi Alba Ramos",
+        "Sergio Busquets i Burgos",
+        "Pablo Martín Páez Gavira",
+        "Pedro González López",
+        "Ferrán Torres García",
+        "Daniel Olmo Carvajal",
+        "Marco Asensio Willemsen"
+      ],
+      "subs_in": [
+        "Álvaro Borja Morata Martín",
+        "Jorge Resurrección Merodio",
+        "Nicholas Williams Arthuer",
+        "Alejandro Balde Martínez"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857291,
+      "opponent": "Costa Rica",
+      "score": "7-0",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Unai Simón Mendibil",
+        "César Azpilicueta Tanco",
+        "Rodrigo Hernández Cascante",
+        "Aymeric Laporte",
+        "Jordi Alba Ramos",
+        "Sergio Busquets i Burgos",
+        "Pablo Martín Páez Gavira",
+        "Pedro González López",
+        "Ferrán Torres García",
+        "Daniel Olmo Carvajal",
+        "Marco Asensio Willemsen"
+      ],
+      "subs_in": [
+        "Álvaro Borja Morata Martín",
+        "Carlos Soler Barragán",
+        "Alejandro Balde Martínez",
+        "Jorge Resurrección Merodio",
+        "Nicholas Williams Arthuer"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930160,
+      "opponent": "Croatia",
+      "score": "3-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Unai Simón Mendibil",
+        "Daniel Carvajal Ramos",
+        "Robin Aime Robert Le Normand",
+        "José Ignacio Fernández Iglesias",
+        "Marc Cucurella Saseta",
+        "Rodrigo Hernández Cascante",
+        "Fabián Ruiz Peña",
+        "Lamine Yamal Nasraoui Ebana",
+        "Pedro González López",
+        "Nicholas Williams Arthuer",
+        "Álvaro Borja Morata Martín"
+      ],
+      "subs_in": [
+        "Daniel Olmo Carvajal",
+        "Mikel Oyarzabal Ugarte",
+        "Mikel Merino Zazón",
+        "Martín Zubimendi Ibáñez",
+        "Ferrán Torres García"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3943043,
+      "opponent": "England",
+      "score": "2-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Unai Simón Mendibil",
+        "Daniel Carvajal Ramos",
+        "Robin Aime Robert Le Normand",
+        "Aymeric Laporte",
+        "Marc Cucurella Saseta",
+        "Rodrigo Hernández Cascante",
+        "Fabián Ruiz Peña",
+        "Lamine Yamal Nasraoui Ebana",
+        "Daniel Olmo Carvajal",
+        "Nicholas Williams Arthuer",
+        "Álvaro Borja Morata Martín"
+      ],
+      "subs_in": [
+        "Martín Zubimendi Ibáñez",
+        "Mikel Oyarzabal Ugarte",
+        "José Ignacio Fernández Iglesias",
+        "Mikel Merino Zazón"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3942752,
+      "opponent": "France",
+      "score": "2-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Unai Simón Mendibil",
+        "Jesús Navas González",
+        "José Ignacio Fernández Iglesias",
+        "Aymeric Laporte",
+        "Marc Cucurella Saseta",
+        "Rodrigo Hernández Cascante",
+        "Fabián Ruiz Peña",
+        "Lamine Yamal Nasraoui Ebana",
+        "Daniel Olmo Carvajal",
+        "Nicholas Williams Arthuer",
+        "Álvaro Borja Morata Martín"
+      ],
+      "subs_in": [
+        "Daniel Vivian Moreno",
+        "Mikel Merino Zazón",
+        "Mikel Oyarzabal Ugarte",
+        "Ferrán Torres García",
+        "Martín Zubimendi Ibáñez"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3942226,
+      "opponent": "Germany",
+      "score": "2-1",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Unai Simón Mendibil",
+        "Daniel Carvajal Ramos",
+        "Robin Aime Robert Le Normand",
+        "Aymeric Laporte",
+        "Marc Cucurella Saseta",
+        "Rodrigo Hernández Cascante",
+        "Pedro González López",
+        "Fabián Ruiz Peña",
+        "Lamine Yamal Nasraoui Ebana",
+        "Nicholas Williams Arthuer",
+        "Álvaro Borja Morata Martín"
+      ],
+      "subs_in": [
+        "Daniel Olmo Carvajal",
+        "José Ignacio Fernández Iglesias",
+        "Ferrán Torres García",
+        "Mikel Oyarzabal Ugarte",
+        "Mikel Merino Zazón",
+        "José Luis Sanmartín Mato"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3941018,
+      "opponent": "Georgia",
+      "score": "4-1",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Unai Simón Mendibil",
+        "Daniel Carvajal Ramos",
+        "Robin Aime Robert Le Normand",
+        "Aymeric Laporte",
+        "Marc Cucurella Saseta",
+        "Rodrigo Hernández Cascante",
+        "Pedro González López",
+        "Fabián Ruiz Peña",
+        "Lamine Yamal Nasraoui Ebana",
+        "Nicholas Williams Arthuer",
+        "Álvaro Borja Morata Martín"
+      ],
+      "subs_in": [
+        "Daniel Olmo Carvajal",
+        "Alejandro Grimaldo García",
+        "Mikel Oyarzabal Ugarte",
+        "Jesús Navas González",
+        "Mikel Merino Zazón"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930179,
+      "opponent": "Albania",
+      "score": "1-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "David Raya Martin",
+        "Jesús Navas González",
+        "Daniel Vivian Moreno",
+        "Aymeric Laporte",
+        "Alejandro Grimaldo García",
+        "Martín Zubimendi Ibáñez",
+        "Mikel Merino Zazón",
+        "Ferrán Torres García",
+        "Daniel Olmo Carvajal",
+        "Mikel Oyarzabal Ugarte",
+        "José Luis Sanmartín Mato"
+      ],
+      "subs_in": [
+        "Robin Aime Robert Le Normand",
+        "Fermin Lopez Marin",
+        "Lamine Yamal Nasraoui Ebana",
+        "Álvaro Borja Morata Martín",
+        "Alejandro Baena Rodríguez"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930172,
+      "opponent": "Italy",
+      "score": "1-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Unai Simón Mendibil",
+        "Daniel Carvajal Ramos",
+        "Robin Aime Robert Le Normand",
+        "Aymeric Laporte",
+        "Marc Cucurella Saseta",
+        "Rodrigo Hernández Cascante",
+        "Fabián Ruiz Peña",
+        "Lamine Yamal Nasraoui Ebana",
+        "Pedro González López",
+        "Nicholas Williams Arthuer",
+        "Álvaro Borja Morata Martín"
+      ],
+      "subs_in": [
+        "Alejandro Baena Rodríguez",
+        "Ferrán Torres García",
+        "Ayoze Pérez Gutiérrez",
+        "Mikel Oyarzabal Ugarte",
+        "Mikel Merino Zazón"
+      ]
+    }
+  ]
+}

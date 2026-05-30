@@ -1,0 +1,126 @@
+{
+  "name": "IR Iran",
+  "code": "IRN",
+  "matches_analyzed": 3,
+  "formations": {
+    "3-4-3": 3,
+    "3-4-2-1": 2,
+    "3-5-2": 1,
+    "4-4-1-1": 3,
+    "4-1-4-1": 2,
+    "4-3-3": 3,
+    "4-4-2": 2
+  },
+  "primary_formation": "3-4-3",
+  "top_starters": [
+    "Morteza Pouraliganji",
+    "Seyed Majid Hosseini",
+    "Milad Mohammadi",
+    "Ahmad Nourollahi",
+    "Ehsan Hajsafi",
+    "Mehdi Taremi",
+    "Alireza Safar Beiranvand",
+    "Ramin Rezaeian",
+    "Saeid Ezatolahi Afagh",
+    "Ali Gholizadeh",
+    "Sardar Azmoun",
+    "Roozbeh Cheshmi",
+    "Sadegh Moharrami",
+    "Ali Karimi",
+    "Alireza Jahanbakhsh"
+  ],
+  "top_subs": [
+    "Mehdi Torabi",
+    "Ali Karimi",
+    "Karim Ansarifard",
+    "Seyed Hossein Hosseini",
+    "Saeid Ezatolahi Afagh",
+    "Ali Gholizadeh",
+    "Mohammad Hossein Kanani Zadegan",
+    "Sardar Azmoun"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857271,
+      "opponent": "England",
+      "score": "2-6",
+      "formation": "3-4-3",
+      "starting_xi": [
+        "Alireza Safar Beiranvand",
+        "Morteza Pouraliganji",
+        "Roozbeh Cheshmi",
+        "Seyed Majid Hosseini",
+        "Sadegh Moharrami",
+        "Milad Mohammadi",
+        "Ahmad Nourollahi",
+        "Ali Karimi",
+        "Alireza Jahanbakhsh",
+        "Ehsan Hajsafi",
+        "Mehdi Taremi"
+      ],
+      "subs_in": [
+        "Seyed Hossein Hosseini",
+        "Saeid Ezatolahi Afagh",
+        "Ali Gholizadeh",
+        "Mohammad Hossein Kanani Zadegan",
+        "Mehdi Torabi",
+        "Sardar Azmoun"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857278,
+      "opponent": "United States",
+      "score": "0-1",
+      "formation": "4-4-1-1",
+      "starting_xi": [
+        "Alireza Safar Beiranvand",
+        "Ramin Rezaeian",
+        "Seyed Majid Hosseini",
+        "Morteza Pouraliganji",
+        "Milad Mohammadi",
+        "Ahmad Nourollahi",
+        "Saeid Ezatolahi Afagh",
+        "Ali Gholizadeh",
+        "Ehsan Hajsafi",
+        "Mehdi Taremi",
+        "Sardar Azmoun"
+      ],
+      "subs_in": [
+        "Ali Karimi",
+        "Saman Ghoddos",
+        "Mehdi Torabi",
+        "Abolfazl Jalali",
+        "Karim Ansarifard"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857273,
+      "opponent": "Wales",
+      "score": "2-0",
+      "formation": "4-4-1-1",
+      "starting_xi": [
+        "Seyed Hossein Hosseini",
+        "Ramin Rezaeian",
+        "Seyed Majid Hosseini",
+        "Morteza Pouraliganji",
+        "Milad Mohammadi",
+        "Saeid Ezatolahi Afagh",
+        "Ahmad Nourollahi",
+        "Ali Gholizadeh",
+        "Ehsan Hajsafi",
+        "Mehdi Taremi",
+        "Sardar Azmoun"
+      ],
+      "subs_in": [
+        "Karim Ansarifard",
+        "Alireza Jahanbakhsh",
+        "Mehdi Torabi",
+        "Roozbeh Cheshmi",
+        "Ali Karimi"
+      ]
+    }
+  ]
+}

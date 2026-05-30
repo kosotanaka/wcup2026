@@ -1,0 +1,146 @@
+{
+  "name": "Korea Republic",
+  "code": "KOR",
+  "matches_analyzed": 4,
+  "formations": {
+    "4-2-3-1": 5,
+    "4-4-2": 2,
+    "4-1-4-1": 1,
+    "4-3-3": 2,
+    "3-4-3": 1
+  },
+  "primary_formation": "4-2-3-1",
+  "top_starters": [
+    "Seung-Gyu Kim",
+    "Moon-Hwan Kim",
+    "Young-Gwon Kim",
+    "Jin-Su Kim",
+    "In-Beom Hwang",
+    "Woo-Young Jung",
+    "Heung-Min Son",
+    "Min Jae Kim",
+    "Jae-Sung Lee",
+    "Gue-Sung Cho",
+    "Sang-Ho Na",
+    "Ui-Jo Hwang",
+    "Hee-Chan Hwang",
+    "Chang-Hoon Kwon",
+    "Woo-Yeong Jeong"
+  ],
+  "top_subs": [
+    "Jun-Ho Son",
+    "Kang-In Lee",
+    "Ui-Jo Hwang",
+    "Gue-Sung Cho",
+    "Chul Hong",
+    "Seung-Ho Paik",
+    "Sang-Ho Na",
+    "Kyung-Won Kwon"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857287,
+      "opponent": "Uruguay",
+      "score": "0-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Seung-Gyu Kim",
+        "Moon-Hwan Kim",
+        "Min Jae Kim",
+        "Young-Gwon Kim",
+        "Jin-Su Kim",
+        "In-Beom Hwang",
+        "Woo-Young Jung",
+        "Sang-Ho Na",
+        "Jae-Sung Lee",
+        "Heung-Min Son",
+        "Ui-Jo Hwang"
+      ],
+      "subs_in": [
+        "Gue-Sung Cho",
+        "Jun-Ho Son",
+        "Kang-In Lee"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869253,
+      "opponent": "Brazil",
+      "score": "1-4",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Seung-Gyu Kim",
+        "Moon-Hwan Kim",
+        "Min Jae Kim",
+        "Young-Gwon Kim",
+        "Jin-Su Kim",
+        "Woo-Young Jung",
+        "In-Beom Hwang",
+        "Jae-Sung Lee",
+        "Hee-Chan Hwang",
+        "Gue-Sung Cho",
+        "Heung-Min Son"
+      ],
+      "subs_in": [
+        "Chul Hong",
+        "Jun-Ho Son",
+        "Seung-Ho Paik",
+        "Kang-In Lee",
+        "Ui-Jo Hwang"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857299,
+      "opponent": "Ghana",
+      "score": "2-3",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Seung-Gyu Kim",
+        "Moon-Hwan Kim",
+        "Min Jae Kim",
+        "Young-Gwon Kim",
+        "Jin-Su Kim",
+        "Woo-Young Jung",
+        "In-Beom Hwang",
+        "Chang-Hoon Kwon",
+        "Woo-Yeong Jeong",
+        "Heung-Min Son",
+        "Gue-Sung Cho"
+      ],
+      "subs_in": [
+        "Sang-Ho Na",
+        "Kang-In Lee",
+        "Ui-Jo Hwang",
+        "Kyung-Won Kwon"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857262,
+      "opponent": "Portugal",
+      "score": "2-1",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Seung-Gyu Kim",
+        "Moon-Hwan Kim",
+        "Kyung-Won Kwon",
+        "Young-Gwon Kim",
+        "Jin-Su Kim",
+        "Woo-Young Jung",
+        "In-Beom Hwang",
+        "Kang-In Lee",
+        "Jae-Sung Lee",
+        "Heung-Min Son",
+        "Gue-Sung Cho"
+      ],
+      "subs_in": [
+        "Hee-Chan Hwang",
+        "Jun-Ho Son",
+        "Ui-Jo Hwang",
+        "Yu-Min Cho"
+      ]
+    }
+  ]
+}

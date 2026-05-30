@@ -1,0 +1,200 @@
+{
+  "name": "Tunisia",
+  "code": "TUN",
+  "matches_analyzed": 6,
+  "formations": {
+    "3-4-2-1": 4,
+    "3-4-3": 2,
+    "4-3-3": 2,
+    "4-2-3-1": 6,
+    "4-4-2": 1,
+    "4-1-4-1": 1
+  },
+  "primary_formation": "4-2-3-1",
+  "top_starters": [
+    "Yassine Meriah",
+    "Montassar Omar Talbi",
+    "Ellyes Joris Skhiri",
+    "Aïssa Bilal Laïdouni",
+    "Anis Ben Slimane",
+    "Wajdi Kechrida",
+    "Ali Abdi",
+    "Youssef Msakni",
+    "Aymen Dahmen",
+    "Bechir Ben Said",
+    "Mohamed Elias Achouri",
+    "Ali Maâloul",
+    "Mohamed Ali Ben Romdhane",
+    "Dylan Daniel Mahmoud Bronn",
+    "Mohamed Dräger"
+  ],
+  "top_subs": [
+    "Sayfallah Ltaief",
+    "Naïm Sliti",
+    "Taha Yassine Khenissi",
+    "Wajdi Kechrida",
+    "Ferjani Sassi",
+    "Bassem Srarfi",
+    "Mohamed Ali Ben Romdhane",
+    "Haythem Jouini"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857275,
+      "opponent": "France",
+      "score": "1-0",
+      "formation": "3-4-2-1",
+      "starting_xi": [
+        "Aymen Dahmen",
+        "Yassine Meriah",
+        "Nader Ghandri",
+        "Montassar Omar Talbi",
+        "Wajdi Kechrida",
+        "Ali Maâloul",
+        "Ellyes Joris Skhiri",
+        "Aïssa Bilal Laïdouni",
+        "Anis Ben Slimane",
+        "Mohamed Ali Ben Romdhane",
+        "Wahbi Khazri"
+      ],
+      "subs_in": [
+        "Issam Jebali",
+        "Ghilane Chalali",
+        "Ali Abdi"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857254,
+      "opponent": "Denmark",
+      "score": "0-0",
+      "formation": "3-4-3",
+      "starting_xi": [
+        "Aymen Dahmen",
+        "Dylan Daniel Mahmoud Bronn",
+        "Yassine Meriah",
+        "Montassar Omar Talbi",
+        "Mohamed Dräger",
+        "Ali Abdi",
+        "Ellyes Joris Skhiri",
+        "Aïssa Bilal Laïdouni",
+        "Anis Ben Slimane",
+        "Youssef Msakni",
+        "Issam Jebali"
+      ],
+      "subs_in": [
+        "Naïm Sliti",
+        "Hannibal Mejbri",
+        "Taha Yassine Khenissi",
+        "Wajdi Kechrida",
+        "Ferjani Sassi"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857288,
+      "opponent": "Australia",
+      "score": "0-1",
+      "formation": "3-4-2-1",
+      "starting_xi": [
+        "Aymen Dahmen",
+        "Dylan Daniel Mahmoud Bronn",
+        "Yassine Meriah",
+        "Montassar Omar Talbi",
+        "Mohamed Dräger",
+        "Ali Abdi",
+        "Ellyes Joris Skhiri",
+        "Aïssa Bilal Laïdouni",
+        "Naïm Sliti",
+        "Youssef Msakni",
+        "Issam Jebali"
+      ],
+      "subs_in": [
+        "Ferjani Sassi",
+        "Wahbi Khazri",
+        "Taha Yassine Khenissi",
+        "Wajdi Kechrida"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920404,
+      "opponent": "Mali",
+      "score": "1-1",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Bechir Ben Said",
+        "Wajdi Kechrida",
+        "Yassine Meriah",
+        "Montassar Omar Talbi",
+        "Ali Abdi",
+        "Ellyes Joris Skhiri",
+        "Aïssa Bilal Laïdouni",
+        "Hamza Rafia",
+        "Mohamed Elias Achouri",
+        "Youssef Msakni",
+        "Anis Ben Slimane"
+      ],
+      "subs_in": [
+        "Sayfallah Ltaief",
+        "Bassem Srarfi",
+        "Mohamed Ali Ben Romdhane",
+        "Seifeddine Jaziri"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920393,
+      "opponent": "Namibia",
+      "score": "0-1",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Bechir Ben Said",
+        "Wajdi Kechrida",
+        "Yassine Meriah",
+        "Montassar Omar Talbi",
+        "Ali Maâloul",
+        "Ellyes Joris Skhiri",
+        "Anis Ben Slimane",
+        "Mohamed Ali Ben Romdhane",
+        "Mohamed Elias Achouri",
+        "Youssef Msakni",
+        "Taha Yassine Khenissi"
+      ],
+      "subs_in": [
+        "Haythem Jouini",
+        "Aïssa Bilal Laïdouni",
+        "Sayfallah Ltaief",
+        "Bassem Srarfi"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920416,
+      "opponent": "South Africa",
+      "score": "0-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Bechir Ben Said",
+        "Wajdi Kechrida",
+        "Yassine Meriah",
+        "Montassar Omar Talbi",
+        "Ali Abdi",
+        "Ellyes Joris Skhiri",
+        "Aïssa Bilal Laïdouni",
+        "Hamza Rafia",
+        "Anis Ben Slimane",
+        "Mohamed Elias Achouri",
+        "Seifeddine Jaziri"
+      ],
+      "subs_in": [
+        "Youssef Msakni",
+        "Naïm Sliti",
+        "Sayfallah Ltaief",
+        "Haythem Jouini",
+        "Mohamed Ali Ben Romdhane"
+      ]
+    }
+  ]
+}

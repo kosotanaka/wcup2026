@@ -1,0 +1,225 @@
+{
+  "name": "Congo DR",
+  "code": "COD",
+  "matches_analyzed": 7,
+  "formations": {
+    "4-2-3-1": 17,
+    "4-4-2": 1,
+    "4-4-1-1": 2
+  },
+  "primary_formation": "4-2-3-1",
+  "top_starters": [
+    "Chancel Mbemba Mangulu",
+    "Samuel Moutoussamy",
+    "Lionel Mpasi-Nzau",
+    "Gedeon Kalulu Kyatengwa",
+    "Arthur Masuaku",
+    "Charles Pickel",
+    "Yoane Wissa",
+    "Théo Bongonda Mbul'Ofeko Batombo",
+    "Cédric Bakambu",
+    "Henoc Inonga Baka",
+    "Gaël Kakuta",
+    "Dylan Batubinsika",
+    "Meschak Elia",
+    "Silas Katompa Mvumpa",
+    "Dimitry Bertaud"
+  ],
+  "top_subs": [
+    "Aaron Tshibola",
+    "Silas Katompa Mvumpa",
+    "Simon Bokote Banza",
+    "Meschak Elia",
+    "Fiston Kalala Mayele",
+    "Omenuke Mfulu",
+    "Cédric Bakambu",
+    "Henoc Inonga Baka"
+  ],
+  "matches": [
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3922240,
+      "opponent": "Egypt",
+      "score": "1-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Lionel Mpasi-Nzau",
+        "Gedeon Kalulu Kyatengwa",
+        "Chancel Mbemba Mangulu",
+        "Dylan Batubinsika",
+        "Arthur Masuaku",
+        "Charles Pickel",
+        "Samuel Moutoussamy",
+        "Meschak Elia",
+        "Théo Bongonda Mbul'Ofeko Batombo",
+        "Yoane Wissa",
+        "Cédric Bakambu"
+      ],
+      "subs_in": [
+        "Simon Bokote Banza",
+        "Henoc Inonga Baka",
+        "Aaron Tshibola",
+        "Silas Katompa Mvumpa",
+        "Grady Diangana"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920395,
+      "opponent": "Zambia",
+      "score": "1-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Lionel Mpasi-Nzau",
+        "Gedeon Kalulu Kyatengwa",
+        "Chancel Mbemba Mangulu",
+        "Henoc Inonga Baka",
+        "Arthur Masuaku",
+        "Charles Pickel",
+        "Samuel Moutoussamy",
+        "Théo Bongonda Mbul'Ofeko Batombo",
+        "Gaël Kakuta",
+        "Yoane Wissa",
+        "Cédric Bakambu"
+      ],
+      "subs_in": [
+        "Meschak Elia",
+        "Simon Bokote Banza",
+        "Silas Katompa Mvumpa"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920405,
+      "opponent": "Morocco",
+      "score": "1-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Lionel Mpasi-Nzau",
+        "Gedeon Kalulu Kyatengwa",
+        "Chancel Mbemba Mangulu",
+        "Henoc Inonga Baka",
+        "Arthur Masuaku",
+        "Charles Pickel",
+        "Samuel Moutoussamy",
+        "Théo Bongonda Mbul'Ofeko Batombo",
+        "Gaël Kakuta",
+        "Yoane Wissa",
+        "Cédric Bakambu"
+      ],
+      "subs_in": [
+        "Dylan Batubinsika",
+        "Meschak Elia",
+        "Fiston Kalala Mayele",
+        "Silas Katompa Mvumpa",
+        "Aaron Tshibola"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3923880,
+      "opponent": "South Africa",
+      "score": "0-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Dimitry Bertaud",
+        "Brian Jephte Bayeye",
+        "Chancel Mbemba Mangulu",
+        "Dylan Batubinsika",
+        "Joris Kayembe Ditu",
+        "Aaron Tshibola",
+        "Samuel Moutoussamy",
+        "Théo Bongonda Mbul'Ofeko Batombo",
+        "Grady Diangana",
+        "Silas Katompa Mvumpa",
+        "Simon Bokote Banza"
+      ],
+      "subs_in": [
+        "Meschak Elia",
+        "Omenuke Mfulu",
+        "Yoane Wissa",
+        "Cédric Bakambu",
+        "Fiston Kalala Mayele"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3922838,
+      "opponent": "Côte d'Ivoire",
+      "score": "0-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Lionel Mpasi-Nzau",
+        "Gedeon Kalulu Kyatengwa",
+        "Chancel Mbemba Mangulu",
+        "Henoc Inonga Baka",
+        "Arthur Masuaku",
+        "Charles Pickel",
+        "Samuel Moutoussamy",
+        "Meschak Elia",
+        "Gaël Kakuta",
+        "Yoane Wissa",
+        "Cédric Bakambu"
+      ],
+      "subs_in": [
+        "Théo Bongonda Mbul''Ofeko Batombo",
+        "Simon Bokote Banza",
+        "Fiston Kalala Mayele",
+        "Aaron Tshibola",
+        "Silas Katompa Mvumpa"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3922356,
+      "opponent": "Guinea",
+      "score": "3-1",
+      "formation": "4-4-1-1",
+      "starting_xi": [
+        "Lionel Mpasi-Nzau",
+        "Gedeon Kalulu Kyatengwa",
+        "Chancel Mbemba Mangulu",
+        "Henoc Inonga Baka",
+        "Arthur Masuaku",
+        "Charles Pickel",
+        "Samuel Moutoussamy",
+        "Meschak Elia",
+        "Yoane Wissa",
+        "Théo Bongonda Mbul'Ofeko Batombo",
+        "Cédric Bakambu"
+      ],
+      "subs_in": [
+        "Silas Katompa Mvumpa",
+        "Simon Bokote Banza",
+        "Joris Kayembe Ditu",
+        "Aaron Tshibola"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920418,
+      "opponent": "Tanzania",
+      "score": "0-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Lionel Mpasi-Nzau",
+        "Gedeon Kalulu Kyatengwa",
+        "Chancel Mbemba Mangulu",
+        "Dylan Batubinsika",
+        "Arthur Masuaku",
+        "Charles Pickel",
+        "Samuel Moutoussamy",
+        "Silas Katompa Mvumpa",
+        "Gaël Kakuta",
+        "Fiston Kalala Mayele",
+        "Yoane Wissa"
+      ],
+      "subs_in": [
+        "Meschak Elia",
+        "Aaron Tshibola",
+        "Cédric Bakambu",
+        "Omenuke Mfulu"
+      ]
+    }
+  ]
+}

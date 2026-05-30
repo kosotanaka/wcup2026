@@ -1,0 +1,114 @@
+{
+  "name": "Qatar",
+  "code": "QAT",
+  "matches_analyzed": 3,
+  "formations": {
+    "3-5-2": 10
+  },
+  "primary_formation": "3-5-2",
+  "top_starters": [
+    "Pedro Miguel Correia",
+    "Boualem Khoukhi",
+    "Abdelkarim Hassan Al Haj Fadlalla",
+    "Homam Alamin Ahmed",
+    "Hassan Khalid Al Heidos",
+    "Almoez Ali Zainalabiddin Abdulla",
+    "Akram Hassan Afif",
+    "Meshaal Aissa Barsham",
+    "Ismaeel Mohammad Mohammad",
+    "Assim Omer Al Haj Madibo",
+    "Abdulaziz Hatem Mohammed Abdullah",
+    "Karim Boudiaf",
+    "Saad Abdullah Al Sheeb",
+    "Bassam Hisham Al Rawi"
+  ],
+  "top_subs": [
+    "Mohammed Muntari",
+    "Mohammed Waed Abdulwahhab Al Bayati",
+    "Ali Assadalla Thaimn Qambar",
+    "Karim Boudiaf",
+    "Ahmed Alaa Eldin Abdelmotaal",
+    "Mosaab Khoder Jibril",
+    "Abdulaziz Hatem Mohammed Abdullah",
+    "Tarek Salman Salman"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857294,
+      "opponent": "Netherlands",
+      "score": "0-2",
+      "formation": "3-5-2",
+      "starting_xi": [
+        "Meshaal Aissa Barsham",
+        "Pedro Miguel Correia",
+        "Boualem Khoukhi",
+        "Abdelkarim Hassan Al Haj Fadlalla",
+        "Ismaeel Mohammad Mohammad",
+        "Homam Alamin Ahmed",
+        "Assim Omer Al Haj Madibo",
+        "Hassan Khalid Al Heidos",
+        "Abdulaziz Hatem Mohammed Abdullah",
+        "Almoez Ali Zainalabiddin Abdulla",
+        "Akram Hassan Afif"
+      ],
+      "subs_in": [
+        "Ali Assadalla Thaimn Qambar",
+        "Karim Boudiaf",
+        "Mohammed Muntari",
+        "Ahmed Alaa Eldin Abdelmotaal",
+        "Mosaab Khoder Jibril"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857301,
+      "opponent": "Senegal",
+      "score": "1-3",
+      "formation": "3-5-2",
+      "starting_xi": [
+        "Meshaal Aissa Barsham",
+        "Pedro Miguel Correia",
+        "Boualem Khoukhi",
+        "Abdelkarim Hassan Al Haj Fadlalla",
+        "Ismaeel Mohammad Mohammad",
+        "Homam Alamin Ahmed",
+        "Assim Omer Al Haj Madibo",
+        "Karim Boudiaf",
+        "Hassan Khalid Al Heidos",
+        "Almoez Ali Zainalabiddin Abdulla",
+        "Akram Hassan Afif"
+      ],
+      "subs_in": [
+        "Abdulaziz Hatem Mohammed Abdullah",
+        "Mohammed Muntari",
+        "Tarek Salman Salman",
+        "Mohammed Waed Abdulwahhab Al Bayati"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857286,
+      "opponent": "Ecuador",
+      "score": "0-2",
+      "formation": "3-5-2",
+      "starting_xi": [
+        "Saad Abdullah Al Sheeb",
+        "Bassam Hisham Al Rawi",
+        "Boualem Khoukhi",
+        "Abdelkarim Hassan Al Haj Fadlalla",
+        "Pedro Miguel Correia",
+        "Homam Alamin Ahmed",
+        "Karim Boudiaf",
+        "Hassan Khalid Al Heidos",
+        "Abdulaziz Hatem Mohammed Abdullah",
+        "Almoez Ali Zainalabiddin Abdulla",
+        "Akram Hassan Afif"
+      ],
+      "subs_in": [
+        "Mohammed Waed Abdulwahhab Al Bayati",
+        "Mohammed Muntari"
+      ]
+    }
+  ]
+}

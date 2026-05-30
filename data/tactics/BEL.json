@@ -1,0 +1,224 @@
+{
+  "name": "Belgium",
+  "code": "BEL",
+  "matches_analyzed": 7,
+  "formations": {
+    "4-2-3-1": 16,
+    "3-4-2-1": 2,
+    "4-4-2": 3,
+    "3-4-1-2": 1
+  },
+  "primary_formation": "4-2-3-1",
+  "top_starters": [
+    "Timothy Castagne",
+    "Kevin De Bruyne",
+    "Jan Vertonghen",
+    "Amadou Onana",
+    "Yannick Ferreira Carrasco",
+    "Koen Casteels",
+    "Wout Faes",
+    "Jeremy Doku",
+    "Romelu Lukaku Menama",
+    "Thibaut Courtois",
+    "Toby Alderweireld",
+    "Axel Witsel",
+    "Leandro Trossard",
+    "Youri Tielemans",
+    "Arthur Theate"
+  ],
+  "top_subs": [
+    "Youri Tielemans",
+    "Leandro Trossard",
+    "Ikoma Loïs Openda",
+    "Orel Mangala",
+    "Romelu Lukaku Menama",
+    "Charles De Ketelaere",
+    "Dodi Lukebakio",
+    "Yannick Ferreira Carrasco"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857296,
+      "opponent": "Croatia",
+      "score": "0-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Thibaut Courtois",
+        "Thomas Meunier",
+        "Toby Alderweireld",
+        "Jan Vertonghen",
+        "Timothy Castagne",
+        "Leander Dendoncker",
+        "Axel Witsel",
+        "Kevin De Bruyne",
+        "Dries Mertens",
+        "Yannick Ferreira Carrasco",
+        "Leandro Trossard"
+      ],
+      "subs_in": [
+        "Romelu Lukaku Menama",
+        "Thorgan Hazard",
+        "Jeremy Doku",
+        "Youri Tielemans",
+        "Eden Hazard"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857268,
+      "opponent": "Canada",
+      "score": "1-0",
+      "formation": "3-4-2-1",
+      "starting_xi": [
+        "Thibaut Courtois",
+        "Leander Dendoncker",
+        "Toby Alderweireld",
+        "Jan Vertonghen",
+        "Timothy Castagne",
+        "Yannick Ferreira Carrasco",
+        "Youri Tielemans",
+        "Axel Witsel",
+        "Kevin De Bruyne",
+        "Eden Hazard",
+        "Michy Batshuayi Tunga"
+      ],
+      "subs_in": [
+        "Amadou Onana",
+        "Thomas Meunier",
+        "Leandro Trossard",
+        "Ikoma Loïs Openda"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857283,
+      "opponent": "Morocco",
+      "score": "0-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Thibaut Courtois",
+        "Thomas Meunier",
+        "Toby Alderweireld",
+        "Jan Vertonghen",
+        "Timothy Castagne",
+        "Amadou Onana",
+        "Axel Witsel",
+        "Kevin De Bruyne",
+        "Eden Hazard",
+        "Thorgan Hazard",
+        "Michy Batshuayi Tunga"
+      ],
+      "subs_in": [
+        "Dries Mertens",
+        "Youri Tielemans",
+        "Charles De Ketelaere",
+        "Leandro Trossard",
+        "Romelu Lukaku Menama"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3941019,
+      "opponent": "France",
+      "score": "0-1",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Koen Casteels",
+        "Timothy Castagne",
+        "Wout Faes",
+        "Jan Vertonghen",
+        "Arthur Theate",
+        "Amadou Onana",
+        "Kevin De Bruyne",
+        "Yannick Ferreira Carrasco",
+        "Jeremy Doku",
+        "Romelu Lukaku Menama",
+        "Ikoma Loïs Openda"
+      ],
+      "subs_in": [
+        "Orel Mangala",
+        "Dodi Lukebakio",
+        "Charles De Ketelaere"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3938645,
+      "opponent": "Ukraine",
+      "score": "0-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Koen Casteels",
+        "Timothy Castagne",
+        "Wout Faes",
+        "Jan Vertonghen",
+        "Arthur Theate",
+        "Amadou Onana",
+        "Youri Tielemans",
+        "Leandro Trossard",
+        "Kevin De Bruyne",
+        "Jeremy Doku",
+        "Romelu Lukaku Menama"
+      ],
+      "subs_in": [
+        "Orel Mangala",
+        "Yannick Ferreira Carrasco",
+        "Johan Bakayoko",
+        "Ikoma Loïs Openda"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930164,
+      "opponent": "Slovakia",
+      "score": "0-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Koen Casteels",
+        "Timothy Castagne",
+        "Wout Faes",
+        "Zeno Debast",
+        "Yannick Ferreira Carrasco",
+        "Orel Mangala",
+        "Amadou Onana",
+        "Jeremy Doku",
+        "Kevin De Bruyne",
+        "Leandro Trossard",
+        "Romelu Lukaku Menama"
+      ],
+      "subs_in": [
+        "Johan Bakayoko",
+        "Youri Tielemans",
+        "Ikoma Loïs Openda",
+        "Dodi Lukebakio"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930175,
+      "opponent": "Romania",
+      "score": "2-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Koen Casteels",
+        "Timothy Castagne",
+        "Wout Faes",
+        "Jan Vertonghen",
+        "Arthur Theate",
+        "Youri Tielemans",
+        "Amadou Onana",
+        "Dodi Lukebakio",
+        "Kevin De Bruyne",
+        "Jeremy Doku",
+        "Romelu Lukaku Menama"
+      ],
+      "subs_in": [
+        "Leandro Trossard",
+        "Orel Mangala",
+        "Yannick Ferreira Carrasco",
+        "Zeno Debast"
+      ]
+    }
+  ]
+}

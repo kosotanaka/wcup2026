@@ -1,0 +1,201 @@
+{
+  "name": "Mexico",
+  "code": "MEX",
+  "matches_analyzed": 6,
+  "formations": {
+    "4-3-3": 3,
+    "4-2-3-1": 4,
+    "4-4-2": 4,
+    "3-5-2": 2,
+    "4-1-4-1": 2
+  },
+  "primary_formation": "4-2-3-1",
+  "top_starters": [
+    "César Jasib Montes Castro",
+    "Luis Gerardo Chávez Magallón",
+    "Jorge Eduardo Sánchez Ramos",
+    "Francisco Guillermo Ochoa Magaña",
+    "Héctor Alfredo Moreno Herrera",
+    "Jesús Daniel Gallardo Vasconcelos",
+    "Edson Omar Álvarez Velázquez",
+    "Hirving Rodrigo Lozano Bahena",
+    "Ernesto Alexis Vega Rojas",
+    "Orbelín Pineda Alvarado",
+    "Julio José González Vela-Alvizu",
+    "Johan Felipe Vásquez Ibarra",
+    "Gerardo Daniel Arteaga Zamora",
+    "Julián Andrés Quiñones Quiñones",
+    "Santiago Tomás Giménez"
+  ],
+  "top_subs": [
+    "Carlos Uriel Antuna Romero",
+    "Carlos Alberto Rodríguez Gómez",
+    "Raúl Alonso Jiménez Rodríguez",
+    "Guillermo Martínez Ayala",
+    "Roberto Carlos Alvarado Hernández",
+    "Erick Daniel Sánchez Ocegueda",
+    "Ernesto Alexis Vega Rojas",
+    "Kevin Nahin Álvarez Campos"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857265,
+      "opponent": "Poland",
+      "score": "0-0",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Francisco Guillermo Ochoa Magaña",
+        "Jorge Eduardo Sánchez Ramos",
+        "César Jasib Montes Castro",
+        "Héctor Alfredo Moreno Herrera",
+        "Jesús Daniel Gallardo Vasconcelos",
+        "Edson Omar Álvarez Velázquez",
+        "Héctor Miguel Herrera López",
+        "Luis Gerardo Chávez Magallón",
+        "Hirving Rodrigo Lozano Bahena",
+        "Ernesto Alexis Vega Rojas",
+        "Henry Josué Martín Mex"
+      ],
+      "subs_in": [
+        "Carlos Alberto Rodríguez Gómez",
+        "Raúl Alonso Jiménez Rodríguez",
+        "Carlos Uriel Antuna Romero"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857260,
+      "opponent": "Saudi Arabia",
+      "score": "2-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Francisco Guillermo Ochoa Magaña",
+        "Jorge Eduardo Sánchez Ramos",
+        "César Jasib Montes Castro",
+        "Héctor Alfredo Moreno Herrera",
+        "Jesús Daniel Gallardo Vasconcelos",
+        "Edson Omar Álvarez Velázquez",
+        "Luis Gerardo Chávez Magallón",
+        "Hirving Rodrigo Lozano Bahena",
+        "Orbelín Pineda Alvarado",
+        "Ernesto Alexis Vega Rojas",
+        "Henry Josué Martín Mex"
+      ],
+      "subs_in": [
+        "Carlos Uriel Antuna Romero",
+        "Carlos Alberto Rodríguez Gómez",
+        "Raúl Alonso Jiménez Rodríguez",
+        "Kevin Nahin Álvarez Campos",
+        "Rogelio Gabriel Funes Mori"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857289,
+      "opponent": "Argentina",
+      "score": "0-2",
+      "formation": "3-5-2",
+      "starting_xi": [
+        "Francisco Guillermo Ochoa Magaña",
+        "Néstor Alejandro Araújo Razo",
+        "César Jasib Montes Castro",
+        "Héctor Alfredo Moreno Herrera",
+        "Kevin Nahin Álvarez Campos",
+        "Jesús Daniel Gallardo Vasconcelos",
+        "Héctor Miguel Herrera López",
+        "Luis Gerardo Chávez Magallón",
+        "José Andrés Guardado Hernández",
+        "Hirving Rodrigo Lozano Bahena",
+        "Ernesto Alexis Vega Rojas"
+      ],
+      "subs_in": [
+        "Érick Gabriel Gutiérrez Galaviz",
+        "Raúl Alonso Jiménez Rodríguez",
+        "Carlos Uriel Antuna Romero",
+        "Roberto Carlos Alvarado Hernández"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939971,
+      "opponent": "Jamaica",
+      "score": "1-0",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Julio José González Vela-Alvizu",
+        "Jorge Eduardo Sánchez Ramos",
+        "César Jasib Montes Castro",
+        "Johan Felipe Vásquez Ibarra",
+        "Gerardo Daniel Arteaga Zamora",
+        "Edson Omar Álvarez Velázquez",
+        "Orbelín Pineda Alvarado",
+        "Luis Gerardo Chávez Magallón",
+        "Carlos Uriel Antuna Romero",
+        "Julián Andrés Quiñones Quiñones",
+        "Santiago Tomás Giménez"
+      ],
+      "subs_in": [
+        "Luis Francisco Romo Barrón",
+        "Guillermo Martínez Ayala",
+        "Carlos Alberto Rodríguez Gómez",
+        "Roberto Carlos Alvarado Hernández",
+        "Erick Daniel Sánchez Ocegueda"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939979,
+      "opponent": "Venezuela",
+      "score": "0-1",
+      "formation": "4-1-4-1",
+      "starting_xi": [
+        "Julio José González Vela-Alvizu",
+        "Jorge Eduardo Sánchez Ramos",
+        "César Jasib Montes Castro",
+        "Johan Felipe Vásquez Ibarra",
+        "Gerardo Daniel Arteaga Zamora",
+        "Luis Francisco Romo Barrón",
+        "Carlos Uriel Antuna Romero",
+        "Carlos Alberto Rodríguez Gómez",
+        "Luis Gerardo Chávez Magallón",
+        "Julián Andrés Quiñones Quiñones",
+        "Santiago Tomás Giménez"
+      ],
+      "subs_in": [
+        "Israel Reyes Romero",
+        "Ernesto Alexis Vega Rojas",
+        "Guillermo Martínez Ayala",
+        "César Saúl Huerta Valera",
+        "Orbelín Pineda Alvarado"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939988,
+      "opponent": "Ecuador",
+      "score": "0-0",
+      "formation": "4-1-4-1",
+      "starting_xi": [
+        "Julio José González Vela-Alvizu",
+        "Jorge Eduardo Sánchez Ramos",
+        "César Jasib Montes Castro",
+        "Johan Felipe Vásquez Ibarra",
+        "Gerardo Daniel Arteaga Zamora",
+        "Luis Francisco Romo Barrón",
+        "César Saúl Huerta Valera",
+        "Orbelín Pineda Alvarado",
+        "Luis Gerardo Chávez Magallón",
+        "Julián Andrés Quiñones Quiñones",
+        "Santiago Tomás Giménez"
+      ],
+      "subs_in": [
+        "Carlos Uriel Antuna Romero",
+        "Guillermo Martínez Ayala",
+        "Jordi Cortizo de la Piedra",
+        "Erick Daniel Sánchez Ocegueda",
+        "Ernesto Alexis Vega Rojas"
+      ]
+    }
+  ]
+}

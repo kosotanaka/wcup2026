@@ -1,0 +1,205 @@
+{
+  "name": "Colombia",
+  "code": "COL",
+  "matches_analyzed": 6,
+  "formations": {
+    "4-1-2-1-2": 8,
+    "4-3-3": 2,
+    "4-2-3-1": 1,
+    "4-4-1-1": 1,
+    "3-5-1-1": 1
+  },
+  "primary_formation": "4-1-2-1-2",
+  "top_starters": [
+    "Camilo Andrés Vargas Gil",
+    "Davinson Sánchez Mina",
+    "Richard Rios Montoya",
+    "Jhon Adolfo Arias Andrade",
+    "James David Rodríguez Rubio",
+    "Luis Fernando Díaz Marulanda",
+    "Daniel Muñoz Mejía",
+    "Carlos Eccehomo Cuesta Figueroa",
+    "Jefferson Andrés Lerma Solís",
+    "Jhon Andrés Córdoba Copete",
+    "Johan Andrés Mojica Palacio",
+    "Deiver Andrés Machado Mena",
+    "Jhon Janer Lucumí Bonilla",
+    "Rafael Santos Borré Amaury",
+    "Andrés Mateus Uribe Villa"
+  ],
+  "top_subs": [
+    "Andrés Mateus Uribe Villa",
+    "Kevin Duvan Castaño Gil",
+    "Rafael Santos Borré Amaury",
+    "Jorge Andrés Carrascal Guardo",
+    "Luis Fernando Sinisterra Lucumí",
+    "Juan Fernando Quintero Paniagua",
+    "Yerry Fernando Mina González",
+    "Santiago Arias Naranjo"
+  ],
+  "matches": [
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939991,
+      "opponent": "Brazil",
+      "score": "1-1",
+      "formation": "4-1-2-1-2",
+      "starting_xi": [
+        "Camilo Andrés Vargas Gil",
+        "Daniel Muñoz Mejía",
+        "Davinson Sánchez Mina",
+        "Carlos Eccehomo Cuesta Figueroa",
+        "Deiver Andrés Machado Mena",
+        "Jefferson Andrés Lerma Solís",
+        "Richard Rios Montoya",
+        "Jhon Adolfo Arias Andrade",
+        "James David Rodríguez Rubio",
+        "Jhon Andrés Córdoba Copete",
+        "Luis Fernando Díaz Marulanda"
+      ],
+      "subs_in": [
+        "Johan Andrés Mojica Palacio",
+        "Andrés Mateus Uribe Villa",
+        "Rafael Santos Borré Amaury",
+        "Jorge Andrés Carrascal Guardo",
+        "Luis Fernando Sinisterra Lucumí"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939975,
+      "opponent": "Paraguay",
+      "score": "2-1",
+      "formation": "4-1-2-1-2",
+      "starting_xi": [
+        "Camilo Andrés Vargas Gil",
+        "Daniel Muñoz Mejía",
+        "Davinson Sánchez Mina",
+        "Jhon Janer Lucumí Bonilla",
+        "Johan Andrés Mojica Palacio",
+        "Jefferson Andrés Lerma Solís",
+        "Richard Rios Montoya",
+        "Jhon Adolfo Arias Andrade",
+        "James David Rodríguez Rubio",
+        "Rafael Santos Borré Amaury",
+        "Luis Fernando Díaz Marulanda"
+      ],
+      "subs_in": [
+        "Yerry Fernando Mina González",
+        "Andrés Mateus Uribe Villa",
+        "Jhon Andrés Córdoba Copete",
+        "Juan Fernando Quintero Paniagua",
+        "Kevin Duvan Castaño Gil"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3942416,
+      "opponent": "Panama",
+      "score": "5-0",
+      "formation": "4-1-2-1-2",
+      "starting_xi": [
+        "Camilo Andrés Vargas Gil",
+        "Daniel Muñoz Mejía",
+        "Davinson Sánchez Mina",
+        "Carlos Eccehomo Cuesta Figueroa",
+        "Johan Andrés Mojica Palacio",
+        "Andrés Mateus Uribe Villa",
+        "Richard Rios Montoya",
+        "Jhon Adolfo Arias Andrade",
+        "James David Rodríguez Rubio",
+        "Jhon Andrés Córdoba Copete",
+        "Luis Fernando Díaz Marulanda"
+      ],
+      "subs_in": [
+        "Luis Fernando Sinisterra Lucumí",
+        "Jorge Andrés Carrascal Guardo",
+        "Santiago Arias Naranjo",
+        "Juan Fernando Quintero Paniagua",
+        "Miguel Ángel Borja Hernández"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3943077,
+      "opponent": "Argentina",
+      "score": "0-1",
+      "formation": "4-1-2-1-2",
+      "starting_xi": [
+        "Camilo Andrés Vargas Gil",
+        "Santiago Arias Naranjo",
+        "Davinson Sánchez Mina",
+        "Carlos Eccehomo Cuesta Figueroa",
+        "Johan Andrés Mojica Palacio",
+        "Jefferson Andrés Lerma Solís",
+        "Richard Rios Montoya",
+        "Jhon Adolfo Arias Andrade",
+        "James David Rodríguez Rubio",
+        "Jhon Andrés Córdoba Copete",
+        "Luis Fernando Díaz Marulanda"
+      ],
+      "subs_in": [
+        "Rafael Santos Borré Amaury",
+        "Kevin Duvan Castaño Gil",
+        "Juan Fernando Quintero Paniagua",
+        "Jorge Andrés Carrascal Guardo",
+        "Miguel Ángel Borja Hernández",
+        "Andrés Mateus Uribe Villa"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3942852,
+      "opponent": "Uruguay",
+      "score": "1-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Camilo Andrés Vargas Gil",
+        "Daniel Muñoz Mejía",
+        "Davinson Sánchez Mina",
+        "Carlos Eccehomo Cuesta Figueroa",
+        "Johan Andrés Mojica Palacio",
+        "Richard Rios Montoya",
+        "Jefferson Andrés Lerma Solís",
+        "Jhon Adolfo Arias Andrade",
+        "James David Rodríguez Rubio",
+        "Luis Fernando Díaz Marulanda",
+        "Jhon Andrés Córdoba Copete"
+      ],
+      "subs_in": [
+        "Santiago Arias Naranjo",
+        "Andrés Mateus Uribe Villa",
+        "Kevin Duvan Castaño Gil",
+        "Yerry Fernando Mina González",
+        "Luis Fernando Sinisterra Lucumí"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939984,
+      "opponent": "Costa Rica",
+      "score": "3-0",
+      "formation": "4-1-2-1-2",
+      "starting_xi": [
+        "Camilo Andrés Vargas Gil",
+        "Daniel Muñoz Mejía",
+        "Davinson Sánchez Mina",
+        "Carlos Eccehomo Cuesta Figueroa",
+        "Johan Andrés Mojica Palacio",
+        "Jefferson Andrés Lerma Solís",
+        "Richard Rios Montoya",
+        "Jhon Adolfo Arias Andrade",
+        "James David Rodríguez Rubio",
+        "Jhon Andrés Córdoba Copete",
+        "Luis Fernando Díaz Marulanda"
+      ],
+      "subs_in": [
+        "Andrés Mateus Uribe Villa",
+        "Kevin Duvan Castaño Gil",
+        "Yaser Esneider Asprilla Martínez",
+        "Jhon Jáder Durán Palacio",
+        "Rafael Santos Borré Amaury"
+      ]
+    }
+  ]
+}

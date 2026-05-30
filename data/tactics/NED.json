@@ -1,0 +1,335 @@
+{
+  "name": "Netherlands",
+  "code": "NED",
+  "matches_analyzed": 11,
+  "formations": {
+    "3-4-1-2": 10,
+    "3-4-2-1": 1,
+    "4-2-3-1": 14,
+    "4-4-2": 1,
+    "4-4-1-1": 1,
+    "4-3-3": 2
+  },
+  "primary_formation": "4-2-3-1",
+  "top_starters": [
+    "Virgil van Dijk",
+    "Nathan Aké",
+    "Cody Mathès Gakpo",
+    "Denzel Dumfries",
+    "Memphis Depay",
+    "Bart Verbruggen",
+    "Stefan de Vrij",
+    "Jerdy Schouten",
+    "Tijjani Reijnders",
+    "Andries Noppert",
+    "Daley Blind",
+    "Frenkie de Jong",
+    "Steven Bergwijn",
+    "Xavi Simons",
+    "Jurriën David Norman Timber"
+  ],
+  "top_subs": [
+    "Wout Weghorst",
+    "Teun Koopmeiners",
+    "Micky van de Ven",
+    "Joey Veerman",
+    "Steven Berghuis",
+    "Georginio Wijnaldum",
+    "Memphis Depay",
+    "Marten de Roon"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857274,
+      "opponent": "Ecuador",
+      "score": "1-1",
+      "formation": "3-4-1-2",
+      "starting_xi": [
+        "Andries Noppert",
+        "Jurriën David Norman Timber",
+        "Virgil van Dijk",
+        "Nathan Aké",
+        "Denzel Dumfries",
+        "Daley Blind",
+        "Teun Koopmeiners",
+        "Frenkie de Jong",
+        "Davy Klaassen",
+        "Cody Mathès Gakpo",
+        "Steven Bergwijn"
+      ],
+      "subs_in": [
+        "Memphis Depay",
+        "Steven Berghuis",
+        "Wout Weghorst",
+        "Marten de Roon"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857285,
+      "opponent": "Senegal",
+      "score": "2-0",
+      "formation": "3-4-1-2",
+      "starting_xi": [
+        "Andries Noppert",
+        "Matthijs de Ligt",
+        "Virgil van Dijk",
+        "Nathan Aké",
+        "Denzel Dumfries",
+        "Daley Blind",
+        "Steven Berghuis",
+        "Frenkie de Jong",
+        "Cody Mathès Gakpo",
+        "Vincent Janssen",
+        "Steven Bergwijn"
+      ],
+      "subs_in": [
+        "Memphis Depay",
+        "Davy Klaassen",
+        "Teun Koopmeiners",
+        "Marten de Roon"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857294,
+      "opponent": "Qatar",
+      "score": "2-0",
+      "formation": "3-4-1-2",
+      "starting_xi": [
+        "Andries Noppert",
+        "Jurriën David Norman Timber",
+        "Virgil van Dijk",
+        "Nathan Aké",
+        "Denzel Dumfries",
+        "Daley Blind",
+        "Marten de Roon",
+        "Frenkie de Jong",
+        "Davy Klaassen",
+        "Cody Mathès Gakpo",
+        "Memphis Depay"
+      ],
+      "subs_in": [
+        "Steven Berghuis",
+        "Vincent Janssen",
+        "Wout Weghorst",
+        "Teun Koopmeiners",
+        "Kenneth Taylor"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869321,
+      "opponent": "Argentina",
+      "score": "2-2",
+      "formation": "3-4-1-2",
+      "starting_xi": [
+        "Andries Noppert",
+        "Jurriën David Norman Timber",
+        "Virgil van Dijk",
+        "Nathan Aké",
+        "Denzel Dumfries",
+        "Daley Blind",
+        "Marten de Roon",
+        "Frenkie de Jong",
+        "Cody Mathès Gakpo",
+        "Steven Bergwijn",
+        "Memphis Depay"
+      ],
+      "subs_in": [
+        "Steven Berghuis",
+        "Teun Koopmeiners",
+        "Luuk de Jong",
+        "Wout Weghorst",
+        "Noa Lang"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869117,
+      "opponent": "United States",
+      "score": "3-1",
+      "formation": "3-4-1-2",
+      "starting_xi": [
+        "Andries Noppert",
+        "Jurriën David Norman Timber",
+        "Virgil van Dijk",
+        "Nathan Aké",
+        "Denzel Dumfries",
+        "Daley Blind",
+        "Marten de Roon",
+        "Frenkie de Jong",
+        "Davy Klaassen",
+        "Cody Mathès Gakpo",
+        "Memphis Depay"
+      ],
+      "subs_in": [
+        "Steven Bergwijn",
+        "Teun Koopmeiners",
+        "Xavi Simons",
+        "Matthijs de Ligt",
+        "Wout Weghorst"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3938637,
+      "opponent": "Poland",
+      "score": "2-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Bart Verbruggen",
+        "Denzel Dumfries",
+        "Stefan de Vrij",
+        "Virgil van Dijk",
+        "Nathan Aké",
+        "Jerdy Schouten",
+        "Joey Veerman",
+        "Xavi Simons",
+        "Tijjani Reijnders",
+        "Cody Mathès Gakpo",
+        "Memphis Depay"
+      ],
+      "subs_in": [
+        "Georginio Wijnaldum",
+        "Donyell Malen",
+        "Jeremie Frimpong",
+        "Wout Weghorst",
+        "Micky van de Ven"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3942819,
+      "opponent": "England",
+      "score": "1-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Bart Verbruggen",
+        "Denzel Dumfries",
+        "Stefan de Vrij",
+        "Virgil van Dijk",
+        "Nathan Aké",
+        "Jerdy Schouten",
+        "Tijjani Reijnders",
+        "Donyell Malen",
+        "Xavi Simons",
+        "Cody Mathès Gakpo",
+        "Memphis Depay"
+      ],
+      "subs_in": [
+        "Joey Veerman",
+        "Wout Weghorst",
+        "Brian Brobbey",
+        "Joshua Zirkzee"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3942382,
+      "opponent": "Turkey",
+      "score": "2-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Bart Verbruggen",
+        "Denzel Dumfries",
+        "Stefan de Vrij",
+        "Virgil van Dijk",
+        "Nathan Aké",
+        "Jerdy Schouten",
+        "Tijjani Reijnders",
+        "Steven Bergwijn",
+        "Xavi Simons",
+        "Cody Mathès Gakpo",
+        "Memphis Depay"
+      ],
+      "subs_in": [
+        "Wout Weghorst",
+        "Joey Veerman",
+        "Micky van de Ven",
+        "Jeremie Frimpong",
+        "Joshua Zirkzee"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930180,
+      "opponent": "Austria",
+      "score": "2-3",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Bart Verbruggen",
+        "Lutsharel Geertruida",
+        "Stefan de Vrij",
+        "Virgil van Dijk",
+        "Nathan Aké",
+        "Jerdy Schouten",
+        "Tijjani Reijnders",
+        "Joey Veerman",
+        "Donyell Malen",
+        "Cody Mathès Gakpo",
+        "Memphis Depay"
+      ],
+      "subs_in": [
+        "Xavi Simons",
+        "Georginio Wijnaldum",
+        "Micky van de Ven",
+        "Wout Weghorst"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3941021,
+      "opponent": "Romania",
+      "score": "3-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Bart Verbruggen",
+        "Denzel Dumfries",
+        "Stefan de Vrij",
+        "Virgil van Dijk",
+        "Nathan Aké",
+        "Jerdy Schouten",
+        "Tijjani Reijnders",
+        "Steven Bergwijn",
+        "Xavi Simons",
+        "Cody Mathès Gakpo",
+        "Memphis Depay"
+      ],
+      "subs_in": [
+        "Donyell Malen",
+        "Joey Veerman",
+        "Micky van de Ven",
+        "Wout Weghorst",
+        "Daley Blind"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930173,
+      "opponent": "France",
+      "score": "0-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Bart Verbruggen",
+        "Denzel Dumfries",
+        "Stefan de Vrij",
+        "Virgil van Dijk",
+        "Nathan Aké",
+        "Jerdy Schouten",
+        "Tijjani Reijnders",
+        "Jeremie Frimpong",
+        "Xavi Simons",
+        "Cody Mathès Gakpo",
+        "Memphis Depay"
+      ],
+      "subs_in": [
+        "Joey Veerman",
+        "Lutsharel Geertruida",
+        "Georginio Wijnaldum",
+        "Wout Weghorst"
+      ]
+    }
+  ]
+}

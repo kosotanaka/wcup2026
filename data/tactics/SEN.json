@@ -1,0 +1,253 @@
+{
+  "name": "Senegal",
+  "code": "SEN",
+  "matches_analyzed": 8,
+  "formations": {
+    "4-2-3-1": 7,
+    "4-3-3": 7,
+    "3-4-3": 2,
+    "4-1-4-1": 2,
+    "4-4-2": 1
+  },
+  "primary_formation": "4-2-3-1",
+  "top_starters": [
+    "Edouard Mendy",
+    "Kalidou Koulibaly",
+    "Ismaïla Sarr",
+    "Abdou Diallo",
+    "Krépin Diatta",
+    "Ismail Jakobs",
+    "Youssouf Sabaly",
+    "Nampalys Mendy",
+    "Boulaye Dia",
+    "Pape Gueye",
+    "Sadio Mané",
+    "Habibou Mouhamadou Diallo",
+    "Idrissa Gana Gueye",
+    "Pape Matar Sarr",
+    "Lamine Camara"
+  ],
+  "top_subs": [
+    "Cheikh Ahmadou Bamba Mbacke Dieng",
+    "Nicolas Jackson",
+    "Iliman Ndiaye",
+    "Pathé Ismaël Ciss",
+    "Pape Gueye",
+    "Pape Abou Cissé",
+    "Pape Matar Sarr",
+    "Nampalys Mendy"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857285,
+      "opponent": "Netherlands",
+      "score": "0-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Edouard Mendy",
+        "Youssouf Sabaly",
+        "Kalidou Koulibaly",
+        "Pape Abou Cissé",
+        "Abdou Diallo",
+        "Cheikhou Kouyaté",
+        "Nampalys Mendy",
+        "Krépin Diatta",
+        "Idrissa Gana Gueye",
+        "Ismaïla Sarr",
+        "Boulaye Dia"
+      ],
+      "subs_in": [
+        "Ismail Jakobs",
+        "Cheikh Ahmadou Bamba Mbacke Dieng",
+        "Pape Gueye",
+        "Nicolas Jackson"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857301,
+      "opponent": "Qatar",
+      "score": "3-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Edouard Mendy",
+        "Youssouf Sabaly",
+        "Kalidou Koulibaly",
+        "Abdou Diallo",
+        "Ismail Jakobs",
+        "Nampalys Mendy",
+        "Idrissa Gana Gueye",
+        "Ismaïla Sarr",
+        "Boulaye Dia",
+        "Krépin Diatta",
+        "Famara Diedhiou"
+      ],
+      "subs_in": [
+        "Pathé Ismaël Ciss",
+        "Cheikh Ahmadou Bamba Mbacke Dieng",
+        "Iliman Ndiaye",
+        "Pape Abou Cissé",
+        "Pape Matar Sarr"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857267,
+      "opponent": "Ecuador",
+      "score": "2-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Edouard Mendy",
+        "Youssouf Sabaly",
+        "Kalidou Koulibaly",
+        "Abdou Diallo",
+        "Ismail Jakobs",
+        "Pathé Ismaël Ciss",
+        "Pape Gueye",
+        "Iliman Ndiaye",
+        "Idrissa Gana Gueye",
+        "Ismaïla Sarr",
+        "Boulaye Dia"
+      ],
+      "subs_in": [
+        "Nampalys Mendy",
+        "Cheikh Ahmadou Bamba Mbacke Dieng",
+        "Pape Abou Cissé"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869118,
+      "opponent": "England",
+      "score": "0-3",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Edouard Mendy",
+        "Youssouf Sabaly",
+        "Kalidou Koulibaly",
+        "Abdou Diallo",
+        "Ismail Jakobs",
+        "Pathé Ismaël Ciss",
+        "Nampalys Mendy",
+        "Krépin Diatta",
+        "Iliman Ndiaye",
+        "Ismaïla Sarr",
+        "Boulaye Dia"
+      ],
+      "subs_in": [
+        "Pape Gueye",
+        "Pape Matar Sarr",
+        "Cheikh Ahmadou Bamba Mbacke Dieng",
+        "Famara Diedhiou",
+        "Fodé Ballo Touré"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920400,
+      "opponent": "Cameroon",
+      "score": "3-1",
+      "formation": "4-1-4-1",
+      "starting_xi": [
+        "Edouard Mendy",
+        "Krépin Diatta",
+        "Kalidou Koulibaly",
+        "Abdou Diallo",
+        "Ismail Jakobs",
+        "Pape Gueye",
+        "Ismaïla Sarr",
+        "Pape Matar Sarr",
+        "Lamine Camara",
+        "Sadio Mané",
+        "Habibou Mouhamadou Diallo"
+      ],
+      "subs_in": [
+        "Idrissa Gana Gueye",
+        "Nicolas Jackson",
+        "Iliman Ndiaye",
+        "Pathé Ismaël Ciss"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920412,
+      "opponent": "Guinea",
+      "score": "2-0",
+      "formation": "4-1-4-1",
+      "starting_xi": [
+        "Edouard Mendy",
+        "Krépin Diatta",
+        "Abdoulaye Seck",
+        "Kalidou Koulibaly",
+        "Ismail Jakobs",
+        "Pape Gueye",
+        "Ismaïla Sarr",
+        "Pape Matar Sarr",
+        "Nampalys Mendy",
+        "Sadio Mané",
+        "Habibou Mouhamadou Diallo"
+      ],
+      "subs_in": [
+        "Idrissa Gana Gueye",
+        "Cheikhou Kouyaté",
+        "Iliman Ndiaye",
+        "Fodé Ballo Touré",
+        "Nicolas Jackson"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3922242,
+      "opponent": "Côte d'Ivoire",
+      "score": "1-1",
+      "formation": "3-4-3",
+      "starting_xi": [
+        "Edouard Mendy",
+        "Kalidou Koulibaly",
+        "Abdou Diallo",
+        "Moussa Niakhate",
+        "Krépin Diatta",
+        "Ismail Jakobs",
+        "Pape Matar Sarr",
+        "Lamine Camara",
+        "Ismaïla Sarr",
+        "Sadio Mané",
+        "Habibou Mouhamadou Diallo"
+      ],
+      "subs_in": [
+        "Nicolas Jackson",
+        "Idrissa Gueye",
+        "Iliman Ndiaye",
+        "Cheikh Ahmadou Bamba Mbacke Dieng"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920388,
+      "opponent": "Gambia",
+      "score": "3-0",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Edouard Mendy",
+        "Krépin Diatta",
+        "Kalidou Koulibaly",
+        "Moussa Niakhate",
+        "Ismail Jakobs",
+        "Abdou Diallo",
+        "Lamine Camara",
+        "Pape Gueye",
+        "Ismaïla Sarr",
+        "Sadio Mané",
+        "Habibou Mouhamadou Diallo"
+      ],
+      "subs_in": [
+        "Pathé Ismaël Ciss",
+        "Nicolas Jackson",
+        "Iliman Ndiaye",
+        "Nampalys Mendy",
+        "Abdoulaye Seck"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "name": "Switzerland",
+  "code": "SUI",
+  "matches_analyzed": 9,
+  "formations": {
+    "4-2-3-1": 8,
+    "3-5-2": 1,
+    "4-4-2": 1,
+    "3-4-2-1": 9,
+    "3-4-1-2": 1,
+    "3-4-3": 2
+  },
+  "primary_formation": "3-4-2-1",
+  "top_starters": [
+    "Manuel Obafemi Akanji",
+    "Ricardo Iván Rodríguez Araya",
+    "Remo Freuler",
+    "Granit Xhaka",
+    "Yann Sommer",
+    "Ruben Vargas",
+    "Breel-Donald Embolo",
+    "Fabian Lukas Schär",
+    "Silvan Widmer",
+    "Michel Aebischer",
+    "Dan Ndoye",
+    "Xherdan Shaqiri",
+    "Djibril Sow",
+    "Fabian Rieder",
+    "Nico Elvedi"
+  ],
+  "top_subs": [
+    "Mohamed Zeki Amdouni",
+    "Vincent Sierro",
+    "Noah Okafor",
+    "Haris Seferović",
+    "Fabian Rieder",
+    "Denis Lemi Zakaria Lako Lado",
+    "Leonidas Stergiou",
+    "Fabian Frei"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857290,
+      "opponent": "Cameroon",
+      "score": "1-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Yann Sommer",
+        "Silvan Widmer",
+        "Manuel Obafemi Akanji",
+        "Nico Elvedi",
+        "Ricardo Iván Rodríguez Araya",
+        "Remo Freuler",
+        "Granit Xhaka",
+        "Xherdan Shaqiri",
+        "Djibril Sow",
+        "Ruben Vargas",
+        "Breel-Donald Embolo"
+      ],
+      "subs_in": [
+        "Fabian Frei",
+        "Noah Okafor",
+        "Haris Seferović",
+        "Fabian Rieder",
+        "Eray Ervin Cömert"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857269,
+      "opponent": "Brazil",
+      "score": "0-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Yann Sommer",
+        "Silvan Widmer",
+        "Manuel Obafemi Akanji",
+        "Nico Elvedi",
+        "Ricardo Iván Rodríguez Araya",
+        "Remo Freuler",
+        "Granit Xhaka",
+        "Fabian Rieder",
+        "Djibril Sow",
+        "Ruben Vargas",
+        "Breel-Donald Embolo"
+      ],
+      "subs_in": [
+        "Edimilson Fernandes",
+        "Renato Steffen",
+        "Michel Aebischer",
+        "Haris Seferović",
+        "Fabian Frei"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857256,
+      "opponent": "Serbia",
+      "score": "3-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Gregor Kobel",
+        "Silvan Widmer",
+        "Fabian Lukas Schär",
+        "Manuel Obafemi Akanji",
+        "Ricardo Iván Rodríguez Araya",
+        "Remo Freuler",
+        "Granit Xhaka",
+        "Xherdan Shaqiri",
+        "Djibril Sow",
+        "Ruben Vargas",
+        "Breel-Donald Embolo"
+      ],
+      "subs_in": [
+        "Edimilson Fernandes",
+        "Denis Lemi Zakaria Lako Lado",
+        "Christian Fassnacht",
+        "Noah Okafor"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869254,
+      "opponent": "Portugal",
+      "score": "1-6",
+      "formation": "3-5-2",
+      "starting_xi": [
+        "Yann Sommer",
+        "Manuel Obafemi Akanji",
+        "Fabian Lukas Schär",
+        "Ricardo Iván Rodríguez Araya",
+        "Edimilson Fernandes",
+        "Ruben Vargas",
+        "Granit Xhaka",
+        "Djibril Sow",
+        "Remo Freuler",
+        "Breel-Donald Embolo",
+        "Xherdan Shaqiri"
+      ],
+      "subs_in": [
+        "Eray Ervin Cömert",
+        "Denis Lemi Zakaria Lako Lado",
+        "Haris Seferović",
+        "Noah Okafor",
+        "Ardon Jashari"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930159,
+      "opponent": "Hungary",
+      "score": "3-1",
+      "formation": "3-4-2-1",
+      "starting_xi": [
+        "Yann Sommer",
+        "Fabian Lukas Schär",
+        "Manuel Obafemi Akanji",
+        "Ricardo Iván Rodríguez Araya",
+        "Silvan Widmer",
+        "Michel Aebischer",
+        "Remo Freuler",
+        "Granit Xhaka",
+        "Dan Ndoye",
+        "Ruben Vargas",
+        "Kwadwo Duah"
+      ],
+      "subs_in": [
+        "Mohamed Zeki Amdouni",
+        "Leonidas Stergiou",
+        "Breel-Donald Embolo",
+        "Vincent Sierro",
+        "Fabian Rieder"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3942227,
+      "opponent": "England",
+      "score": "1-1",
+      "formation": "3-4-2-1",
+      "starting_xi": [
+        "Yann Sommer",
+        "Fabian Lukas Schär",
+        "Manuel Obafemi Akanji",
+        "Ricardo Iván Rodríguez Araya",
+        "Dan Ndoye",
+        "Michel Aebischer",
+        "Remo Freuler",
+        "Granit Xhaka",
+        "Fabian Rieder",
+        "Ruben Vargas",
+        "Breel-Donald Embolo"
+      ],
+      "subs_in": [
+        "Steven Zuber",
+        "Silvan Widmer",
+        "Denis Lemi Zakaria Lako Lado",
+        "Xherdan Shaqiri",
+        "Mohamed Zeki Amdouni",
+        "Vincent Sierro"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930176,
+      "opponent": "Germany",
+      "score": "1-1",
+      "formation": "3-4-2-1",
+      "starting_xi": [
+        "Yann Sommer",
+        "Fabian Lukas Schär",
+        "Manuel Obafemi Akanji",
+        "Ricardo Iván Rodríguez Araya",
+        "Silvan Widmer",
+        "Michel Aebischer",
+        "Remo Freuler",
+        "Granit Xhaka",
+        "Fabian Rieder",
+        "Dan Ndoye",
+        "Breel-Donald Embolo"
+      ],
+      "subs_in": [
+        "Mohamed Zeki Amdouni",
+        "Kwadwo Duah",
+        "Ruben Vargas"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930169,
+      "opponent": "Scotland",
+      "score": "1-1",
+      "formation": "3-4-1-2",
+      "starting_xi": [
+        "Yann Sommer",
+        "Fabian Lukas Schär",
+        "Manuel Obafemi Akanji",
+        "Ricardo Iván Rodríguez Araya",
+        "Silvan Widmer",
+        "Michel Aebischer",
+        "Remo Freuler",
+        "Granit Xhaka",
+        "Xherdan Shaqiri",
+        "Dan Ndoye",
+        "Ruben Vargas"
+      ],
+      "subs_in": [
+        "Breel-Donald Embolo",
+        "Vincent Sierro",
+        "Fabian Rieder",
+        "Leonidas Stergiou",
+        "Mohamed Zeki Amdouni"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3940878,
+      "opponent": "Italy",
+      "score": "2-0",
+      "formation": "3-4-2-1",
+      "starting_xi": [
+        "Yann Sommer",
+        "Fabian Lukas Schär",
+        "Manuel Obafemi Akanji",
+        "Ricardo Iván Rodríguez Araya",
+        "Dan Ndoye",
+        "Michel Aebischer",
+        "Remo Freuler",
+        "Granit Xhaka",
+        "Fabian Rieder",
+        "Ruben Vargas",
+        "Breel-Donald Embolo"
+      ],
+      "subs_in": [
+        "Leonidas Stergiou",
+        "Steven Zuber",
+        "Vincent Sierro",
+        "Kwadwo Duah",
+        "Renato Steffen"
+      ]
+    }
+  ]
+}

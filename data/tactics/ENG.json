@@ -1,0 +1,360 @@
+{
+  "name": "England",
+  "code": "ENG",
+  "matches_analyzed": 12,
+  "formations": {
+    "4-2-3-1": 13,
+    "4-3-3": 6,
+    "4-1-4-1": 1,
+    "3-4-2-1": 7,
+    "4-1-2-1-2": 1,
+    "4-4-2": 1,
+    "3-5-2": 1,
+    "3-4-3": 1
+  },
+  "primary_formation": "4-2-3-1",
+  "top_starters": [
+    "Jordan Pickford",
+    "John Stones",
+    "Jude Bellingham",
+    "Declan Rice",
+    "Harry Kane",
+    "Bukayo Saka",
+    "Kyle Walker",
+    "Kieran Trippier",
+    "Phil Foden",
+    "Luke Shaw",
+    "Marc Guehi",
+    "Harry Maguire",
+    "Kobbie Mainoo",
+    "Jordan Brian Henderson",
+    "Mason Mount"
+  ],
+  "top_subs": [
+    "Jack Grealish",
+    "Cole Palmer",
+    "Marcus Rashford",
+    "Conor Gallagher",
+    "Trent Alexander-Arnold",
+    "Eberechi Eze",
+    "Ivan Toney",
+    "Ollie Watkins"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857271,
+      "opponent": "Iran",
+      "score": "6-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Jordan Pickford",
+        "Kieran Trippier",
+        "John Stones",
+        "Harry Maguire",
+        "Luke Shaw",
+        "Jude Bellingham",
+        "Declan Rice",
+        "Bukayo Saka",
+        "Mason Mount",
+        "Raheem Sterling",
+        "Harry Kane"
+      ],
+      "subs_in": [
+        "Jack Grealish",
+        "Marcus Rashford",
+        "Eric Dier",
+        "Phil Foden",
+        "Callum Wilson"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857272,
+      "opponent": "United States",
+      "score": "0-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Jordan Pickford",
+        "Kieran Trippier",
+        "John Stones",
+        "Harry Maguire",
+        "Luke Shaw",
+        "Jude Bellingham",
+        "Declan Rice",
+        "Bukayo Saka",
+        "Mason Mount",
+        "Raheem Sterling",
+        "Harry Kane"
+      ],
+      "subs_in": [
+        "Jack Grealish",
+        "Jordan Brian Henderson",
+        "Marcus Rashford"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857261,
+      "opponent": "Wales",
+      "score": "3-0",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Jordan Pickford",
+        "Kyle Walker",
+        "John Stones",
+        "Harry Maguire",
+        "Luke Shaw",
+        "Declan Rice",
+        "Jordan Brian Henderson",
+        "Jude Bellingham",
+        "Phil Foden",
+        "Marcus Rashford",
+        "Harry Kane"
+      ],
+      "subs_in": [
+        "Trent Alexander-Arnold",
+        "Callum Wilson",
+        "Kalvin Phillips",
+        "Kieran Trippier",
+        "Jack Grealish"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869118,
+      "opponent": "Senegal",
+      "score": "3-0",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Jordan Pickford",
+        "Kyle Walker",
+        "John Stones",
+        "Harry Maguire",
+        "Luke Shaw",
+        "Declan Rice",
+        "Jordan Brian Henderson",
+        "Jude Bellingham",
+        "Bukayo Saka",
+        "Philip Foden",
+        "Harry Kane"
+      ],
+      "subs_in": [
+        "Marcus Rashford",
+        "Jack Grealish",
+        "Mason Mount",
+        "Eric Dier",
+        "Kalvin Phillips"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869354,
+      "opponent": "France",
+      "score": "1-2",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Jordan Pickford",
+        "Kyle Walker",
+        "John Stones",
+        "Harry Maguire",
+        "Luke Shaw",
+        "Declan Rice",
+        "Jordan Brian Henderson",
+        "Jude Bellingham",
+        "Bukayo Saka",
+        "Philip Foden",
+        "Harry Kane"
+      ],
+      "subs_in": [
+        "Mason Mount",
+        "Raheem Sterling",
+        "Marcus Rashford",
+        "Jack Grealish"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930163,
+      "opponent": "Serbia",
+      "score": "1-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Jordan Pickford",
+        "Kyle Walker",
+        "John Stones",
+        "Marc Guehi",
+        "Kieran Trippier",
+        "Trent Alexander-Arnold",
+        "Declan Rice",
+        "Bukayo Saka",
+        "Jude Bellingham",
+        "Phil Foden",
+        "Harry Kane"
+      ],
+      "subs_in": [
+        "Conor Gallagher",
+        "Jarrod Bowen",
+        "Kobbie Mainoo"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930181,
+      "opponent": "Slovenia",
+      "score": "0-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Jordan Pickford",
+        "Kyle Walker",
+        "John Stones",
+        "Marc Guehi",
+        "Kieran Trippier",
+        "Conor Gallagher",
+        "Declan Rice",
+        "Bukayo Saka",
+        "Jude Bellingham",
+        "Phil Foden",
+        "Harry Kane"
+      ],
+      "subs_in": [
+        "Kobbie Mainoo",
+        "Cole Palmer",
+        "Trent Alexander-Arnold",
+        "Anthony Gordon"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3942227,
+      "opponent": "Switzerland",
+      "score": "1-1",
+      "formation": "3-4-2-1",
+      "starting_xi": [
+        "Jordan Pickford",
+        "Kyle Walker",
+        "John Stones",
+        "Ezri Konsa Ngoyo",
+        "Bukayo Saka",
+        "Kieran Trippier",
+        "Kobbie Mainoo",
+        "Declan Rice",
+        "Phil Foden",
+        "Jude Bellingham",
+        "Harry Kane"
+      ],
+      "subs_in": [
+        "Luke Shaw",
+        "Eberechi Eze",
+        "Cole Palmer",
+        "Ivan Toney",
+        "Trent Alexander-Arnold"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3942819,
+      "opponent": "Netherlands",
+      "score": "2-1",
+      "formation": "3-4-2-1",
+      "starting_xi": [
+        "Jordan Pickford",
+        "Kyle Walker",
+        "John Stones",
+        "Marc Guehi",
+        "Bukayo Saka",
+        "Kieran Trippier",
+        "Kobbie Mainoo",
+        "Declan Rice",
+        "Phil Foden",
+        "Jude Bellingham",
+        "Harry Kane"
+      ],
+      "subs_in": [
+        "Luke Shaw",
+        "Cole Palmer",
+        "Ollie Watkins",
+        "Conor Gallagher",
+        "Ezri Konsa Ngoyo"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3943043,
+      "opponent": "Spain",
+      "score": "1-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Jordan Pickford",
+        "Kyle Walker",
+        "John Stones",
+        "Marc Guehi",
+        "Luke Shaw",
+        "Kobbie Mainoo",
+        "Declan Rice",
+        "Bukayo Saka",
+        "Phil Foden",
+        "Jude Bellingham",
+        "Harry Kane"
+      ],
+      "subs_in": [
+        "Ollie Watkins",
+        "Cole Palmer",
+        "Ivan Toney"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930171,
+      "opponent": "Denmark",
+      "score": "1-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Jordan Pickford",
+        "Kyle Walker",
+        "John Stones",
+        "Marc Guehi",
+        "Kieran Trippier",
+        "Trent Alexander-Arnold",
+        "Declan Rice",
+        "Bukayo Saka",
+        "Jude Bellingham",
+        "Phil Foden",
+        "Harry Kane"
+      ],
+      "subs_in": [
+        "Conor Gallagher",
+        "Jarrod Bowen",
+        "Ollie Watkins",
+        "Eberechi Eze"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3941017,
+      "opponent": "Slovakia",
+      "score": "2-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Jordan Pickford",
+        "Kyle Walker",
+        "John Stones",
+        "Marc Guehi",
+        "Kieran Trippier",
+        "Kobbie Mainoo",
+        "Declan Rice",
+        "Bukayo Saka",
+        "Jude Bellingham",
+        "Phil Foden",
+        "Harry Kane"
+      ],
+      "subs_in": [
+        "Cole Palmer",
+        "Eberechi Eze",
+        "Ivan Toney",
+        "Conor Gallagher",
+        "Ezri Konsa Ngoyo"
+      ]
+    }
+  ]
+}

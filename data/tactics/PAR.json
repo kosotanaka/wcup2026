@@ -1,0 +1,120 @@
+{
+  "name": "Paraguay",
+  "code": "PAR",
+  "matches_analyzed": 3,
+  "formations": {
+    "4-3-3": 3,
+    "4-2-3-1": 4
+  },
+  "primary_formation": "4-2-3-1",
+  "top_starters": [
+    "Rodrigo Mario Morínigo Acosta",
+    "Víctor Gustavo Velázquez Ramos",
+    "Fabián Cornelio Balbuena González",
+    "Omar Federico Alderete Fernández",
+    "Mathías Adalberto Villasanti Rolón",
+    "Miguel Ángel Almirón Rejala",
+    "Julio César Enciso Espínola",
+    "Matías David Espinoza Acosta",
+    "Adrián Andrés Cubas",
+    "Alex Adrián Arce Barrios",
+    "Damián Josué Bobadilla Benítez",
+    "Hernesto Ezequiel Caballero Benítez",
+    "Néstor Rafael Giménez Florentín",
+    "Ramón Sosa Acosta",
+    "Adam Fernando Bareiro Gamarra"
+  ],
+  "top_subs": [
+    "Ramón Sosa Acosta",
+    "Adam Fernando Bareiro Gamarra",
+    "Ángel Rodrigo Romero Villamayor",
+    "Alejandro Romero Gamarra",
+    "Hernesto Ezequiel Caballero Benítez",
+    "Damián Josué Bobadilla Benítez",
+    "Matías Nicolás Rojas Romero",
+    "Néstor Rafael Giménez Florentín"
+  ],
+  "matches": [
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939975,
+      "opponent": "Colombia",
+      "score": "1-2",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Rodrigo Mario Morínigo Acosta",
+        "Víctor Gustavo Velázquez Ramos",
+        "Fabián Cornelio Balbuena González",
+        "Omar Federico Alderete Fernández",
+        "Matías David Espinoza Acosta",
+        "Adrián Andrés Cubas",
+        "Mathías Adalberto Villasanti Rolón",
+        "Hernesto Ezequiel Caballero Benítez",
+        "Miguel Ángel Almirón Rejala",
+        "Julio César Enciso Espínola",
+        "Alex Adrián Arce Barrios"
+      ],
+      "subs_in": [
+        "Damián Josué Bobadilla Benítez",
+        "Ramón Sosa Acosta",
+        "Adam Fernando Bareiro Gamarra",
+        "Ángel Rodrigo Romero Villamayor",
+        "Matías Nicolás Rojas Romero"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939983,
+      "opponent": "Brazil",
+      "score": "1-4",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Rodrigo Mario Morínigo Acosta",
+        "Víctor Gustavo Velázquez Ramos",
+        "Fabián Cornelio Balbuena González",
+        "Omar Federico Alderete Fernández",
+        "Matías David Espinoza Acosta",
+        "Adrián Andrés Cubas",
+        "Mathías Adalberto Villasanti Rolón",
+        "Damián Josué Bobadilla Benítez",
+        "Julio César Enciso Espínola",
+        "Miguel Ángel Almirón Rejala",
+        "Alex Adrián Arce Barrios"
+      ],
+      "subs_in": [
+        "Adam Fernando Bareiro Gamarra",
+        "Néstor Rafael Giménez Florentín",
+        "Alejandro Romero Gamarra",
+        "Ramón Sosa Acosta",
+        "Hernesto Ezequiel Caballero Benítez"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939992,
+      "opponent": "Costa Rica",
+      "score": "1-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Rodrigo Mario Morínigo Acosta",
+        "Víctor Gustavo Velázquez Ramos",
+        "Fabián Cornelio Balbuena González",
+        "Omar Federico Alderete Fernández",
+        "Néstor Rafael Giménez Florentín",
+        "Damián Josué Bobadilla Benítez",
+        "Mathías Adalberto Villasanti Rolón",
+        "Miguel Ángel Almirón Rejala",
+        "Julio César Enciso Espínola",
+        "Ramón Sosa Acosta",
+        "Adam Fernando Bareiro Gamarra"
+      ],
+      "subs_in": [
+        "Ángel Rodrigo Romero Villamayor",
+        "Hernesto Ezequiel Caballero Benítez",
+        "Iván Rodrigo Ramírez Segovia",
+        "Alejandro Romero Gamarra",
+        "Derlis Alberto González Galeano"
+      ]
+    }
+  ]
+}

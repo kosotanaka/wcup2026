@@ -1,0 +1,148 @@
+{
+  "name": "Japan",
+  "code": "JPN",
+  "matches_analyzed": 4,
+  "formations": {
+    "3-4-3": 10,
+    "4-2-3-1": 1,
+    "4-4-2": 1
+  },
+  "primary_formation": "3-4-3",
+  "top_starters": [
+    "Shūichi Gonda",
+    "Maya Yoshida",
+    "Yuto Nagatomo",
+    "Daichi Kamada",
+    "Ko Itakura",
+    "Junya Ito",
+    "Hidemasa Morita",
+    "Daizen Maeda",
+    "Wataru Endo",
+    "Shogo Taniguchi",
+    "Ao Tanaka",
+    "Takefusa Kubo",
+    "Ritsu Doan",
+    "Hiroki Sakai",
+    "Miki Yamane"
+  ],
+  "top_subs": [
+    "Kaoru Mitoma",
+    "Takuma Asano",
+    "Takumi Minamino",
+    "Ritsu Doan",
+    "Takehiro Tomiyasu",
+    "Wataru Endo",
+    "Hiroki Ito",
+    "Junya Ito"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857255,
+      "opponent": "Spain",
+      "score": "2-1",
+      "formation": "3-4-3",
+      "starting_xi": [
+        "Shūichi Gonda",
+        "Ko Itakura",
+        "Maya Yoshida",
+        "Shogo Taniguchi",
+        "Junya Ito",
+        "Yuto Nagatomo",
+        "Ao Tanaka",
+        "Hidemasa Morita",
+        "Takefusa Kubo",
+        "Daichi Kamada",
+        "Daizen Maeda"
+      ],
+      "subs_in": [
+        "Ritsu Doan",
+        "Kaoru Mitoma",
+        "Takuma Asano",
+        "Takehiro Tomiyasu",
+        "Wataru Endo"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857284,
+      "opponent": "Germany",
+      "score": "2-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Shūichi Gonda",
+        "Hiroki Sakai",
+        "Ko Itakura",
+        "Maya Yoshida",
+        "Yuto Nagatomo",
+        "Wataru Endo",
+        "Ao Tanaka",
+        "Junya Ito",
+        "Daichi Kamada",
+        "Takefusa Kubo",
+        "Daizen Maeda"
+      ],
+      "subs_in": [
+        "Takehiro Tomiyasu",
+        "Kaoru Mitoma",
+        "Takuma Asano",
+        "Ritsu Doan",
+        "Takumi Minamino"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857295,
+      "opponent": "Costa Rica",
+      "score": "0-1",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Shūichi Gonda",
+        "Miki Yamane",
+        "Ko Itakura",
+        "Maya Yoshida",
+        "Yuto Nagatomo",
+        "Wataru Endo",
+        "Hidemasa Morita",
+        "Ritsu Doan",
+        "Yuki Soma",
+        "Ayase Ueda",
+        "Daichi Kamada"
+      ],
+      "subs_in": [
+        "Hiroki Ito",
+        "Takuma Asano",
+        "Kaoru Mitoma",
+        "Junya Ito",
+        "Takumi Minamino"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869219,
+      "opponent": "Croatia",
+      "score": "1-1",
+      "formation": "3-4-3",
+      "starting_xi": [
+        "Shūichi Gonda",
+        "Takehiro Tomiyasu",
+        "Maya Yoshida",
+        "Shogo Taniguchi",
+        "Junya Ito",
+        "Yuto Nagatomo",
+        "Wataru Endo",
+        "Hidemasa Morita",
+        "Ritsu Doan",
+        "Daichi Kamada",
+        "Daizen Maeda"
+      ],
+      "subs_in": [
+        "Kaoru Mitoma",
+        "Takuma Asano",
+        "Hiroki Sakai",
+        "Takumi Minamino",
+        "Ao Tanaka"
+      ]
+    }
+  ]
+}
