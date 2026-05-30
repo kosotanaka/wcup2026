@@ -27,6 +27,7 @@ import urllib.request
 from collections import Counter, defaultdict
 from pathlib import Path
 
+LOCAL_DATA = Path("/home/user/open-data/data")
 BASE = "https://raw.githubusercontent.com/statsbomb/open-data/master/data"
 
 # 対象大会 (comp_id, season_id, label)
@@ -68,6 +69,16 @@ WC2026_TEAMS = set([
 ])
 
 def fetch_json(url: str, retries: int = 3) -> dict | list | None:
+    # ローカルキャッシュがあればそちらを優先
+    if LOCAL_DATA.exists():
+        # URLからローカルパスを推定: .../data/events/12345.json → LOCAL_DATA/events/12345.json
+        suffix = url.split("/data/", 1)[-1] if "/data/" in url else None
+        if suffix:
+            local_path = LOCAL_DATA / suffix
+            if local_path.exists():
+                with open(local_path) as f:
+                    return json.load(f)
+    # フォールバック: HTTP
     for i in range(retries):
         try:
             with urllib.request.urlopen(url, timeout=30) as r:
