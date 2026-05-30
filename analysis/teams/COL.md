@@ -7,43 +7,43 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| David Ospina | Atlético Nacional | **76** | None | None | None | None | None | None |
-| Álvaro Montero | Vélez Sarsfield | **75** | None | None | None | None | None | None |
-| Camilo Vargas | Atlas | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| David Ospina | Atlético Nacional | **76** | 76 | — | — | — | — | — | — | — |
+| Álvaro Montero | Vélez Sarsfield | **75** | 76 | +1 | — | — | — | — | — | — |
+| Camilo Vargas | Atlas | — | — | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Davinson Sánchez | Galatasaray | **82** | 82 | 58 | 63 | 73 | 82 | 88 |
-| Daniel Muñoz | Crystal Palace | **81** | 75 | 69 | 72 | 76 | 79 | 81 |
-| Johan Mojica | Mallorca | **78** | 88 | 65 | 73 | 73 | 74 | 70 |
-| Yerry Mina | Cagliari | **77** | 34 | 50 | 52 | 55 | 77 | 84 |
-| Jhon Lucumí | Bologna | **76** | 65 | 38 | 62 | 61 | 77 | 78 |
-| Santiago Arias | Independiente | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Davinson Sánchez | Galatasaray | **82** | 82 | — | 82 | 58 | 63 | 73 | 82 | 88 |
+| Daniel Muñoz | Crystal Palace | **81** | 81 | — | 75 | 69 | 72 | 76 | 79 | 81 |
+| Johan Mojica | Mallorca | **78** | 78 | — | 88 | 65 | 73 | 73 | 74 | 70 |
+| Yerry Mina | Cagliari | **77** | 77 | — | 34 | 50 | 52 | 55 | 77 | 84 |
+| Jhon Lucumí | Bologna | **76** | 78 | +2 | 65 | 38 | 62 | 61 | 77 | 78 |
+| Santiago Arias | Independiente | — | — | — | — | — | — | — | — | — |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Richard Ríos | Benfica | **79** | 81 | 70 | 77 | 82 | 72 | 82 |
-| Jhon Arias | Palmeiras | **78** | 85 | 75 | 74 | 79 | 42 | 68 |
-| Jefferson Lerma | Crystal Palace | **77** | 68 | 71 | 70 | 74 | 76 | 79 |
-| Juan Fernando Quintero | River Plate | **77** | 62 | 76 | 79 | 81 | 41 | 54 |
-| Kevin Castaño | River Plate | **77** | 76 | 68 | 76 | 76 | 72 | 75 |
-| Jorge Carrascal | Flamengo | **70** | 66 | 63 | 70 | 65 | 69 | 71 |
-| James Rodríguez 🅲 | Minnesota United FC | **56** | 67 | 56 | 53 | 57 | 30 | 46 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Richard Ríos | Benfica | **79** | 83 | +4 | 81 | 70 | 77 | 82 | 72 | 82 |
+| Jhon Arias | Palmeiras | **78** | 78 | — | 85 | 75 | 74 | 79 | 42 | 68 |
+| Jefferson Lerma | Crystal Palace | **77** | 77 | — | 68 | 71 | 70 | 74 | 76 | 79 |
+| Juan Fernando Quintero | River Plate | **77** | 77 | — | 62 | 76 | 79 | 81 | 41 | 54 |
+| Kevin Castaño | River Plate | **77** | 80 | +3 | 76 | 68 | 76 | 76 | 72 | 75 |
+| Jorge Carrascal | Flamengo | **70** | 70 | — | 66 | 63 | 70 | 65 | 69 | 71 |
+| James Rodríguez 🅲 | Minnesota United FC | **56** | 66 | +10 | 67 | 56 | 53 | 57 | 30 | 46 |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Luis Díaz | Bayern Munich | **85** | 88 | 81 | 76 | 87 | 45 | 75 |
-| Luis Suárez | Sporting CP | **77** | 83 | 77 | 66 | 75 | 38 | 78 |
-| Jhon Córdoba | Krasnodar | **69** | 80 | 59 | 62 | 70 | 27 | 55 |
-| Cucho Hernández | Real Betis | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Luis Díaz | Bayern Munich | **85** | 85 | — | 88 | 81 | 76 | 87 | 45 | 75 |
+| Luis Suárez | Sporting CP | **77** | 78 | +1 | 83 | 77 | 66 | 75 | 38 | 78 |
+| Jhon Córdoba | Krasnodar | **69** | 72 | +3 | 80 | 59 | 62 | 70 | 27 | 55 |
+| Cucho Hernández | Real Betis | — | — | — | — | — | — | — | — | — |
 
 ---
 ## 2. キープレーヤー
@@ -63,7 +63,7 @@
 - **年齢**: 30  |  **代表キャップ**: 44  |  **代表得点**: 3
 - **能力値**: PAC 75 / SHO 69 / PAS 72 / DRI 76 / DEF 79 / PHY 81
 
-### Richard Ríos (OVR 79)
+### Richard Ríos (OVR 79 → POT **83**)
 - **ポジション**: MF  |  **クラブ**: Benfica
 - **年齢**: 25  |  **代表キャップ**: 30  |  **代表得点**: 2
 - **能力値**: PAC 81 / SHO 70 / PAS 77 / DRI 82 / DEF 72 / PHY 82

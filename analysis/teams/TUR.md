@@ -7,47 +7,47 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Uğurcan Çakır | Galatasaray | **80** | None | None | None | None | None | None |
-| Mert Günok | Fenerbahçe | **78** | None | None | None | None | None | None |
-| Altay Bayındır | Manchester United | **75** | None | None | None | None | None | None |
-| Ersin Destanoğlu | Beşiktaş | **72** | None | None | None | None | None | None |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Uğurcan Çakır | Galatasaray | **80** | 82 | +2 | — | — | — | — | — | — |
+| Mert Günok | Fenerbahçe | **78** | 78 | — | — | — | — | — | — | — |
+| Altay Bayındır | Manchester United | **75** | 77 | +2 | — | — | — | — | — | — |
+| Ersin Destanoğlu | Beşiktaş | **72** | 77 | +5 | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Abdülkerim Bardakcı | Galatasaray | **80** | 59 | 46 | 70 | 69 | 81 | 85 |
-| Ferdi Kadıoğlu | Brighton & Hove Albion | **79** | 82 | 68 | 74 | 80 | 76 | 67 |
-| Merih Demiral | Al-Ahli | **78** | 73 | 39 | 49 | 61 | 79 | 81 |
-| Çağlar Söyüncü | Fenerbahçe | **77** | 69 | 47 | 58 | 65 | 77 | 80 |
-| Zeki Çelik | Roma | **76** | 72 | 59 | 69 | 73 | 73 | 74 |
-| Ozan Kabak | TSG Hoffenheim | **75** | 60 | 37 | 59 | 66 | 74 | 79 |
-| Eren Elmalı | Galatasaray | **75** | 83 | 52 | 72 | 72 | 69 | 77 |
-| Mert Müldür | Fenerbahçe | **74** | 76 | 54 | 65 | 73 | 71 | 75 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Abdülkerim Bardakcı | Galatasaray | **80** | 80 | — | 59 | 46 | 70 | 69 | 81 | 85 |
+| Ferdi Kadıoğlu | Brighton & Hove Albion | **79** | 81 | +2 | 82 | 68 | 74 | 80 | 76 | 67 |
+| Merih Demiral | Al-Ahli | **78** | 81 | +3 | 73 | 39 | 49 | 61 | 79 | 81 |
+| Çağlar Söyüncü | Fenerbahçe | **77** | 78 | +1 | 69 | 47 | 58 | 65 | 77 | 80 |
+| Zeki Çelik | Roma | **76** | 76 | — | 72 | 59 | 69 | 73 | 73 | 74 |
+| Ozan Kabak | TSG Hoffenheim | **75** | 78 | +3 | 60 | 37 | 59 | 66 | 74 | 79 |
+| Eren Elmalı | Galatasaray | **75** | 80 | +5 | 83 | 52 | 72 | 72 | 69 | 77 |
+| Mert Müldür | Fenerbahçe | **74** | 76 | +2 | 76 | 54 | 65 | 73 | 71 | 75 |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Hakan Çalhanoğlu 🅲 | Inter Milan | **86** | 71 | 81 | 87 | 82 | 81 | 73 |
-| Orkun Kökçü | Beşiktaş | **82** | 72 | 80 | 84 | 80 | 70 | 79 |
-| İsmail Yüksek | Fenerbahçe | **77** | 74 | 59 | 70 | 73 | 74 | 78 |
-| Kaan Ayhan | Galatasaray | **76** | 57 | 62 | 77 | 69 | 78 | 77 |
-| Salih Özcan | Borussia Dortmund | **75** | 70 | 59 | 68 | 73 | 75 | 79 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Hakan Çalhanoğlu 🅲 | Inter Milan | **86** | 86 | — | 71 | 81 | 87 | 82 | 81 | 73 |
+| Orkun Kökçü | Beşiktaş | **82** | 86 | +4 | 72 | 80 | 84 | 80 | 70 | 79 |
+| İsmail Yüksek | Fenerbahçe | **77** | 79 | +2 | 74 | 59 | 70 | 73 | 74 | 78 |
+| Kaan Ayhan | Galatasaray | **76** | 76 | — | 57 | 62 | 77 | 69 | 78 | 77 |
+| Salih Özcan | Borussia Dortmund | **75** | 76 | +1 | 70 | 59 | 68 | 73 | 75 | 79 |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Arda Güler | Real Madrid | **81** | 70 | 77 | 83 | 83 | 52 | 50 |
-| Kerem Aktürkoğlu | Fenerbahçe | **80** | 85 | 75 | 74 | 81 | 41 | 58 |
-| Barış Alper Yılmaz | Galatasaray | **80** | 93 | 77 | 72 | 79 | 69 | 90 |
-| Kenan Yıldız | Juventus | **79** | 84 | 78 | 74 | 83 | 35 | 66 |
-| İrfan Can Kahveci | Kasımpaşa | **78** | 73 | 77 | 81 | 80 | 58 | 67 |
-| Yunus Akgün | Galatasaray | **78** | 87 | 78 | 74 | 81 | 40 | 61 |
-| Can Uzun | Eintracht Frankfurt | **74** | 62 | 75 | 66 | 77 | 25 | 62 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Arda Güler | Real Madrid | **81** | 89 | +8 | 70 | 77 | 83 | 83 | 52 | 50 |
+| Kerem Aktürkoğlu | Fenerbahçe | **80** | 81 | +1 | 85 | 75 | 74 | 81 | 41 | 58 |
+| Barış Alper Yılmaz | Galatasaray | **80** | 83 | +3 | 93 | 77 | 72 | 79 | 69 | 90 |
+| Kenan Yıldız | Juventus | **79** | 89 | +10 | 84 | 78 | 74 | 83 | 35 | 66 |
+| İrfan Can Kahveci | Kasımpaşa | **78** | 78 | — | 73 | 77 | 81 | 80 | 58 | 67 |
+| Yunus Akgün | Galatasaray | **78** | 81 | +3 | 87 | 78 | 74 | 81 | 40 | 61 |
+| Can Uzun | Eintracht Frankfurt | **74** | 83 | +9 | 62 | 75 | 66 | 77 | 25 | 62 |
 
 ---
 ## 2. キープレーヤー
@@ -57,17 +57,17 @@
 - **年齢**: 32  |  **代表キャップ**: 104  |  **代表得点**: 22
 - **能力値**: PAC 71 / SHO 81 / PAS 87 / DRI 82 / DEF 81 / PHY 73
 
-### Orkun Kökçü (OVR 82)
+### Orkun Kökçü (OVR 82 → POT **86**)
 - **ポジション**: MF  |  **クラブ**: Beşiktaş
 - **年齢**: 25  |  **代表キャップ**: 48  |  **代表得点**: 3
 - **能力値**: PAC 72 / SHO 80 / PAS 84 / DRI 80 / DEF 70 / PHY 79
 
-### Arda Güler (OVR 81)
+### Arda Güler (OVR 81 → POT **89**)
 - **ポジション**: FW  |  **クラブ**: Real Madrid
 - **年齢**: 21  |  **代表キャップ**: 28  |  **代表得点**: 6
 - **能力値**: PAC 70 / SHO 77 / PAS 83 / DRI 83 / DEF 52 / PHY 50
 
-### Uğurcan Çakır (OVR 80)
+### Uğurcan Çakır (OVR 80 → POT **82**)
 - **ポジション**: GK  |  **クラブ**: Galatasaray
 - **年齢**: 30  |  **代表キャップ**: 38  |  **代表得点**: 0
 - **能力値**: PAC None / SHO None / PAS None / DRI None / DEF None / PHY None

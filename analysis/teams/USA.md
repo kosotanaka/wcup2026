@@ -7,49 +7,49 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Matt Turner | New England Revolution | **74** | None | None | None | None | None | None |
-| Matt Freese | New York City FC | **69** | None | None | None | None | None | None |
-| Chris Brady | Chicago Fire FC | **69** | None | None | None | None | None | None |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Matt Turner | New England Revolution | **74** | 74 | — | — | — | — | — | — | — |
+| Matt Freese | New York City FC | **69** | 73 | +4 | — | — | — | — | — | — |
+| Chris Brady | Chicago Fire FC | **69** | 80 | +11 | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Antonee Robinson | Fulham | **82** | 88 | 46 | 75 | 77 | 78 | 80 |
-| Sergiño Dest | PSV Eindhoven | **79** | 87 | 60 | 75 | 83 | 72 | 72 |
-| Chris Richards | Crystal Palace | **77** | 66 | 27 | 58 | 62 | 78 | 77 |
-| Mark McKenzie | Toulouse | **74** | 80 | 36 | 50 | 64 | 73 | 78 |
-| Joe Scally | Borussia Mönchengladbach | **74** | 83 | 49 | 60 | 69 | 71 | 76 |
-| Auston Trusty | Celtic | **74** | 78 | 47 | 56 | 60 | 72 | 83 |
-| Miles Robinson | FC Cincinnati | **73** | 82 | 35 | 55 | 67 | 72 | 79 |
-| Tim Ream | Charlotte FC | **72** | 39 | 44 | 69 | 60 | 74 | 73 |
-| Maximilian Arfsten | Columbus Crew | **67** | 75 | 61 | 60 | 69 | 60 | 65 |
-| Alex Freeman | Villarreal | **65** | 82 | 57 | 62 | 67 | 58 | 73 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Antonee Robinson | Fulham | **82** | 82 | — | 88 | 46 | 75 | 77 | 78 | 80 |
+| Sergiño Dest | PSV Eindhoven | **79** | 83 | +4 | 87 | 60 | 75 | 83 | 72 | 72 |
+| Chris Richards | Crystal Palace | **77** | 80 | +3 | 66 | 27 | 58 | 62 | 78 | 77 |
+| Mark McKenzie | Toulouse | **74** | 79 | +5 | 80 | 36 | 50 | 64 | 73 | 78 |
+| Joe Scally | Borussia Mönchengladbach | **74** | 78 | +4 | 83 | 49 | 60 | 69 | 71 | 76 |
+| Auston Trusty | Celtic | **74** | 77 | +3 | 78 | 47 | 56 | 60 | 72 | 83 |
+| Miles Robinson | FC Cincinnati | **73** | 75 | +2 | 82 | 35 | 55 | 67 | 72 | 79 |
+| Tim Ream | Charlotte FC | **72** | 72 | — | 39 | 44 | 69 | 60 | 74 | 73 |
+| Maximilian Arfsten | Columbus Crew | **67** | 73 | +6 | 75 | 61 | 60 | 69 | 60 | 65 |
+| Alex Freeman | Villarreal | **65** | 79 | +14 | 82 | 57 | 62 | 67 | 58 | 73 |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Malik Tillman | Bayer Leverkusen | **82** | 84 | 76 | 77 | 83 | 65 | 77 |
-| Tyler Adams | Bournemouth | **79** | 79 | 56 | 71 | 75 | 79 | 75 |
-| Weston McKennie | Juventus | **78** | 77 | 71 | 77 | 77 | 80 | 80 |
-| Giovanni Reyna | Borussia Mönchengladbach | **75** | 67 | 72 | 72 | 80 | 38 | 68 |
-| Cristian Roldan | Seattle Sounders FC | **74** | 77 | 64 | 69 | 73 | 71 | 79 |
-| Sebastian Berhalter | Vancouver Whitecaps FC | **67** | 71 | 54 | 66 | 67 | 65 | 71 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Malik Tillman | Bayer Leverkusen | **82** | 87 | +5 | 84 | 76 | 77 | 83 | 65 | 77 |
+| Tyler Adams | Bournemouth | **79** | 81 | +2 | 79 | 56 | 71 | 75 | 79 | 75 |
+| Weston McKennie | Juventus | **78** | 79 | +1 | 77 | 71 | 77 | 77 | 80 | 80 |
+| Giovanni Reyna | Borussia Mönchengladbach | **75** | 81 | +6 | 67 | 72 | 72 | 80 | 38 | 68 |
+| Cristian Roldan | Seattle Sounders FC | **74** | 74 | — | 77 | 64 | 69 | 73 | 71 | 79 |
+| Sebastian Berhalter | Vancouver Whitecaps FC | **67** | 72 | +5 | 71 | 54 | 66 | 67 | 65 | 71 |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Christian Pulisic 🅲 | Milan | **84** | 88 | 82 | 80 | 86 | 46 | 65 |
-| Timothy Weah | Marseille | **77** | 87 | 75 | 72 | 78 | 68 | 65 |
-| Folarin Balogun | Monaco | **77** | 84 | 77 | 62 | 77 | 23 | 68 |
-| Ricardo Pepi | PSV Eindhoven | **76** | 73 | 78 | 60 | 72 | 46 | 73 |
-| Alejandro Zendejas | América | **76** | 85 | 68 | 70 | 80 | 52 | 67 |
-| Brenden Aaronson | Leeds United | **74** | 80 | 66 | 70 | 78 | 57 | 61 |
-| Haji Wright | Coventry City | **73** | 82 | 72 | 60 | 71 | 33 | 76 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Christian Pulisic 🅲 | Milan | **84** | 84 | — | 88 | 82 | 80 | 86 | 46 | 65 |
+| Timothy Weah | Marseille | **77** | 78 | +1 | 87 | 75 | 72 | 78 | 68 | 65 |
+| Folarin Balogun | Monaco | **77** | 82 | +5 | 84 | 77 | 62 | 77 | 23 | 68 |
+| Ricardo Pepi | PSV Eindhoven | **76** | 84 | +8 | 73 | 78 | 60 | 72 | 46 | 73 |
+| Alejandro Zendejas | América | **76** | 76 | — | 85 | 68 | 70 | 80 | 52 | 67 |
+| Brenden Aaronson | Leeds United | **74** | 78 | +4 | 80 | 66 | 70 | 78 | 57 | 61 |
+| Haji Wright | Coventry City | **73** | 74 | +1 | 82 | 72 | 60 | 71 | 33 | 76 |
 
 ---
 ## 2. キープレーヤー
@@ -64,17 +64,17 @@
 - **年齢**: 28  |  **代表キャップ**: 52  |  **代表得点**: 4
 - **能力値**: PAC 88 / SHO 46 / PAS 75 / DRI 77 / DEF 78 / PHY 80
 
-### Malik Tillman (OVR 82)
+### Malik Tillman (OVR 82 → POT **87**)
 - **ポジション**: MF  |  **クラブ**: Bayer Leverkusen
 - **年齢**: 24  |  **代表キャップ**: 28  |  **代表得点**: 3
 - **能力値**: PAC 84 / SHO 76 / PAS 77 / DRI 83 / DEF 65 / PHY 77
 
-### Sergiño Dest (OVR 79)
+### Sergiño Dest (OVR 79 → POT **83**)
 - **ポジション**: DF  |  **クラブ**: PSV Eindhoven
 - **年齢**: 25  |  **代表キャップ**: 37  |  **代表得点**: 2
 - **能力値**: PAC 87 / SHO 60 / PAS 75 / DRI 83 / DEF 72 / PHY 72
 
-### Tyler Adams (OVR 79)
+### Tyler Adams (OVR 79 → POT **81**)
 - **ポジション**: MF  |  **クラブ**: Bournemouth
 - **年齢**: 27  |  **代表キャップ**: 52  |  **代表得点**: 2
 - **能力値**: PAC 79 / SHO 56 / PAS 71 / DRI 75 / DEF 79 / PHY 75

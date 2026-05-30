@@ -7,69 +7,69 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Dayne St. Clair | Inter Miami CF | **73** | None | None | None | None | None | None |
-| Maxime Crépeau | Orlando City SC | **69** | None | None | None | None | None | None |
-| Owen Goodman | Barnsley | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Dayne St. Clair | Inter Miami CF | **73** | 76 | +3 | — | — | — | — | — | — |
+| Maxime Crépeau | Orlando City SC | **69** | 69 | — | — | — | — | — | — | — |
+| Owen Goodman | Barnsley | — | — | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Alphonso Davies 🅲 | Bayern Munich | **84** | 94 | 66 | 78 | 85 | 74 | 76 |
-| Alistair Johnston | Celtic | **78** | 82 | 59 | 73 | 72 | 73 | 80 |
-| Moïse Bombito | Nice | **76** | 93 | 49 | 58 | 65 | 75 | 76 |
-| Derek Cornelius | Rangers | **74** | 67 | 45 | 55 | 57 | 71 | 85 |
-| Richie Laryea | Toronto FC | **72** | 81 | 61 | 65 | 74 | 64 | 71 |
-| Niko Sigur | Hajduk Split | **70** | 71 | 61 | 68 | 73 | 62 | 68 |
-| Joel Waterman | Chicago Fire FC | **68** | 43 | 42 | 58 | 50 | 68 | 74 |
-| Luc de Fougerolles | Dender | **60** | 64 | 32 | 45 | 49 | 62 | 58 |
-| Alfie Jones | Middlesbrough | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Alphonso Davies 🅲 | Bayern Munich | **84** | 87 | +3 | 94 | 66 | 78 | 85 | 74 | 76 |
+| Alistair Johnston | Celtic | **78** | 81 | +3 | 82 | 59 | 73 | 72 | 73 | 80 |
+| Moïse Bombito | Nice | **76** | 83 | +7 | 93 | 49 | 58 | 65 | 75 | 76 |
+| Derek Cornelius | Rangers | **74** | 76 | +2 | 67 | 45 | 55 | 57 | 71 | 85 |
+| Richie Laryea | Toronto FC | **72** | 72 | — | 81 | 61 | 65 | 74 | 64 | 71 |
+| Niko Sigur | Hajduk Split | **70** | 79 | +9 | 71 | 61 | 68 | 73 | 62 | 68 |
+| Joel Waterman | Chicago Fire FC | **68** | 68 | — | 43 | 42 | 58 | 50 | 68 | 74 |
+| Luc de Fougerolles | Dender | **60** | 80 | +20 | 64 | 32 | 45 | 49 | 62 | 58 |
+| Alfie Jones | Middlesbrough | — | — | — | — | — | — | — | — | — |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Stephen Eustáquio | Los Angeles FC | **77** | 66 | 67 | 76 | 73 | 73 | 74 |
-| Tajon Buchanan | Villarreal | **74** | 90 | 65 | 66 | 74 | 67 | 73 |
-| Ismaël Koné | Sassuolo | **72** | 78 | 63 | 68 | 71 | 64 | 69 |
-| Liam Millar | Hull City | **72** | 85 | 66 | 66 | 75 | 52 | 59 |
-| Jonathan Osorio | Toronto FC | **71** | 50 | 67 | 70 | 72 | 61 | 65 |
-| Ali Ahmed | Norwich City | **68** | 78 | 58 | 65 | 72 | 61 | 65 |
-| Nathan Saliba | Anderlecht | **68** | 67 | 61 | 67 | 74 | 58 | 64 |
-| Jacob Shaffelburg | Los Angeles FC | **67** | 91 | 63 | 60 | 65 | 52 | 63 |
-| Mathieu Choinière | Los Angeles FC | **67** | 60 | 58 | 66 | 66 | 62 | 59 |
-| Marcelo Flores | UANL | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Stephen Eustáquio | Los Angeles FC | **77** | 78 | +1 | 66 | 67 | 76 | 73 | 73 | 74 |
+| Tajon Buchanan | Villarreal | **74** | 75 | +1 | 90 | 65 | 66 | 74 | 67 | 73 |
+| Ismaël Koné | Sassuolo | **72** | 79 | +7 | 78 | 63 | 68 | 71 | 64 | 69 |
+| Liam Millar | Hull City | **72** | 75 | +3 | 85 | 66 | 66 | 75 | 52 | 59 |
+| Jonathan Osorio | Toronto FC | **71** | 71 | — | 50 | 67 | 70 | 72 | 61 | 65 |
+| Ali Ahmed | Norwich City | **68** | 74 | +6 | 78 | 58 | 65 | 72 | 61 | 65 |
+| Nathan Saliba | Anderlecht | **68** | 77 | +9 | 67 | 61 | 67 | 74 | 58 | 64 |
+| Jacob Shaffelburg | Los Angeles FC | **67** | 70 | +3 | 91 | 63 | 60 | 65 | 52 | 63 |
+| Mathieu Choinière | Los Angeles FC | **67** | 68 | +1 | 60 | 58 | 66 | 66 | 62 | 59 |
+| Marcelo Flores | UANL | — | — | — | — | — | — | — | — | — |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Jonathan David | Juventus | **82** | 81 | 82 | 71 | 80 | 34 | 78 |
-| Cyle Larin | Southampton | **77** | 70 | 77 | 68 | 71 | 28 | 78 |
-| Promise David | Union Saint-Gilloise | **75** | 62 | 78 | 59 | 64 | 29 | 84 |
-| Tani Oluwaseyi | Villarreal | **70** | 85 | 71 | 54 | 66 | 31 | 67 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Jonathan David | Juventus | **82** | 85 | +3 | 81 | 82 | 71 | 80 | 34 | 78 |
+| Cyle Larin | Southampton | **77** | 77 | — | 70 | 77 | 68 | 71 | 28 | 78 |
+| Promise David | Union Saint-Gilloise | **75** | 80 | +5 | 62 | 78 | 59 | 64 | 29 | 84 |
+| Tani Oluwaseyi | Villarreal | **70** | 74 | +4 | 85 | 71 | 54 | 66 | 31 | 67 |
 
 ---
 ## 2. キープレーヤー
 
-### Alphonso Davies (OVR 84)
+### Alphonso Davies (OVR 84 → POT **87**)
 - **ポジション**: DF  |  **クラブ**: Bayern Munich
 - **年齢**: 25  |  **代表キャップ**: 58  |  **代表得点**: 15
 - **能力値**: PAC 94 / SHO 66 / PAS 78 / DRI 85 / DEF 74 / PHY 76
 
-### Jonathan David (OVR 82)
+### Jonathan David (OVR 82 → POT **85**)
 - **ポジション**: FW  |  **クラブ**: Juventus
 - **年齢**: 26  |  **代表キャップ**: 75  |  **代表得点**: 39
 - **能力値**: PAC 81 / SHO 82 / PAS 71 / DRI 80 / DEF 34 / PHY 78
 
-### Alistair Johnston (OVR 78)
+### Alistair Johnston (OVR 78 → POT **81**)
 - **ポジション**: DF  |  **クラブ**: Celtic
 - **年齢**: 27  |  **代表キャップ**: 56  |  **代表得点**: 1
 - **能力値**: PAC 82 / SHO 59 / PAS 73 / DRI 72 / DEF 73 / PHY 80
 
-### Stephen Eustáquio (OVR 77)
+### Stephen Eustáquio (OVR 77 → POT **78**)
 - **ポジション**: MF  |  **クラブ**: Los Angeles FC
 - **年齢**: 29  |  **代表キャップ**: 54  |  **代表得点**: 4
 - **能力値**: PAC 66 / SHO 67 / PAS 76 / DRI 73 / DEF 73 / PHY 74

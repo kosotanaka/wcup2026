@@ -7,48 +7,48 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Utkir Yusupov | Navbahor | **—** | — | — | — | — | — | — |
-| Abduvohid Nematov | Nasaf | **—** | — | — | — | — | — | — |
-| Botirali Ergashev | Neftchi | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Utkir Yusupov | Navbahor | — | — | — | — | — | — | — | — | — |
+| Abduvohid Nematov | Nasaf | — | — | — | — | — | — | — | — | — |
+| Botirali Ergashev | Neftchi | — | — | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Abdukodir Khusanov | Manchester City | **77** | 85 | 39 | 59 | 64 | 77 | 76 |
-| Rustam Ashurmatov | Esteghlal | **—** | — | — | — | — | — | — |
-| Farrukh Sayfiev | Neftchi | **—** | — | — | — | — | — | — |
-| Khojiakbar Alijonov | Pakhtakor | **—** | — | — | — | — | — | — |
-| Sherzod Nasrullaev | Nasaf | **—** | — | — | — | — | — | — |
-| Umar Eshmurodov | Nasaf | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Abdukodir Khusanov | Manchester City | **77** | 85 | +8 | 85 | 39 | 59 | 64 | 77 | 76 |
+| Rustam Ashurmatov | Esteghlal | — | — | — | — | — | — | — | — | — |
+| Farrukh Sayfiev | Neftchi | — | — | — | — | — | — | — | — | — |
+| Khojiakbar Alijonov | Pakhtakor | — | — | — | — | — | — | — | — | — |
+| Sherzod Nasrullaev | Nasaf | — | — | — | — | — | — | — | — | — |
+| Umar Eshmurodov | Nasaf | — | — | — | — | — | — | — | — | — |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Otabek Shukurov | Baniyas | **—** | — | — | — | — | — | — |
-| Odiljon Hamrobekov | Tractor | **—** | — | — | — | — | — | — |
-| Jamshid Iskanderov | Neftchi | **—** | — | — | — | — | — | — |
-| Akmal Mozgovoy | Pakhtakor | **—** | — | — | — | — | — | — |
-| Azizjon Ganiev | Al Bataeh | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Otabek Shukurov | Baniyas | — | — | — | — | — | — | — | — | — |
+| Odiljon Hamrobekov | Tractor | — | — | — | — | — | — | — | — | — |
+| Jamshid Iskanderov | Neftchi | — | — | — | — | — | — | — | — | — |
+| Akmal Mozgovoy | Pakhtakor | — | — | — | — | — | — | — | — | — |
+| Azizjon Ganiev | Al Bataeh | — | — | — | — | — | — | — | — | — |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Eldor Shomurodov 🅲 | İstanbul Başakşehir | **74** | 79 | 71 | 64 | 75 | 40 | 66 |
-| Abbosbek Fayzullaev | İstanbul Başakşehir | **65** | 65 | 62 | 67 | 66 | 48 | 53 |
-| Igor Sergeev | Persepolis | **—** | — | — | — | — | — | — |
-| Jaloliddin Masharipov | Esteghlal | **—** | — | — | — | — | — | — |
-| Oston Urunov | Persepolis | **—** | — | — | — | — | — | — |
-| Dostonbek Khamdamov | Pakhtakor | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Eldor Shomurodov 🅲 | İstanbul Başakşehir | **74** | 74 | — | 79 | 71 | 64 | 75 | 40 | 66 |
+| Abbosbek Fayzullaev | İstanbul Başakşehir | **65** | 77 | +12 | 65 | 62 | 67 | 66 | 48 | 53 |
+| Igor Sergeev | Persepolis | — | — | — | — | — | — | — | — | — |
+| Jaloliddin Masharipov | Esteghlal | — | — | — | — | — | — | — | — | — |
+| Oston Urunov | Persepolis | — | — | — | — | — | — | — | — | — |
+| Dostonbek Khamdamov | Pakhtakor | — | — | — | — | — | — | — | — | — |
 
 ---
 ## 2. キープレーヤー
 
-### Abdukodir Khusanov (OVR 77)
+### Abdukodir Khusanov (OVR 77 → POT **85**)
 - **ポジション**: DF  |  **クラブ**: Manchester City
 - **年齢**: 22  |  **代表キャップ**: 25  |  **代表得点**: 0
 - **能力値**: PAC 85 / SHO 39 / PAS 59 / DRI 64 / DEF 77 / PHY 76
@@ -58,7 +58,7 @@
 - **年齢**: 30  |  **代表キャップ**: 90  |  **代表得点**: 44
 - **能力値**: PAC 79 / SHO 71 / PAS 64 / DRI 75 / DEF 40 / PHY 66
 
-### Abbosbek Fayzullaev (OVR 65)
+### Abbosbek Fayzullaev (OVR 65 → POT **77**)
 - **ポジション**: FW  |  **クラブ**: İstanbul Başakşehir
 - **年齢**: 22  |  **代表キャップ**: 30  |  **代表得点**: 8
 - **能力値**: PAC 65 / SHO 62 / PAS 67 / DRI 66 / DEF 48 / PHY 53

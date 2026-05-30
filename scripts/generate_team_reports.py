@@ -8,6 +8,17 @@ from pathlib import Path
 from collections import Counter
 
 PLAYERS_DIR = Path("data/players")
+
+# チーム固有の注記（最新情報・負傷・特記事項）
+TEAM_NOTES = {
+    "JPN": [
+        "三笘薫（OVR 82、Brighton）は負傷により今大会の代表から外れており、本データには未収録。WBの攻撃力に影響。",
+        "鈴木彩艶（GK）はOVR 74ながらPOT **82** と伸びしろが大きく、今大会での成長が期待される。",
+        "冨安健洋は長期負傷明けのためEAFC26未収録。コンディション次第では主力復帰の可能性あり。",
+        "長友佑都（FC東京）はJリーグ所属のためEAFC26未収録。経験値は高いが年齢的にサブ起用が主体。",
+        "久保建英はPOT **86** と将来性が高く、本大会が真のブレイクスルーになる可能性を持つ。",
+    ],
+}
 TACTICS_DIR = Path("data/tactics")
 OUT_DIR = Path("analysis/teams")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -126,20 +137,27 @@ def build_report(code: str) -> str:
                  "MF": "ミッドフィールダー", "FW": "フォワード"}[pos]
         lines.append(f"### {label}")
         lines.append("")
-        lines.append("| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |")
-        lines.append("|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|")
+        lines.append("| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |")
+        lines.append("|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|")
         for p in group_players:
             e = p.get("eafc26", {})
-            ovr = e.get("overall", "—")
+            ovr = e.get("overall")
+            pot = e.get("potential")
+            ovr_str = f"**{ovr}**" if ovr else "—"
+            pot_str = str(pot) if pot else "—"
+            gap = (pot - ovr) if (pot and ovr) else None
+            gap_str = f"+{gap}" if gap and gap > 0 else ("—" if not gap else "")
             captain = " 🅲" if p.get("captain") else ""
             row = (f"| {p['name']}{captain} | {p.get('club','—')} "
-                   f"| **{ovr}** "
-                   f"| {e.get('pace','—')} "
-                   f"| {e.get('shooting','—')} "
-                   f"| {e.get('passing','—')} "
-                   f"| {e.get('dribbling','—')} "
-                   f"| {e.get('defending','—')} "
-                   f"| {e.get('physicality','—')} |")
+                   f"| {ovr_str} "
+                   f"| {pot_str} "
+                   f"| {gap_str} "
+                   f"| {e.get('pace') or '—'} "
+                   f"| {e.get('shooting') or '—'} "
+                   f"| {e.get('passing') or '—'} "
+                   f"| {e.get('dribbling') or '—'} "
+                   f"| {e.get('defending') or '—'} "
+                   f"| {e.get('physicality') or '—'} |")
             lines.append(row)
         lines.append("")
 
@@ -149,7 +167,10 @@ def build_report(code: str) -> str:
     lines.append("")
     for p in key_players:
         e = p.get("eafc26", {})
-        lines.append(f"### {p['name']} (OVR {e.get('overall','?')})")
+        ovr = e.get("overall", "?")
+        pot = e.get("potential")
+        pot_str = f" → POT **{pot}**" if pot and pot != ovr else ""
+        lines.append(f"### {p['name']} (OVR {ovr}{pot_str})")
         lines.append(f"- **ポジション**: {p.get('pos','?')}  |  **クラブ**: {p.get('club','?')}")
         lines.append(f"- **年齢**: {calc_age(p.get('dob',''))}  |  **代表キャップ**: {p.get('caps','?')}  |  **代表得点**: {p.get('goals','?')}")
         lines.append(f"- **能力値**: PAC {e.get('pace','—')} / SHO {e.get('shooting','—')} / PAS {e.get('passing','—')} / DRI {e.get('dribbling','—')} / DEF {e.get('defending','—')} / PHY {e.get('physicality','—')}")
@@ -221,6 +242,16 @@ def build_report(code: str) -> str:
     opponents = [t for t in grp_teams if t["code"] != code]
     lines.append(f"グループ **{group}** の対戦相手: {', '.join(t['name'] for t in opponents)}")
     lines.append("")
+
+    # チーム固有の注記
+    notes = TEAM_NOTES.get(code, [])
+    if notes:
+        lines.append("### 📝 注記・最新情報")
+        lines.append("")
+        for note in notes:
+            lines.append(f"- {note}")
+        lines.append("")
+
     lines.append("_（予測スコアは schedule.json 入力後に更新予定）_")
     lines.append("")
 

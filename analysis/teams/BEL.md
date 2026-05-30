@@ -7,49 +7,49 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Thibaut Courtois | Real Madrid | **89** | None | None | None | None | None | None |
-| Senne Lammens | Manchester United | **78** | None | None | None | None | None | None |
-| Mike Penders | Strasbourg | **73** | None | None | None | None | None | None |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Thibaut Courtois | Real Madrid | **89** | 89 | — | — | — | — | — | — | — |
+| Senne Lammens | Manchester United | **78** | 87 | +9 | — | — | — | — | — | — |
+| Mike Penders | Strasbourg | **73** | 84 | +11 | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Arthur Theate | Eintracht Frankfurt | **80** | 67 | 40 | 70 | 71 | 80 | 82 |
-| Maxim De Cuyper | Brighton & Hove Albion | **80** | 76 | 73 | 80 | 79 | 75 | 75 |
-| Zeno Debast | Sporting CP | **78** | 70 | 56 | 76 | 74 | 77 | 76 |
-| Thomas Meunier | Lille | **76** | 63 | 74 | 72 | 71 | 75 | 81 |
-| Timothy Castagne | Fulham | **76** | 68 | 57 | 70 | 72 | 74 | 71 |
-| Brandon Mechele | Club Brugge | **76** | 49 | 40 | 55 | 56 | 80 | 78 |
-| Koni De Winter | Milan | **74** | 67 | 40 | 58 | 66 | 75 | 72 |
-| Joaquin Seys | Club Brugge | **73** | 81 | 48 | 68 | 70 | 67 | 67 |
-| Nathan Ngoy | Lille | **69** | 78 | 44 | 49 | 67 | 67 | 75 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Arthur Theate | Eintracht Frankfurt | **80** | 84 | +4 | 67 | 40 | 70 | 71 | 80 | 82 |
+| Maxim De Cuyper | Brighton & Hove Albion | **80** | 86 | +6 | 76 | 73 | 80 | 79 | 75 | 75 |
+| Zeno Debast | Sporting CP | **78** | 86 | +8 | 70 | 56 | 76 | 74 | 77 | 76 |
+| Thomas Meunier | Lille | **76** | 76 | — | 63 | 74 | 72 | 71 | 75 | 81 |
+| Timothy Castagne | Fulham | **76** | 76 | — | 68 | 57 | 70 | 72 | 74 | 71 |
+| Brandon Mechele | Club Brugge | **76** | 76 | — | 49 | 40 | 55 | 56 | 80 | 78 |
+| Koni De Winter | Milan | **74** | 84 | +10 | 67 | 40 | 58 | 66 | 75 | 72 |
+| Joaquin Seys | Club Brugge | **73** | 86 | +13 | 81 | 48 | 68 | 70 | 67 | 67 |
+| Nathan Ngoy | Lille | **69** | 78 | +9 | 78 | 44 | 49 | 67 | 67 | 75 |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Kevin De Bruyne | Napoli | **87** | 66 | 83 | 92 | 84 | 65 | 72 |
-| Youri Tielemans 🅲 | Aston Villa | **85** | 54 | 79 | 85 | 80 | 75 | 72 |
-| Hans Vanaken | Club Brugge | **80** | 45 | 79 | 84 | 77 | 60 | 78 |
-| Amadou Onana | Aston Villa | **79** | 74 | 62 | 72 | 73 | 78 | 81 |
-| Axel Witsel | Girona | **77** | 31 | 63 | 76 | 74 | 79 | 66 |
-| Nicolas Raskin | Rangers | **77** | 73 | 63 | 73 | 76 | 73 | 74 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Kevin De Bruyne | Napoli | **87** | 87 | — | 66 | 83 | 92 | 84 | 65 | 72 |
+| Youri Tielemans 🅲 | Aston Villa | **85** | 85 | — | 54 | 79 | 85 | 80 | 75 | 72 |
+| Hans Vanaken | Club Brugge | **80** | 80 | — | 45 | 79 | 84 | 77 | 60 | 78 |
+| Amadou Onana | Aston Villa | **79** | 83 | +4 | 74 | 62 | 72 | 73 | 78 | 81 |
+| Axel Witsel | Girona | **77** | 77 | — | 31 | 63 | 76 | 74 | 79 | 66 |
+| Nicolas Raskin | Rangers | **77** | 82 | +5 | 73 | 63 | 73 | 76 | 73 | 74 |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Romelu Lukaku | Napoli | **84** | 79 | 82 | 75 | 75 | 41 | 84 |
-| Leandro Trossard | Arsenal | **83** | 80 | 81 | 80 | 85 | 30 | 60 |
-| Dodi Lukébakio | Benfica | **82** | 87 | 81 | 76 | 83 | 31 | 64 |
-| Charles De Ketelaere | Atalanta | **82** | 70 | 79 | 80 | 83 | 56 | 68 |
-| Jérémy Doku | Manchester City | **80** | 91 | 71 | 72 | 87 | 32 | 68 |
-| Alexis Saelemaekers | Milan | **79** | 80 | 67 | 75 | 81 | 66 | 63 |
-| Diego Moreira | Strasbourg | **77** | 90 | 67 | 69 | 79 | 64 | 68 |
-| Matias Fernandez-Pardo | Lille | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Romelu Lukaku | Napoli | **84** | 84 | — | 79 | 82 | 75 | 75 | 41 | 84 |
+| Leandro Trossard | Arsenal | **83** | 83 | — | 80 | 81 | 80 | 85 | 30 | 60 |
+| Dodi Lukébakio | Benfica | **82** | 82 | — | 87 | 81 | 76 | 83 | 31 | 64 |
+| Charles De Ketelaere | Atalanta | **82** | 86 | +4 | 70 | 79 | 80 | 83 | 56 | 68 |
+| Jérémy Doku | Manchester City | **80** | 85 | +5 | 91 | 71 | 72 | 87 | 32 | 68 |
+| Alexis Saelemaekers | Milan | **79** | 80 | +1 | 80 | 67 | 75 | 81 | 66 | 63 |
+| Diego Moreira | Strasbourg | **77** | 83 | +6 | 90 | 67 | 69 | 79 | 64 | 68 |
+| Matias Fernandez-Pardo | Lille | — | — | — | — | — | — | — | — | — |
 
 ---
 ## 2. キープレーヤー

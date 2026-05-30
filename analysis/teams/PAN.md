@@ -7,44 +7,44 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Luis Mejía | Nacional | **72** | None | None | None | None | None | None |
-| Orlando Mosquera | Al-Fayha | **70** | None | None | None | None | None | None |
-| César Samudio | Marathón | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Luis Mejía | Nacional | **72** | 72 | — | — | — | — | — | — | — |
+| Orlando Mosquera | Al-Fayha | **70** | 71 | +1 | — | — | — | — | — | — |
+| César Samudio | Marathón | — | — | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Michael Amir Murillo | Beşiktaş | **76** | 84 | 57 | 70 | 71 | 70 | 76 |
-| Andrés Andrade | LASK | **69** | 74 | 51 | 60 | 64 | 68 | 79 |
-| José Córdoba | Norwich City | **68** | 72 | 31 | 53 | 61 | 65 | 73 |
-| Eric Davis | Plaza Amador | **—** | — | — | — | — | — | — |
-| Fidel Escobar | Saprissa | **—** | — | — | — | — | — | — |
-| Roderick Miller | Turan Tovuz | **—** | — | — | — | — | — | — |
-| César Blackman | Slovan Bratislava | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Michael Amir Murillo | Beşiktaş | **76** | 76 | — | 84 | 57 | 70 | 71 | 70 | 76 |
+| Andrés Andrade | LASK | **69** | 73 | +4 | 74 | 51 | 60 | 64 | 68 | 79 |
+| José Córdoba | Norwich City | **68** | 74 | +6 | 72 | 31 | 53 | 61 | 65 | 73 |
+| Eric Davis | Plaza Amador | — | — | — | — | — | — | — | — | — |
+| Fidel Escobar | Saprissa | — | — | — | — | — | — | — | — | — |
+| Roderick Miller | Turan Tovuz | — | — | — | — | — | — | — | — | — |
+| César Blackman | Slovan Bratislava | — | — | — | — | — | — | — | — | — |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Aníbal Godoy 🅲 | San Diego FC | **70** | 43 | 56 | 65 | 67 | 64 | 75 |
-| Carlos Harvey | Minnesota United FC | **65** | 53 | 42 | 54 | 58 | 64 | 73 |
-| Alberto Quintero | Plaza Amador | **—** | — | — | — | — | — | — |
-| Yoel Bárcenas | Mazatlán | **—** | — | — | — | — | — | — |
-| Adalberto Carrasquilla | UNAM | **—** | — | — | — | — | — | — |
-| José Luis Rodríguez | Juárez | **—** | — | — | — | — | — | — |
-| Cristian Martínez | Ironi Kiryat Shmona | **—** | — | — | — | — | — | — |
-| César Yanis | Cobresal | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Aníbal Godoy 🅲 | San Diego FC | **70** | 70 | — | 43 | 56 | 65 | 67 | 64 | 75 |
+| Carlos Harvey | Minnesota United FC | **65** | 69 | +4 | 53 | 42 | 54 | 58 | 64 | 73 |
+| Alberto Quintero | Plaza Amador | — | — | — | — | — | — | — | — | — |
+| Yoel Bárcenas | Mazatlán | — | — | — | — | — | — | — | — | — |
+| Adalberto Carrasquilla | UNAM | — | — | — | — | — | — | — | — | — |
+| José Luis Rodríguez | Juárez | — | — | — | — | — | — | — | — | — |
+| Cristian Martínez | Ironi Kiryat Shmona | — | — | — | — | — | — | — | — | — |
+| César Yanis | Cobresal | — | — | — | — | — | — | — | — | — |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| José Fajardo | Universidad Católica | **68** | 69 | 68 | 58 | 68 | 33 | 68 |
-| Ismael Díaz | León | **—** | — | — | — | — | — | — |
-| Cecilio Waterman | Universidad de Concepción | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| José Fajardo | Universidad Católica | **68** | 68 | — | 69 | 68 | 58 | 68 | 33 | 68 |
+| Ismael Díaz | León | — | — | — | — | — | — | — | — | — |
+| Cecilio Waterman | Universidad de Concepción | — | — | — | — | — | — | — | — | — |
 
 ---
 ## 2. キープレーヤー
@@ -59,7 +59,7 @@
 - **年齢**: 35  |  **代表キャップ**: 56  |  **代表得点**: 0
 - **能力値**: PAC None / SHO None / PAS None / DRI None / DEF None / PHY None
 
-### Orlando Mosquera (OVR 70)
+### Orlando Mosquera (OVR 70 → POT **71**)
 - **ポジション**: GK  |  **クラブ**: Al-Fayha
 - **年齢**: 31  |  **代表キャップ**: 46  |  **代表得点**: 0
 - **能力値**: PAC None / SHO None / PAS None / DRI None / DEF None / PHY None
@@ -69,7 +69,7 @@
 - **年齢**: 36  |  **代表キャップ**: 159  |  **代表得点**: 4
 - **能力値**: PAC 43 / SHO 56 / PAS 65 / DRI 67 / DEF 64 / PHY 75
 
-### Andrés Andrade (OVR 69)
+### Andrés Andrade (OVR 69 → POT **73**)
 - **ポジション**: DF  |  **クラブ**: LASK
 - **年齢**: 27  |  **代表キャップ**: 47  |  **代表得点**: 1
 - **能力値**: PAC 74 / SHO 51 / PAS 60 / DRI 64 / DEF 68 / PHY 79

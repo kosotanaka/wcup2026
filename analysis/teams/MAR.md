@@ -7,54 +7,54 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Yassine Bounou | Al-Hilal | **82** | None | None | None | None | None | None |
-| Munir Mohamedi | RS Berkane | **74** | None | None | None | None | None | None |
-| Ahmed Reda Tagnaouti | AS FAR | **70** | None | None | None | None | None | None |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Yassine Bounou | Al-Hilal | **82** | 82 | — | — | — | — | — | — | — |
+| Munir Mohamedi | RS Berkane | **74** | 74 | — | — | — | — | — | — | — |
+| Ahmed Reda Tagnaouti | AS FAR | **70** | 72 | +2 | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Achraf Hakimi 🅲 | Paris Saint-Germain | **89** | 92 | 79 | 82 | 83 | 82 | 79 |
-| Nayef Aguerd | Marseille | **81** | 72 | 50 | 67 | 65 | 82 | 77 |
-| Noussair Mazraoui | Manchester United | **80** | 75 | 66 | 76 | 80 | 77 | 72 |
-| Issa Diop | Fulham | **76** | 77 | 69 | 75 | 80 | 54 | 53 |
-| Zakaria El Ouahdi | Genk | **76** | 73 | 66 | 70 | 77 | 69 | 71 |
-| Youssef Belammari | Al Ahly | **73** | 59 | 76 | 65 | 72 | 37 | 64 |
-| Chadi Riad | Crystal Palace | **72** | 60 | 32 | 57 | 61 | 71 | 72 |
-| Redouane Halhal | Mechelen | **63** | 59 | 30 | 44 | 48 | 64 | 65 |
-| Anass Salah-Eddine | PSV Eindhoven | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Achraf Hakimi 🅲 | Paris Saint-Germain | **89** | 90 | +1 | 92 | 79 | 82 | 83 | 82 | 79 |
+| Nayef Aguerd | Marseille | **81** | 82 | +1 | 72 | 50 | 67 | 65 | 82 | 77 |
+| Noussair Mazraoui | Manchester United | **80** | 81 | +1 | 75 | 66 | 76 | 80 | 77 | 72 |
+| Issa Diop | Fulham | **76** | 79 | +3 | 77 | 69 | 75 | 80 | 54 | 53 |
+| Zakaria El Ouahdi | Genk | **76** | 83 | +7 | 73 | 66 | 70 | 77 | 69 | 71 |
+| Youssef Belammari | Al Ahly | **73** | 73 | — | 59 | 76 | 65 | 72 | 37 | 64 |
+| Chadi Riad | Crystal Palace | **72** | 81 | +9 | 60 | 32 | 57 | 61 | 71 | 72 |
+| Redouane Halhal | Mechelen | **63** | 73 | +10 | 59 | 30 | 44 | 48 | 64 | 65 |
+| Anass Salah-Eddine | PSV Eindhoven | — | — | — | — | — | — | — | — | — |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ismael Saibari | PSV Eindhoven | **79** | 78 | 75 | 74 | 82 | 51 | 78 |
-| Sofyan Amrabat | Real Betis | **78** | 61 | 70 | 73 | 74 | 75 | 82 |
-| Neil El Aynaoui | Roma | **77** | 62 | 63 | 76 | 74 | 73 | 75 |
-| Azzedine Ounahi | Girona | **76** | 64 | 66 | 73 | 77 | 63 | 67 |
-| Bilal El Khannouss | VfB Stuttgart | **76** | 76 | 64 | 76 | 82 | 38 | 56 |
-| Samir El Mourabet | Strasbourg | **66** | 57 | 51 | 63 | 64 | 59 | 61 |
-| Ayyoub Bouaddi | Lille | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ismael Saibari | PSV Eindhoven | **79** | 84 | +5 | 78 | 75 | 74 | 82 | 51 | 78 |
+| Sofyan Amrabat | Real Betis | **78** | 78 | — | 61 | 70 | 73 | 74 | 75 | 82 |
+| Neil El Aynaoui | Roma | **77** | 83 | +6 | 62 | 63 | 76 | 74 | 73 | 75 |
+| Azzedine Ounahi | Girona | **76** | 81 | +5 | 64 | 66 | 73 | 77 | 63 | 67 |
+| Bilal El Khannouss | VfB Stuttgart | **76** | 84 | +8 | 76 | 64 | 76 | 82 | 38 | 56 |
+| Samir El Mourabet | Strasbourg | **66** | 77 | +11 | 57 | 51 | 63 | 64 | 59 | 61 |
+| Ayyoub Bouaddi | Lille | — | — | — | — | — | — | — | — | — |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Brahim Díaz | Real Madrid | **82** | 82 | 74 | 79 | 85 | 31 | 58 |
-| Ayoub El Kaabi | Olympiacos | **80** | 82 | 82 | 62 | 75 | 46 | 77 |
-| Soufiane Rahimi | Al Ain | **78** | 85 | 76 | 72 | 77 | 38 | 66 |
-| Abde Ezzalzouli | Real Betis | **77** | 87 | 69 | 70 | 81 | 29 | 63 |
-| Chemsdine Talbi | Sunderland | **73** | 90 | 59 | 64 | 79 | 47 | 57 |
-| Ayoube Amaimouni | Eintracht Frankfurt | **63** | 71 | 65 | 57 | 68 | 21 | 50 |
-| Gessime Yassine | Strasbourg | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Brahim Díaz | Real Madrid | **82** | 83 | +1 | 82 | 74 | 79 | 85 | 31 | 58 |
+| Ayoub El Kaabi | Olympiacos | **80** | 80 | — | 82 | 82 | 62 | 75 | 46 | 77 |
+| Soufiane Rahimi | Al Ain | **78** | 78 | — | 85 | 76 | 72 | 77 | 38 | 66 |
+| Abde Ezzalzouli | Real Betis | **77** | 83 | +6 | 87 | 69 | 70 | 81 | 29 | 63 |
+| Chemsdine Talbi | Sunderland | **73** | 86 | +13 | 90 | 59 | 64 | 79 | 47 | 57 |
+| Ayoube Amaimouni | Eintracht Frankfurt | **63** | 72 | +9 | 71 | 65 | 57 | 68 | 21 | 50 |
+| Gessime Yassine | Strasbourg | — | — | — | — | — | — | — | — | — |
 
 ---
 ## 2. キープレーヤー
 
-### Achraf Hakimi (OVR 89)
+### Achraf Hakimi (OVR 89 → POT **90**)
 - **ポジション**: DF  |  **クラブ**: Paris Saint-Germain
 - **年齢**: 27  |  **代表キャップ**: 95  |  **代表得点**: 11
 - **能力値**: PAC 92 / SHO 79 / PAS 82 / DRI 83 / DEF 82 / PHY 79
@@ -64,17 +64,17 @@
 - **年齢**: 35  |  **代表キャップ**: 89  |  **代表得点**: 0
 - **能力値**: PAC None / SHO None / PAS None / DRI None / DEF None / PHY None
 
-### Brahim Díaz (OVR 82)
+### Brahim Díaz (OVR 82 → POT **83**)
 - **ポジション**: FW  |  **クラブ**: Real Madrid
 - **年齢**: 26  |  **代表キャップ**: 24  |  **代表得点**: 13
 - **能力値**: PAC 82 / SHO 74 / PAS 79 / DRI 85 / DEF 31 / PHY 58
 
-### Nayef Aguerd (OVR 81)
+### Nayef Aguerd (OVR 81 → POT **82**)
 - **ポジション**: DF  |  **クラブ**: Marseille
 - **年齢**: 30  |  **代表キャップ**: 64  |  **代表得点**: 2
 - **能力値**: PAC 72 / SHO 50 / PAS 67 / DRI 65 / DEF 82 / PHY 77
 
-### Noussair Mazraoui (OVR 80)
+### Noussair Mazraoui (OVR 80 → POT **81**)
 - **ポジション**: DF  |  **クラブ**: Manchester United
 - **年齢**: 28  |  **代表キャップ**: 43  |  **代表得点**: 2
 - **能力値**: PAC 75 / SHO 66 / PAS 76 / DRI 80 / DEF 77 / PHY 72

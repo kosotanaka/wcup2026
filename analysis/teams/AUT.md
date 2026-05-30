@@ -7,45 +7,45 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Alexander Schlager | Red Bull Salzburg | **73** | None | None | None | None | None | None |
-| Patrick Pentz | Brøndby | **72** | None | None | None | None | None | None |
-| Florian Wiegele | Viktoria Plzeň | **67** | None | None | None | None | None | None |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Alexander Schlager | Red Bull Salzburg | **73** | 75 | +2 | — | — | — | — | — | — |
+| Patrick Pentz | Brøndby | **72** | 75 | +3 | — | — | — | — | — | — |
+| Florian Wiegele | Viktoria Plzeň | **67** | 72 | +5 | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| David Alaba 🅲 | Real Madrid | **82** | 68 | 71 | 82 | 79 | 82 | 75 |
-| Stefan Posch | Mainz 05 | **79** | 75 | 55 | 68 | 66 | 80 | 74 |
-| Philipp Lienhart | SC Freiburg | **79** | 67 | 28 | 59 | 64 | 81 | 78 |
-| Kevin Danso | Tottenham Hotspur | **79** | 73 | 32 | 57 | 62 | 78 | 83 |
-| Marco Friedl | Werder Bremen | **77** | 75 | 44 | 64 | 69 | 79 | 77 |
-| Phillipp Mwene | Mainz 05 | **76** | 78 | 55 | 69 | 75 | 70 | 70 |
-| Alexander Prass | TSG Hoffenheim | **74** | 74 | 65 | 74 | 75 | 69 | 74 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| David Alaba 🅲 | Real Madrid | **82** | 82 | — | 68 | 71 | 82 | 79 | 82 | 75 |
+| Stefan Posch | Mainz 05 | **79** | 79 | — | 75 | 55 | 68 | 66 | 80 | 74 |
+| Philipp Lienhart | SC Freiburg | **79** | 80 | +1 | 67 | 28 | 59 | 64 | 81 | 78 |
+| Kevin Danso | Tottenham Hotspur | **79** | 82 | +3 | 73 | 32 | 57 | 62 | 78 | 83 |
+| Marco Friedl | Werder Bremen | **77** | 79 | +2 | 75 | 44 | 64 | 69 | 79 | 77 |
+| Phillipp Mwene | Mainz 05 | **76** | 76 | — | 78 | 55 | 69 | 75 | 70 | 70 |
+| Alexander Prass | TSG Hoffenheim | **74** | 77 | +3 | 74 | 65 | 74 | 75 | 69 | 74 |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Konrad Laimer | Bayern Munich | **82** | 82 | 69 | 76 | 75 | 81 | 76 |
-| Marcel Sabitzer | Borussia Dortmund | **80** | 74 | 80 | 80 | 80 | 76 | 76 |
-| Xaver Schlager | RB Leipzig | **80** | 69 | 70 | 74 | 78 | 75 | 78 |
-| Romano Schmid | Werder Bremen | **78** | 77 | 67 | 78 | 83 | 56 | 58 |
-| Nicolas Seiwald | RB Leipzig | **77** | 72 | 62 | 74 | 74 | 74 | 76 |
-| Christoph Baumgartner | RB Leipzig | **77** | 74 | 72 | 72 | 79 | 47 | 63 |
-| Patrick Wimmer | VfL Wolfsburg | **77** | 84 | 69 | 72 | 81 | 49 | 73 |
-| Florian Grillitsch | Braga | **75** | 63 | 59 | 74 | 74 | 72 | 66 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Konrad Laimer | Bayern Munich | **82** | 82 | — | 82 | 69 | 76 | 75 | 81 | 76 |
+| Marcel Sabitzer | Borussia Dortmund | **80** | 80 | — | 74 | 80 | 80 | 80 | 76 | 76 |
+| Xaver Schlager | RB Leipzig | **80** | 82 | +2 | 69 | 70 | 74 | 78 | 75 | 78 |
+| Romano Schmid | Werder Bremen | **78** | 81 | +3 | 77 | 67 | 78 | 83 | 56 | 58 |
+| Nicolas Seiwald | RB Leipzig | **77** | 84 | +7 | 72 | 62 | 74 | 74 | 74 | 76 |
+| Christoph Baumgartner | RB Leipzig | **77** | 80 | +3 | 74 | 72 | 72 | 79 | 47 | 63 |
+| Patrick Wimmer | VfL Wolfsburg | **77** | 83 | +6 | 84 | 69 | 72 | 81 | 49 | 73 |
+| Florian Grillitsch | Braga | **75** | 75 | — | 63 | 59 | 74 | 74 | 72 | 66 |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Michael Gregoritsch | FC Augsburg | **75** | 37 | 77 | 68 | 68 | 42 | 76 |
-| Saša Kalajdžić | LASK | **74** | 50 | 72 | 67 | 68 | 45 | 64 |
-| Marko Arnautović | Red Star Belgrade | **—** | — | — | — | — | — | — |
-| Carney Chukwuemeka | Borussia Dortmund | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Michael Gregoritsch | FC Augsburg | **75** | 75 | — | 37 | 77 | 68 | 68 | 42 | 76 |
+| Saša Kalajdžić | LASK | **74** | 74 | — | 50 | 72 | 67 | 68 | 45 | 64 |
+| Marko Arnautović | Red Star Belgrade | — | — | — | — | — | — | — | — | — |
+| Carney Chukwuemeka | Borussia Dortmund | — | — | — | — | — | — | — | — | — |
 
 ---
 ## 2. キープレーヤー
@@ -65,7 +65,7 @@
 - **年齢**: 32  |  **代表キャップ**: 97  |  **代表得点**: 25
 - **能力値**: PAC 74 / SHO 80 / PAS 80 / DRI 80 / DEF 76 / PHY 76
 
-### Xaver Schlager (OVR 80)
+### Xaver Schlager (OVR 80 → POT **82**)
 - **ポジション**: MF  |  **クラブ**: RB Leipzig
 - **年齢**: 28  |  **代表キャップ**: 50  |  **代表得点**: 4
 - **能力値**: PAC 69 / SHO 70 / PAS 74 / DRI 78 / DEF 75 / PHY 78

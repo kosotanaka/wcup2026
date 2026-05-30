@@ -7,45 +7,45 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Hossein Hosseini | Sepahan | **68** | 56 | 30 | 46 | 50 | 69 | 75 |
-| Alireza Beiranvand | Tractor | **—** | — | — | — | — | — | — |
-| Payam Niazmand | Persepolis | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Hossein Hosseini | Sepahan | **68** | 69 | +1 | 56 | 30 | 46 | 50 | 69 | 75 |
+| Alireza Beiranvand | Tractor | — | — | — | — | — | — | — | — | — |
+| Payam Niazmand | Persepolis | — | — | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ehsan Hajsafi | Sepahan | **—** | — | — | — | — | — | — |
-| Milad Mohammadi | Persepolis | **—** | — | — | — | — | — | — |
-| Ramin Rezaeian | Foolad | **—** | — | — | — | — | — | — |
-| Hossein Kanaanizadegan | Persepolis | **—** | — | — | — | — | — | — |
-| Shojae Khalilzadeh | Tractor | **—** | — | — | — | — | — | — |
-| Saleh Hardani | Esteghlal | **—** | — | — | — | — | — | — |
-| Ali Nemati | Foolad | **—** | — | — | — | — | — | — |
-| Aria Yousefi | Sepahan | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ehsan Hajsafi | Sepahan | — | — | — | — | — | — | — | — | — |
+| Milad Mohammadi | Persepolis | — | — | — | — | — | — | — | — | — |
+| Ramin Rezaeian | Foolad | — | — | — | — | — | — | — | — | — |
+| Hossein Kanaanizadegan | Persepolis | — | — | — | — | — | — | — | — | — |
+| Shojae Khalilzadeh | Tractor | — | — | — | — | — | — | — | — | — |
+| Saleh Hardani | Esteghlal | — | — | — | — | — | — | — | — | — |
+| Ali Nemati | Foolad | — | — | — | — | — | — | — | — | — |
+| Aria Yousefi | Sepahan | — | — | — | — | — | — | — | — | — |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Alireza Jahanbakhsh 🅲 | Dender | **—** | — | — | — | — | — | — |
-| Saeid Ezatolahi | Shabab Al-Ahli | **—** | — | — | — | — | — | — |
-| Saman Ghoddos | Kalba | **—** | — | — | — | — | — | — |
-| Mehdi Torabi | Tractor | **—** | — | — | — | — | — | — |
-| Rouzbeh Cheshmi | Esteghlal | **—** | — | — | — | — | — | — |
-| Omid Noorafkan | Sepahan | **—** | — | — | — | — | — | — |
-| Mohammad Mohebi | Rostov | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Alireza Jahanbakhsh 🅲 | Dender | — | — | — | — | — | — | — | — | — |
+| Saeid Ezatolahi | Shabab Al-Ahli | — | — | — | — | — | — | — | — | — |
+| Saman Ghoddos | Kalba | — | — | — | — | — | — | — | — | — |
+| Mehdi Torabi | Tractor | — | — | — | — | — | — | — | — | — |
+| Rouzbeh Cheshmi | Esteghlal | — | — | — | — | — | — | — | — | — |
+| Omid Noorafkan | Sepahan | — | — | — | — | — | — | — | — | — |
+| Mohammad Mohebi | Rostov | — | — | — | — | — | — | — | — | — |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Mehdi Taremi | Olympiacos | **78** | 74 | 78 | 74 | 78 | 38 | 68 |
-| Mehdi Ghayedi | Al-Nasr | **—** | — | — | — | — | — | — |
-| Amirhossein Hosseinzadeh | Tractor | **—** | — | — | — | — | — | — |
-| Ali Alipour | Persepolis | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Mehdi Taremi | Olympiacos | **78** | 78 | — | 74 | 78 | 74 | 78 | 38 | 68 |
+| Mehdi Ghayedi | Al-Nasr | — | — | — | — | — | — | — | — | — |
+| Amirhossein Hosseinzadeh | Tractor | — | — | — | — | — | — | — | — | — |
+| Ali Alipour | Persepolis | — | — | — | — | — | — | — | — | — |
 
 ---
 ## 2. キープレーヤー
@@ -55,7 +55,7 @@
 - **年齢**: 33  |  **代表キャップ**: 104  |  **代表得点**: 60
 - **能力値**: PAC 74 / SHO 78 / PAS 74 / DRI 78 / DEF 38 / PHY 68
 
-### Hossein Hosseini (OVR 68)
+### Hossein Hosseini (OVR 68 → POT **69**)
 - **ポジション**: GK  |  **クラブ**: Sepahan
 - **年齢**: 33  |  **代表キャップ**: 13  |  **代表得点**: 0
 - **能力値**: PAC 56 / SHO 30 / PAS 46 / DRI 50 / DEF 69 / PHY 75

@@ -7,53 +7,53 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Hernán Galíndez | Aucas | **74** | None | None | None | None | None | None |
-| Alexander Domínguez | Liga de Quito | **73** | None | None | None | None | None | None |
-| Moisés Ramírez | Independiente del Valle | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Hernán Galíndez | Aucas | **74** | 74 | — | — | — | — | — | — | — |
+| Alexander Domínguez | Liga de Quito | **73** | 73 | — | — | — | — | — | — | — |
+| Moisés Ramírez | Independiente del Valle | — | — | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Piero Hincapié | Bayer Leverkusen | **83** | 84 | 41 | 65 | 72 | 84 | 82 |
-| Angelo Preciado | Genk | **75** | 87 | 62 | 70 | 76 | 66 | 71 |
-| Diego Palacios | Portland Timbers | **71** | 75 | 73 | 57 | 66 | 33 | 66 |
-| Robert Arboleda | São Paulo | **—** | — | — | — | — | — | — |
-| Félix Torres | Santos Laguna | **—** | — | — | — | — | — | — |
-| Jackson Porozo | Espanyol | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Piero Hincapié | Bayer Leverkusen | **83** | 89 | +6 | 84 | 41 | 65 | 72 | 84 | 82 |
+| Angelo Preciado | Genk | **75** | 75 | — | 87 | 62 | 70 | 76 | 66 | 71 |
+| Diego Palacios | Portland Timbers | **71** | 71 | — | 75 | 73 | 57 | 66 | 33 | 66 |
+| Robert Arboleda | São Paulo | — | — | — | — | — | — | — | — | — |
+| Félix Torres | Santos Laguna | — | — | — | — | — | — | — | — | — |
+| Jackson Porozo | Espanyol | — | — | — | — | — | — | — | — | — |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Moisés Caicedo 🅲 | Chelsea | **87** | 71 | 64 | 78 | 81 | 84 | 82 |
-| Carlos Gruezo | Augsburg | **72** | 58 | 46 | 62 | 70 | 67 | 75 |
-| Jhegson Méndez | Los Angeles FC | **70** | 68 | 57 | 67 | 70 | 65 | 67 |
-| Jeremy Sarmiento | Brighton | **70** | 78 | 63 | 65 | 74 | 37 | 59 |
-| Ángel Mena | León | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Moisés Caicedo 🅲 | Chelsea | **87** | 89 | +2 | 71 | 64 | 78 | 81 | 84 | 82 |
+| Carlos Gruezo | Augsburg | **72** | 72 | — | 58 | 46 | 62 | 70 | 67 | 75 |
+| Jhegson Méndez | Los Angeles FC | **70** | 70 | — | 68 | 57 | 67 | 70 | 65 | 67 |
+| Jeremy Sarmiento | Brighton | **70** | 78 | +8 | 78 | 63 | 65 | 74 | 37 | 59 |
+| Ángel Mena | León | — | — | — | — | — | — | — | — | — |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Kendry Páez | Independiente del Valle | **73** | 79 | 68 | 69 | 75 | 43 | 54 |
-| Michael Estrada | Cruz Azul | **69** | 76 | 62 | 51 | 66 | 24 | 77 |
-| Kevin Rodríguez | Ipswich Town | **67** | 79 | 65 | 54 | 68 | 25 | 67 |
-| Enner Valencia | Internacional | **55** | 78 | 36 | 43 | 52 | 47 | 48 |
-| Djorkaeff Reasco | Nantes | **—** | — | — | — | — | — | — |
-| Gonzalo Plata | Al-Qadsiah | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Kendry Páez | Independiente del Valle | **73** | 85 | +12 | 79 | 68 | 69 | 75 | 43 | 54 |
+| Michael Estrada | Cruz Azul | **69** | 69 | — | 76 | 62 | 51 | 66 | 24 | 77 |
+| Kevin Rodríguez | Ipswich Town | **67** | 71 | +4 | 79 | 65 | 54 | 68 | 25 | 67 |
+| Enner Valencia | Internacional | **55** | 66 | +11 | 78 | 36 | 43 | 52 | 47 | 48 |
+| Djorkaeff Reasco | Nantes | — | — | — | — | — | — | — | — | — |
+| Gonzalo Plata | Al-Qadsiah | — | — | — | — | — | — | — | — | — |
 
 ---
 ## 2. キープレーヤー
 
-### Moisés Caicedo (OVR 87)
+### Moisés Caicedo (OVR 87 → POT **89**)
 - **ポジション**: MF  |  **クラブ**: Chelsea
 - **年齢**: 24  |  **代表キャップ**: 43  |  **代表得点**: 4
 - **能力値**: PAC 71 / SHO 64 / PAS 78 / DRI 81 / DEF 84 / PHY 82
 
-### Piero Hincapié (OVR 83)
+### Piero Hincapié (OVR 83 → POT **89**)
 - **ポジション**: DF  |  **クラブ**: Bayer Leverkusen
 - **年齢**: 24  |  **代表キャップ**: 38  |  **代表得点**: 2
 - **能力値**: PAC 84 / SHO 41 / PAS 65 / DRI 72 / DEF 84 / PHY 82

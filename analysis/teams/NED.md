@@ -7,49 +7,49 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Bart Verbruggen | Brighton & Hove Albion | **78** | None | None | None | None | None | None |
-| Mark Flekken | Bayer Leverkusen | **78** | None | None | None | None | None | None |
-| Robin Roefs | Sunderland | **74** | None | None | None | None | None | None |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Bart Verbruggen | Brighton & Hove Albion | **78** | 84 | +6 | — | — | — | — | — | — |
+| Mark Flekken | Bayer Leverkusen | **78** | 78 | — | — | — | — | — | — | — |
+| Robin Roefs | Sunderland | **74** | 84 | +10 | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Virgil van Dijk 🅲 | Liverpool | **90** | 73 | 60 | 72 | 72 | 90 | 87 |
-| Denzel Dumfries | Inter Milan | **84** | 84 | 70 | 75 | 79 | 79 | 84 |
-| Nathan Aké | Manchester City | **83** | 72 | 53 | 72 | 75 | 84 | 74 |
-| Jurriën Timber | Arsenal | **82** | 76 | 48 | 72 | 77 | 82 | 80 |
-| Micky van de Ven | Tottenham Hotspur | **82** | 90 | 49 | 64 | 72 | 82 | 80 |
-| Jan Paul van Hecke | Brighton & Hove Albion | **80** | 67 | 46 | 72 | 70 | 80 | 78 |
-| Mats Wieffer | Brighton & Hove Albion | **78** | 67 | 66 | 74 | 74 | 76 | 78 |
-| Jorrel Hato | Chelsea | **78** | 85 | 41 | 70 | 74 | 75 | 73 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Virgil van Dijk 🅲 | Liverpool | **90** | 90 | — | 73 | 60 | 72 | 72 | 90 | 87 |
+| Denzel Dumfries | Inter Milan | **84** | 84 | — | 84 | 70 | 75 | 79 | 79 | 84 |
+| Nathan Aké | Manchester City | **83** | 83 | — | 72 | 53 | 72 | 75 | 84 | 74 |
+| Jurriën Timber | Arsenal | **82** | 85 | +3 | 76 | 48 | 72 | 77 | 82 | 80 |
+| Micky van de Ven | Tottenham Hotspur | **82** | 85 | +3 | 90 | 49 | 64 | 72 | 82 | 80 |
+| Jan Paul van Hecke | Brighton & Hove Albion | **80** | 83 | +3 | 67 | 46 | 72 | 70 | 80 | 78 |
+| Mats Wieffer | Brighton & Hove Albion | **78** | 82 | +4 | 67 | 66 | 74 | 74 | 76 | 78 |
+| Jorrel Hato | Chelsea | **78** | 89 | +11 | 85 | 41 | 70 | 74 | 75 | 73 |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Frenkie de Jong | Barcelona | **87** | 82 | 71 | 85 | 87 | 78 | 77 |
-| Tijjani Reijnders | Manchester City | **86** | 79 | 79 | 82 | 85 | 77 | 77 |
-| Ryan Gravenberch | Liverpool | **85** | 76 | 76 | 81 | 85 | 81 | 81 |
-| Teun Koopmeiners | Juventus | **81** | 70 | 79 | 83 | 78 | 75 | 75 |
-| Marten de Roon | Atalanta | **81** | 61 | 74 | 77 | 76 | 83 | 80 |
-| Quinten Timber | Marseille | **80** | 77 | 78 | 76 | 80 | 74 | 83 |
-| Justin Kluivert | Bournemouth | **79** | 87 | 78 | 76 | 81 | 38 | 62 |
-| Guus Til | PSV Eindhoven | **77** | 79 | 76 | 72 | 74 | 64 | 74 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Frenkie de Jong | Barcelona | **87** | 87 | — | 82 | 71 | 85 | 87 | 78 | 77 |
+| Tijjani Reijnders | Manchester City | **86** | 87 | +1 | 79 | 79 | 82 | 85 | 77 | 77 |
+| Ryan Gravenberch | Liverpool | **85** | 88 | +3 | 76 | 76 | 81 | 85 | 81 | 81 |
+| Teun Koopmeiners | Juventus | **81** | 81 | — | 70 | 79 | 83 | 78 | 75 | 75 |
+| Marten de Roon | Atalanta | **81** | 81 | — | 61 | 74 | 77 | 76 | 83 | 80 |
+| Quinten Timber | Marseille | **80** | 85 | +5 | 77 | 78 | 76 | 80 | 74 | 83 |
+| Justin Kluivert | Bournemouth | **79** | 81 | +2 | 87 | 78 | 76 | 81 | 38 | 62 |
+| Guus Til | PSV Eindhoven | **77** | 77 | — | 79 | 76 | 72 | 74 | 64 | 74 |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Cody Gakpo | Liverpool | **84** | 83 | 82 | 80 | 83 | 47 | 74 |
-| Memphis Depay | Corinthians | **81** | 79 | 82 | 79 | 83 | 30 | 78 |
-| Noa Lang | Galatasaray | **80** | 80 | 77 | 73 | 84 | 50 | 68 |
-| Donyell Malen | Roma | **79** | 86 | 78 | 72 | 82 | 35 | 67 |
-| Wout Weghorst | Ajax | **78** | 54 | 78 | 62 | 68 | 57 | 87 |
-| Brian Brobbey | Sunderland | **77** | 84 | 73 | 56 | 72 | 30 | 80 |
-| Crysencio Summerville | West Ham United | **76** | 89 | 71 | 67 | 80 | 35 | 54 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Cody Gakpo | Liverpool | **84** | 85 | +1 | 83 | 82 | 80 | 83 | 47 | 74 |
+| Memphis Depay | Corinthians | **81** | 81 | — | 79 | 82 | 79 | 83 | 30 | 78 |
+| Noa Lang | Galatasaray | **80** | 81 | +1 | 80 | 77 | 73 | 84 | 50 | 68 |
+| Donyell Malen | Roma | **79** | 80 | +1 | 86 | 78 | 72 | 82 | 35 | 67 |
+| Wout Weghorst | Ajax | **78** | 78 | — | 54 | 78 | 62 | 68 | 57 | 87 |
+| Brian Brobbey | Sunderland | **77** | 83 | +6 | 84 | 73 | 56 | 72 | 30 | 80 |
+| Crysencio Summerville | West Ham United | **76** | 84 | +8 | 89 | 71 | 67 | 80 | 35 | 54 |
 
 ---
 ## 2. キープレーヤー
@@ -64,12 +64,12 @@
 - **年齢**: 29  |  **代表キャップ**: 64  |  **代表得点**: 2
 - **能力値**: PAC 82 / SHO 71 / PAS 85 / DRI 87 / DEF 78 / PHY 77
 
-### Tijjani Reijnders (OVR 86)
+### Tijjani Reijnders (OVR 86 → POT **87**)
 - **ポジション**: MF  |  **クラブ**: Manchester City
 - **年齢**: 27  |  **代表キャップ**: 30  |  **代表得点**: 7
 - **能力値**: PAC 79 / SHO 79 / PAS 82 / DRI 85 / DEF 77 / PHY 77
 
-### Ryan Gravenberch (OVR 85)
+### Ryan Gravenberch (OVR 85 → POT **88**)
 - **ポジション**: MF  |  **クラブ**: Liverpool
 - **年齢**: 24  |  **代表キャップ**: 25  |  **代表得点**: 1
 - **能力値**: PAC 76 / SHO 76 / PAS 81 / DRI 85 / DEF 81 / PHY 81

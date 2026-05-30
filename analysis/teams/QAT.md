@@ -7,51 +7,51 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Meshaal Barsham | Al-Sadd | **70** | None | None | None | None | None | None |
-| Salah Zakaria | Al-Duhail | **64** | None | None | None | None | None | None |
-| Mahmud Abunada | Al-Rayyan | **—** | — | — | — | — | — | — |
-| Shehab Ellethy | Al-Shahaniya | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Meshaal Barsham | Al-Sadd | **70** | 74 | +4 | — | — | — | — | — | — |
+| Salah Zakaria | Al-Duhail | **64** | 69 | +5 | — | — | — | — | — | — |
+| Mahmud Abunada | Al-Rayyan | — | — | — | — | — | — | — | — | — |
+| Shehab Ellethy | Al-Shahaniya | — | — | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Boualem Khoukhi | Al-Sadd | **71** | 60 | 60 | 57 | 54 | 71 | 76 |
-| Lucas Mendes | Al-Wakrah | **70** | 53 | 57 | 59 | 59 | 70 | 71 |
-| Pedro Miguel | Al-Sadd | **68** | 73 | 38 | 60 | 61 | 64 | 78 |
-| Homam Ahmed | Cultural Leonesa | **68** | 76 | 48 | 60 | 61 | 62 | 70 |
-| Sultan Al-Brake | Al-Duhail | **—** | — | — | — | — | — | — |
-| Al-Hashmi Al-Hussain | Al-Arabi | **—** | — | — | — | — | — | — |
-| Ayoub Al-Oui | Al-Gharafa | **—** | — | — | — | — | — | — |
-| Issa Laye | Al-Arabi | **—** | — | — | — | — | — | — |
-| Rayyan Al-Ali | Al-Gharafa | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Boualem Khoukhi | Al-Sadd | **71** | 71 | — | 60 | 60 | 57 | 54 | 71 | 76 |
+| Lucas Mendes | Al-Wakrah | **70** | 70 | — | 53 | 57 | 59 | 59 | 70 | 71 |
+| Pedro Miguel | Al-Sadd | **68** | 68 | — | 73 | 38 | 60 | 61 | 64 | 78 |
+| Homam Ahmed | Cultural Leonesa | **68** | 71 | +3 | 76 | 48 | 60 | 61 | 62 | 70 |
+| Sultan Al-Brake | Al-Duhail | — | — | — | — | — | — | — | — | — |
+| Al-Hashmi Al-Hussain | Al-Arabi | — | — | — | — | — | — | — | — | — |
+| Ayoub Al-Oui | Al-Gharafa | — | — | — | — | — | — | — | — | — |
+| Issa Laye | Al-Arabi | — | — | — | — | — | — | — | — | — |
+| Rayyan Al-Ali | Al-Gharafa | — | — | — | — | — | — | — | — | — |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Karim Boudiaf | Al-Duhail | **71** | 50 | 62 | 71 | 69 | 67 | 74 |
-| Abdulaziz Hatem | Al-Rayyan | **70** | 59 | 67 | 70 | 68 | 61 | 70 |
-| Assim Madibo | Al-Wakrah | **65** | 82 | 38 | 53 | 61 | 65 | 75 |
-| Jassem Gaber | Al-Rayyan | **63** | 64 | 44 | 53 | 54 | 62 | 72 |
-| Ahmed Fathy | Al-Arabi | **—** | — | — | — | — | — | — |
-| Mohamed Al-Mannai | Al-Shamal | **—** | — | — | — | — | — | — |
-| Tahsin Jamshid | Al-Duhail | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Karim Boudiaf | Al-Duhail | **71** | 71 | — | 50 | 62 | 71 | 69 | 67 | 74 |
+| Abdulaziz Hatem | Al-Rayyan | **70** | 70 | — | 59 | 67 | 70 | 68 | 61 | 70 |
+| Assim Madibo | Al-Wakrah | **65** | 66 | +1 | 82 | 38 | 53 | 61 | 65 | 75 |
+| Jassem Gaber | Al-Rayyan | **63** | 74 | +11 | 64 | 44 | 53 | 54 | 62 | 72 |
+| Ahmed Fathy | Al-Arabi | — | — | — | — | — | — | — | — | — |
+| Mohamed Al-Mannai | Al-Shamal | — | — | — | — | — | — | — | — | — |
+| Tahsin Jamshid | Al-Duhail | — | — | — | — | — | — | — | — | — |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Akram Afif | Al-Sadd | **78** | 87 | 75 | 72 | 79 | 32 | 55 |
-| Edmilson Junior | Al-Duhail | **76** | 88 | 75 | 70 | 79 | 44 | 65 |
-| Almoez Ali | Al-Duhail | **74** | 75 | 74 | 58 | 68 | 25 | 72 |
-| Hassan Al-Haydos 🅲 | Al-Sadd | **71** | 76 | 66 | 69 | 75 | 34 | 43 |
-| Ahmed Al-Ganehi | Al-Gharafa | **67** | 72 | 62 | 60 | 68 | 25 | 51 |
-| Mohammed Muntari | Al-Gharafa | **66** | 63 | 66 | 48 | 60 | 27 | 69 |
-| Yusuf Abdurisag | Al-Wakrah | **65** | 82 | 56 | 57 | 68 | 30 | 51 |
-| Ahmed Alaaeldin | Al-Rayyan | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Akram Afif | Al-Sadd | **78** | 78 | — | 87 | 75 | 72 | 79 | 32 | 55 |
+| Edmilson Junior | Al-Duhail | **76** | 76 | — | 88 | 75 | 70 | 79 | 44 | 65 |
+| Almoez Ali | Al-Duhail | **74** | 74 | — | 75 | 74 | 58 | 68 | 25 | 72 |
+| Hassan Al-Haydos 🅲 | Al-Sadd | **71** | 71 | — | 76 | 66 | 69 | 75 | 34 | 43 |
+| Ahmed Al-Ganehi | Al-Gharafa | **67** | 71 | +4 | 72 | 62 | 60 | 68 | 25 | 51 |
+| Mohammed Muntari | Al-Gharafa | **66** | 66 | — | 63 | 66 | 48 | 60 | 27 | 69 |
+| Yusuf Abdurisag | Al-Wakrah | **65** | 66 | +1 | 82 | 56 | 57 | 68 | 30 | 51 |
+| Ahmed Alaaeldin | Al-Rayyan | — | — | — | — | — | — | — | — | — |
 
 ---
 ## 2. キープレーヤー

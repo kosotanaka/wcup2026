@@ -7,43 +7,43 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Lionel Mpasi | Le Havre | **67** | None | None | None | None | None | None |
-| Timothy Fayulu | Noah | **—** | — | — | — | — | — | — |
-| Matthieu Epolo | Standard Liège | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Lionel Mpasi | Le Havre | **67** | 67 | — | — | — | — | — | — | — |
+| Timothy Fayulu | Noah | — | — | — | — | — | — | — | — | — |
+| Matthieu Epolo | Standard Liège | — | — | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Aaron Wan-Bissaka | West Ham United | **80** | 80 | 51 | 69 | 77 | 78 | 73 |
-| Chancel Mbemba 🅲 | Lille | **75** | 67 | 56 | 65 | 67 | 75 | 73 |
-| Arthur Masuaku | Lens | **75** | 79 | 62 | 74 | 78 | 68 | 79 |
-| Joris Kayembe | Genk | **74** | 79 | 60 | 71 | 74 | 66 | 74 |
-| Axel Tuanzebe | Burnley | **73** | 76 | 36 | 64 | 68 | 73 | 75 |
-| Gédéon Kalulu | Aris Limassol | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Aaron Wan-Bissaka | West Ham United | **80** | 81 | +1 | 80 | 51 | 69 | 77 | 78 | 73 |
+| Chancel Mbemba 🅲 | Lille | **75** | 75 | — | 67 | 56 | 65 | 67 | 75 | 73 |
+| Arthur Masuaku | Lens | **75** | 75 | — | 79 | 62 | 74 | 78 | 68 | 79 |
+| Joris Kayembe | Genk | **74** | 74 | — | 79 | 60 | 71 | 74 | 66 | 74 |
+| Axel Tuanzebe | Burnley | **73** | 74 | +1 | 76 | 36 | 64 | 68 | 73 | 75 |
+| Gédéon Kalulu | Aris Limassol | — | — | — | — | — | — | — | — | — |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Noah Sadiki | Sunderland | **74** | 77 | 65 | 68 | 76 | 68 | 76 |
-| Ngal'ayel Mukau | Lille | **74** | 69 | 57 | 65 | 71 | 70 | 75 |
-| Edo Kayembe | Watford | **71** | 72 | 66 | 69 | 70 | 67 | 78 |
-| Charles Pickel | Espanyol | **71** | 63 | 63 | 68 | 69 | 67 | 80 |
-| Samuel Moutoussamy | Atromitos | **—** | — | — | — | — | — | — |
-| Gaël Kakuta | AEL | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Noah Sadiki | Sunderland | **74** | 83 | +9 | 77 | 65 | 68 | 76 | 68 | 76 |
+| Ngal'ayel Mukau | Lille | **74** | 83 | +9 | 69 | 57 | 65 | 71 | 70 | 75 |
+| Edo Kayembe | Watford | **71** | 72 | +1 | 72 | 66 | 69 | 70 | 67 | 78 |
+| Charles Pickel | Espanyol | **71** | 71 | — | 63 | 63 | 68 | 69 | 67 | 80 |
+| Samuel Moutoussamy | Atromitos | — | — | — | — | — | — | — | — | — |
+| Gaël Kakuta | AEL | — | — | — | — | — | — | — | — | — |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Yoane Wissa | Newcastle United | **82** | 85 | 82 | 70 | 80 | 31 | 71 |
-| Cédric Bakambu | Real Betis | **77** | 78 | 78 | 68 | 72 | 40 | 68 |
-| Meschak Elia | Alanyaspor | **70** | 82 | 68 | 67 | 75 | 26 | 70 |
-| Théo Bongonda | Spartak Moscow | **—** | — | — | — | — | — | — |
-| Fiston Mayele | Pyramids | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Yoane Wissa | Newcastle United | **82** | 82 | — | 85 | 82 | 70 | 80 | 31 | 71 |
+| Cédric Bakambu | Real Betis | **77** | 77 | — | 78 | 78 | 68 | 72 | 40 | 68 |
+| Meschak Elia | Alanyaspor | **70** | 70 | — | 82 | 68 | 67 | 75 | 26 | 70 |
+| Théo Bongonda | Spartak Moscow | — | — | — | — | — | — | — | — | — |
+| Fiston Mayele | Pyramids | — | — | — | — | — | — | — | — | — |
 
 ---
 ## 2. キープレーヤー
@@ -53,7 +53,7 @@
 - **年齢**: 29  |  **代表キャップ**: 36  |  **代表得点**: 9
 - **能力値**: PAC 85 / SHO 82 / PAS 70 / DRI 80 / DEF 31 / PHY 71
 
-### Aaron Wan-Bissaka (OVR 80)
+### Aaron Wan-Bissaka (OVR 80 → POT **81**)
 - **ポジション**: DF  |  **クラブ**: West Ham United
 - **年齢**: 28  |  **代表キャップ**: 10  |  **代表得点**: 0
 - **能力値**: PAC 80 / SHO 51 / PAS 69 / DRI 77 / DEF 78 / PHY 73

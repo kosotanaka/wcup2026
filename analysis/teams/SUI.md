@@ -7,54 +7,54 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Gregor Kobel | Borussia Dortmund | **86** | None | None | None | None | None | None |
-| Yvon Mvogo | Lorient | **76** | None | None | None | None | None | None |
-| Marvin Keller | Young Boys | **72** | None | None | None | None | None | None |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Gregor Kobel | Borussia Dortmund | **86** | 89 | +3 | — | — | — | — | — | — |
+| Yvon Mvogo | Lorient | **76** | 76 | — | — | — | — | — | — | — |
+| Marvin Keller | Young Boys | **72** | 81 | +9 | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Manuel Akanji | Inter Milan | **82** | 74 | 48 | 69 | 73 | 82 | 81 |
-| Nico Elvedi | Borussia Mönchengladbach | **77** | 70 | 39 | 63 | 65 | 78 | 76 |
-| Miro Muheim | Hamburger SV | **75** | 73 | 66 | 73 | 73 | 71 | 73 |
-| Ricardo Rodriguez | Real Betis | **74** | 66 | 69 | 78 | 74 | 70 | 72 |
-| Silvan Widmer | Mainz 05 | **72** | 73 | 62 | 70 | 71 | 70 | 72 |
-| Eray Cömert | Valencia | **72** | 66 | 49 | 61 | 55 | 72 | 76 |
-| Aurèle Amenda | Eintracht Frankfurt | **71** | 68 | 27 | 51 | 48 | 69 | 75 |
-| Luca Jaquez | VfB Stuttgart | **69** | 64 | 42 | 52 | 62 | 68 | 71 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Manuel Akanji | Inter Milan | **82** | 82 | — | 74 | 48 | 69 | 73 | 82 | 81 |
+| Nico Elvedi | Borussia Mönchengladbach | **77** | 77 | — | 70 | 39 | 63 | 65 | 78 | 76 |
+| Miro Muheim | Hamburger SV | **75** | 76 | +1 | 73 | 66 | 73 | 73 | 71 | 73 |
+| Ricardo Rodriguez | Real Betis | **74** | 74 | — | 66 | 69 | 78 | 74 | 70 | 72 |
+| Silvan Widmer | Mainz 05 | **72** | 72 | — | 73 | 62 | 70 | 71 | 70 | 72 |
+| Eray Cömert | Valencia | **72** | 74 | +2 | 66 | 49 | 61 | 55 | 72 | 76 |
+| Aurèle Amenda | Eintracht Frankfurt | **71** | 80 | +9 | 68 | 27 | 51 | 48 | 69 | 75 |
+| Luca Jaquez | VfB Stuttgart | **69** | 78 | +9 | 64 | 42 | 52 | 62 | 68 | 71 |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Granit Xhaka 🅲 | Sunderland | **85** | 47 | 75 | 85 | 74 | 78 | 82 |
-| Denis Zakaria | Monaco | **82** | 80 | 67 | 74 | 77 | 80 | 85 |
-| Remo Freuler | Bologna | **81** | 58 | 72 | 76 | 77 | 77 | 74 |
-| Breel Embolo | Rennes | **77** | 78 | 75 | 70 | 75 | 51 | 80 |
-| Ardon Jashari | Milan | **77** | 75 | 67 | 75 | 73 | 72 | 82 |
-| Djibril Sow | Sevilla | **76** | 78 | 69 | 73 | 76 | 74 | 78 |
-| Michel Aebischer | Pisa | **74** | 66 | 67 | 72 | 75 | 74 | 70 |
-| Fabian Rieder | FC Augsburg | **74** | 74 | 69 | 71 | 75 | 51 | 62 |
-| Christian Fassnacht | Young Boys | **72** | 76 | 67 | 68 | 72 | 36 | 69 |
-| Johan Manzambi | SC Freiburg | **67** | 75 | 61 | 59 | 72 | 56 | 62 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Granit Xhaka 🅲 | Sunderland | **85** | 85 | — | 47 | 75 | 85 | 74 | 78 | 82 |
+| Denis Zakaria | Monaco | **82** | 83 | +1 | 80 | 67 | 74 | 77 | 80 | 85 |
+| Remo Freuler | Bologna | **81** | 81 | — | 58 | 72 | 76 | 77 | 77 | 74 |
+| Breel Embolo | Rennes | **77** | 77 | — | 78 | 75 | 70 | 75 | 51 | 80 |
+| Ardon Jashari | Milan | **77** | 86 | +9 | 75 | 67 | 75 | 73 | 72 | 82 |
+| Djibril Sow | Sevilla | **76** | 76 | — | 78 | 69 | 73 | 76 | 74 | 78 |
+| Michel Aebischer | Pisa | **74** | 74 | — | 66 | 67 | 72 | 75 | 74 | 70 |
+| Fabian Rieder | FC Augsburg | **74** | 82 | +8 | 74 | 69 | 71 | 75 | 51 | 62 |
+| Christian Fassnacht | Young Boys | **72** | 72 | — | 76 | 67 | 68 | 72 | 36 | 69 |
+| Johan Manzambi | SC Freiburg | **67** | 84 | +17 | 75 | 61 | 59 | 72 | 56 | 62 |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Dan Ndoye | Nottingham Forest | **79** | 89 | 72 | 70 | 81 | 62 | 68 |
-| Noah Okafor | Leeds United | **76** | 86 | 76 | 71 | 80 | 31 | 69 |
-| Rubén Vargas | Sevilla | **75** | 84 | 70 | 69 | 78 | 54 | 64 |
-| Zeki Amdouni | Burnley | **75** | 71 | 76 | 69 | 76 | 46 | 70 |
-| Cedric Itten | Fortuna Düsseldorf | **70** | 68 | 71 | 61 | 66 | 36 | 79 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Dan Ndoye | Nottingham Forest | **79** | 82 | +3 | 89 | 72 | 70 | 81 | 62 | 68 |
+| Noah Okafor | Leeds United | **76** | 79 | +3 | 86 | 76 | 71 | 80 | 31 | 69 |
+| Rubén Vargas | Sevilla | **75** | 75 | — | 84 | 70 | 69 | 78 | 54 | 64 |
+| Zeki Amdouni | Burnley | **75** | 81 | +6 | 71 | 76 | 69 | 76 | 46 | 70 |
+| Cedric Itten | Fortuna Düsseldorf | **70** | 70 | — | 68 | 71 | 61 | 66 | 36 | 79 |
 
 ---
 ## 2. キープレーヤー
 
-### Gregor Kobel (OVR 86)
+### Gregor Kobel (OVR 86 → POT **89**)
 - **ポジション**: GK  |  **クラブ**: Borussia Dortmund
 - **年齢**: 28  |  **代表キャップ**: 20  |  **代表得点**: 0
 - **能力値**: PAC None / SHO None / PAS None / DRI None / DEF None / PHY None
@@ -69,7 +69,7 @@
 - **年齢**: 30  |  **代表キャップ**: 79  |  **代表得点**: 4
 - **能力値**: PAC 74 / SHO 48 / PAS 69 / DRI 73 / DEF 82 / PHY 81
 
-### Denis Zakaria (OVR 82)
+### Denis Zakaria (OVR 82 → POT **83**)
 - **ポジション**: MF  |  **クラブ**: Monaco
 - **年齢**: 29  |  **代表キャップ**: 63  |  **代表得点**: 3
 - **能力値**: PAC 80 / SHO 67 / PAS 74 / DRI 77 / DEF 80 / PHY 85

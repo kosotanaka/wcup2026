@@ -7,43 +7,43 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Mohamed El Shenawy | Al Ahly | **—** | — | — | — | — | — | — |
-| Mostafa Shobeir | Al Ahly | **—** | — | — | — | — | — | — |
-| Mohamed Alaa | El Gouna | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Mohamed El Shenawy | Al Ahly | — | — | — | — | — | — | — | — | — |
+| Mostafa Shobeir | Al Ahly | — | — | — | — | — | — | — | — | — |
+| Mohamed Alaa | El Gouna | — | — | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Mohamed Abdelmonem | Nice | **74** | 62 | 40 | 63 | 61 | 74 | 74 |
-| Ramy Rabia | Al Ain | **67** | 60 | 49 | 55 | 55 | 67 | 72 |
-| Hamdy Fathy | Al-Wakrah | **—** | — | — | — | — | — | — |
-| Mohamed Hany | Al Ahly | **—** | — | — | — | — | — | — |
-| Ahmed Fatouh | Zamalek | **—** | — | — | — | — | — | — |
-| Yasser Ibrahim | Al Ahly | **—** | — | — | — | — | — | — |
-| Hossam Abdelmaguid | Zamalek | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Mohamed Abdelmonem | Nice | **74** | 79 | +5 | 62 | 40 | 63 | 61 | 74 | 74 |
+| Ramy Rabia | Al Ain | **67** | 67 | — | 60 | 49 | 55 | 55 | 67 | 72 |
+| Hamdy Fathy | Al-Wakrah | — | — | — | — | — | — | — | — | — |
+| Mohamed Hany | Al Ahly | — | — | — | — | — | — | — | — | — |
+| Ahmed Fatouh | Zamalek | — | — | — | — | — | — | — | — | — |
+| Yasser Ibrahim | Al Ahly | — | — | — | — | — | — | — | — | — |
+| Hossam Abdelmaguid | Zamalek | — | — | — | — | — | — | — | — | — |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Marwan Attia | Al Ahly | **—** | — | — | — | — | — | — |
-| Emam Ashour | Al Ahly | **—** | — | — | — | — | — | — |
-| Mohanad Lasheen | Pyramids | **—** | — | — | — | — | — | — |
-| Mahmoud Saber | ZED | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Marwan Attia | Al Ahly | — | — | — | — | — | — | — | — | — |
+| Emam Ashour | Al Ahly | — | — | — | — | — | — | — | — | — |
+| Mohanad Lasheen | Pyramids | — | — | — | — | — | — | — | — | — |
+| Mahmoud Saber | ZED | — | — | — | — | — | — | — | — | — |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Mohamed Salah 🅲 | Liverpool | **91** | 89 | 88 | 86 | 90 | 45 | 76 |
-| Omar Marmoush | Manchester City | **84** | 89 | 85 | 76 | 86 | 34 | 71 |
-| Trézéguet | Al Ahly | **—** | — | — | — | — | — | — |
-| Zizo | Al Ahly | **—** | — | — | — | — | — | — |
-| Ibrahim Adel | Nordsjælland | **—** | — | — | — | — | — | — |
-| Haissem Hassan | Oviedo | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Mohamed Salah 🅲 | Liverpool | **91** | 91 | — | 89 | 88 | 86 | 90 | 45 | 76 |
+| Omar Marmoush | Manchester City | **84** | 85 | +1 | 89 | 85 | 76 | 86 | 34 | 71 |
+| Trézéguet | Al Ahly | — | — | — | — | — | — | — | — | — |
+| Zizo | Al Ahly | — | — | — | — | — | — | — | — | — |
+| Ibrahim Adel | Nordsjælland | — | — | — | — | — | — | — | — | — |
+| Haissem Hassan | Oviedo | — | — | — | — | — | — | — | — | — |
 
 ---
 ## 2. キープレーヤー
@@ -53,12 +53,12 @@
 - **年齢**: 33  |  **代表キャップ**: 116  |  **代表得点**: 67
 - **能力値**: PAC 89 / SHO 88 / PAS 86 / DRI 90 / DEF 45 / PHY 76
 
-### Omar Marmoush (OVR 84)
+### Omar Marmoush (OVR 84 → POT **85**)
 - **ポジション**: FW  |  **クラブ**: Manchester City
 - **年齢**: 27  |  **代表キャップ**: 48  |  **代表得点**: 11
 - **能力値**: PAC 89 / SHO 85 / PAS 76 / DRI 86 / DEF 34 / PHY 71
 
-### Mohamed Abdelmonem (OVR 74)
+### Mohamed Abdelmonem (OVR 74 → POT **79**)
 - **ポジション**: DF  |  **クラブ**: Nice
 - **年齢**: 27  |  **代表キャップ**: 35  |  **代表得点**: 3
 - **能力値**: PAC 62 / SHO 40 / PAS 63 / DRI 61 / DEF 74 / PHY 74

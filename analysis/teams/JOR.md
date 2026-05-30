@@ -7,43 +7,43 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Yazeed Abulaila | Al-Hussein | **—** | — | — | — | — | — | — |
-| Abdallah Al-Fakhouri | Al-Wehdat | **—** | — | — | — | — | — | — |
-| Nour Bani Attiah | Al-Faisaly | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Yazeed Abulaila | Al-Hussein | — | — | — | — | — | — | — | — | — |
+| Abdallah Al-Fakhouri | Al-Wehdat | — | — | — | — | — | — | — | — | — |
+| Nour Bani Attiah | Al-Faisaly | — | — | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Yazan Al-Arab | FC Seoul | **75** | 79 | 29 | 46 | 52 | 73 | 83 |
-| Ihsan Haddad 🅲 | Al-Hussein | **—** | — | — | — | — | — | — |
-| Abdallah Nasib | Al-Zawraa | **—** | — | — | — | — | — | — |
-| Saed Al-Rosan | Al-Hussein | **—** | — | — | — | — | — | — |
-| Husam Abu Dahab | Al-Faisaly | **—** | — | — | — | — | — | — |
-| Mo Abualnadi | Selangor | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Yazan Al-Arab | FC Seoul | **75** | 75 | — | 79 | 29 | 46 | 52 | 73 | 83 |
+| Ihsan Haddad 🅲 | Al-Hussein | — | — | — | — | — | — | — | — | — |
+| Abdallah Nasib | Al-Zawraa | — | — | — | — | — | — | — | — | — |
+| Saed Al-Rosan | Al-Hussein | — | — | — | — | — | — | — | — | — |
+| Husam Abu Dahab | Al-Faisaly | — | — | — | — | — | — | — | — | — |
+| Mo Abualnadi | Selangor | — | — | — | — | — | — | — | — | — |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ibrahim Sadeh | Al-Karma | **61** | 91 | 60 | 41 | 56 | 22 | 56 |
-| Rajaei Ayed | Al-Hussein | **—** | — | — | — | — | — | — |
-| Noor Al-Rawabdeh | Selangor | **—** | — | — | — | — | — | — |
-| Mohammad Abu Hashish | Al-Karma | **—** | — | — | — | — | — | — |
-| Nizar Al-Rashdan | Qatar SC | **—** | — | — | — | — | — | — |
-| Mohannad Abu Taha | Al-Quwa Al-Jawiya | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ibrahim Sadeh | Al-Karma | **61** | 76 | +15 | 91 | 60 | 41 | 56 | 22 | 56 |
+| Rajaei Ayed | Al-Hussein | — | — | — | — | — | — | — | — | — |
+| Noor Al-Rawabdeh | Selangor | — | — | — | — | — | — | — | — | — |
+| Mohammad Abu Hashish | Al-Karma | — | — | — | — | — | — | — | — | — |
+| Nizar Al-Rashdan | Qatar SC | — | — | — | — | — | — | — | — | — |
+| Mohannad Abu Taha | Al-Quwa Al-Jawiya | — | — | — | — | — | — | — | — | — |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Musa Al-Taamari | Rennes | **75** | 89 | 69 | 67 | 80 | 38 | 63 |
-| Ibrahim Sabra | Lokomotiva Zagreb | **61** | 91 | 60 | 41 | 56 | 22 | 56 |
-| Mahmoud Al-Mardi | Al-Hussein | **—** | — | — | — | — | — | — |
-| Ali Olwan | Al-Sailiya | **—** | — | — | — | — | — | — |
-| Mohammad Abu Zrayq | Raja Casablanca | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Musa Al-Taamari | Rennes | **75** | 75 | — | 89 | 69 | 67 | 80 | 38 | 63 |
+| Ibrahim Sabra | Lokomotiva Zagreb | **61** | 76 | +15 | 91 | 60 | 41 | 56 | 22 | 56 |
+| Mahmoud Al-Mardi | Al-Hussein | — | — | — | — | — | — | — | — | — |
+| Ali Olwan | Al-Sailiya | — | — | — | — | — | — | — | — | — |
+| Mohammad Abu Zrayq | Raja Casablanca | — | — | — | — | — | — | — | — | — |
 
 ---
 ## 2. キープレーヤー
@@ -58,12 +58,12 @@
 - **年齢**: 28  |  **代表キャップ**: 90  |  **代表得点**: 24
 - **能力値**: PAC 89 / SHO 69 / PAS 67 / DRI 80 / DEF 38 / PHY 63
 
-### Ibrahim Sadeh (OVR 61)
+### Ibrahim Sadeh (OVR 61 → POT **76**)
 - **ポジション**: MF  |  **クラブ**: Al-Karma
 - **年齢**: 26  |  **代表キャップ**: 55  |  **代表得点**: 3
 - **能力値**: PAC 91 / SHO 60 / PAS 41 / DRI 56 / DEF 22 / PHY 56
 
-### Ibrahim Sabra (OVR 61)
+### Ibrahim Sabra (OVR 61 → POT **76**)
 - **ポジション**: FW  |  **クラブ**: Lokomotiva Zagreb
 - **年齢**: 20  |  **代表キャップ**: 9  |  **代表得点**: 1
 - **能力値**: PAC 91 / SHO 60 / PAS 41 / DRI 56 / DEF 22 / PHY 56

@@ -7,49 +7,49 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Nikola Vasilj | FC St. Pauli | **77** | None | None | None | None | None | None |
-| Martin Zlomislić | Rijeka | **—** | — | — | — | — | — | — |
-| Osman Hadžikić | Slaven Belupo | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Nikola Vasilj | FC St. Pauli | **77** | 78 | +1 | — | — | — | — | — | — |
+| Martin Zlomislić | Rijeka | — | — | — | — | — | — | — | — | — |
+| Osman Hadžikić | Slaven Belupo | — | — | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Sead Kolašinac | Atalanta | **79** | 61 | 63 | 68 | 69 | 79 | 82 |
-| Amar Dedić | Benfica | **74** | 83 | 60 | 70 | 76 | 66 | 76 |
-| Dennis Hadžikadunić | Sampdoria | **70** | 61 | 30 | 49 | 54 | 69 | 76 |
-| Tarik Muharemović | Sassuolo | **70** | 59 | 23 | 47 | 56 | 73 | 67 |
-| Nikola Katić | Schalke 04 | **69** | 51 | 35 | 45 | 53 | 68 | 79 |
-| Nihad Mujakić | Gaziantep | **67** | 70 | 28 | 42 | 47 | 66 | 77 |
-| Nidal Čelik | Lens | **64** | 60 | 35 | 49 | 50 | 62 | 71 |
-| Stjepan Radeljić | Rijeka | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Sead Kolašinac | Atalanta | **79** | 79 | — | 61 | 63 | 68 | 69 | 79 | 82 |
+| Amar Dedić | Benfica | **74** | 79 | +5 | 83 | 60 | 70 | 76 | 66 | 76 |
+| Dennis Hadžikadunić | Sampdoria | **70** | 72 | +2 | 61 | 30 | 49 | 54 | 69 | 76 |
+| Tarik Muharemović | Sassuolo | **70** | 79 | +9 | 59 | 23 | 47 | 56 | 73 | 67 |
+| Nikola Katić | Schalke 04 | **69** | 71 | +2 | 51 | 35 | 45 | 53 | 68 | 79 |
+| Nihad Mujakić | Gaziantep | **67** | 70 | +3 | 70 | 28 | 42 | 47 | 66 | 77 |
+| Nidal Čelik | Lens | **64** | 78 | +14 | 60 | 35 | 49 | 50 | 62 | 71 |
+| Stjepan Radeljić | Rijeka | — | — | — | — | — | — | — | — | — |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Amir Hadžiahmetović | Hull City | **73** | 65 | 60 | 73 | 72 | 70 | 73 |
-| Armin Gigović | Young Boys | **72** | 65 | 61 | 70 | 74 | 60 | 74 |
-| Amar Memić | Viktoria Plzeň | **72** | 81 | 69 | 68 | 73 | 48 | 61 |
-| Dženis Burnić | Karlsruher SC | **68** | 76 | 58 | 66 | 71 | 62 | 67 |
-| Benjamin Tahirović | Brøndby | **67** | 51 | 50 | 62 | 66 | 62 | 71 |
-| Esmir Bajraktarević | PSV Eindhoven | **67** | 77 | 54 | 65 | 76 | 40 | 59 |
-| Kerim Alajbegović | Red Bull Salzburg | **63** | 70 | 64 | 60 | 66 | 36 | 53 |
-| Ivan Bašić | Astana | **—** | — | — | — | — | — | — |
-| Ivan Šunjić | Pafos | **—** | — | — | — | — | — | — |
-| Ermin Mahmić | Slovan Liberec | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Amir Hadžiahmetović | Hull City | **73** | 73 | — | 65 | 60 | 73 | 72 | 70 | 73 |
+| Armin Gigović | Young Boys | **72** | 79 | +7 | 65 | 61 | 70 | 74 | 60 | 74 |
+| Amar Memić | Viktoria Plzeň | **72** | 74 | +2 | 81 | 69 | 68 | 73 | 48 | 61 |
+| Dženis Burnić | Karlsruher SC | **68** | 68 | — | 76 | 58 | 66 | 71 | 62 | 67 |
+| Benjamin Tahirović | Brøndby | **67** | 76 | +9 | 51 | 50 | 62 | 66 | 62 | 71 |
+| Esmir Bajraktarević | PSV Eindhoven | **67** | 84 | +17 | 77 | 54 | 65 | 76 | 40 | 59 |
+| Kerim Alajbegović | Red Bull Salzburg | **63** | 82 | +19 | 70 | 64 | 60 | 66 | 36 | 53 |
+| Ivan Bašić | Astana | — | — | — | — | — | — | — | — | — |
+| Ivan Šunjić | Pafos | — | — | — | — | — | — | — | — | — |
+| Ermin Mahmić | Slovan Liberec | — | — | — | — | — | — | — | — | — |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Edin Džeko 🅲 | Schalke 04 | **81** | 55 | 82 | 74 | 77 | 40 | 72 |
-| Ermedin Demirović | VfB Stuttgart | **80** | 72 | 81 | 73 | 78 | 42 | 78 |
-| Haris Tabaković | Borussia Mönchengladbach | **73** | 60 | 73 | 52 | 65 | 29 | 80 |
-| Samed Baždar | Jagiellonia Białystok | **69** | 70 | 66 | 70 | 74 | 40 | 63 |
-| Jovo Lukić | Universitatea Cluj | **64** | 61 | 64 | 47 | 59 | 27 | 69 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Edin Džeko 🅲 | Schalke 04 | **81** | 81 | — | 55 | 82 | 74 | 77 | 40 | 72 |
+| Ermedin Demirović | VfB Stuttgart | **80** | 80 | — | 72 | 81 | 73 | 78 | 42 | 78 |
+| Haris Tabaković | Borussia Mönchengladbach | **73** | 73 | — | 60 | 73 | 52 | 65 | 29 | 80 |
+| Samed Baždar | Jagiellonia Białystok | **69** | 80 | +11 | 70 | 66 | 70 | 74 | 40 | 63 |
+| Jovo Lukić | Universitatea Cluj | **64** | 66 | +2 | 61 | 64 | 47 | 59 | 27 | 69 |
 
 ---
 ## 2. キープレーヤー
@@ -69,12 +69,12 @@
 - **年齢**: 32  |  **代表キャップ**: 64  |  **代表得点**: 0
 - **能力値**: PAC 61 / SHO 63 / PAS 68 / DRI 69 / DEF 79 / PHY 82
 
-### Nikola Vasilj (OVR 77)
+### Nikola Vasilj (OVR 77 → POT **78**)
 - **ポジション**: GK  |  **クラブ**: FC St. Pauli
 - **年齢**: 30  |  **代表キャップ**: 25  |  **代表得点**: 0
 - **能力値**: PAC None / SHO None / PAS None / DRI None / DEF None / PHY None
 
-### Amar Dedić (OVR 74)
+### Amar Dedić (OVR 74 → POT **79**)
 - **ポジション**: DF  |  **クラブ**: Benfica
 - **年齢**: 23  |  **代表キャップ**: 27  |  **代表得点**: 1
 - **能力値**: PAC 83 / SHO 60 / PAS 70 / DRI 76 / DEF 66 / PHY 76

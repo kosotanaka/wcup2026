@@ -7,45 +7,45 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Mat Ryan 🅲 | AZ | **78** | None | None | None | None | None | None |
-| Joe Gauci | Adelaide United | **68** | None | None | None | None | None | None |
-| Danny Vukovic | Central Coast Mariners | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Mat Ryan 🅲 | AZ | **78** | 78 | — | — | — | — | — | — | — |
+| Joe Gauci | Adelaide United | **68** | 73 | +5 | — | — | — | — | — | — |
+| Danny Vukovic | Central Coast Mariners | — | — | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Harry Souttar | Ipswich Town | **73** | 46 | 28 | 51 | 54 | 73 | 75 |
-| Kye Rowles | Hearts | **71** | 64 | 24 | 46 | 47 | 72 | 76 |
-| Nathaniel Atkinson | Hearts | **68** | 76 | 53 | 62 | 72 | 59 | 77 |
-| Aziz Behich | Dundee United | **67** | 74 | 60 | 65 | 69 | 61 | 71 |
-| Joel King | Copenhagen | **63** | 69 | 33 | 55 | 58 | 56 | 71 |
-| Milos Degenek | Columbus Crew | **—** | — | — | — | — | — | — |
-| Thomas Deng | Albirex Niigata | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Harry Souttar | Ipswich Town | **73** | 75 | +2 | 46 | 28 | 51 | 54 | 73 | 75 |
+| Kye Rowles | Hearts | **71** | 72 | +1 | 64 | 24 | 46 | 47 | 72 | 76 |
+| Nathaniel Atkinson | Hearts | **68** | 71 | +3 | 76 | 53 | 62 | 72 | 59 | 77 |
+| Aziz Behich | Dundee United | **67** | 67 | — | 74 | 60 | 65 | 69 | 61 | 71 |
+| Joel King | Copenhagen | **63** | 67 | +4 | 69 | 33 | 55 | 58 | 56 | 71 |
+| Milos Degenek | Columbus Crew | — | — | — | — | — | — | — | — | — |
+| Thomas Deng | Albirex Niigata | — | — | — | — | — | — | — | — | — |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Jackson Irvine | FC St. Pauli | **75** | 67 | 68 | 71 | 70 | 72 | 80 |
-| Riley McGree | Middlesbrough | **72** | 78 | 67 | 69 | 73 | 63 | 73 |
-| Cameron Devlin | Hearts | **71** | 68 | 53 | 63 | 69 | 69 | 72 |
-| Connor Metcalfe | FC St. Pauli | **69** | 72 | 60 | 66 | 70 | 62 | 75 |
-| Tom Rogic | unattached | **—** | — | — | — | — | — | — |
-| Aaron Mooy | unattached | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Jackson Irvine | FC St. Pauli | **75** | 75 | — | 67 | 68 | 71 | 70 | 72 | 80 |
+| Riley McGree | Middlesbrough | **72** | 73 | +1 | 78 | 67 | 69 | 73 | 63 | 73 |
+| Cameron Devlin | Hearts | **71** | 74 | +3 | 68 | 53 | 63 | 69 | 69 | 72 |
+| Connor Metcalfe | FC St. Pauli | **69** | 73 | +4 | 72 | 60 | 66 | 70 | 62 | 75 |
+| Tom Rogic | unattached | — | — | — | — | — | — | — | — | — |
+| Aaron Mooy | unattached | — | — | — | — | — | — | — | — | — |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Craig Goodwin | Adelaide United | **73** | 81 | 74 | 72 | 70 | 59 | 73 |
-| Martin Boyle | Hibernian | **71** | 89 | 72 | 66 | 74 | 42 | 59 |
-| Mathew Leckie | Melbourne City | **70** | 79 | 68 | 67 | 74 | 63 | 76 |
-| Nestory Irankunda | Bayern Munich | **67** | 88 | 70 | 62 | 70 | 43 | 74 |
-| Garang Kuol | Hearts | **64** | 87 | 56 | 56 | 66 | 28 | 40 |
-| Mitch Duke | Fagiano Okayama | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Craig Goodwin | Adelaide United | **73** | 73 | — | 81 | 74 | 72 | 70 | 59 | 73 |
+| Martin Boyle | Hibernian | **71** | 71 | — | 89 | 72 | 66 | 74 | 42 | 59 |
+| Mathew Leckie | Melbourne City | **70** | 70 | — | 79 | 68 | 67 | 74 | 63 | 76 |
+| Nestory Irankunda | Bayern Munich | **67** | 82 | +15 | 88 | 70 | 62 | 70 | 43 | 74 |
+| Garang Kuol | Hearts | **64** | 74 | +10 | 87 | 56 | 56 | 66 | 28 | 40 |
+| Mitch Duke | Fagiano Okayama | — | — | — | — | — | — | — | — | — |
 
 ---
 ## 2. キープレーヤー
@@ -60,7 +60,7 @@
 - **年齢**: 33  |  **代表キャップ**: 74  |  **代表得点**: 12
 - **能力値**: PAC 67 / SHO 68 / PAS 71 / DRI 70 / DEF 72 / PHY 80
 
-### Harry Souttar (OVR 73)
+### Harry Souttar (OVR 73 → POT **75**)
 - **ポジション**: DF  |  **クラブ**: Ipswich Town
 - **年齢**: 27  |  **代表キャップ**: 30  |  **代表得点**: 4
 - **能力値**: PAC 46 / SHO 28 / PAS 51 / DRI 54 / DEF 73 / PHY 75
@@ -70,7 +70,7 @@
 - **年齢**: 34  |  **代表キャップ**: 26  |  **代表得点**: 5
 - **能力値**: PAC 81 / SHO 74 / PAS 72 / DRI 70 / DEF 59 / PHY 73
 
-### Riley McGree (OVR 72)
+### Riley McGree (OVR 72 → POT **73**)
 - **ポジション**: MF  |  **クラブ**: Middlesbrough
 - **年齢**: 27  |  **代表キャップ**: 31  |  **代表得点**: 6
 - **能力値**: PAC 78 / SHO 67 / PAS 69 / DRI 73 / DEF 63 / PHY 73

@@ -7,46 +7,46 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Aymen Dahmen | CS Sfaxien | **—** | — | — | — | — | — | — |
-| Sabri Ben Hessen | Étoile du Sahel | **—** | — | — | — | — | — | — |
-| Mouhib Chamakh | Club Africain | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Aymen Dahmen | CS Sfaxien | — | — | — | — | — | — | — | — | — |
+| Sabri Ben Hessen | Étoile du Sahel | — | — | — | — | — | — | — | — | — |
+| Mouhib Chamakh | Club Africain | — | — | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ali Abdi | Nice | **76** | 86 | 62 | 70 | 73 | 69 | 75 |
-| Montassar Talbi | Lorient | **73** | 56 | 30 | 42 | 57 | 73 | 76 |
-| Yan Valery | Young Boys | **71** | 62 | 52 | 63 | 68 | 70 | 74 |
-| Dylan Bronn | Servette | **68** | 60 | 61 | 64 | 61 | 68 | 76 |
-| Moutaz Neffati | IFK Norrköping | **63** | 68 | 53 | 58 | 61 | 59 | 57 |
-| Mohamed Amine Ben Hamida | Espérance de Tunis | **—** | — | — | — | — | — | — |
-| Omar Rekik | Maribor | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ali Abdi | Nice | **76** | 76 | — | 86 | 62 | 70 | 73 | 69 | 75 |
+| Montassar Talbi | Lorient | **73** | 76 | +3 | 56 | 30 | 42 | 57 | 73 | 76 |
+| Yan Valery | Young Boys | **71** | 74 | +3 | 62 | 52 | 63 | 68 | 70 | 74 |
+| Dylan Bronn | Servette | **68** | 68 | — | 60 | 61 | 64 | 61 | 68 | 76 |
+| Moutaz Neffati | IFK Norrköping | **63** | 74 | +11 | 68 | 53 | 58 | 61 | 59 | 57 |
+| Mohamed Amine Ben Hamida | Espérance de Tunis | — | — | — | — | — | — | — | — | — |
+| Omar Rekik | Maribor | — | — | — | — | — | — | — | — | — |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ellyes Skhiri 🅲 | Eintracht Frankfurt | **80** | 64 | 73 | 74 | 75 | 80 | 74 |
-| Hannibal Mejbri | Burnley | **74** | 76 | 63 | 73 | 76 | 68 | 82 |
-| Ismaël Gharbi | FC Augsburg | **73** | 78 | 67 | 69 | 79 | 41 | 56 |
-| Mortadha Ben Ouanes | Kasımpaşa | **69** | 72 | 60 | 68 | 68 | 66 | 65 |
-| Anis Ben Slimane | Norwich City | **67** | 65 | 61 | 62 | 68 | 58 | 75 |
-| Hadj Mahmoud | Lugano | **67** | 67 | 58 | 63 | 66 | 64 | 70 |
-| Rani Khedira | Union Berlin | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ellyes Skhiri 🅲 | Eintracht Frankfurt | **80** | 80 | — | 64 | 73 | 74 | 75 | 80 | 74 |
+| Hannibal Mejbri | Burnley | **74** | 82 | +8 | 76 | 63 | 73 | 76 | 68 | 82 |
+| Ismaël Gharbi | FC Augsburg | **73** | 82 | +9 | 78 | 67 | 69 | 79 | 41 | 56 |
+| Mortadha Ben Ouanes | Kasımpaşa | **69** | 69 | — | 72 | 60 | 68 | 68 | 66 | 65 |
+| Anis Ben Slimane | Norwich City | **67** | 71 | +4 | 65 | 61 | 62 | 68 | 58 | 75 |
+| Hadj Mahmoud | Lugano | **67** | 74 | +7 | 67 | 58 | 63 | 66 | 64 | 70 |
+| Rani Khedira | Union Berlin | — | — | — | — | — | — | — | — | — |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Elias Achouri | Copenhagen | **72** | 85 | 64 | 65 | 74 | 32 | 58 |
-| Elias Saad | Hannover 96 | **72** | 74 | 67 | 67 | 77 | 31 | 59 |
-| Sebastian Tounekti | Celtic | **69** | 78 | 62 | 62 | 70 | 24 | 63 |
-| Firas Chaouat | Club Africain | **—** | — | — | — | — | — | — |
-| Hazem Mastouri | Dynamo Makhachkala | **—** | — | — | — | — | — | — |
-| Khalil Ayari | Paris Saint-Germain Youth | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Elias Achouri | Copenhagen | **72** | 73 | +1 | 85 | 64 | 65 | 74 | 32 | 58 |
+| Elias Saad | Hannover 96 | **72** | 74 | +2 | 74 | 67 | 67 | 77 | 31 | 59 |
+| Sebastian Tounekti | Celtic | **69** | 76 | +7 | 78 | 62 | 62 | 70 | 24 | 63 |
+| Firas Chaouat | Club Africain | — | — | — | — | — | — | — | — | — |
+| Hazem Mastouri | Dynamo Makhachkala | — | — | — | — | — | — | — | — | — |
+| Khalil Ayari | Paris Saint-Germain Youth | — | — | — | — | — | — | — | — | — |
 
 ---
 ## 2. キープレーヤー
@@ -61,17 +61,17 @@
 - **年齢**: 32  |  **代表キャップ**: 45  |  **代表得点**: 7
 - **能力値**: PAC 86 / SHO 62 / PAS 70 / DRI 73 / DEF 69 / PHY 75
 
-### Hannibal Mejbri (OVR 74)
+### Hannibal Mejbri (OVR 74 → POT **82**)
 - **ポジション**: MF  |  **クラブ**: Burnley
 - **年齢**: 23  |  **代表キャップ**: 44  |  **代表得点**: 1
 - **能力値**: PAC 76 / SHO 63 / PAS 73 / DRI 76 / DEF 68 / PHY 82
 
-### Montassar Talbi (OVR 73)
+### Montassar Talbi (OVR 73 → POT **76**)
 - **ポジション**: DF  |  **クラブ**: Lorient
 - **年齢**: 28  |  **代表キャップ**: 62  |  **代表得点**: 4
 - **能力値**: PAC 56 / SHO 30 / PAS 42 / DRI 57 / DEF 73 / PHY 76
 
-### Ismaël Gharbi (OVR 73)
+### Ismaël Gharbi (OVR 73 → POT **82**)
 - **ポジション**: MF  |  **クラブ**: FC Augsburg
 - **年齢**: 22  |  **代表キャップ**: 15  |  **代表得点**: 2
 - **能力値**: PAC 78 / SHO 67 / PAS 69 / DRI 79 / DEF 41 / PHY 56

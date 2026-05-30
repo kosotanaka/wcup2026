@@ -7,52 +7,52 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Jordan Pickford | Everton | **84** | None | None | None | None | None | None |
-| Dean Henderson | Crystal Palace | **81** | None | None | None | None | None | None |
-| James Trafford | Manchester City | **76** | None | None | None | None | None | None |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Jordan Pickford | Everton | **84** | 84 | — | — | — | — | — | — | — |
+| Dean Henderson | Crystal Palace | **81** | 82 | +1 | — | — | — | — | — | — |
+| James Trafford | Manchester City | **76** | 84 | +8 | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| John Stones | Manchester City | **82** | 64 | 58 | 74 | 75 | 84 | 72 |
-| Marc Guéhi | Manchester City | **82** | 69 | 39 | 69 | 73 | 83 | 78 |
-| Ezri Konsa | Aston Villa | **82** | 75 | 53 | 71 | 75 | 84 | 78 |
-| Reece James | Chelsea | **81** | 76 | 71 | 82 | 77 | 81 | 81 |
-| Tino Livramento | Newcastle United | **80** | 82 | 51 | 72 | 78 | 76 | 74 |
-| Dan Burn | Newcastle United | **79** | 42 | 36 | 67 | 64 | 79 | 85 |
-| Djed Spence | Tottenham Hotspur | **78** | 88 | 44 | 71 | 79 | 74 | 72 |
-| Nico O'Reilly | Manchester City | **73** | 73 | 66 | 72 | 73 | 69 | 70 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| John Stones | Manchester City | **82** | 82 | — | 64 | 58 | 74 | 75 | 84 | 72 |
+| Marc Guéhi | Manchester City | **82** | 84 | +2 | 69 | 39 | 69 | 73 | 83 | 78 |
+| Ezri Konsa | Aston Villa | **82** | 83 | +1 | 75 | 53 | 71 | 75 | 84 | 78 |
+| Reece James | Chelsea | **81** | 84 | +3 | 76 | 71 | 82 | 77 | 81 | 81 |
+| Tino Livramento | Newcastle United | **80** | 86 | +6 | 82 | 51 | 72 | 78 | 76 | 74 |
+| Dan Burn | Newcastle United | **79** | 79 | — | 42 | 36 | 67 | 64 | 79 | 85 |
+| Djed Spence | Tottenham Hotspur | **78** | 82 | +4 | 88 | 44 | 71 | 79 | 74 | 72 |
+| Nico O'Reilly | Manchester City | **73** | 83 | +10 | 73 | 66 | 72 | 73 | 69 | 70 |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Jude Bellingham | Real Madrid | **90** | 80 | 86 | 83 | 90 | 78 | 85 |
-| Declan Rice | Arsenal | **87** | 72 | 73 | 84 | 80 | 83 | 83 |
-| Morgan Rogers | Aston Villa | **82** | 77 | 77 | 79 | 84 | 67 | 79 |
-| Elliot Anderson | Nottingham Forest | **80** | 71 | 68 | 79 | 81 | 77 | 78 |
-| Jordan Henderson | Brentford | **79** | 65 | 71 | 80 | 74 | 75 | 77 |
-| Kobbie Mainoo | Manchester United | **77** | 68 | 69 | 74 | 81 | 73 | 74 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Jude Bellingham | Real Madrid | **90** | 94 | +4 | 80 | 86 | 83 | 90 | 78 | 85 |
+| Declan Rice | Arsenal | **87** | 88 | +1 | 72 | 73 | 84 | 80 | 83 | 83 |
+| Morgan Rogers | Aston Villa | **82** | 86 | +4 | 77 | 77 | 79 | 84 | 67 | 79 |
+| Elliot Anderson | Nottingham Forest | **80** | 85 | +5 | 71 | 68 | 79 | 81 | 77 | 78 |
+| Jordan Henderson | Brentford | **79** | 79 | — | 65 | 71 | 80 | 74 | 75 | 77 |
+| Kobbie Mainoo | Manchester United | **77** | 85 | +8 | 68 | 69 | 74 | 81 | 73 | 74 |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Harry Kane 🅲 | Bayern Munich | **89** | 64 | 92 | 83 | 82 | 48 | 82 |
-| Bukayo Saka | Arsenal | **88** | 84 | 82 | 85 | 88 | 60 | 73 |
-| Ollie Watkins | Aston Villa | **84** | 77 | 83 | 73 | 80 | 50 | 80 |
-| Anthony Gordon | Newcastle United | **83** | 91 | 79 | 78 | 83 | 50 | 72 |
-| Eberechi Eze | Arsenal | **83** | 74 | 80 | 81 | 87 | 50 | 68 |
-| Marcus Rashford | Barcelona | **80** | 87 | 82 | 77 | 80 | 33 | 63 |
-| Noni Madueke | Arsenal | **80** | 88 | 75 | 74 | 83 | 45 | 69 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Harry Kane 🅲 | Bayern Munich | **89** | 89 | — | 64 | 92 | 83 | 82 | 48 | 82 |
+| Bukayo Saka | Arsenal | **88** | 90 | +2 | 84 | 82 | 85 | 88 | 60 | 73 |
+| Ollie Watkins | Aston Villa | **84** | 84 | — | 77 | 83 | 73 | 80 | 50 | 80 |
+| Anthony Gordon | Newcastle United | **83** | 86 | +3 | 91 | 79 | 78 | 83 | 50 | 72 |
+| Eberechi Eze | Arsenal | **83** | 84 | +1 | 74 | 80 | 81 | 87 | 50 | 68 |
+| Marcus Rashford | Barcelona | **80** | 80 | — | 87 | 82 | 77 | 80 | 33 | 63 |
+| Noni Madueke | Arsenal | **80** | 84 | +4 | 88 | 75 | 74 | 83 | 45 | 69 |
 
 ---
 ## 2. キープレーヤー
 
-### Jude Bellingham (OVR 90)
+### Jude Bellingham (OVR 90 → POT **94**)
 - **ポジション**: MF  |  **クラブ**: Real Madrid
 - **年齢**: 22  |  **代表キャップ**: 46  |  **代表得点**: 6
 - **能力値**: PAC 80 / SHO 86 / PAS 83 / DRI 90 / DEF 78 / PHY 85
@@ -62,12 +62,12 @@
 - **年齢**: 32  |  **代表キャップ**: 112  |  **代表得点**: 78
 - **能力値**: PAC 64 / SHO 92 / PAS 83 / DRI 82 / DEF 48 / PHY 82
 
-### Bukayo Saka (OVR 88)
+### Bukayo Saka (OVR 88 → POT **90**)
 - **ポジション**: FW  |  **クラブ**: Arsenal
 - **年齢**: 24  |  **代表キャップ**: 48  |  **代表得点**: 14
 - **能力値**: PAC 84 / SHO 82 / PAS 85 / DRI 88 / DEF 60 / PHY 73
 
-### Declan Rice (OVR 87)
+### Declan Rice (OVR 87 → POT **88**)
 - **ポジション**: MF  |  **クラブ**: Arsenal
 - **年齢**: 27  |  **代表キャップ**: 72  |  **代表得点**: 6
 - **能力値**: PAC 72 / SHO 73 / PAS 84 / DRI 80 / DEF 83 / PHY 83

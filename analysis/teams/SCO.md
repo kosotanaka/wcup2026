@@ -7,49 +7,49 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Angus Gunn | Nottingham Forest | **72** | None | None | None | None | None | None |
-| Craig Gordon | Heart of Midlothian | **67** | None | None | None | None | None | None |
-| Liam Kelly | Rangers | **67** | None | None | None | None | None | None |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Angus Gunn | Nottingham Forest | **72** | 74 | +2 | — | — | — | — | — | — |
+| Craig Gordon | Heart of Midlothian | **67** | 67 | — | — | — | — | — | — | — |
+| Liam Kelly | Rangers | **67** | 67 | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Andy Robertson 🅲 | Liverpool | **82** | 74 | 61 | 80 | 77 | 79 | 75 |
-| Kieran Tierney | Celtic | **77** | 76 | 60 | 75 | 76 | 75 | 73 |
-| Scott McKenna | Dinamo Zagreb | **75** | 60 | 32 | 51 | 56 | 76 | 80 |
-| Jack Hendry | Al-Ettifaq | **74** | 73 | 56 | 63 | 64 | 71 | 82 |
-| Aaron Hickey | Brentford | **74** | 71 | 54 | 70 | 73 | 74 | 64 |
-| John Souttar | Rangers | **73** | 73 | 48 | 63 | 70 | 72 | 77 |
-| Nathan Patterson | Everton | **71** | 71 | 46 | 63 | 70 | 70 | 69 |
-| Anthony Ralston | Celtic | **71** | 76 | 59 | 69 | 70 | 64 | 78 |
-| Dominic Hyam | Wrexham | **71** | 51 | 32 | 54 | 58 | 71 | 76 |
-| Grant Hanley | Hibernian | **70** | 52 | 30 | 47 | 49 | 69 | 78 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Andy Robertson 🅲 | Liverpool | **82** | 82 | — | 74 | 61 | 80 | 77 | 79 | 75 |
+| Kieran Tierney | Celtic | **77** | 77 | — | 76 | 60 | 75 | 76 | 75 | 73 |
+| Scott McKenna | Dinamo Zagreb | **75** | 77 | +2 | 60 | 32 | 51 | 56 | 76 | 80 |
+| Jack Hendry | Al-Ettifaq | **74** | 74 | — | 73 | 56 | 63 | 64 | 71 | 82 |
+| Aaron Hickey | Brentford | **74** | 79 | +5 | 71 | 54 | 70 | 73 | 74 | 64 |
+| John Souttar | Rangers | **73** | 74 | +1 | 73 | 48 | 63 | 70 | 72 | 77 |
+| Nathan Patterson | Everton | **71** | 76 | +5 | 71 | 46 | 63 | 70 | 70 | 69 |
+| Anthony Ralston | Celtic | **71** | 74 | +3 | 76 | 59 | 69 | 70 | 64 | 78 |
+| Dominic Hyam | Wrexham | **71** | 71 | — | 51 | 32 | 54 | 58 | 71 | 76 |
+| Grant Hanley | Hibernian | **70** | 70 | — | 52 | 30 | 47 | 49 | 69 | 78 |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Scott McTominay | Napoli | **85** | 76 | 82 | 77 | 80 | 80 | 85 |
-| John McGinn | Aston Villa | **81** | 69 | 77 | 78 | 80 | 77 | 83 |
-| Ryan Christie | Bournemouth | **79** | 69 | 70 | 77 | 78 | 74 | 76 |
-| Lewis Ferguson | Bologna | **78** | 72 | 78 | 74 | 78 | 72 | 75 |
-| Billy Gilmour | Napoli | **74** | 60 | 58 | 74 | 76 | 69 | 58 |
-| Kenny McLean | Norwich City | **72** | 58 | 67 | 68 | 71 | 66 | 73 |
-| Ben Gannon-Doak | Bournemouth | **71** | 89 | 61 | 63 | 75 | 28 | 60 |
-| Findlay Curtis | Kilmarnock | **63** | 63 | 53 | 61 | 66 | 34 | 44 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Scott McTominay | Napoli | **85** | 85 | — | 76 | 82 | 77 | 80 | 80 | 85 |
+| John McGinn | Aston Villa | **81** | 81 | — | 69 | 77 | 78 | 80 | 77 | 83 |
+| Ryan Christie | Bournemouth | **79** | 79 | — | 69 | 70 | 77 | 78 | 74 | 76 |
+| Lewis Ferguson | Bologna | **78** | 81 | +3 | 72 | 78 | 74 | 78 | 72 | 75 |
+| Billy Gilmour | Napoli | **74** | 79 | +5 | 60 | 58 | 74 | 76 | 69 | 58 |
+| Kenny McLean | Norwich City | **72** | 72 | — | 58 | 67 | 68 | 71 | 66 | 73 |
+| Ben Gannon-Doak | Bournemouth | **71** | 85 | +14 | 89 | 61 | 63 | 75 | 28 | 60 |
+| Findlay Curtis | Kilmarnock | **63** | 84 | +21 | 63 | 53 | 61 | 66 | 34 | 44 |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ché Adams | Torino | **77** | 82 | 80 | 64 | 77 | 43 | 72 |
-| Lawrence Shankland | Heart of Midlothian | **73** | 63 | 75 | 66 | 72 | 28 | 80 |
-| George Hirst | Ipswich Town | **72** | 73 | 71 | 55 | 66 | 43 | 74 |
-| Ross Stewart | Southampton | **71** | 68 | 71 | 57 | 64 | 30 | 70 |
-| Lyndon Dykes | Charlton Athletic | **68** | 66 | 67 | 52 | 64 | 29 | 82 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ché Adams | Torino | **77** | 77 | — | 82 | 80 | 64 | 77 | 43 | 72 |
+| Lawrence Shankland | Heart of Midlothian | **73** | 73 | — | 63 | 75 | 66 | 72 | 28 | 80 |
+| George Hirst | Ipswich Town | **72** | 74 | +2 | 73 | 71 | 55 | 66 | 43 | 74 |
+| Ross Stewart | Southampton | **71** | 71 | — | 68 | 71 | 57 | 64 | 30 | 70 |
+| Lyndon Dykes | Charlton Athletic | **68** | 68 | — | 66 | 67 | 52 | 64 | 29 | 82 |
 
 ---
 ## 2. キープレーヤー
@@ -74,7 +74,7 @@
 - **年齢**: 31  |  **代表キャップ**: 66  |  **代表得点**: 9
 - **能力値**: PAC 69 / SHO 70 / PAS 77 / DRI 78 / DEF 74 / PHY 76
 
-### Lewis Ferguson (OVR 78)
+### Lewis Ferguson (OVR 78 → POT **81**)
 - **ポジション**: MF  |  **クラブ**: Bologna
 - **年齢**: 26  |  **代表キャップ**: 23  |  **代表得点**: 1
 - **能力値**: PAC 72 / SHO 78 / PAS 74 / DRI 78 / DEF 72 / PHY 75

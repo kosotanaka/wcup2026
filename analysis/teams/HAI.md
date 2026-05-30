@@ -7,54 +7,54 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Johny Placide 🅲 | Bastia | **69** | None | None | None | None | None | None |
-| Alexandre Pierre | Sochaux | **—** | — | — | — | — | — | — |
-| Josué Duverger | Cosmos Koblenz | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Johny Placide 🅲 | Bastia | **69** | 69 | — | — | — | — | — | — | — |
+| Alexandre Pierre | Sochaux | — | — | — | — | — | — | — | — | — |
+| Josué Duverger | Cosmos Koblenz | — | — | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ricardo Adé | LDU Quito | **72** | 71 | 36 | 58 | 57 | 71 | 77 |
-| Carlens Arcus | Angers | **71** | 75 | 44 | 66 | 66 | 66 | 75 |
-| Jean-Kévin Duverne | Gent | **71** | 60 | 38 | 62 | 67 | 72 | 73 |
-| Martin Expérience | Nancy | **62** | 68 | 36 | 53 | 59 | 58 | 64 |
-| Wilguens Paugain | Zulte Waregem | **55** | 62 | 34 | 42 | 50 | 54 | 63 |
-| Duke Lacroix | Colorado Springs Switchbacks | **—** | — | — | — | — | — | — |
-| Hannes Delcroix | Lugano | **—** | — | — | — | — | — | — |
-| Keeto Thermoncy | Young Boys | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ricardo Adé | LDU Quito | **72** | 72 | — | 71 | 36 | 58 | 57 | 71 | 77 |
+| Carlens Arcus | Angers | **71** | 71 | — | 75 | 44 | 66 | 66 | 66 | 75 |
+| Jean-Kévin Duverne | Gent | **71** | 71 | — | 60 | 38 | 62 | 67 | 72 | 73 |
+| Martin Expérience | Nancy | **62** | 65 | +3 | 68 | 36 | 53 | 59 | 58 | 64 |
+| Wilguens Paugain | Zulte Waregem | **55** | 58 | +3 | 62 | 34 | 42 | 50 | 54 | 63 |
+| Duke Lacroix | Colorado Springs Switchbacks | — | — | — | — | — | — | — | — | — |
+| Hannes Delcroix | Lugano | — | — | — | — | — | — | — | — | — |
+| Keeto Thermoncy | Young Boys | — | — | — | — | — | — | — | — | — |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Jean-Ricner Bellegarde | Wolverhampton Wanderers | **75** | 78 | 63 | 72 | 78 | 70 | 72 |
-| Danley Jean Jacques | Philadelphia Union | **70** | 69 | 56 | 66 | 70 | 67 | 74 |
-| Leverton Pierre | Vizela | **—** | — | — | — | — | — | — |
-| Carl Sainté | El Paso Locomotive FC | **—** | — | — | — | — | — | — |
-| Woodensky Pierre | Violette | **—** | — | — | — | — | — | — |
-| Dominique Simon | Tatran Prešov | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Jean-Ricner Bellegarde | Wolverhampton Wanderers | **75** | 76 | +1 | 78 | 63 | 72 | 78 | 70 | 72 |
+| Danley Jean Jacques | Philadelphia Union | **70** | 75 | +5 | 69 | 56 | 66 | 70 | 67 | 74 |
+| Leverton Pierre | Vizela | — | — | — | — | — | — | — | — | — |
+| Carl Sainté | El Paso Locomotive FC | — | — | — | — | — | — | — | — | — |
+| Woodensky Pierre | Violette | — | — | — | — | — | — | — | — | — |
+| Dominique Simon | Tatran Prešov | — | — | — | — | — | — | — | — | — |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Frantzdy Pierrot | Çaykur Rizespor | **72** | 65 | 72 | 56 | 62 | 32 | 82 |
-| Derrick Etienne Jr. | Toronto FC | **66** | 81 | 61 | 60 | 69 | 40 | 62 |
-| Louicius Deedson | FC Dallas | **65** | 84 | 62 | 54 | 66 | 22 | 57 |
-| Duckens Nazon | Esteghlal | **—** | — | — | — | — | — | — |
-| Ruben Providence | Almere City | **—** | — | — | — | — | — | — |
-| Josué Casimir | Auxerre | **—** | — | — | — | — | — | — |
-| Yassin Fortuné | Vizela | **—** | — | — | — | — | — | — |
-| Wilson Isidor | Sunderland | **—** | — | — | — | — | — | — |
-| Lenny Joseph | Ferencváros | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Frantzdy Pierrot | Çaykur Rizespor | **72** | 72 | — | 65 | 72 | 56 | 62 | 32 | 82 |
+| Derrick Etienne Jr. | Toronto FC | **66** | 66 | — | 81 | 61 | 60 | 69 | 40 | 62 |
+| Louicius Deedson | FC Dallas | **65** | 71 | +6 | 84 | 62 | 54 | 66 | 22 | 57 |
+| Duckens Nazon | Esteghlal | — | — | — | — | — | — | — | — | — |
+| Ruben Providence | Almere City | — | — | — | — | — | — | — | — | — |
+| Josué Casimir | Auxerre | — | — | — | — | — | — | — | — | — |
+| Yassin Fortuné | Vizela | — | — | — | — | — | — | — | — | — |
+| Wilson Isidor | Sunderland | — | — | — | — | — | — | — | — | — |
+| Lenny Joseph | Ferencváros | — | — | — | — | — | — | — | — | — |
 
 ---
 ## 2. キープレーヤー
 
-### Jean-Ricner Bellegarde (OVR 75)
+### Jean-Ricner Bellegarde (OVR 75 → POT **76**)
 - **ポジション**: MF  |  **クラブ**: Wolverhampton Wanderers
 - **年齢**: 27  |  **代表キャップ**: 8  |  **代表得点**: 0
 - **能力値**: PAC 78 / SHO 63 / PAS 72 / DRI 78 / DEF 70 / PHY 72

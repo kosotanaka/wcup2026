@@ -7,43 +7,43 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Rais M'Bolhi 🅲 | ES Sétif | **—** | — | — | — | — | — | — |
-| Alexandre Oukidja | Strasbourg | **—** | — | — | — | — | — | — |
-| Farouk Chafai | MC Alger | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Rais M'Bolhi 🅲 | ES Sétif | — | — | — | — | — | — | — | — | — |
+| Alexandre Oukidja | Strasbourg | — | — | — | — | — | — | — | — | — |
+| Farouk Chafai | MC Alger | — | — | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ramy Bensebaini | Borussia Dortmund | **79** | 73 | 70 | 70 | 77 | 78 | 79 |
-| Hicham Boudaoui | Nice | **77** | 73 | 67 | 74 | 77 | 74 | 76 |
-| Aissa Mandi | Villarreal | **75** | 57 | 46 | 71 | 67 | 75 | 73 |
-| Abdelkader Bedrane | Paradou | **72** | 60 | 30 | 56 | 53 | 72 | 77 |
-| Mohamed Amine Tougai | Brest | **70** | 84 | 53 | 64 | 70 | 63 | 57 |
-| Djamel Benlamri | Al-Shabab | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ramy Bensebaini | Borussia Dortmund | **79** | 79 | — | 73 | 70 | 70 | 77 | 78 | 79 |
+| Hicham Boudaoui | Nice | **77** | 80 | +3 | 73 | 67 | 74 | 77 | 74 | 76 |
+| Aissa Mandi | Villarreal | **75** | 75 | — | 57 | 46 | 71 | 67 | 75 | 73 |
+| Abdelkader Bedrane | Paradou | **72** | 72 | — | 60 | 30 | 56 | 53 | 72 | 77 |
+| Mohamed Amine Tougai | Brest | **70** | 73 | +3 | 84 | 53 | 64 | 70 | 63 | 57 |
+| Djamel Benlamri | Al-Shabab | — | — | — | — | — | — | — | — | — |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ismaël Bennacer | Milan | **80** | 76 | 72 | 80 | 83 | 76 | 74 |
-| Said Benrahma | Lyon | **77** | 75 | 75 | 74 | 80 | 42 | 61 |
-| Ramiz Zerrouki | Twente | **73** | 62 | 66 | 69 | 72 | 68 | 80 |
-| Sofiane Feghouli | Al-Ittihad | **—** | — | — | — | — | — | — |
-| Nacer Chadli | Anderlecht | **—** | — | — | — | — | — | — |
-| Yacine Adli | Fiorentina | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ismaël Bennacer | Milan | **80** | 82 | +2 | 76 | 72 | 80 | 83 | 76 | 74 |
+| Said Benrahma | Lyon | **77** | 77 | — | 75 | 75 | 74 | 80 | 42 | 61 |
+| Ramiz Zerrouki | Twente | **73** | 75 | +2 | 62 | 66 | 69 | 72 | 68 | 80 |
+| Sofiane Feghouli | Al-Ittihad | — | — | — | — | — | — | — | — | — |
+| Nacer Chadli | Anderlecht | — | — | — | — | — | — | — | — | — |
+| Yacine Adli | Fiorentina | — | — | — | — | — | — | — | — | — |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Riyad Mahrez | Al-Ahli | **84** | 78 | 80 | 81 | 88 | 39 | 63 |
-| Islam Slimani | Belouizdad | **68** | 36 | 71 | 66 | 62 | 46 | 81 |
-| Baghdad Bounedjah | Al-Sadd | **—** | — | — | — | — | — | — |
-| Youcef Belaïli | MC Alger | **—** | — | — | — | — | — | — |
-| Adam Ounas | Galatasaray | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Riyad Mahrez | Al-Ahli | **84** | 84 | — | 78 | 80 | 81 | 88 | 39 | 63 |
+| Islam Slimani | Belouizdad | **68** | 68 | — | 36 | 71 | 66 | 62 | 46 | 81 |
+| Baghdad Bounedjah | Al-Sadd | — | — | — | — | — | — | — | — | — |
+| Youcef Belaïli | MC Alger | — | — | — | — | — | — | — | — | — |
+| Adam Ounas | Galatasaray | — | — | — | — | — | — | — | — | — |
 
 ---
 ## 2. キープレーヤー
@@ -53,7 +53,7 @@
 - **年齢**: 35  |  **代表キャップ**: 88  |  **代表得点**: 29
 - **能力値**: PAC 78 / SHO 80 / PAS 81 / DRI 88 / DEF 39 / PHY 63
 
-### Ismaël Bennacer (OVR 80)
+### Ismaël Bennacer (OVR 80 → POT **82**)
 - **ポジション**: MF  |  **クラブ**: Milan
 - **年齢**: 28  |  **代表キャップ**: 47  |  **代表得点**: 1
 - **能力値**: PAC 76 / SHO 72 / PAS 80 / DRI 83 / DEF 76 / PHY 74
@@ -63,7 +63,7 @@
 - **年齢**: 31  |  **代表キャップ**: 50  |  **代表得点**: 10
 - **能力値**: PAC 73 / SHO 70 / PAS 70 / DRI 77 / DEF 78 / PHY 79
 
-### Hicham Boudaoui (OVR 77)
+### Hicham Boudaoui (OVR 77 → POT **80**)
 - **ポジション**: DF  |  **クラブ**: Nice
 - **年齢**: 26  |  **代表キャップ**: 32  |  **代表得点**: 1
 - **能力値**: PAC 73 / SHO 67 / PAS 74 / DRI 77 / DEF 74 / PHY 76

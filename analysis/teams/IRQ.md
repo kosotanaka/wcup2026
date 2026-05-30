@@ -7,62 +7,62 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Jalal Hassan 🅲 | Al-Zawraa | **—** | — | — | — | — | — | — |
-| Fahad Talib | Al-Talaba | **—** | — | — | — | — | — | — |
-| Ahmed Basil | Al-Shorta | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Jalal Hassan 🅲 | Al-Zawraa | — | — | — | — | — | — | — | — | — |
+| Fahad Talib | Al-Talaba | — | — | — | — | — | — | — | — | — |
+| Ahmed Basil | Al-Shorta | — | — | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Merchas Doski | Viktoria Plzeň | **68** | 75 | 54 | 65 | 71 | 62 | 62 |
-| Rebin Sulaka | Port | **—** | — | — | — | — | — | — |
-| Manaf Younis | Al-Shorta | **—** | — | — | — | — | — | — |
-| Zaid Tahseen | Pakhtakor | **—** | — | — | — | — | — | — |
-| Hussein Ali | Pogoń Szczecin | **—** | — | — | — | — | — | — |
-| Frans Putros | Persib | **—** | — | — | — | — | — | — |
-| Maitham Jabbar | Al-Zawraa | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Merchas Doski | Viktoria Plzeň | **68** | 71 | +3 | 75 | 54 | 65 | 71 | 62 | 62 |
+| Rebin Sulaka | Port | — | — | — | — | — | — | — | — | — |
+| Manaf Younis | Al-Shorta | — | — | — | — | — | — | — | — | — |
+| Zaid Tahseen | Pakhtakor | — | — | — | — | — | — | — | — | — |
+| Hussein Ali | Pogoń Szczecin | — | — | — | — | — | — | — | — | — |
+| Frans Putros | Persib | — | — | — | — | — | — | — | — | — |
+| Maitham Jabbar | Al-Zawraa | — | — | — | — | — | — | — | — | — |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ibrahim Bayesh | Al-Dhafra | **68** | 79 | 67 | 60 | 69 | 58 | 75 |
-| Zidane Iqbal | Utrecht | **68** | 64 | 60 | 64 | 73 | 63 | 62 |
-| Amir Al-Ammari | Cracovia | **65** | 68 | 57 | 66 | 63 | 60 | 70 |
-| Ali Jasim | Al-Najma | **62** | 67 | 62 | 57 | 63 | 22 | 59 |
-| Youssef Amyn | AEK Larnaca | **—** | — | — | — | — | — | — |
-| Hasan Abdulkareem | Al-Zawraa | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ibrahim Bayesh | Al-Dhafra | **68** | 71 | +3 | 79 | 67 | 60 | 69 | 58 | 75 |
+| Zidane Iqbal | Utrecht | **68** | 78 | +10 | 64 | 60 | 64 | 73 | 63 | 62 |
+| Amir Al-Ammari | Cracovia | **65** | 65 | — | 68 | 57 | 66 | 63 | 60 | 70 |
+| Ali Jasim | Al-Najma | **62** | 77 | +15 | 67 | 62 | 57 | 63 | 22 | 59 |
+| Youssef Amyn | AEK Larnaca | — | — | — | — | — | — | — | — | — |
+| Hasan Abdulkareem | Al-Zawraa | — | — | — | — | — | — | — | — | — |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ali Al-Hamadi | Luton Town | **66** | 79 | 63 | 47 | 64 | 18 | 73 |
-| Aymen Hussein | Al-Karma | **—** | — | — | — | — | — | — |
-| Mohanad Ali | Dibba | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ali Al-Hamadi | Luton Town | **66** | 73 | +7 | 79 | 63 | 47 | 64 | 18 | 73 |
+| Aymen Hussein | Al-Karma | — | — | — | — | — | — | — | — | — |
+| Mohanad Ali | Dibba | — | — | — | — | — | — | — | — | — |
 
 ---
 ## 2. キープレーヤー
 
-### Merchas Doski (OVR 68)
+### Merchas Doski (OVR 68 → POT **71**)
 - **ポジション**: DF  |  **クラブ**: Viktoria Plzeň
 - **年齢**: 26  |  **代表キャップ**: 30  |  **代表得点**: 0
 - **能力値**: PAC 75 / SHO 54 / PAS 65 / DRI 71 / DEF 62 / PHY 62
 
-### Ibrahim Bayesh (OVR 68)
+### Ibrahim Bayesh (OVR 68 → POT **71**)
 - **ポジション**: MF  |  **クラブ**: Al-Dhafra
 - **年齢**: 26  |  **代表キャップ**: 74  |  **代表得点**: 8
 - **能力値**: PAC 79 / SHO 67 / PAS 60 / DRI 69 / DEF 58 / PHY 75
 
-### Zidane Iqbal (OVR 68)
+### Zidane Iqbal (OVR 68 → POT **78**)
 - **ポジション**: MF  |  **クラブ**: Utrecht
 - **年齢**: 23  |  **代表キャップ**: 23  |  **代表得点**: 2
 - **能力値**: PAC 64 / SHO 60 / PAS 64 / DRI 73 / DEF 63 / PHY 62
 
-### Ali Al-Hamadi (OVR 66)
+### Ali Al-Hamadi (OVR 66 → POT **73**)
 - **ポジション**: FW  |  **クラブ**: Luton Town
 - **年齢**: 24  |  **代表キャップ**: 18  |  **代表得点**: 5
 - **能力値**: PAC 79 / SHO 63 / PAS 47 / DRI 64 / DEF 18 / PHY 73

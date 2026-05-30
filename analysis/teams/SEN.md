@@ -7,47 +7,47 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Édouard Mendy | Al-Ahli | **80** | None | None | None | None | None | None |
-| Yehvann Diouf | Nice | **78** | None | None | None | None | None | None |
-| Mory Diaw | Le Havre | **70** | None | None | None | None | None | None |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Édouard Mendy | Al-Ahli | **80** | 80 | — | — | — | — | — | — | — |
+| Yehvann Diouf | Nice | **78** | 83 | +5 | — | — | — | — | — | — |
+| Mory Diaw | Le Havre | **70** | 70 | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Kalidou Koulibaly 🅲 | Al-Hilal | **82** | 74 | 48 | 62 | 65 | 82 | 84 |
-| Moussa Niakhaté | Lyon | **77** | 68 | 48 | 63 | 64 | 77 | 80 |
-| Ismail Jakobs | Galatasaray | **75** | 90 | 60 | 65 | 74 | 70 | 68 |
-| El Hadji Malick Diouf | West Ham United | **75** | 80 | 67 | 68 | 74 | 70 | 77 |
-| Krépin Diatta | Monaco | **74** | 88 | 69 | 67 | 76 | 57 | 67 |
-| Mamadou Sarr | Chelsea | **73** | 88 | 71 | 66 | 71 | 40 | 74 |
-| Antoine Mendy | Nice | **70** | 64 | 41 | 55 | 63 | 71 | 72 |
-| Abdoulaye Seck | Maccabi Haifa | **68** | 76 | 34 | 51 | 64 | 67 | 70 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Kalidou Koulibaly 🅲 | Al-Hilal | **82** | 82 | — | 74 | 48 | 62 | 65 | 82 | 84 |
+| Moussa Niakhaté | Lyon | **77** | 77 | — | 68 | 48 | 63 | 64 | 77 | 80 |
+| Ismail Jakobs | Galatasaray | **75** | 78 | +3 | 90 | 60 | 65 | 74 | 70 | 68 |
+| El Hadji Malick Diouf | West Ham United | **75** | 82 | +7 | 80 | 67 | 68 | 74 | 70 | 77 |
+| Krépin Diatta | Monaco | **74** | 75 | +1 | 88 | 69 | 67 | 76 | 57 | 67 |
+| Mamadou Sarr | Chelsea | **73** | 73 | — | 88 | 71 | 66 | 71 | 40 | 74 |
+| Antoine Mendy | Nice | **70** | 80 | +10 | 64 | 41 | 55 | 63 | 71 | 72 |
+| Abdoulaye Seck | Maccabi Haifa | **68** | 83 | +15 | 76 | 34 | 51 | 64 | 67 | 70 |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Pape Matar Sarr | Tottenham Hotspur | **79** | 68 | 66 | 76 | 78 | 77 | 76 |
-| Pape Gueye | Villarreal | **78** | 67 | 65 | 75 | 75 | 76 | 79 |
-| Lamine Camara | Monaco | **77** | 79 | 66 | 78 | 77 | 71 | 69 |
-| Habib Diarra | Sunderland | **77** | 70 | 68 | 71 | 77 | 71 | 71 |
-| Pathé Ciss | Rayo Vallecano | **77** | 63 | 57 | 64 | 65 | 76 | 87 |
-| Idrissa Gueye | Everton | **70** | 67 | 68 | 49 | 68 | 24 | 65 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Pape Matar Sarr | Tottenham Hotspur | **79** | 84 | +5 | 68 | 66 | 76 | 78 | 77 | 76 |
+| Pape Gueye | Villarreal | **78** | 81 | +3 | 67 | 65 | 75 | 75 | 76 | 79 |
+| Lamine Camara | Monaco | **77** | 85 | +8 | 79 | 66 | 78 | 77 | 71 | 69 |
+| Habib Diarra | Sunderland | **77** | 83 | +6 | 70 | 68 | 71 | 77 | 71 | 71 |
+| Pathé Ciss | Rayo Vallecano | **77** | 77 | — | 63 | 57 | 64 | 65 | 76 | 87 |
+| Idrissa Gueye | Everton | **70** | 83 | +13 | 67 | 68 | 49 | 68 | 24 | 65 |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Sadio Mané | Al-Nassr | **83** | 82 | 81 | 78 | 85 | 44 | 75 |
-| Nicolas Jackson | Bayern Munich | **80** | 82 | 77 | 69 | 79 | 40 | 77 |
-| Ismaïla Sarr | Crystal Palace | **79** | 91 | 78 | 76 | 78 | 28 | 69 |
-| Iliman Ndiaye | Everton | **79** | 84 | 76 | 70 | 84 | 40 | 63 |
-| Assane Diao | Como | **76** | 90 | 74 | 67 | 77 | 36 | 60 |
-| Bamba Dieng | Lorient | **71** | 78 | 72 | 60 | 68 | 33 | 60 |
-| Ibrahim Mbaye | Paris Saint-Germain | **63** | 55 | 23 | 39 | 44 | 62 | 72 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Sadio Mané | Al-Nassr | **83** | 83 | — | 82 | 81 | 78 | 85 | 44 | 75 |
+| Nicolas Jackson | Bayern Munich | **80** | 84 | +4 | 82 | 77 | 69 | 79 | 40 | 77 |
+| Ismaïla Sarr | Crystal Palace | **79** | 79 | — | 91 | 78 | 76 | 78 | 28 | 69 |
+| Iliman Ndiaye | Everton | **79** | 82 | +3 | 84 | 76 | 70 | 84 | 40 | 63 |
+| Assane Diao | Como | **76** | 87 | +11 | 90 | 74 | 67 | 77 | 36 | 60 |
+| Bamba Dieng | Lorient | **71** | 75 | +4 | 78 | 72 | 60 | 68 | 33 | 60 |
+| Ibrahim Mbaye | Paris Saint-Germain | **63** | 73 | +10 | 55 | 23 | 39 | 44 | 62 | 72 |
 
 ---
 ## 2. キープレーヤー
@@ -67,12 +67,12 @@
 - **年齢**: 34  |  **代表キャップ**: 56  |  **代表得点**: 0
 - **能力値**: PAC None / SHO None / PAS None / DRI None / DEF None / PHY None
 
-### Nicolas Jackson (OVR 80)
+### Nicolas Jackson (OVR 80 → POT **84**)
 - **ポジション**: FW  |  **クラブ**: Bayern Munich
 - **年齢**: 24  |  **代表キャップ**: 31  |  **代表得点**: 8
 - **能力値**: PAC 82 / SHO 77 / PAS 69 / DRI 79 / DEF 40 / PHY 77
 
-### Pape Matar Sarr (OVR 79)
+### Pape Matar Sarr (OVR 79 → POT **84**)
 - **ポジション**: MF  |  **クラブ**: Tottenham Hotspur
 - **年齢**: 23  |  **代表キャップ**: 38  |  **代表得点**: 4
 - **能力値**: PAC 68 / SHO 66 / PAS 76 / DRI 78 / DEF 77 / PHY 76

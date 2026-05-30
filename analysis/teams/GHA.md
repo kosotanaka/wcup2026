@@ -7,42 +7,42 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Lawrence Ati-Zigi | St. Gallen | **73** | None | None | None | None | None | None |
-| Joseph Anang | St Patrick's Athletic | **67** | None | None | None | None | None | None |
-| Benjamin Asare | Hearts of Oak | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Lawrence Ati-Zigi | St. Gallen | **73** | 75 | +2 | — | — | — | — | — | — |
+| Joseph Anang | St Patrick's Athletic | **67** | 73 | +6 | — | — | — | — | — | — |
+| Benjamin Asare | Hearts of Oak | — | — | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Alexander Djiku | Spartak Moscow | **77** | 73 | 44 | 66 | 68 | 77 | 80 |
-| Abdul Rahman Baba | PAOK | **76** | 77 | 66 | 69 | 74 | 72 | 78 |
-| Gideon Mensah | Auxerre | **74** | 76 | 57 | 65 | 72 | 68 | 67 |
-| Alidu Seidu | Rennes | **74** | 61 | 43 | 61 | 70 | 75 | 67 |
-| Jerome Opoku | İstanbul Başakşehir | **72** | 59 | 43 | 54 | 59 | 73 | 80 |
-| Jonas Adjetey | VfL Wolfsburg | **70** | 70 | 23 | 47 | 50 | 71 | 71 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Alexander Djiku | Spartak Moscow | **77** | 77 | — | 73 | 44 | 66 | 68 | 77 | 80 |
+| Abdul Rahman Baba | PAOK | **76** | 76 | — | 77 | 66 | 69 | 74 | 72 | 78 |
+| Gideon Mensah | Auxerre | **74** | 75 | +1 | 76 | 57 | 65 | 72 | 68 | 67 |
+| Alidu Seidu | Rennes | **74** | 80 | +6 | 61 | 43 | 61 | 70 | 75 | 67 |
+| Jerome Opoku | İstanbul Başakşehir | **72** | 77 | +5 | 59 | 43 | 54 | 59 | 73 | 80 |
+| Jonas Adjetey | VfL Wolfsburg | **70** | 82 | +12 | 70 | 23 | 47 | 50 | 71 | 71 |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Thomas Partey | Villarreal | **83** | 59 | 71 | 80 | 77 | 80 | 82 |
-| Abdul Fatawu | Leicester City | **76** | 83 | 73 | 74 | 78 | 46 | 64 |
-| Elisha Owusu | Auxerre | **73** | 55 | 54 | 68 | 70 | 70 | 70 |
-| Kamaldeen Sulemana | Atalanta | **71** | 88 | 63 | 63 | 76 | 28 | 59 |
-| Caleb Yirenkyi | Nordsjælland | **67** | 66 | 59 | 59 | 67 | 63 | 70 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Thomas Partey | Villarreal | **83** | 83 | — | 59 | 71 | 80 | 77 | 80 | 82 |
+| Abdul Fatawu | Leicester City | **76** | 83 | +7 | 83 | 73 | 74 | 78 | 46 | 64 |
+| Elisha Owusu | Auxerre | **73** | 76 | +3 | 55 | 54 | 68 | 70 | 70 | 70 |
+| Kamaldeen Sulemana | Atalanta | **71** | 76 | +5 | 88 | 63 | 63 | 76 | 28 | 59 |
+| Caleb Yirenkyi | Nordsjælland | **67** | 82 | +15 | 66 | 59 | 59 | 67 | 63 | 70 |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Iñaki Williams | Athletic Bilbao | **83** | 94 | 81 | 74 | 80 | 45 | 84 |
-| Antoine Semenyo | Manchester City | **80** | 80 | 78 | 73 | 81 | 40 | 79 |
-| Ernest Nuamah | Lyon | **75** | 82 | 70 | 69 | 78 | 24 | 58 |
-| Jordan Ayew 🅲 | Leicester City | **73** | 66 | 73 | 70 | 75 | 56 | 71 |
-| Kamaldeen Sulemana | Atalanta | **71** | 88 | 63 | 63 | 76 | 28 | 59 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Iñaki Williams | Athletic Bilbao | **83** | 83 | — | 94 | 81 | 74 | 80 | 45 | 84 |
+| Antoine Semenyo | Manchester City | **80** | 82 | +2 | 80 | 78 | 73 | 81 | 40 | 79 |
+| Ernest Nuamah | Lyon | **75** | 82 | +7 | 82 | 70 | 69 | 78 | 24 | 58 |
+| Jordan Ayew 🅲 | Leicester City | **73** | 73 | — | 66 | 73 | 70 | 75 | 56 | 71 |
+| Kamaldeen Sulemana | Atalanta | **71** | 76 | +5 | 88 | 63 | 63 | 76 | 28 | 59 |
 
 ---
 ## 2. キープレーヤー
@@ -57,7 +57,7 @@
 - **年齢**: 31  |  **代表キャップ**: 25  |  **代表得点**: 2
 - **能力値**: PAC 94 / SHO 81 / PAS 74 / DRI 80 / DEF 45 / PHY 84
 
-### Antoine Semenyo (OVR 80)
+### Antoine Semenyo (OVR 80 → POT **82**)
 - **ポジション**: FW  |  **クラブ**: Manchester City
 - **年齢**: 26  |  **代表キャップ**: 34  |  **代表得点**: 3
 - **能力値**: PAC 80 / SHO 78 / PAS 73 / DRI 81 / DEF 40 / PHY 79

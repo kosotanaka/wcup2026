@@ -7,74 +7,74 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ronwen Williams 🅲 | Mamelodi Sundowns | **—** | — | — | — | — | — | — |
-| Ricardo Goss | Siwelele | **—** | — | — | — | — | — | — |
-| Sipho Chaine | Orlando Pirates | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ronwen Williams 🅲 | Mamelodi Sundowns | — | — | — | — | — | — | — | — | — |
+| Ricardo Goss | Siwelele | — | — | — | — | — | — | — | — | — |
+| Sipho Chaine | Orlando Pirates | — | — | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ime Okon | Hannover 96 | **67** | 77 | 30 | 44 | 59 | 68 | 70 |
-| Samukele Kabini | Molde | **63** | 71 | 29 | 54 | 60 | 59 | 60 |
-| Olwethu Makhanya | Philadelphia Union | **57** | 74 | 32 | 42 | 44 | 56 | 64 |
-| Aubrey Modiba | Mamelodi Sundowns | **—** | — | — | — | — | — | — |
-| Khuliso Mudau | Mamelodi Sundowns | **—** | — | — | — | — | — | — |
-| Nkosinathi Sibisi | Orlando Pirates | **—** | — | — | — | — | — | — |
-| Mbekezeli Mbokazi | Chicago Fire FC | **—** | — | — | — | — | — | — |
-| Khulumani Ndamane | Mamelodi Sundowns | **—** | — | — | — | — | — | — |
-| Thabang Matuludi | Polokwane City | **—** | — | — | — | — | — | — |
-| Kamogelo Sebelebele | Orlando Pirates | **—** | — | — | — | — | — | — |
-| Bradley Cross | Kaizer Chiefs | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ime Okon | Hannover 96 | **67** | 74 | +7 | 77 | 30 | 44 | 59 | 68 | 70 |
+| Samukele Kabini | Molde | **63** | 75 | +12 | 71 | 29 | 54 | 60 | 59 | 60 |
+| Olwethu Makhanya | Philadelphia Union | **57** | 69 | +12 | 74 | 32 | 42 | 44 | 56 | 64 |
+| Aubrey Modiba | Mamelodi Sundowns | — | — | — | — | — | — | — | — | — |
+| Khuliso Mudau | Mamelodi Sundowns | — | — | — | — | — | — | — | — | — |
+| Nkosinathi Sibisi | Orlando Pirates | — | — | — | — | — | — | — | — | — |
+| Mbekezeli Mbokazi | Chicago Fire FC | — | — | — | — | — | — | — | — | — |
+| Khulumani Ndamane | Mamelodi Sundowns | — | — | — | — | — | — | — | — | — |
+| Thabang Matuludi | Polokwane City | — | — | — | — | — | — | — | — | — |
+| Kamogelo Sebelebele | Orlando Pirates | — | — | — | — | — | — | — | — | — |
+| Bradley Cross | Kaizer Chiefs | — | — | — | — | — | — | — | — | — |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Sphephelo Sithole | Tondela | **65** | 64 | 53 | 59 | 61 | 64 | 74 |
-| Teboho Mokoena | Mamelodi Sundowns | **—** | — | — | — | — | — | — |
-| Thalente Mbatha | Orlando Pirates | **—** | — | — | — | — | — | — |
-| Jayden Adams | Mamelodi Sundowns | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Sphephelo Sithole | Tondela | **65** | 69 | +4 | 64 | 53 | 59 | 61 | 64 | 74 |
+| Teboho Mokoena | Mamelodi Sundowns | — | — | — | — | — | — | — | — | — |
+| Thalente Mbatha | Orlando Pirates | — | — | — | — | — | — | — | — | — |
+| Jayden Adams | Mamelodi Sundowns | — | — | — | — | — | — | — | — | — |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Lyle Foster | Burnley | **72** | 81 | 72 | 61 | 69 | 36 | 73 |
-| Themba Zwane | Mamelodi Sundowns | **—** | — | — | — | — | — | — |
-| Evidence Makgopa | Orlando Pirates | **—** | — | — | — | — | — | — |
-| Oswin Appollis | Orlando Pirates | **—** | — | — | — | — | — | — |
-| Iqraam Rayners | Mamelodi Sundowns | **—** | — | — | — | — | — | — |
-| Relebohile Mofokeng | Orlando Pirates | **—** | — | — | — | — | — | — |
-| Thapelo Maseko | AEL Limassol | **—** | — | — | — | — | — | — |
-| Tshepang Moremi | Orlando Pirates | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Lyle Foster | Burnley | **72** | 77 | +5 | 81 | 72 | 61 | 69 | 36 | 73 |
+| Themba Zwane | Mamelodi Sundowns | — | — | — | — | — | — | — | — | — |
+| Evidence Makgopa | Orlando Pirates | — | — | — | — | — | — | — | — | — |
+| Oswin Appollis | Orlando Pirates | — | — | — | — | — | — | — | — | — |
+| Iqraam Rayners | Mamelodi Sundowns | — | — | — | — | — | — | — | — | — |
+| Relebohile Mofokeng | Orlando Pirates | — | — | — | — | — | — | — | — | — |
+| Thapelo Maseko | AEL Limassol | — | — | — | — | — | — | — | — | — |
+| Tshepang Moremi | Orlando Pirates | — | — | — | — | — | — | — | — | — |
 
 ---
 ## 2. キープレーヤー
 
-### Lyle Foster (OVR 72)
+### Lyle Foster (OVR 72 → POT **77**)
 - **ポジション**: FW  |  **クラブ**: Burnley
 - **年齢**: 26  |  **代表キャップ**: 26  |  **代表得点**: 10
 - **能力値**: PAC 81 / SHO 72 / PAS 61 / DRI 69 / DEF 36 / PHY 73
 
-### Ime Okon (OVR 67)
+### Ime Okon (OVR 67 → POT **74**)
 - **ポジション**: DF  |  **クラブ**: Hannover 96
 - **年齢**: 22  |  **代表キャップ**: 7  |  **代表得点**: 1
 - **能力値**: PAC 77 / SHO 30 / PAS 44 / DRI 59 / DEF 68 / PHY 70
 
-### Sphephelo Sithole (OVR 65)
+### Sphephelo Sithole (OVR 65 → POT **69**)
 - **ポジション**: MF  |  **クラブ**: Tondela
 - **年齢**: 27  |  **代表キャップ**: 27  |  **代表得点**: 1
 - **能力値**: PAC 64 / SHO 53 / PAS 59 / DRI 61 / DEF 64 / PHY 74
 
-### Samukele Kabini (OVR 63)
+### Samukele Kabini (OVR 63 → POT **75**)
 - **ポジション**: DF  |  **クラブ**: Molde
 - **年齢**: 22  |  **代表キャップ**: 5  |  **代表得点**: 0
 - **能力値**: PAC 71 / SHO 29 / PAS 54 / DRI 60 / DEF 59 / PHY 60
 
-### Olwethu Makhanya (OVR 57)
+### Olwethu Makhanya (OVR 57 → POT **69**)
 - **ポジション**: DF  |  **クラブ**: Philadelphia Union
 - **年齢**: 22  |  **代表キャップ**: 0  |  **代表得点**: 0
 - **能力値**: PAC 74 / SHO 32 / PAS 42 / DRI 44 / DEF 56 / PHY 64

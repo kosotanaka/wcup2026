@@ -7,50 +7,50 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Dominik Livaković | Dinamo Zagreb | **80** | None | None | None | None | None | None |
-| Dominik Kotarski | Copenhagen | **77** | None | None | None | None | None | None |
-| Ivor Pandur | Hull City | **72** | None | None | None | None | None | None |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Dominik Livaković | Dinamo Zagreb | **80** | 80 | — | — | — | — | — | — | — |
+| Dominik Kotarski | Copenhagen | **77** | 81 | +4 | — | — | — | — | — | — |
+| Ivor Pandur | Hull City | **72** | 77 | +5 | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Joško Gvardiol | Manchester City | **84** | 78 | 71 | 75 | 78 | 84 | 82 |
-| Josip Šutalo | Ajax | **78** | 77 | 32 | 62 | 72 | 78 | 80 |
-| Josip Stanišić | Bayern Munich | **78** | 73 | 44 | 65 | 69 | 79 | 74 |
-| Duje Ćaleta-Car | Real Sociedad | **74** | 58 | 39 | 55 | 59 | 74 | 76 |
-| Marin Pongračić | Fiorentina | **74** | 61 | 26 | 52 | 62 | 74 | 76 |
-| Martin Erlić | Midtjylland | **72** | 56 | 35 | 46 | 53 | 73 | 72 |
-| Luka Vušković | Hamburger SV | **72** | 58 | 59 | 57 | 58 | 70 | 77 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Joško Gvardiol | Manchester City | **84** | 87 | +3 | 78 | 71 | 75 | 78 | 84 | 82 |
+| Josip Šutalo | Ajax | **78** | 82 | +4 | 77 | 32 | 62 | 72 | 78 | 80 |
+| Josip Stanišić | Bayern Munich | **78** | 82 | +4 | 73 | 44 | 65 | 69 | 79 | 74 |
+| Duje Ćaleta-Car | Real Sociedad | **74** | 74 | — | 58 | 39 | 55 | 59 | 74 | 76 |
+| Marin Pongračić | Fiorentina | **74** | 76 | +2 | 61 | 26 | 52 | 62 | 74 | 76 |
+| Martin Erlić | Midtjylland | **72** | 73 | +1 | 56 | 35 | 46 | 53 | 73 | 72 |
+| Luka Vušković | Hamburger SV | **72** | 87 | +15 | 58 | 59 | 57 | 58 | 70 | 77 |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Luka Modrić 🅲 | Milan | **83** | 68 | 74 | 86 | 86 | 70 | 62 |
-| Mateo Kovačić | Manchester City | **83** | 67 | 74 | 81 | 83 | 73 | 72 |
-| Mario Pašalić | Atalanta | **80** | 69 | 78 | 77 | 81 | 67 | 76 |
-| Nikola Vlašić | Torino | **79** | 74 | 76 | 76 | 81 | 57 | 70 |
-| Luka Sučić | Real Sociedad | **78** | 76 | 76 | 78 | 77 | 68 | 72 |
-| Martin Baturina | Como | **78** | 77 | 70 | 78 | 83 | 59 | 66 |
-| Kristijan Jakić | FC Augsburg | **76** | 72 | 62 | 65 | 68 | 76 | 80 |
-| Petar Sučić | Inter Milan | **74** | 69 | 68 | 72 | 77 | 61 | 74 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Luka Modrić 🅲 | Milan | **83** | 83 | — | 68 | 74 | 86 | 86 | 70 | 62 |
+| Mateo Kovačić | Manchester City | **83** | 83 | — | 67 | 74 | 81 | 83 | 73 | 72 |
+| Mario Pašalić | Atalanta | **80** | 80 | — | 69 | 78 | 77 | 81 | 67 | 76 |
+| Nikola Vlašić | Torino | **79** | 79 | — | 74 | 76 | 76 | 81 | 57 | 70 |
+| Luka Sučić | Real Sociedad | **78** | 86 | +8 | 76 | 76 | 78 | 77 | 68 | 72 |
+| Martin Baturina | Como | **78** | 83 | +5 | 77 | 70 | 78 | 83 | 59 | 66 |
+| Kristijan Jakić | FC Augsburg | **76** | 76 | — | 72 | 62 | 65 | 68 | 76 | 80 |
+| Petar Sučić | Inter Milan | **74** | 83 | +9 | 69 | 68 | 72 | 77 | 61 | 74 |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ante Budimir | Osasuna | **82** | 59 | 84 | 63 | 76 | 35 | 80 |
-| Ivan Perišić | PSV Eindhoven | **81** | 75 | 80 | 81 | 79 | 69 | 75 |
-| Andrej Kramarić | TSG Hoffenheim | **81** | 67 | 82 | 78 | 84 | 33 | 73 |
-| Igor Matanović | SC Freiburg | **71** | 68 | 69 | 55 | 67 | 34 | 74 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ante Budimir | Osasuna | **82** | 82 | — | 59 | 84 | 63 | 76 | 35 | 80 |
+| Ivan Perišić | PSV Eindhoven | **81** | 81 | — | 75 | 80 | 81 | 79 | 69 | 75 |
+| Andrej Kramarić | TSG Hoffenheim | **81** | 81 | — | 67 | 82 | 78 | 84 | 33 | 73 |
+| Igor Matanović | SC Freiburg | **71** | 79 | +8 | 68 | 69 | 55 | 67 | 34 | 74 |
 
 ---
 ## 2. キープレーヤー
 
-### Joško Gvardiol (OVR 84)
+### Joško Gvardiol (OVR 84 → POT **87**)
 - **ポジション**: DF  |  **クラブ**: Manchester City
 - **年齢**: 24  |  **代表キャップ**: 46  |  **代表得点**: 4
 - **能力値**: PAC 78 / SHO 71 / PAS 75 / DRI 78 / DEF 84 / PHY 82

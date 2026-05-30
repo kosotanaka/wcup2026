@@ -7,48 +7,48 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Gastón Álvarez | Nacional | **75** | 76 | 27 | 59 | 65 | 76 | 77 |
-| Sergio Rochet | Nacional | **—** | — | — | — | — | — | — |
-| Sebastián Sosa | Independiente | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Gastón Álvarez | Nacional | **75** | 82 | +7 | 76 | 27 | 59 | 65 | 76 | 77 |
+| Sergio Rochet | Nacional | — | — | — | — | — | — | — | — | — |
+| Sebastián Sosa | Independiente | — | — | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| José María Giménez | Atlético Madrid | **83** | 73 | 46 | 60 | 62 | 85 | 82 |
-| Ronald Araújo | Juventus | **83** | 80 | 53 | 63 | 61 | 81 | 83 |
-| Mathías Olivera | Napoli | **78** | 70 | 51 | 69 | 72 | 77 | 73 |
-| Diego Godín 🅲 | Vélez Sarsfield | **—** | — | — | — | — | — | — |
-| Matías Viña | Flamengo | **—** | — | — | — | — | — | — |
-| Guillermo Varela | Flamengo | **—** | — | — | — | — | — | — |
-| Sebastián Cáceres | América | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| José María Giménez | Atlético Madrid | **83** | 83 | — | 73 | 46 | 60 | 62 | 85 | 82 |
+| Ronald Araújo | Juventus | **83** | 86 | +3 | 80 | 53 | 63 | 61 | 81 | 83 |
+| Mathías Olivera | Napoli | **78** | 78 | — | 70 | 51 | 69 | 72 | 77 | 73 |
+| Diego Godín 🅲 | Vélez Sarsfield | — | — | — | — | — | — | — | — | — |
+| Matías Viña | Flamengo | — | — | — | — | — | — | — | — | — |
+| Guillermo Varela | Flamengo | — | — | — | — | — | — | — | — | — |
+| Sebastián Cáceres | América | — | — | — | — | — | — | — | — | — |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Federico Valverde | Real Madrid | **89** | 88 | 84 | 84 | 84 | 83 | 85 |
-| Lucas Torreira | Galatasaray | **83** | 76 | 72 | 78 | 79 | 81 | 79 |
-| Rodrigo Bentancur | Tottenham Hotspur | **80** | 64 | 68 | 78 | 79 | 78 | 72 |
-| Manuel Ugarte | Manchester United | **79** | 62 | 65 | 72 | 76 | 77 | 75 |
-| Nicolás De La Cruz | Flamengo | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Federico Valverde | Real Madrid | **89** | 90 | +1 | 88 | 84 | 84 | 84 | 83 | 85 |
+| Lucas Torreira | Galatasaray | **83** | 83 | — | 76 | 72 | 78 | 79 | 81 | 79 |
+| Rodrigo Bentancur | Tottenham Hotspur | **80** | 81 | +1 | 64 | 68 | 78 | 79 | 78 | 72 |
+| Manuel Ugarte | Manchester United | **79** | 83 | +4 | 62 | 65 | 72 | 76 | 77 | 75 |
+| Nicolás De La Cruz | Flamengo | — | — | — | — | — | — | — | — | — |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Luis Suárez | River Plate | **79** | 53 | 82 | 74 | 76 | 41 | 75 |
-| Darwin Núñez | Liverpool | **79** | 88 | 79 | 72 | 76 | 49 | 82 |
-| Edinson Cavani | Boca Juniors | **76** | 52 | 79 | 68 | 71 | 51 | 71 |
-| Facundo Pellistri | Getafe | **73** | 82 | 64 | 66 | 75 | 38 | 63 |
-| Maxi Gómez | Trabzonspor | **63** | 56 | 23 | 36 | 36 | 66 | 65 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Luis Suárez | River Plate | **79** | 79 | — | 53 | 82 | 74 | 76 | 41 | 75 |
+| Darwin Núñez | Liverpool | **79** | 82 | +3 | 88 | 79 | 72 | 76 | 49 | 82 |
+| Edinson Cavani | Boca Juniors | **76** | 76 | — | 52 | 79 | 68 | 71 | 51 | 71 |
+| Facundo Pellistri | Getafe | **73** | 81 | +8 | 82 | 64 | 66 | 75 | 38 | 63 |
+| Maxi Gómez | Trabzonspor | **63** | 75 | +12 | 56 | 23 | 36 | 36 | 66 | 65 |
 
 ---
 ## 2. キープレーヤー
 
-### Federico Valverde (OVR 89)
+### Federico Valverde (OVR 89 → POT **90**)
 - **ポジション**: MF  |  **クラブ**: Real Madrid
 - **年齢**: 27  |  **代表キャップ**: 60  |  **代表得点**: 7
 - **能力値**: PAC 88 / SHO 84 / PAS 84 / DRI 84 / DEF 83 / PHY 85
@@ -58,7 +58,7 @@
 - **年齢**: 31  |  **代表キャップ**: 80  |  **代表得点**: 3
 - **能力値**: PAC 73 / SHO 46 / PAS 60 / DRI 62 / DEF 85 / PHY 82
 
-### Ronald Araújo (OVR 83)
+### Ronald Araújo (OVR 83 → POT **86**)
 - **ポジション**: DF  |  **クラブ**: Juventus
 - **年齢**: 27  |  **代表キャップ**: 32  |  **代表得点**: 3
 - **能力値**: PAC 80 / SHO 53 / PAS 63 / DRI 61 / DEF 81 / PHY 83
@@ -68,7 +68,7 @@
 - **年齢**: 30  |  **代表キャップ**: 70  |  **代表得点**: 5
 - **能力値**: PAC 76 / SHO 72 / PAS 78 / DRI 79 / DEF 81 / PHY 79
 
-### Rodrigo Bentancur (OVR 80)
+### Rodrigo Bentancur (OVR 80 → POT **81**)
 - **ポジション**: MF  |  **クラブ**: Tottenham Hotspur
 - **年齢**: 28  |  **代表キャップ**: 69  |  **代表得点**: 6
 - **能力値**: PAC 64 / SHO 68 / PAS 78 / DRI 79 / DEF 78 / PHY 72

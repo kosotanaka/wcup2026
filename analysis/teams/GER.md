@@ -7,48 +7,48 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Manuel Neuer | Bayern Munich | **84** | None | None | None | None | None | None |
-| Oliver Baumann | TSG Hoffenheim | **83** | None | None | None | None | None | None |
-| Alexander Nübel | VfB Stuttgart | **81** | None | None | None | None | None | None |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Manuel Neuer | Bayern Munich | **84** | 84 | — | — | — | — | — | — | — |
+| Oliver Baumann | TSG Hoffenheim | **83** | 83 | — | — | — | — | — | — | — |
+| Alexander Nübel | VfB Stuttgart | **81** | 82 | +1 | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Jonathan Tah | Bayern Munich | **87** | 63 | 38 | 60 | 63 | 87 | 86 |
-| Antonio Rüdiger | Real Madrid | **86** | 79 | 55 | 72 | 70 | 84 | 86 |
-| Nico Schlotterbeck | Borussia Dortmund | **85** | 74 | 60 | 75 | 73 | 85 | 82 |
-| David Raum | RB Leipzig | **82** | 86 | 61 | 80 | 79 | 74 | 78 |
-| Waldemar Anton | Borussia Dortmund | **82** | 69 | 47 | 67 | 66 | 84 | 84 |
-| Malick Thiaw | Newcastle United | **78** | 72 | 47 | 69 | 72 | 78 | 80 |
-| Nathaniel Brown | Eintracht Frankfurt | **77** | 83 | 53 | 71 | 77 | 71 | 51 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Jonathan Tah | Bayern Munich | **87** | 87 | — | 63 | 38 | 60 | 63 | 87 | 86 |
+| Antonio Rüdiger | Real Madrid | **86** | 86 | — | 79 | 55 | 72 | 70 | 84 | 86 |
+| Nico Schlotterbeck | Borussia Dortmund | **85** | 88 | +3 | 74 | 60 | 75 | 73 | 85 | 82 |
+| David Raum | RB Leipzig | **82** | 83 | +1 | 86 | 61 | 80 | 79 | 74 | 78 |
+| Waldemar Anton | Borussia Dortmund | **82** | 82 | — | 69 | 47 | 67 | 66 | 84 | 84 |
+| Malick Thiaw | Newcastle United | **78** | 84 | +6 | 72 | 47 | 69 | 72 | 78 | 80 |
+| Nathaniel Brown | Eintracht Frankfurt | **77** | 85 | +8 | 83 | 53 | 71 | 77 | 71 | 51 |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Joshua Kimmich 🅲 | Bayern Munich | **89** | 72 | 74 | 89 | 84 | 83 | 79 |
-| Florian Wirtz | Liverpool | **89** | 80 | 82 | 88 | 90 | 54 | 67 |
-| Jamal Musiala | Bayern Munich | **88** | 80 | 82 | 80 | 90 | 66 | 65 |
-| Angelo Stiller | VfB Stuttgart | **83** | 56 | 58 | 83 | 84 | 76 | 71 |
-| Leon Goretzka | Bayern Munich | **82** | 77 | 78 | 80 | 80 | 80 | 82 |
-| Leroy Sané | Galatasaray | **82** | 87 | 81 | 78 | 85 | 37 | 68 |
-| Felix Nmecha | Borussia Dortmund | **82** | 82 | 74 | 73 | 81 | 80 | 86 |
-| Nadiem Amiri | Mainz 05 | **81** | 65 | 79 | 82 | 82 | 62 | 72 |
-| Pascal Groß | Brighton & Hove Albion | **80** | 48 | 75 | 84 | 79 | 72 | 76 |
-| Aleksandar Pavlović | Bayern Munich | **79** | 62 | 64 | 79 | 78 | 76 | 71 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Joshua Kimmich 🅲 | Bayern Munich | **89** | 89 | — | 72 | 74 | 89 | 84 | 83 | 79 |
+| Florian Wirtz | Liverpool | **89** | 93 | +4 | 80 | 82 | 88 | 90 | 54 | 67 |
+| Jamal Musiala | Bayern Munich | **88** | 92 | +4 | 80 | 82 | 80 | 90 | 66 | 65 |
+| Angelo Stiller | VfB Stuttgart | **83** | 87 | +4 | 56 | 58 | 83 | 84 | 76 | 71 |
+| Leon Goretzka | Bayern Munich | **82** | 82 | — | 77 | 78 | 80 | 80 | 80 | 82 |
+| Leroy Sané | Galatasaray | **82** | 82 | — | 87 | 81 | 78 | 85 | 37 | 68 |
+| Felix Nmecha | Borussia Dortmund | **82** | 86 | +4 | 82 | 74 | 73 | 81 | 80 | 86 |
+| Nadiem Amiri | Mainz 05 | **81** | 81 | — | 65 | 79 | 82 | 82 | 62 | 72 |
+| Pascal Groß | Brighton & Hove Albion | **80** | 80 | — | 48 | 75 | 84 | 79 | 72 | 76 |
+| Aleksandar Pavlović | Bayern Munich | **79** | 87 | +8 | 62 | 64 | 79 | 78 | 76 | 71 |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Kai Havertz | Arsenal | **82** | 72 | 79 | 78 | 81 | 48 | 74 |
-| Deniz Undav | VfB Stuttgart | **80** | 66 | 82 | 74 | 80 | 33 | 77 |
-| Nick Woltemade | Newcastle United | **79** | 67 | 78 | 65 | 79 | 41 | 74 |
-| Maximilian Beier | Borussia Dortmund | **79** | 86 | 79 | 68 | 80 | 43 | 62 |
-| Jamie Leweling | VfB Stuttgart | **75** | 83 | 71 | 65 | 78 | 46 | 72 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Kai Havertz | Arsenal | **82** | 84 | +2 | 72 | 79 | 78 | 81 | 48 | 74 |
+| Deniz Undav | VfB Stuttgart | **80** | 80 | — | 66 | 82 | 74 | 80 | 33 | 77 |
+| Nick Woltemade | Newcastle United | **79** | 84 | +5 | 67 | 78 | 65 | 79 | 41 | 74 |
+| Maximilian Beier | Borussia Dortmund | **79** | 84 | +5 | 86 | 79 | 68 | 80 | 43 | 62 |
+| Jamie Leweling | VfB Stuttgart | **75** | 80 | +5 | 83 | 71 | 65 | 78 | 46 | 72 |
 
 ---
 ## 2. キープレーヤー
@@ -58,12 +58,12 @@
 - **年齢**: 31  |  **代表キャップ**: 108  |  **代表得点**: 10
 - **能力値**: PAC 72 / SHO 74 / PAS 89 / DRI 84 / DEF 83 / PHY 79
 
-### Florian Wirtz (OVR 89)
+### Florian Wirtz (OVR 89 → POT **93**)
 - **ポジション**: MF  |  **クラブ**: Liverpool
 - **年齢**: 23  |  **代表キャップ**: 39  |  **代表得点**: 10
 - **能力値**: PAC 80 / SHO 82 / PAS 88 / DRI 90 / DEF 54 / PHY 67
 
-### Jamal Musiala (OVR 88)
+### Jamal Musiala (OVR 88 → POT **92**)
 - **ポジション**: MF  |  **クラブ**: Bayern Munich
 - **年齢**: 23  |  **代表キャップ**: 40  |  **代表得点**: 8
 - **能力値**: PAC 80 / SHO 82 / PAS 80 / DRI 90 / DEF 66 / PHY 65

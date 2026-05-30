@@ -7,54 +7,54 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Mike Maignan | Milan | **87** | None | None | None | None | None | None |
-| Brice Samba | Rennes | **80** | None | None | None | None | None | None |
-| Robin Risser | Lens | **72** | None | None | None | None | None | None |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Mike Maignan | Milan | **87** | 88 | +1 | — | — | — | — | — | — |
+| Brice Samba | Rennes | **80** | 80 | — | — | — | — | — | — | — |
+| Robin Risser | Lens | **72** | 82 | +10 | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Jules Koundé | Barcelona | **87** | 84 | 47 | 74 | 79 | 86 | 84 |
-| William Saliba | Arsenal | **87** | 77 | 39 | 68 | 72 | 87 | 83 |
-| Ibrahima Konaté | Liverpool | **86** | 77 | 34 | 63 | 69 | 86 | 85 |
-| Dayot Upamecano | Bayern Munich | **85** | 77 | 45 | 64 | 73 | 84 | 84 |
-| Théo Hernandez | Al-Hilal | **84** | 90 | 76 | 78 | 83 | 79 | 83 |
-| Lucas Hernandez | Paris Saint-Germain | **81** | 71 | 54 | 72 | 70 | 82 | 77 |
-| Lucas Digne | Aston Villa | **80** | 69 | 68 | 79 | 76 | 77 | 74 |
-| Malo Gusto | Chelsea | **79** | 84 | 45 | 75 | 78 | 73 | 74 |
-| Maxence Lacroix | Crystal Palace | **79** | 88 | 40 | 57 | 67 | 80 | 82 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Jules Koundé | Barcelona | **87** | 88 | +1 | 84 | 47 | 74 | 79 | 86 | 84 |
+| William Saliba | Arsenal | **87** | 89 | +2 | 77 | 39 | 68 | 72 | 87 | 83 |
+| Ibrahima Konaté | Liverpool | **86** | 87 | +1 | 77 | 34 | 63 | 69 | 86 | 85 |
+| Dayot Upamecano | Bayern Munich | **85** | 88 | +3 | 77 | 45 | 64 | 73 | 84 | 84 |
+| Théo Hernandez | Al-Hilal | **84** | 85 | +1 | 90 | 76 | 78 | 83 | 79 | 83 |
+| Lucas Hernandez | Paris Saint-Germain | **81** | 81 | — | 71 | 54 | 72 | 70 | 82 | 77 |
+| Lucas Digne | Aston Villa | **80** | 80 | — | 69 | 68 | 79 | 76 | 77 | 74 |
+| Malo Gusto | Chelsea | **79** | 84 | +5 | 84 | 45 | 75 | 78 | 73 | 74 |
+| Maxence Lacroix | Crystal Palace | **79** | 82 | +3 | 88 | 40 | 57 | 67 | 80 | 82 |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| N'Golo Kanté | Fenerbahçe | **85** | 77 | 65 | 73 | 80 | 85 | 79 |
-| Aurélien Tchouaméni | Real Madrid | **84** | 71 | 69 | 79 | 78 | 81 | 82 |
-| Adrien Rabiot | Milan | **83** | 81 | 79 | 81 | 80 | 77 | 84 |
-| Warren Zaïre-Emery | Paris Saint-Germain | **80** | 79 | 68 | 76 | 79 | 75 | 79 |
-| Manu Koné | Roma | **79** | 74 | 74 | 75 | 81 | 74 | 82 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| N'Golo Kanté | Fenerbahçe | **85** | 85 | — | 77 | 65 | 73 | 80 | 85 | 79 |
+| Aurélien Tchouaméni | Real Madrid | **84** | 87 | +3 | 71 | 69 | 79 | 78 | 81 | 82 |
+| Adrien Rabiot | Milan | **83** | 83 | — | 81 | 79 | 81 | 80 | 77 | 84 |
+| Warren Zaïre-Emery | Paris Saint-Germain | **80** | 87 | +7 | 79 | 68 | 76 | 79 | 75 | 79 |
+| Manu Koné | Roma | **79** | 84 | +5 | 74 | 74 | 75 | 81 | 74 | 82 |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Kylian Mbappé 🅲 | Real Madrid | **91** | 97 | 90 | 81 | 92 | 37 | 76 |
-| Ousmane Dembélé | Paris Saint-Germain | **90** | 91 | 88 | 83 | 93 | 50 | 69 |
-| Michael Olise | Bayern Munich | **86** | 78 | 80 | 84 | 87 | 50 | 66 |
-| Marcus Thuram | Inter Milan | **85** | 86 | 83 | 76 | 82 | 50 | 80 |
-| Désiré Doué | Paris Saint-Germain | **85** | 83 | 80 | 77 | 90 | 55 | 74 |
-| Bradley Barcola | Paris Saint-Germain | **84** | 90 | 77 | 78 | 84 | 39 | 66 |
-| Jean-Philippe Mateta | Crystal Palace | **82** | 75 | 84 | 70 | 77 | 41 | 81 |
-| Rayan Cherki | Manchester City | **81** | 75 | 75 | 80 | 88 | 21 | 65 |
-| Maghnes Akliouche | Monaco | **80** | 74 | 70 | 78 | 83 | 48 | 62 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Kylian Mbappé 🅲 | Real Madrid | **91** | 94 | +3 | 97 | 90 | 81 | 92 | 37 | 76 |
+| Ousmane Dembélé | Paris Saint-Germain | **90** | 90 | — | 91 | 88 | 83 | 93 | 50 | 69 |
+| Michael Olise | Bayern Munich | **86** | 88 | +2 | 78 | 80 | 84 | 87 | 50 | 66 |
+| Marcus Thuram | Inter Milan | **85** | 85 | — | 86 | 83 | 76 | 82 | 50 | 80 |
+| Désiré Doué | Paris Saint-Germain | **85** | 91 | +6 | 83 | 80 | 77 | 90 | 55 | 74 |
+| Bradley Barcola | Paris Saint-Germain | **84** | 88 | +4 | 90 | 77 | 78 | 84 | 39 | 66 |
+| Jean-Philippe Mateta | Crystal Palace | **82** | 82 | — | 75 | 84 | 70 | 77 | 41 | 81 |
+| Rayan Cherki | Manchester City | **81** | 88 | +7 | 75 | 75 | 80 | 88 | 21 | 65 |
+| Maghnes Akliouche | Monaco | **80** | 86 | +6 | 74 | 70 | 78 | 83 | 48 | 62 |
 
 ---
 ## 2. キープレーヤー
 
-### Kylian Mbappé (OVR 91)
+### Kylian Mbappé (OVR 91 → POT **94**)
 - **ポジション**: FW  |  **クラブ**: Real Madrid
 - **年齢**: 27  |  **代表キャップ**: 96  |  **代表得点**: 56
 - **能力値**: PAC 97 / SHO 90 / PAS 81 / DRI 92 / DEF 37 / PHY 76
@@ -64,17 +64,17 @@
 - **年齢**: 29  |  **代表キャップ**: 58  |  **代表得点**: 7
 - **能力値**: PAC 91 / SHO 88 / PAS 83 / DRI 93 / DEF 50 / PHY 69
 
-### Mike Maignan (OVR 87)
+### Mike Maignan (OVR 87 → POT **88**)
 - **ポジション**: GK  |  **クラブ**: Milan
 - **年齢**: 30  |  **代表キャップ**: 38  |  **代表得点**: 0
 - **能力値**: PAC None / SHO None / PAS None / DRI None / DEF None / PHY None
 
-### Jules Koundé (OVR 87)
+### Jules Koundé (OVR 87 → POT **88**)
 - **ポジション**: DF  |  **クラブ**: Barcelona
 - **年齢**: 27  |  **代表キャップ**: 46  |  **代表得点**: 0
 - **能力値**: PAC 84 / SHO 47 / PAS 74 / DRI 79 / DEF 86 / PHY 84
 
-### William Saliba (OVR 87)
+### William Saliba (OVR 87 → POT **89**)
 - **ポジション**: DF  |  **クラブ**: Arsenal
 - **年齢**: 25  |  **代表キャップ**: 31  |  **代表得点**: 0
 - **能力値**: PAC 77 / SHO 39 / PAS 68 / DRI 72 / DEF 87 / PHY 83

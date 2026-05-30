@@ -7,47 +7,47 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Emiliano Martínez | Aston Villa | **85** | None | None | None | None | None | None |
-| Gerónimo Rulli | Marseille | **82** | None | None | None | None | None | None |
-| Juan Musso | Atlético Madrid | **79** | None | None | None | None | None | None |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Emiliano Martínez | Aston Villa | **85** | 85 | — | — | — | — | — | — | — |
+| Gerónimo Rulli | Marseille | **82** | 82 | — | — | — | — | — | — | — |
+| Juan Musso | Atlético Madrid | **79** | 79 | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Nicolás Otamendi | Benfica | **82** | 60 | 57 | 64 | 62 | 83 | 85 |
-| Cristian Romero | Tottenham Hotspur | **82** | 66 | 48 | 62 | 65 | 83 | 81 |
-| Lisandro Martínez | Manchester United | **81** | 67 | 59 | 75 | 75 | 81 | 80 |
-| Leonardo Balerdi | Marseille | **81** | 77 | 46 | 65 | 69 | 82 | 79 |
-| Nahuel Molina | Atlético Madrid | **79** | 82 | 67 | 73 | 76 | 75 | 71 |
-| Facundo Medina | Marseille | **79** | 74 | 44 | 70 | 72 | 79 | 81 |
-| Nicolás Tagliafico | Lyon | **78** | 67 | 56 | 70 | 76 | 77 | 76 |
-| Gonzalo Montiel | River Plate | **78** | 81 | 63 | 71 | 77 | 74 | 80 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Nicolás Otamendi | Benfica | **82** | 82 | — | 60 | 57 | 64 | 62 | 83 | 85 |
+| Cristian Romero | Tottenham Hotspur | **82** | 84 | +2 | 66 | 48 | 62 | 65 | 83 | 81 |
+| Lisandro Martínez | Manchester United | **81** | 82 | +1 | 67 | 59 | 75 | 75 | 81 | 80 |
+| Leonardo Balerdi | Marseille | **81** | 84 | +3 | 77 | 46 | 65 | 69 | 82 | 79 |
+| Nahuel Molina | Atlético Madrid | **79** | 80 | +1 | 82 | 67 | 73 | 76 | 75 | 71 |
+| Facundo Medina | Marseille | **79** | 83 | +4 | 74 | 44 | 70 | 72 | 79 | 81 |
+| Nicolás Tagliafico | Lyon | **78** | 78 | — | 67 | 56 | 70 | 76 | 77 | 76 |
+| Gonzalo Montiel | River Plate | **78** | 78 | — | 81 | 63 | 71 | 77 | 74 | 80 |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Alexis Mac Allister | Liverpool | **87** | 66 | 82 | 85 | 85 | 78 | 76 |
-| Rodrigo De Paul | Inter Miami CF | **84** | 75 | 78 | 83 | 83 | 76 | 83 |
-| Enzo Fernández | Chelsea | **84** | 68 | 75 | 85 | 81 | 73 | 75 |
-| Exequiel Palacios | Bayer Leverkusen | **84** | 62 | 76 | 80 | 82 | 81 | 71 |
-| Giovani Lo Celso | Real Betis | **82** | 68 | 81 | 82 | 84 | 68 | 71 |
-| Leandro Paredes | Boca Juniors | **78** | 62 | 70 | 82 | 79 | 72 | 74 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Alexis Mac Allister | Liverpool | **87** | 88 | +1 | 66 | 82 | 85 | 85 | 78 | 76 |
+| Rodrigo De Paul | Inter Miami CF | **84** | 84 | — | 75 | 78 | 83 | 83 | 76 | 83 |
+| Enzo Fernández | Chelsea | **84** | 87 | +3 | 68 | 75 | 85 | 81 | 73 | 75 |
+| Exequiel Palacios | Bayer Leverkusen | **84** | 86 | +2 | 62 | 76 | 80 | 82 | 81 | 71 |
+| Giovani Lo Celso | Real Betis | **82** | 82 | — | 68 | 81 | 82 | 84 | 68 | 71 |
+| Leandro Paredes | Boca Juniors | **78** | 78 | — | 62 | 70 | 82 | 79 | 72 | 74 |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Lautaro Martínez | Inter Milan | **88** | 81 | 88 | 75 | 84 | 51 | 83 |
-| Julián Alvarez | Atlético Madrid | **87** | 85 | 87 | 81 | 87 | 57 | 79 |
-| Lionel Messi 🅲 | Inter Miami CF | **86** | 78 | 85 | 85 | 90 | 33 | 64 |
-| Giuliano Simeone | Atlético Madrid | **81** | 91 | 73 | 72 | 81 | 45 | 81 |
-| Thiago Almada | Atlético Madrid | **79** | 79 | 74 | 79 | 83 | 51 | 58 |
-| Nico Paz | Como | **79** | 78 | 71 | 77 | 82 | 51 | 64 |
-| Nicolás González | Atlético Madrid | **78** | 82 | 75 | 73 | 78 | 45 | 61 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Lautaro Martínez | Inter Milan | **88** | 88 | — | 81 | 88 | 75 | 84 | 51 | 83 |
+| Julián Alvarez | Atlético Madrid | **87** | 90 | +3 | 85 | 87 | 81 | 87 | 57 | 79 |
+| Lionel Messi 🅲 | Inter Miami CF | **86** | 86 | — | 78 | 85 | 85 | 90 | 33 | 64 |
+| Giuliano Simeone | Atlético Madrid | **81** | 86 | +5 | 91 | 73 | 72 | 81 | 45 | 81 |
+| Thiago Almada | Atlético Madrid | **79** | 86 | +7 | 79 | 74 | 79 | 83 | 51 | 58 |
+| Nico Paz | Como | **79** | 89 | +10 | 78 | 71 | 77 | 82 | 51 | 64 |
+| Nicolás González | Atlético Madrid | **78** | 78 | — | 82 | 75 | 73 | 78 | 45 | 61 |
 
 ---
 ## 2. キープレーヤー
@@ -57,12 +57,12 @@
 - **年齢**: 28  |  **代表キャップ**: 75  |  **代表得点**: 36
 - **能力値**: PAC 81 / SHO 88 / PAS 75 / DRI 84 / DEF 51 / PHY 83
 
-### Alexis Mac Allister (OVR 87)
+### Alexis Mac Allister (OVR 87 → POT **88**)
 - **ポジション**: MF  |  **クラブ**: Liverpool
 - **年齢**: 27  |  **代表キャップ**: 44  |  **代表得点**: 6
 - **能力値**: PAC 66 / SHO 82 / PAS 85 / DRI 85 / DEF 78 / PHY 76
 
-### Julián Alvarez (OVR 87)
+### Julián Alvarez (OVR 87 → POT **90**)
 - **ポジション**: FW  |  **クラブ**: Atlético Madrid
 - **年齢**: 26  |  **代表キャップ**: 51  |  **代表得点**: 14
 - **能力値**: PAC 85 / SHO 87 / PAS 81 / DRI 87 / DEF 57 / PHY 79

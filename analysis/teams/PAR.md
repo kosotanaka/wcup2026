@@ -7,49 +7,49 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Carlos Coronel | São Paulo | **72** | None | None | None | None | None | None |
-| Orlando Gill | San Lorenzo | **65** | None | None | None | None | None | None |
-| Gatito Fernández | Cerro Porteño | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Carlos Coronel | São Paulo | **72** | 75 | +3 | — | — | — | — | — | — |
+| Orlando Gill | San Lorenzo | **65** | 70 | +5 | — | — | — | — | — | — |
+| Gatito Fernández | Cerro Porteño | — | — | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Omar Alderete | Sunderland | **78** | 60 | 61 | 62 | 69 | 79 | 78 |
-| Agustín Sández | Rosario Central | **73** | 81 | 42 | 58 | 63 | 70 | 84 |
-| Blas Riveros | Cerro Porteño | **68** | 78 | 36 | 59 | 70 | 61 | 70 |
-| Gustavo Gómez 🅲 | Palmeiras | **—** | — | — | — | — | — | — |
-| Júnior Alonso | Atlético Mineiro | **—** | — | — | — | — | — | — |
-| Fabián Balbuena | Grêmio | **—** | — | — | — | — | — | — |
-| Juan José Cáceres | Dynamo Moscow | **—** | — | — | — | — | — | — |
-| Mateo Gamarra | Cruzeiro | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Omar Alderete | Sunderland | **78** | 79 | +1 | 60 | 61 | 62 | 69 | 79 | 78 |
+| Agustín Sández | Rosario Central | **73** | 79 | +6 | 81 | 42 | 58 | 63 | 70 | 84 |
+| Blas Riveros | Cerro Porteño | **68** | 69 | +1 | 78 | 36 | 59 | 70 | 61 | 70 |
+| Gustavo Gómez 🅲 | Palmeiras | — | — | — | — | — | — | — | — | — |
+| Júnior Alonso | Atlético Mineiro | — | — | — | — | — | — | — | — | — |
+| Fabián Balbuena | Grêmio | — | — | — | — | — | — | — | — | — |
+| Juan José Cáceres | Dynamo Moscow | — | — | — | — | — | — | — | — | — |
+| Mateo Gamarra | Cruzeiro | — | — | — | — | — | — | — | — | — |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Kaku | Al Ain | **79** | 81 | 73 | 81 | 80 | 52 | 64 |
-| Miguel Almirón | Atlanta United FC | **76** | 87 | 72 | 70 | 79 | 57 | 64 |
-| Andrés Cubas | Vancouver Whitecaps FC | **74** | 69 | 47 | 66 | 71 | 73 | 56 |
-| Diego Gómez | Brighton & Hove Albion | **73** | 69 | 67 | 71 | 75 | 72 | 75 |
-| Matías Galarza | Atlanta United FC | **73** | 63 | 73 | 70 | 76 | 65 | 58 |
-| Braian Ojeda | Orlando City SC | **70** | 67 | 54 | 64 | 72 | 66 | 73 |
-| Mathías Villasanti | Grêmio | **—** | — | — | — | — | — | — |
-| Ramón Sosa | Palmeiras | **—** | — | — | — | — | — | — |
-| Damián Bobadilla | São Paulo | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Kaku | Al Ain | **79** | 79 | — | 81 | 73 | 81 | 80 | 52 | 64 |
+| Miguel Almirón | Atlanta United FC | **76** | 76 | — | 87 | 72 | 70 | 79 | 57 | 64 |
+| Andrés Cubas | Vancouver Whitecaps FC | **74** | 74 | — | 69 | 47 | 66 | 71 | 73 | 56 |
+| Diego Gómez | Brighton & Hove Albion | **73** | 80 | +7 | 69 | 67 | 71 | 75 | 72 | 75 |
+| Matías Galarza | Atlanta United FC | **73** | 80 | +7 | 63 | 73 | 70 | 76 | 65 | 58 |
+| Braian Ojeda | Orlando City SC | **70** | 76 | +6 | 67 | 54 | 64 | 72 | 66 | 73 |
+| Mathías Villasanti | Grêmio | — | — | — | — | — | — | — | — | — |
+| Ramón Sosa | Palmeiras | — | — | — | — | — | — | — | — | — |
+| Damián Bobadilla | São Paulo | — | — | — | — | — | — | — | — | — |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Antonio Sanabria | Cremonese | **76** | 75 | 75 | 68 | 79 | 32 | 57 |
-| Gabriel Ávalos | Independiente | **75** | 67 | 75 | 63 | 73 | 45 | 84 |
-| Julio Enciso | Strasbourg | **73** | 74 | 72 | 70 | 78 | 33 | 51 |
-| Óscar Romero | Huracán | **—** | — | — | — | — | — | — |
-| Ángel Romero | Boca Juniors | **—** | — | — | — | — | — | — |
-| Isidro Pitta | Red Bull Bragantino | **—** | — | — | — | — | — | — |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Antonio Sanabria | Cremonese | **76** | 76 | — | 75 | 75 | 68 | 79 | 32 | 57 |
+| Gabriel Ávalos | Independiente | **75** | 75 | — | 67 | 75 | 63 | 73 | 45 | 84 |
+| Julio Enciso | Strasbourg | **73** | 84 | +11 | 74 | 72 | 70 | 78 | 33 | 51 |
+| Óscar Romero | Huracán | — | — | — | — | — | — | — | — | — |
+| Ángel Romero | Boca Juniors | — | — | — | — | — | — | — | — | — |
+| Isidro Pitta | Red Bull Bragantino | — | — | — | — | — | — | — | — | — |
 
 ---
 ## 2. キープレーヤー
@@ -59,7 +59,7 @@
 - **年齢**: 31  |  **代表キャップ**: 32  |  **代表得点**: 5
 - **能力値**: PAC 81 / SHO 73 / PAS 81 / DRI 80 / DEF 52 / PHY 64
 
-### Omar Alderete (OVR 78)
+### Omar Alderete (OVR 78 → POT **79**)
 - **ポジション**: DF  |  **クラブ**: Sunderland
 - **年齢**: 29  |  **代表キャップ**: 35  |  **代表得点**: 3
 - **能力値**: PAC 60 / SHO 61 / PAS 62 / DRI 69 / DEF 79 / PHY 78

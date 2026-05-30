@@ -7,49 +7,49 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| David Raya | Arsenal | **87** | None | None | None | None | None | None |
-| Unai Simón | Athletic Bilbao | **85** | None | None | None | None | None | None |
-| Joan Garcia | Barcelona | **83** | None | None | None | None | None | None |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| David Raya | Arsenal | **87** | 87 | — | — | — | — | — | — | — |
+| Unai Simón | Athletic Bilbao | **85** | 86 | +1 | — | — | — | — | — | — |
+| Joan Garcia | Barcelona | **83** | 89 | +6 | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Marc Cucurella | Chelsea | **84** | 75 | 64 | 79 | 80 | 82 | 79 |
-| Marcos Llorente | Atlético Madrid | **84** | 89 | 79 | 78 | 81 | 78 | 82 |
-| Aymeric Laporte | Athletic Bilbao | **82** | 51 | 50 | 74 | 70 | 83 | 77 |
-| Pedro Porro | Tottenham Hotspur | **82** | 78 | 73 | 81 | 80 | 77 | 76 |
-| Pau Cubarsí | Barcelona | **82** | 70 | 42 | 66 | 77 | 84 | 76 |
-| Eric García | Barcelona | **79** | 63 | 48 | 70 | 71 | 80 | 73 |
-| Marc Pubill | Atlético Madrid | **73** | 79 | 55 | 66 | 71 | 69 | 78 |
-| Álex Grimaldo | Bayer Leverkusen | **60** | None | None | None | None | None | None |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Marc Cucurella | Chelsea | **84** | 85 | +1 | 75 | 64 | 79 | 80 | 82 | 79 |
+| Marcos Llorente | Atlético Madrid | **84** | 84 | — | 89 | 79 | 78 | 81 | 78 | 82 |
+| Aymeric Laporte | Athletic Bilbao | **82** | 82 | — | 51 | 50 | 74 | 70 | 83 | 77 |
+| Pedro Porro | Tottenham Hotspur | **82** | 85 | +3 | 78 | 73 | 81 | 80 | 77 | 76 |
+| Pau Cubarsí | Barcelona | **82** | 88 | +6 | 70 | 42 | 66 | 77 | 84 | 76 |
+| Eric García | Barcelona | **79** | 84 | +5 | 63 | 48 | 70 | 71 | 80 | 73 |
+| Marc Pubill | Atlético Madrid | **73** | 82 | +9 | 79 | 55 | 66 | 71 | 69 | 78 |
+| Álex Grimaldo | Bayer Leverkusen | **60** | 74 | +14 | — | — | — | — | — | — |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Rodri 🅲 | Manchester City | **90** | 65 | 80 | 86 | 84 | 86 | 85 |
-| Pedri | Barcelona | **89** | 77 | 73 | 85 | 91 | 78 | 77 |
-| Fabián Ruiz | Paris Saint-Germain | **85** | 61 | 77 | 80 | 81 | 75 | 72 |
-| Álex Baena | Atlético Madrid | **84** | 79 | 76 | 84 | 82 | 65 | 68 |
-| Mikel Merino | Arsenal | **83** | 63 | 79 | 80 | 80 | 81 | 80 |
-| Gavi | Barcelona | **83** | 76 | 66 | 78 | 85 | 68 | 70 |
-| Martín Zubimendi | Arsenal | **83** | 66 | 68 | 79 | 79 | 80 | 73 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Rodri 🅲 | Manchester City | **90** | 90 | — | 65 | 80 | 86 | 84 | 86 | 85 |
+| Pedri | Barcelona | **89** | 93 | +4 | 77 | 73 | 85 | 91 | 78 | 77 |
+| Fabián Ruiz | Paris Saint-Germain | **85** | 85 | — | 61 | 77 | 80 | 81 | 75 | 72 |
+| Álex Baena | Atlético Madrid | **84** | 89 | +5 | 79 | 76 | 84 | 82 | 65 | 68 |
+| Mikel Merino | Arsenal | **83** | 83 | — | 63 | 79 | 80 | 80 | 81 | 80 |
+| Gavi | Barcelona | **83** | 89 | +6 | 76 | 66 | 78 | 85 | 68 | 70 |
+| Martín Zubimendi | Arsenal | **83** | 87 | +4 | 66 | 68 | 79 | 79 | 80 | 73 |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Lamine Yamal | Barcelona | **89** | 85 | 81 | 86 | 90 | 23 | 53 |
-| Nico Williams | Athletic Bilbao | **86** | 93 | 76 | 80 | 87 | 36 | 66 |
-| Dani Olmo | Barcelona | **85** | 73 | 79 | 83 | 87 | 50 | 56 |
-| Ferran Torres | Barcelona | **83** | 83 | 81 | 79 | 83 | 35 | 68 |
-| Mikel Oyarzabal | Real Sociedad | **82** | 77 | 83 | 81 | 82 | 42 | 65 |
-| Yéremy Pino | Crystal Palace | **80** | 77 | 73 | 78 | 81 | 38 | 53 |
-| Borja Iglesias | Celta Vigo | **80** | 62 | 82 | 71 | 74 | 40 | 77 |
-| Víctor Muñoz | Osasuna | **65** | 72 | 61 | 60 | 66 | 26 | 39 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Lamine Yamal | Barcelona | **89** | 95 | +6 | 85 | 81 | 86 | 90 | 23 | 53 |
+| Nico Williams | Athletic Bilbao | **86** | 89 | +3 | 93 | 76 | 80 | 87 | 36 | 66 |
+| Dani Olmo | Barcelona | **85** | 86 | +1 | 73 | 79 | 83 | 87 | 50 | 56 |
+| Ferran Torres | Barcelona | **83** | 86 | +3 | 83 | 81 | 79 | 83 | 35 | 68 |
+| Mikel Oyarzabal | Real Sociedad | **82** | 82 | — | 77 | 83 | 81 | 82 | 42 | 65 |
+| Yéremy Pino | Crystal Palace | **80** | 88 | +8 | 77 | 73 | 78 | 81 | 38 | 53 |
+| Borja Iglesias | Celta Vigo | **80** | 80 | — | 62 | 82 | 71 | 74 | 40 | 77 |
+| Víctor Muñoz | Osasuna | **65** | 77 | +12 | 72 | 61 | 60 | 66 | 26 | 39 |
 
 ---
 ## 2. キープレーヤー
@@ -59,12 +59,12 @@
 - **年齢**: 29  |  **代表キャップ**: 61  |  **代表得点**: 4
 - **能力値**: PAC 65 / SHO 80 / PAS 86 / DRI 84 / DEF 86 / PHY 85
 
-### Pedri (OVR 89)
+### Pedri (OVR 89 → POT **93**)
 - **ポジション**: MF  |  **クラブ**: Barcelona
 - **年齢**: 23  |  **代表キャップ**: 40  |  **代表得点**: 5
 - **能力値**: PAC 77 / SHO 73 / PAS 85 / DRI 91 / DEF 78 / PHY 77
 
-### Lamine Yamal (OVR 89)
+### Lamine Yamal (OVR 89 → POT **95**)
 - **ポジション**: FW  |  **クラブ**: Barcelona
 - **年齢**: 18  |  **代表キャップ**: 25  |  **代表得点**: 6
 - **能力値**: PAC 85 / SHO 81 / PAS 86 / DRI 90 / DEF 23 / PHY 53
@@ -74,7 +74,7 @@
 - **年齢**: 30  |  **代表キャップ**: 12  |  **代表得点**: 0
 - **能力値**: PAC None / SHO None / PAS None / DRI None / DEF None / PHY None
 
-### Nico Williams (OVR 86)
+### Nico Williams (OVR 86 → POT **89**)
 - **ポジション**: FW  |  **クラブ**: Athletic Bilbao
 - **年齢**: 23  |  **代表キャップ**: 30  |  **代表得点**: 6
 - **能力値**: PAC 93 / SHO 76 / PAS 80 / DRI 87 / DEF 36 / PHY 66

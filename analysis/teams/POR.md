@@ -7,52 +7,52 @@
 
 ### ゴールキーパー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Diogo Costa | Porto | **84** | None | None | None | None | None | None |
-| Rui Silva | Sporting CP | **81** | None | None | None | None | None | None |
-| José Sá | Wolverhampton Wanderers | **77** | None | None | None | None | None | None |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Diogo Costa | Porto | **84** | 89 | +5 | — | — | — | — | — | — |
+| Rui Silva | Sporting CP | **81** | 81 | — | — | — | — | — | — | — |
+| José Sá | Wolverhampton Wanderers | **77** | 77 | — | — | — | — | — | — | — |
 
 ### ディフェンダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Rúben Dias | Manchester City | **86** | 59 | 39 | 69 | 69 | 86 | 84 |
-| Nuno Mendes | Paris Saint-Germain | **86** | 95 | 65 | 76 | 82 | 80 | 77 |
-| João Cancelo | Barcelona | **84** | 83 | 73 | 84 | 84 | 78 | 74 |
-| Gonçalo Inácio | Sporting CP | **81** | 77 | 37 | 71 | 73 | 82 | 81 |
-| Diogo Dalot | Manchester United | **79** | 85 | 63 | 74 | 77 | 76 | 78 |
-| Matheus Nunes | Manchester City | **79** | 85 | 70 | 76 | 79 | 73 | 76 |
-| Nélson Semedo | Fenerbahçe | **77** | 79 | 56 | 69 | 77 | 73 | 73 |
-| Renato Veiga | Villarreal | **76** | 73 | 60 | 73 | 72 | 75 | 82 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Rúben Dias | Manchester City | **86** | 87 | +1 | 59 | 39 | 69 | 69 | 86 | 84 |
+| Nuno Mendes | Paris Saint-Germain | **86** | 89 | +3 | 95 | 65 | 76 | 82 | 80 | 77 |
+| João Cancelo | Barcelona | **84** | 84 | — | 83 | 73 | 84 | 84 | 78 | 74 |
+| Gonçalo Inácio | Sporting CP | **81** | 86 | +5 | 77 | 37 | 71 | 73 | 82 | 81 |
+| Diogo Dalot | Manchester United | **79** | 81 | +2 | 85 | 63 | 74 | 77 | 76 | 78 |
+| Matheus Nunes | Manchester City | **79** | 80 | +1 | 85 | 70 | 76 | 79 | 73 | 76 |
+| Nélson Semedo | Fenerbahçe | **77** | 77 | — | 79 | 56 | 69 | 77 | 73 | 73 |
+| Renato Veiga | Villarreal | **76** | 84 | +8 | 73 | 60 | 73 | 72 | 75 | 82 |
 
 ### ミッドフィールダー
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Vitinha | Paris Saint-Germain | **89** | 72 | 80 | 86 | 90 | 75 | 70 |
-| Bruno Fernandes | Manchester United | **87** | 67 | 83 | 89 | 83 | 65 | 75 |
-| João Neves | Paris Saint-Germain | **85** | 74 | 71 | 80 | 84 | 82 | 83 |
-| Bernardo Silva | Manchester City | **84** | 61 | 78 | 83 | 89 | 71 | 65 |
-| Rúben Neves | Al-Hilal | **84** | 57 | 75 | 87 | 77 | 77 | 76 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Vitinha | Paris Saint-Germain | **89** | 91 | +2 | 72 | 80 | 86 | 90 | 75 | 70 |
+| Bruno Fernandes | Manchester United | **87** | 87 | — | 67 | 83 | 89 | 83 | 65 | 75 |
+| João Neves | Paris Saint-Germain | **85** | 90 | +5 | 74 | 71 | 80 | 84 | 82 | 83 |
+| Bernardo Silva | Manchester City | **84** | 84 | — | 61 | 78 | 83 | 89 | 71 | 65 |
+| Rúben Neves | Al-Hilal | **84** | 85 | +1 | 57 | 75 | 87 | 77 | 77 | 76 |
 
 ### フォワード
 
-| 選手名 | クラブ | OVR | PAC | SHO | PAS | DRI | DEF | PHY |
-|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Cristiano Ronaldo 🅲 | Al-Nassr | **85** | 76 | 88 | 76 | 80 | 34 | 76 |
-| Rafael Leão | Milan | **84** | 93 | 78 | 80 | 86 | 28 | 75 |
-| Francisco Trincão | Sporting CP | **82** | 80 | 80 | 79 | 84 | 40 | 71 |
-| Gonçalo Ramos | Paris Saint-Germain | **80** | 73 | 79 | 64 | 77 | 48 | 79 |
-| Pedro Neto | Chelsea | **80** | 91 | 76 | 74 | 82 | 40 | 68 |
-| João Félix | Al-Nassr | **79** | 77 | 78 | 77 | 82 | 45 | 66 |
-| Francisco Conceição | Juventus | **79** | 87 | 69 | 74 | 85 | 37 | 50 |
-| Gonçalo Guedes | Real Sociedad | **75** | 76 | 76 | 70 | 78 | 37 | 66 |
+| 選手名 | クラブ | OVR | POT | ↑ | PAC | SHO | PAS | DRI | DEF | PHY |
+|--------|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Cristiano Ronaldo 🅲 | Al-Nassr | **85** | 85 | — | 76 | 88 | 76 | 80 | 34 | 76 |
+| Rafael Leão | Milan | **84** | 85 | +1 | 93 | 78 | 80 | 86 | 28 | 75 |
+| Francisco Trincão | Sporting CP | **82** | 84 | +2 | 80 | 80 | 79 | 84 | 40 | 71 |
+| Gonçalo Ramos | Paris Saint-Germain | **80** | 84 | +4 | 73 | 79 | 64 | 77 | 48 | 79 |
+| Pedro Neto | Chelsea | **80** | 82 | +2 | 91 | 76 | 74 | 82 | 40 | 68 |
+| João Félix | Al-Nassr | **79** | 82 | +3 | 77 | 78 | 77 | 82 | 45 | 66 |
+| Francisco Conceição | Juventus | **79** | 86 | +7 | 87 | 69 | 74 | 85 | 37 | 50 |
+| Gonçalo Guedes | Real Sociedad | **75** | 75 | — | 76 | 76 | 70 | 78 | 37 | 66 |
 
 ---
 ## 2. キープレーヤー
 
-### Vitinha (OVR 89)
+### Vitinha (OVR 89 → POT **91**)
 - **ポジション**: MF  |  **クラブ**: Paris Saint-Germain
 - **年齢**: 26  |  **代表キャップ**: 37  |  **代表得点**: 0
 - **能力値**: PAC 72 / SHO 80 / PAS 86 / DRI 90 / DEF 75 / PHY 70
@@ -62,17 +62,17 @@
 - **年齢**: 31  |  **代表キャップ**: 87  |  **代表得点**: 28
 - **能力値**: PAC 67 / SHO 83 / PAS 89 / DRI 83 / DEF 65 / PHY 75
 
-### Rúben Dias (OVR 86)
+### Rúben Dias (OVR 86 → POT **87**)
 - **ポジション**: DF  |  **クラブ**: Manchester City
 - **年齢**: 29  |  **代表キャップ**: 74  |  **代表得点**: 3
 - **能力値**: PAC 59 / SHO 39 / PAS 69 / DRI 69 / DEF 86 / PHY 84
 
-### Nuno Mendes (OVR 86)
+### Nuno Mendes (OVR 86 → POT **89**)
 - **ポジション**: DF  |  **クラブ**: Paris Saint-Germain
 - **年齢**: 23  |  **代表キャップ**: 43  |  **代表得点**: 1
 - **能力値**: PAC 95 / SHO 65 / PAS 76 / DRI 82 / DEF 80 / PHY 77
 
-### João Neves (OVR 85)
+### João Neves (OVR 85 → POT **90**)
 - **ポジション**: MF  |  **クラブ**: Paris Saint-Germain
 - **年齢**: 21  |  **代表キャップ**: 21  |  **代表得点**: 3
 - **能力値**: PAC 74 / SHO 71 / PAS 80 / DRI 84 / DEF 82 / PHY 83
