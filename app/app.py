@@ -87,7 +87,7 @@ def save_prediction(username: str, data: dict):
 
 
 def list_users():
-    return sorted([p.stem for p in PREDICTIONS_DIR.glob("*.json")])
+    return sorted([p.stem for p in PREDICTIONS_DIR.glob("*.json") if not p.stem.endswith("_bracket")])
 
 
 def et_to_jst(date_str: str, time_str: str):
@@ -494,8 +494,6 @@ def page_team_info():
 
 # ── R32ブラケット定義 ──────────────────────────────────────────────────────────
 # 公式FIFA WC2026 R32 固定対戦カード (グループスロット表記)
-# 3位チームのスロット(例: "3ABCDF")は大会後に確定するため、
-# 事前予測では "3位枠X" として扱い、ユーザーが任意のチームを選択する。
 R32_SLOTS = [
     # (match_id, slot_home, slot_away, date, time_et)
     ("KO001", "1E", "3ABCDF", "2026-06-28", "12:00"),
@@ -550,24 +548,205 @@ ALL_CODES = [
     "ARG","ALG","AUT","JOR","POR","COD","UZB","COL","ENG","CRO","GHA","PAN",
 ]
 
+# 3rd-place slot assignment order for R32 (position in this list = index into third_qualifiers)
+THIRD_SLOT_ORDER = ["KO001", "KO002", "KO007", "KO008", "KO011", "KO012", "KO015", "KO016"]
+
+
+# ── Bracket helper functions ──────────────────────────────────────────────────
+
+def compute_standings_from_predictions(
+    user_preds: dict, schedule_matches: list
+) -> dict:
+    """
+    Compute group standings from the user's group-stage predictions.
+
+    Returns dict mapping group letter -> list of (code, pts, gd, gf) tuples,
+    sorted best->worst (pts DESC, gd DESC, gf DESC, with head-to-head tiebreak).
+    """
+    # initialise per-group team stats
+    groups: dict = {}
+    for m in schedule_matches:
+        grp = m["group"]
+        if grp not in groups:
+            groups[grp] = {}
+        for code in (m["home"], m["away"]):
+            if code not in groups[grp]:
+                groups[grp][code] = {"pts": 0, "gd": 0, "gf": 0, "results_vs": {}}
+
+    for m in schedule_matches:
+        mid = m["match_id"]
+        grp = m["group"]
+        h_code = m["home"]
+        a_code = m["away"]
+        pick = user_preds.get(mid)
+        if pick is None:
+            continue
+        hg = pick.get("home")
+        ag = pick.get("away")
+        if hg is None or ag is None:
+            continue
+        hg, ag = int(hg), int(ag)
+
+        if hg > ag:
+            h_pts, a_pts = 3, 0
+            h_res, a_res = "W", "L"
+        elif hg < ag:
+            h_pts, a_pts = 0, 3
+            h_res, a_res = "L", "W"
+        else:
+            h_pts = a_pts = 1
+            h_res = a_res = "D"
+
+        td = groups[grp]
+        td[h_code]["pts"] += h_pts
+        td[h_code]["gd"]  += hg - ag
+        td[h_code]["gf"]  += hg
+        td[h_code]["results_vs"][a_code] = {"scored": hg, "conceded": ag, "res": h_res}
+
+        td[a_code]["pts"] += a_pts
+        td[a_code]["gd"]  += ag - hg
+        td[a_code]["gf"]  += ag
+        td[a_code]["results_vs"][h_code] = {"scored": ag, "conceded": hg, "res": a_res}
+
+    def h2h_key(code: str, others: list, td: dict) -> tuple:
+        pts, gd, gf = 0, 0, 0
+        for opp in others:
+            rv = td[code]["results_vs"].get(opp)
+            if rv:
+                pts += 3 if rv["res"] == "W" else (1 if rv["res"] == "D" else 0)
+                gd  += rv["scored"] - rv["conceded"]
+                gf  += rv["scored"]
+        return (pts, gd, gf)
+
+    standings = {}
+    for grp, teams in groups.items():
+        raw = [(c, d["pts"], d["gd"], d["gf"]) for c, d in teams.items()]
+        raw.sort(key=lambda x: (x[1], x[2], x[3]), reverse=True)
+
+        # head-to-head tiebreaker within equal groups
+        result = []
+        i = 0
+        while i < len(raw):
+            j = i + 1
+            while (j < len(raw)
+                   and raw[j][1] == raw[i][1]
+                   and raw[j][2] == raw[i][2]
+                   and raw[j][3] == raw[i][3]):
+                j += 1
+            group_slice = list(raw[i:j])
+            if j - i > 1:
+                td = groups[grp]
+                tied_codes = [x[0] for x in group_slice]
+                group_slice.sort(
+                    key=lambda item: h2h_key(item[0], [c for c in tied_codes if c != item[0]], td),
+                    reverse=True,
+                )
+            result.extend(group_slice)
+            i = j
+
+        standings[grp] = result
+    return standings
+
+
+def get_third_place_qualifiers(standings: dict) -> list:
+    """
+    Pick the best 8 third-place teams across all 12 groups.
+    Sorted by pts DESC -> gd DESC -> gf DESC.
+    Returns list of up to 8 team codes, best first.
+    """
+    thirds = []
+    for grp in sorted(standings.keys()):
+        grp_standing = standings[grp]
+        if len(grp_standing) >= 3:
+            thirds.append(grp_standing[2])  # (code, pts, gd, gf)
+
+    thirds.sort(key=lambda x: (x[1], x[2], x[3]), reverse=True)
+    return [t[0] for t in thirds[:8]]
+
+
+def resolve_ko_slot(
+    slot: str,
+    standings: dict,
+    third_qualifiers: list,
+    ko_picks: dict,
+) -> str | None:
+    """
+    Resolve a bracket slot string to a team code.
+
+    Slot formats:
+    - "1A"          -> 1st place Group A
+    - "2B"          -> 2nd place Group B
+    - "3ABCDF"      -> handled externally via third_qualifiers positional assignment
+    - "KO001"       -> winner of that KO match
+    - "KO029_loser" -> loser of KO029
+    """
+    if len(slot) == 2 and slot[0] in ("1", "2"):
+        rank = int(slot[0]) - 1
+        grp = slot[1]
+        grp_standing = standings.get(grp, [])
+        if len(grp_standing) > rank:
+            return grp_standing[rank][0]
+        return None
+
+    if slot.startswith("3"):
+        return None  # resolved by caller using positional third_qualifiers
+
+    if slot.endswith("_loser"):
+        src_mid = slot[:-6]
+        pick = ko_picks.get(src_mid, {})
+        home_code = pick.get("home_code")
+        away_code = pick.get("away_code")
+        h_score = int(pick.get("home") or 0)
+        a_score = int(pick.get("away") or 0)
+        if not home_code and not away_code:
+            return None
+        if h_score > a_score:
+            return away_code
+        elif a_score > h_score:
+            return home_code
+        else:
+            # tied at 90min: home wins PK by default, away is loser
+            return away_code
+
+    if slot.startswith("KO"):
+        pick = ko_picks.get(slot, {})
+        home_code = pick.get("home_code")
+        away_code = pick.get("away_code")
+        h_score = int(pick.get("home") or 0)
+        a_score = int(pick.get("away") or 0)
+        if not home_code and not away_code:
+            return None
+        if h_score > a_score:
+            return home_code
+        elif a_score > h_score:
+            return away_code
+        else:
+            # tied at 90min: home wins PK by default
+            return home_code
+
+    return None
+
+
 def load_bracket_prediction(username: str) -> dict:
     path = PREDICTIONS_DIR / f"{username}_bracket.json"
     if path.exists():
         with open(path) as f:
             return json.load(f)
-    return {"username": username, "group_picks": {}, "ko_picks": {}}
+    return {"username": username, "ko_picks": {}, "champion": None}
+
 
 def save_bracket_prediction(username: str, data: dict):
     path = PREDICTIONS_DIR / f"{username}_bracket.json"
     with open(path, "w") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
+
 def team_label(code: str) -> str:
     return f"{flag(code)} {code}" if code else "—"
 
+
 def page_bracket():
     st.title("🗓️ トーナメント事前予測")
-    st.caption("グループステージの順位予想 → 決勝トーナメントの全試合スコアをあらかじめ予測できます")
 
     users = list_users()
     if not users:
@@ -580,192 +759,237 @@ def page_bracket():
     username = st.selectbox("参加者を選択", users, index=default_idx, key="bracket_user")
     st.session_state["username"] = username
 
+    st.info("ℹ️ グループステージの予測を入力すると、自動で対戦カードが決まります")
+
+    # ── Load data ──
+    schedule_matches = load_schedule()
+    user_data = load_prediction(username)
+    user_preds = user_data.get("predictions", {})
     bdata = load_bracket_prediction(username)
-    group_picks = bdata.get("group_picks", {})   # {"A": {"1st": "MEX", "2nd": "KOR", "3rd": "CZE"}, ...}
-    ko_picks = bdata.get("ko_picks", {})          # {"KO001": {"home_code": "MEX", "away_code": "KOR", "home": 2, "away": 1, "et": False, "pk": False}, ...}
+    ko_picks = bdata.get("ko_picks", {})
+
+    # ── Compute standings from group-stage predictions ──
+    standings = compute_standings_from_predictions(user_preds, schedule_matches)
+    third_qualifiers = get_third_place_qualifiers(standings)
+
+    # ── グループ通過チーム（自動計算） ──
+    st.markdown("---")
+    st.subheader("グループ通過チーム（自動計算）")
 
     groups_data = load_groups()
-    changed = False
+    all_groups = sorted(groups_data.keys())
 
-    # ── Step 1: グループ順位予想 ──
-    st.markdown("---")
-    st.subheader("Step 1：グループ順位を予想")
-    st.caption("各グループの1位・2位・3位を選んでください（3位は3位通過枠の候補になります）")
+    # Build summary table
+    table_rows = []
+    for grp in all_groups:
+        ranked = standings.get(grp, [])
+        first  = ranked[0][0] if len(ranked) > 0 else "—"
+        second = ranked[1][0] if len(ranked) > 1 else "—"
+        if len(ranked) >= 3:
+            third_code, third_pts, third_gd, third_gf = ranked[2]
+            third_qualified = third_code in third_qualifiers
+            third_str = f"{team_label(third_code)} ({third_pts}pts, GD{third_gd:+d})"
+        else:
+            third_str = "—"
+            third_qualified = False
 
-    cols = st.columns(3)
-    for gi, (grp, teams) in enumerate(sorted(groups_data.items())):
-        team_codes = [t["code"] for t in teams]
-        team_options = ["（未選択）"] + team_codes
-        existing = group_picks.get(grp, {})
-        with cols[gi % 3]:
-            st.markdown(f"**グループ {grp}**")
-            for rank, label in [("1st", "🥇 1位"), ("2nd", "🥈 2位"), ("3rd", "🥉 3位")]:
-                cur = existing.get(rank, "（未選択）")
-                idx = team_options.index(cur) if cur in team_options else 0
-                sel = st.selectbox(label, team_options,
-                                   index=idx,
-                                   key=f"grp_{grp}_{rank}",
-                                   format_func=lambda c: team_label(c) if c != "（未選択）" else "（未選択）")
-                if sel != "（未選択）":
-                    if grp not in group_picks:
-                        group_picks[grp] = {}
-                    group_picks[grp][rank] = sel
+        table_rows.append({
+            "グループ": grp,
+            "1位": team_label(first) if first != "—" else "—",
+            "2位": team_label(second) if second != "—" else "—",
+            "3位 (ポイント/GD)": third_str,
+            "3位通過?": "✅" if third_qualified else "",
+        })
 
-    # ── Step 2: 3位通過8チームの選択 ──
-    st.markdown("---")
-    st.subheader("Step 2：3位通過チームを8チーム選ぶ")
-    st.caption("12グループの3位チームから、勝ち上がると思う8チームを選択")
-
-    third_place_candidates = []
-    for grp in sorted(groups_data.keys()):
-        third = group_picks.get(grp, {}).get("3rd")
-        if third:
-            third_place_candidates.append(third)
-
-    existing_thirds = bdata.get("third_place_picks", [])
-    if third_place_candidates:
-        selected_thirds = st.multiselect(
-            "3位通過チーム（8チーム選択）",
-            options=third_place_candidates,
-            default=[t for t in existing_thirds if t in third_place_candidates],
-            format_func=team_label,
-            max_selections=8,
-            key="third_picks"
+    if table_rows:
+        st.dataframe(
+            pd.DataFrame(table_rows),
+            use_container_width=True,
+            hide_index=True,
         )
-        bdata["third_place_picks"] = selected_thirds
+
+        if len(third_qualifiers) < 8:
+            remaining = 8 - len(third_qualifiers)
+            st.caption(
+                f"※ グループステージの予測が不足しています。現在 {len(third_qualifiers)}/8 チームが算出済み。"
+                f"あと {remaining} グループの予測が必要です。"
+            )
     else:
-        st.info("まずStep 1で各グループの3位チームを選択してください")
-        selected_thirds = existing_thirds
+        st.caption("グループステージの予測を「③ 予測入力」ページで入力すると、ここに自動表示されます。")
 
-    # ── Step 3: R32 スコア予測 ──
-    st.markdown("---")
-    st.subheader("Step 3：決勝トーナメント全試合のスコアを予測")
+    # ── Build R32 team assignments (resolve all slots) ──
+    # For 3rd-place slots, assign in THIRD_SLOT_ORDER positional order
+    third_slot_assignments: dict[str, str | None] = {}
+    for i, ko_mid in enumerate(THIRD_SLOT_ORDER):
+        third_slot_assignments[ko_mid] = third_qualifiers[i] if i < len(third_qualifiers) else None
 
-    def get_picked_team(slot: str) -> str | None:
-        """スロット表記(例: '1A', '2B', '3ABCDF')からユーザーの選択チームを返す"""
-        if len(slot) == 2 and slot[0] in ("1", "2"):
-            rank_map = {"1": "1st", "2": "2nd"}
-            rank = rank_map[slot[0]]
-            grp = slot[1]
-            return group_picks.get(grp, {}).get(rank)
-        elif slot.startswith("3"):
-            # 3位枠: 選択済み3位チームから順番に割り当て（簡略化）
-            return None  # R32時点では未確定として表示
-        return None
+    def get_r32_teams(match_id: str, slot_h: str, slot_a: str) -> tuple:
+        """Return (home_code, away_code) for an R32 match."""
+        if slot_h.startswith("3"):
+            hc = third_slot_assignments.get(match_id)
+        else:
+            hc = resolve_ko_slot(slot_h, standings, third_qualifiers, ko_picks)
+        if slot_a.startswith("3"):
+            ac = third_slot_assignments.get(match_id)
+            # slot_a is always "3xxx", so use the same match_id key but we need home vs away:
+            # For each R32 match that has a 3rd-place slot, it's always the away slot.
+            # The home slot is the away position in the 3rd-place dict — but both slots of the
+            # same match can't both be 3rd-place.  slot_a for this match_id is different.
+            # Re-derive: the "away" 3rd slot is the same positional index as the match_id.
+            ac = third_slot_assignments.get(match_id)
+        else:
+            ac = resolve_ko_slot(slot_a, standings, third_qualifiers, ko_picks)
+        return hc, ac
 
-    def ko_match_input(match_id: str, home_code: str | None, away_code: str | None,
-                       date: str, time_et: str, round_label: str):
+    # Actually, home and away from the same match cannot both be 3rd-place slots.
+    # All R32 3rd-place slots are in the away position.  Rewrite cleanly:
+    def resolve_r32_slot(slot: str, match_id: str) -> str | None:
+        if slot.startswith("3"):
+            return third_slot_assignments.get(match_id)
+        return resolve_ko_slot(slot, standings, third_qualifiers, ko_picks)
+
+    # ── Helper: render a KO match input row ──
+    def ko_match_input(
+        match_id: str,
+        home_code: str | None,
+        away_code: str | None,
+        date: str,
+        time_et: str,
+        round_label: str,
+    ):
         dt_jst = et_to_jst(date, time_et)
-        home_disp = team_label(home_code) if home_code else "（グループ勝者）"
-        away_disp = team_label(away_code) if away_code else "（グループ勝者）"
         existing = ko_picks.get(match_id, {})
 
+        home_disp = team_label(home_code) if home_code else "（未確定）"
+        away_disp = team_label(away_code) if away_code else "（未確定）"
+
         with st.container():
-            st.markdown(f"**{match_id}** `{round_label}` — {format_jst(dt_jst)}")
+            header_col, _ = st.columns([6, 1])
+            with header_col:
+                st.markdown(f"**{match_id}** `{round_label}` — {format_jst(dt_jst)}")
+
             c1, c2, c3, c4, c5 = st.columns([3, 1, 1, 1, 3])
             with c1:
-                # ホームチーム選択（未確定の場合はドロップダウン）
-                if home_code:
-                    st.markdown(f"**{home_disp}**")
-                    h_code = home_code
-                else:
-                    opts = ["（未定）"] + ALL_CODES
-                    cur = existing.get("home_code", "（未定）")
-                    idx = opts.index(cur) if cur in opts else 0
-                    h_code = st.selectbox("ホーム", opts, index=idx,
-                                          key=f"ko_hc_{match_id}",
-                                          format_func=lambda c: team_label(c) if c != "（未定）" else "（未定）",
-                                          label_visibility="collapsed")
+                st.markdown(f"**{home_disp}**")
             with c2:
-                h_score = st.number_input("H", 0, 9,
-                                          value=existing.get("home", 0) or 0,
-                                          key=f"ko_hs_{match_id}",
-                                          label_visibility="collapsed")
+                h_score = st.number_input(
+                    "H", 0, 20,
+                    value=int(existing.get("home") or 0),
+                    key=f"ko_hs_{match_id}",
+                    label_visibility="collapsed",
+                )
             with c3:
-                st.markdown("<div style='text-align:center;padding-top:8px'>-</div>", unsafe_allow_html=True)
+                st.markdown(
+                    "<div style='text-align:center;padding-top:8px'>-</div>",
+                    unsafe_allow_html=True,
+                )
             with c4:
-                a_score = st.number_input("A", 0, 9,
-                                          value=existing.get("away", 0) or 0,
-                                          key=f"ko_as_{match_id}",
-                                          label_visibility="collapsed")
+                a_score = st.number_input(
+                    "A", 0, 20,
+                    value=int(existing.get("away") or 0),
+                    key=f"ko_as_{match_id}",
+                    label_visibility="collapsed",
+                )
             with c5:
-                if away_code:
-                    st.markdown(f"**{away_disp}**")
-                    a_code = away_code
-                else:
-                    opts = ["（未定）"] + ALL_CODES
-                    cur = existing.get("away_code", "（未定）")
-                    idx = opts.index(cur) if cur in opts else 0
-                    a_code = st.selectbox("アウェイ", opts, index=idx,
-                                          key=f"ko_ac_{match_id}",
-                                          format_func=lambda c: team_label(c) if c != "（未定）" else "（未定）",
-                                          label_visibility="collapsed")
+                st.markdown(f"**{away_disp}**")
 
             ec1, ec2 = st.columns(2)
             with ec1:
-                et = st.checkbox("延長戦", value=existing.get("et", False), key=f"ko_et_{match_id}")
+                et = st.checkbox("延長戦", value=bool(existing.get("et", False)), key=f"ko_et_{match_id}")
             with ec2:
-                pk = st.checkbox("PK戦", value=existing.get("pk", False), key=f"ko_pk_{match_id}")
+                pk = st.checkbox("PK戦", value=bool(existing.get("pk", False)), key=f"ko_pk_{match_id}")
 
+            # Persist to ko_picks (in-memory, saved on button press)
             ko_picks[match_id] = {
-                "home_code": h_code if h_code != "（未定）" else None,
-                "away_code": a_code if a_code != "（未定）" else None,
-                "home": h_score, "away": a_score,
-                "et": et, "pk": pk,
+                "home_code": home_code,
+                "away_code": away_code,
+                "home": h_score,
+                "away": a_score,
+                "et": et,
+                "pk": pk,
             }
         st.divider()
 
-    # R32
-    with st.expander("🔵 ラウンド32 (6/28〜7/3)", expanded=True):
+    # ── 決勝トーナメント ──
+    st.markdown("---")
+    st.subheader("決勝トーナメント")
+
+    # ── R32 ──
+    with st.expander("🔵 ラウンド32 — 16試合 (6/28〜7/3)", expanded=True):
         for match_id, slot_h, slot_a, date, time_et in R32_SLOTS:
-            home_code = get_picked_team(slot_h)
-            away_code = get_picked_team(slot_a)
-            # 3位枠はユーザーに直接選ばせる
-            if slot_h.startswith("3"):
-                home_code = ko_picks.get(match_id, {}).get("home_code")
-            if slot_a.startswith("3"):
-                away_code = ko_picks.get(match_id, {}).get("away_code")
+            home_code = resolve_r32_slot(slot_h, match_id)
+            away_code = resolve_r32_slot(slot_a, match_id)
             ko_match_input(match_id, home_code, away_code, date, time_et, "R32")
 
-    # R16
-    with st.expander("🟡 ラウンド16 (7/5〜7/8)"):
+    # ── R16 — teams come from R32 winners ──
+    with st.expander("🟡 ラウンド16 — 8試合 (7/5〜7/8)"):
         for match_id, src_h, src_a, date, time_et in R16_SLOTS:
-            home_code = ko_picks.get(src_h, {}).get("home_code") or ko_picks.get(src_h, {}).get("away_code")
-            away_code = ko_picks.get(src_a, {}).get("home_code") or ko_picks.get(src_a, {}).get("away_code")
-            ko_match_input(match_id, None, None, date, time_et, "R16")
+            home_code = resolve_ko_slot(src_h, standings, third_qualifiers, ko_picks)
+            away_code = resolve_ko_slot(src_a, standings, third_qualifiers, ko_picks)
+            ko_match_input(match_id, home_code, away_code, date, time_et, "R16")
 
-    # QF
-    with st.expander("🟠 準々決勝 (7/11〜7/12)"):
+    # ── QF ──
+    with st.expander("🟠 準々決勝 — 4試合 (7/11〜7/12)"):
         for match_id, src_h, src_a, date, time_et in QF_SLOTS:
-            ko_match_input(match_id, None, None, date, time_et, "QF")
+            home_code = resolve_ko_slot(src_h, standings, third_qualifiers, ko_picks)
+            away_code = resolve_ko_slot(src_a, standings, third_qualifiers, ko_picks)
+            ko_match_input(match_id, home_code, away_code, date, time_et, "QF")
 
-    # SF
-    with st.expander("🔴 準決勝 (7/14〜7/15)"):
+    # ── SF ──
+    with st.expander("🔴 準決勝 — 2試合 (7/14〜7/15)"):
         for match_id, src_h, src_a, date, time_et in SF_SLOTS:
-            ko_match_input(match_id, None, None, date, time_et, "SF")
+            home_code = resolve_ko_slot(src_h, standings, third_qualifiers, ko_picks)
+            away_code = resolve_ko_slot(src_a, standings, third_qualifiers, ko_picks)
+            ko_match_input(match_id, home_code, away_code, date, time_et, "SF")
 
-    # Bronze + Final
-    with st.expander("🏆 3位決定戦 & 決勝 (7/18〜7/19)"):
-        ko_match_input(BRONZE_SLOT[0], None, None, BRONZE_SLOT[3], BRONZE_SLOT[4], "3位決定戦")
-        ko_match_input(FINAL_SLOT[0],  None, None, FINAL_SLOT[3],  FINAL_SLOT[4],  "決勝")
+    # ── Bronze + Final ──
+    with st.expander("🥉🏆 3位決定戦 & 決勝 (7/18〜7/19)"):
+        # Bronze: losers of two SF matches
+        bronze_home = resolve_ko_slot("KO029_loser", standings, third_qualifiers, ko_picks)
+        bronze_away = resolve_ko_slot("KO030_loser", standings, third_qualifiers, ko_picks)
+        ko_match_input(BRONZE_SLOT[0], bronze_home, bronze_away, BRONZE_SLOT[3], BRONZE_SLOT[4], "3位決定戦")
 
-    # 優勝予想
+        # Final: winners of two SF matches
+        final_home = resolve_ko_slot("KO029", standings, third_qualifiers, ko_picks)
+        final_away = resolve_ko_slot("KO030", standings, third_qualifiers, ko_picks)
+        ko_match_input(FINAL_SLOT[0], final_home, final_away, FINAL_SLOT[3], FINAL_SLOT[4], "決勝")
+
+    # ── 優勝予想 ──
     st.markdown("---")
-    st.subheader("🏆 優勝チーム予想")
-    champion_opts = ["（未選択）"] + ALL_CODES
-    cur_champ = bdata.get("champion", "（未選択）")
-    idx = champion_opts.index(cur_champ) if cur_champ in champion_opts else 0
-    champion = st.selectbox("優勝すると思うチームは？", champion_opts,
-                            index=idx,
-                            format_func=lambda c: team_label(c) if c != "（未選択）" else "（未選択）",
-                            key="champion_pick")
-    if champion != "（未選択）":
-        bdata["champion"] = champion
+    st.subheader("🏆 優勝予想")
 
-    # 保存ボタン
-    if st.button("💾 トーナメント予測を保存", type="primary"):
-        bdata["group_picks"] = group_picks
+    # Auto-derive finalists from SF predictions if available
+    finalist_home = resolve_ko_slot("KO029", standings, third_qualifiers, ko_picks)
+    finalist_away = resolve_ko_slot("KO030", standings, third_qualifiers, ko_picks)
+
+    finalists = [c for c in [finalist_home, finalist_away] if c]
+    if finalists:
+        st.caption(f"決勝進出予想: {' vs '.join(team_label(c) for c in finalists)}")
+
+    champion_opts = ["（未選択）"] + ALL_CODES
+    cur_champ = bdata.get("champion") or "（未選択）"
+    if cur_champ not in champion_opts:
+        cur_champ = "（未選択）"
+
+    # If exactly one finalist is determinable, pre-select sensibly; otherwise keep saved value
+    champion_default_idx = champion_opts.index(cur_champ)
+
+    champion = st.selectbox(
+        "優勝すると思うチームは？",
+        champion_opts,
+        index=champion_default_idx,
+        format_func=lambda c: team_label(c) if c != "（未選択）" else "（未選択）",
+        key="champion_pick",
+    )
+
+    # ── 保存ボタン ──
+    st.markdown("---")
+    if st.button("💾 保存", type="primary"):
         bdata["ko_picks"] = ko_picks
+        if champion != "（未選択）":
+            bdata["champion"] = champion
+        else:
+            bdata["champion"] = None
         save_bracket_prediction(username, bdata)
         st.success("保存しました！")
         st.rerun()
