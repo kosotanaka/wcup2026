@@ -1,0 +1,199 @@
+{
+  "name": "Türkiye",
+  "group": "D",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Uğurcan Çakır",
+      "dob": "1996-04-05",
+      "caps": 38,
+      "goals": 0,
+      "club": "Galatasaray"
+    },
+    {
+      "pos": "GK",
+      "name": "Mert Günok",
+      "dob": "1989-03-01",
+      "caps": 37,
+      "goals": 0,
+      "club": "Fenerbahçe"
+    },
+    {
+      "pos": "GK",
+      "name": "Altay Bayındır",
+      "dob": "1998-04-14",
+      "caps": 11,
+      "goals": 0,
+      "club": "Manchester United"
+    },
+    {
+      "pos": "GK",
+      "name": "Ersin Destanoğlu",
+      "dob": "2001-01-01",
+      "caps": 0,
+      "goals": 0,
+      "club": "Beşiktaş"
+    },
+    {
+      "pos": "DF",
+      "name": "Merih Demiral",
+      "dob": "1998-03-05",
+      "caps": 61,
+      "goals": 6,
+      "club": "Al-Ahli"
+    },
+    {
+      "pos": "DF",
+      "name": "Zeki Çelik",
+      "dob": "1997-02-17",
+      "caps": 59,
+      "goals": 3,
+      "club": "Roma"
+    },
+    {
+      "pos": "DF",
+      "name": "Çağlar Söyüncü",
+      "dob": "1996-05-23",
+      "caps": 59,
+      "goals": 2,
+      "club": "Fenerbahçe"
+    },
+    {
+      "pos": "DF",
+      "name": "Mert Müldür",
+      "dob": "1999-04-03",
+      "caps": 43,
+      "goals": 3,
+      "club": "Fenerbahçe"
+    },
+    {
+      "pos": "DF",
+      "name": "Ferdi Kadıoğlu",
+      "dob": "1999-10-07",
+      "caps": 30,
+      "goals": 2,
+      "club": "Brighton & Hove Albion"
+    },
+    {
+      "pos": "DF",
+      "name": "Ozan Kabak",
+      "dob": "2000-03-25",
+      "caps": 28,
+      "goals": 2,
+      "club": "TSG Hoffenheim"
+    },
+    {
+      "pos": "DF",
+      "name": "Abdülkerim Bardakcı",
+      "dob": "1994-09-07",
+      "caps": 26,
+      "goals": 2,
+      "club": "Galatasaray"
+    },
+    {
+      "pos": "DF",
+      "name": "Eren Elmalı",
+      "dob": "2000-07-07",
+      "caps": 21,
+      "goals": 0,
+      "club": "Galatasaray"
+    },
+    {
+      "pos": "MF",
+      "name": "Hakan Çalhanoğlu",
+      "dob": "1994-02-08",
+      "caps": 104,
+      "goals": 22,
+      "club": "Inter Milan",
+      "captain": true
+    },
+    {
+      "pos": "MF",
+      "name": "Kaan Ayhan",
+      "dob": "1994-11-10",
+      "caps": 72,
+      "goals": 5,
+      "club": "Galatasaray"
+    },
+    {
+      "pos": "MF",
+      "name": "Orkun Kökçü",
+      "dob": "2000-12-29",
+      "caps": 48,
+      "goals": 3,
+      "club": "Beşiktaş"
+    },
+    {
+      "pos": "MF",
+      "name": "İsmail Yüksek",
+      "dob": "1999-01-26",
+      "caps": 31,
+      "goals": 1,
+      "club": "Fenerbahçe"
+    },
+    {
+      "pos": "MF",
+      "name": "Salih Özcan",
+      "dob": "1998-01-11",
+      "caps": 28,
+      "goals": 1,
+      "club": "Borussia Dortmund"
+    },
+    {
+      "pos": "FW",
+      "name": "Kerem Aktürkoğlu",
+      "dob": "1998-10-21",
+      "caps": 51,
+      "goals": 15,
+      "club": "Fenerbahçe"
+    },
+    {
+      "pos": "FW",
+      "name": "İrfan Can Kahveci",
+      "dob": "1995-07-15",
+      "caps": 45,
+      "goals": 6,
+      "club": "Kasımpaşa"
+    },
+    {
+      "pos": "FW",
+      "name": "Barış Alper Yılmaz",
+      "dob": "2000-05-23",
+      "caps": 33,
+      "goals": 2,
+      "club": "Galatasaray"
+    },
+    {
+      "pos": "FW",
+      "name": "Arda Güler",
+      "dob": "2005-02-25",
+      "caps": 28,
+      "goals": 6,
+      "club": "Real Madrid"
+    },
+    {
+      "pos": "FW",
+      "name": "Kenan Yıldız",
+      "dob": "2005-05-04",
+      "caps": 28,
+      "goals": 5,
+      "club": "Juventus"
+    },
+    {
+      "pos": "FW",
+      "name": "Yunus Akgün",
+      "dob": "2000-07-07",
+      "caps": 17,
+      "goals": 3,
+      "club": "Galatasaray"
+    },
+    {
+      "pos": "FW",
+      "name": "Can Uzun",
+      "dob": "2005-11-11",
+      "caps": 4,
+      "goals": 0,
+      "club": "Eintracht Frankfurt"
+    }
+  ]
+}

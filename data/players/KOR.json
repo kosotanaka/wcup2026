@@ -1,0 +1,215 @@
+{
+  "name": "Korea Republic",
+  "group": "A",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Kim Seung-gyu",
+      "dob": "1990-09-30",
+      "caps": 85,
+      "goals": 0,
+      "club": "FC Tokyo"
+    },
+    {
+      "pos": "GK",
+      "name": "Jo Hyeon-woo",
+      "dob": "1991-09-25",
+      "caps": 47,
+      "goals": 0,
+      "club": "Ulsan HD"
+    },
+    {
+      "pos": "GK",
+      "name": "Song Bum-keun",
+      "dob": "1997-10-15",
+      "caps": 2,
+      "goals": 0,
+      "club": "Jeonbuk Hyundai Motors"
+    },
+    {
+      "pos": "DF",
+      "name": "Kim Min-jae",
+      "dob": "1996-11-15",
+      "caps": 77,
+      "goals": 4,
+      "club": "Bayern Munich"
+    },
+    {
+      "pos": "DF",
+      "name": "Kim Moon-hwan",
+      "dob": "1995-08-01",
+      "caps": 34,
+      "goals": 0,
+      "club": "Daejeon Hana Citizen"
+    },
+    {
+      "pos": "DF",
+      "name": "Seol Young-woo",
+      "dob": "1998-12-05",
+      "caps": 32,
+      "goals": 0,
+      "club": "Red Star Belgrade"
+    },
+    {
+      "pos": "DF",
+      "name": "Cho Yu-min",
+      "dob": "1996-11-17",
+      "caps": 18,
+      "goals": 0,
+      "club": "Sharjah"
+    },
+    {
+      "pos": "DF",
+      "name": "Lee Tae-seok",
+      "dob": "2002-07-28",
+      "caps": 14,
+      "goals": 1,
+      "club": "Austria Wien"
+    },
+    {
+      "pos": "DF",
+      "name": "Park Jin-seob",
+      "dob": "1995-10-23",
+      "caps": 12,
+      "goals": 1,
+      "club": "Zhejiang FC"
+    },
+    {
+      "pos": "DF",
+      "name": "Kim Tae-hyeon",
+      "dob": "2000-09-17",
+      "caps": 7,
+      "goals": 0,
+      "club": "Kashima Antlers"
+    },
+    {
+      "pos": "DF",
+      "name": "Lee Han-beom",
+      "dob": "2002-06-17",
+      "caps": 6,
+      "goals": 0,
+      "club": "Midtjylland"
+    },
+    {
+      "pos": "DF",
+      "name": "Jens Castrop",
+      "dob": "2003-07-29",
+      "caps": 5,
+      "goals": 0,
+      "club": "Borussia Mönchengladbach"
+    },
+    {
+      "pos": "DF",
+      "name": "Lee Ki-hyuk",
+      "dob": "2000-07-07",
+      "caps": 1,
+      "goals": 0,
+      "club": "Gangwon FC"
+    },
+    {
+      "pos": "MF",
+      "name": "Lee Jae-sung",
+      "dob": "1992-08-10",
+      "caps": 103,
+      "goals": 15,
+      "club": "Mainz 05"
+    },
+    {
+      "pos": "MF",
+      "name": "Hwang Hee-chan",
+      "dob": "1996-01-26",
+      "caps": 77,
+      "goals": 16,
+      "club": "Wolverhampton Wanderers"
+    },
+    {
+      "pos": "MF",
+      "name": "Hwang In-beom",
+      "dob": "1996-09-20",
+      "caps": 71,
+      "goals": 6,
+      "club": "Feyenoord"
+    },
+    {
+      "pos": "MF",
+      "name": "Lee Kang-in",
+      "dob": "2001-02-19",
+      "caps": 46,
+      "goals": 11,
+      "club": "Paris Saint-Germain"
+    },
+    {
+      "pos": "MF",
+      "name": "Paik Seung-ho",
+      "dob": "1997-03-17",
+      "caps": 25,
+      "goals": 3,
+      "club": "Birmingham City"
+    },
+    {
+      "pos": "MF",
+      "name": "Kim Jin-gyu",
+      "dob": "1997-02-24",
+      "caps": 20,
+      "goals": 3,
+      "club": "Jeonbuk Hyundai Motors"
+    },
+    {
+      "pos": "MF",
+      "name": "Lee Dong-gyeong",
+      "dob": "1997-09-20",
+      "caps": 16,
+      "goals": 3,
+      "club": "Ulsan HD"
+    },
+    {
+      "pos": "MF",
+      "name": "Bae Jun-ho",
+      "dob": "2003-08-21",
+      "caps": 12,
+      "goals": 2,
+      "club": "Stoke City"
+    },
+    {
+      "pos": "MF",
+      "name": "Eom Ji-sung",
+      "dob": "2002-05-09",
+      "caps": 8,
+      "goals": 2,
+      "club": "Swansea City"
+    },
+    {
+      "pos": "MF",
+      "name": "Yang Hyun-jun",
+      "dob": "2002-05-25",
+      "caps": 8,
+      "goals": 0,
+      "club": "Celtic"
+    },
+    {
+      "pos": "FW",
+      "name": "Son Heung-min",
+      "dob": "1992-07-08",
+      "caps": 142,
+      "goals": 54,
+      "club": "Los Angeles FC",
+      "captain": true
+    },
+    {
+      "pos": "FW",
+      "name": "Cho Gue-sung",
+      "dob": "1998-01-25",
+      "caps": 42,
+      "goals": 10,
+      "club": "Midtjylland"
+    },
+    {
+      "pos": "FW",
+      "name": "Oh Hyeon-gyu",
+      "dob": "2001-04-12",
+      "caps": 26,
+      "goals": 6,
+      "club": "Beşiktaş"
+    }
+  ]
+}

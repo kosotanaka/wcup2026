@@ -1,0 +1,215 @@
+{
+  "name": "Belgium",
+  "group": "G",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Thibaut Courtois",
+      "dob": "1992-05-11",
+      "caps": 107,
+      "goals": 0,
+      "club": "Real Madrid"
+    },
+    {
+      "pos": "GK",
+      "name": "Senne Lammens",
+      "dob": "2002-07-07",
+      "caps": 2,
+      "goals": 0,
+      "club": "Manchester United"
+    },
+    {
+      "pos": "GK",
+      "name": "Mike Penders",
+      "dob": "2005-07-31",
+      "caps": 0,
+      "goals": 0,
+      "club": "Strasbourg"
+    },
+    {
+      "pos": "DF",
+      "name": "Thomas Meunier",
+      "dob": "1991-09-12",
+      "caps": 78,
+      "goals": 10,
+      "club": "Lille"
+    },
+    {
+      "pos": "DF",
+      "name": "Timothy Castagne",
+      "dob": "1995-12-05",
+      "caps": 62,
+      "goals": 2,
+      "club": "Fulham"
+    },
+    {
+      "pos": "DF",
+      "name": "Arthur Theate",
+      "dob": "2000-05-25",
+      "caps": 32,
+      "goals": 1,
+      "club": "Eintracht Frankfurt"
+    },
+    {
+      "pos": "DF",
+      "name": "Zeno Debast",
+      "dob": "2003-10-24",
+      "caps": 26,
+      "goals": 1,
+      "club": "Sporting CP"
+    },
+    {
+      "pos": "DF",
+      "name": "Maxim De Cuyper",
+      "dob": "2000-12-22",
+      "caps": 17,
+      "goals": 4,
+      "club": "Brighton & Hove Albion"
+    },
+    {
+      "pos": "DF",
+      "name": "Brandon Mechele",
+      "dob": "1993-01-28",
+      "caps": 7,
+      "goals": 1,
+      "club": "Club Brugge"
+    },
+    {
+      "pos": "DF",
+      "name": "Koni De Winter",
+      "dob": "2002-06-12",
+      "caps": 7,
+      "goals": 0,
+      "club": "Milan"
+    },
+    {
+      "pos": "DF",
+      "name": "Joaquin Seys",
+      "dob": "2005-03-28",
+      "caps": 4,
+      "goals": 0,
+      "club": "Club Brugge"
+    },
+    {
+      "pos": "DF",
+      "name": "Nathan Ngoy",
+      "dob": "2003-06-10",
+      "caps": 2,
+      "goals": 0,
+      "club": "Lille"
+    },
+    {
+      "pos": "MF",
+      "name": "Kevin De Bruyne",
+      "dob": "1991-06-28",
+      "caps": 117,
+      "goals": 36,
+      "club": "Napoli"
+    },
+    {
+      "pos": "MF",
+      "name": "Axel Witsel",
+      "dob": "1989-01-12",
+      "caps": 136,
+      "goals": 12,
+      "club": "Girona"
+    },
+    {
+      "pos": "MF",
+      "name": "Youri Tielemans",
+      "dob": "1997-05-07",
+      "caps": 83,
+      "goals": 12,
+      "club": "Aston Villa",
+      "captain": true
+    },
+    {
+      "pos": "MF",
+      "name": "Hans Vanaken",
+      "dob": "1992-08-24",
+      "caps": 32,
+      "goals": 7,
+      "club": "Club Brugge"
+    },
+    {
+      "pos": "MF",
+      "name": "Amadou Onana",
+      "dob": "2001-08-16",
+      "caps": 27,
+      "goals": 1,
+      "club": "Aston Villa"
+    },
+    {
+      "pos": "MF",
+      "name": "Nicolas Raskin",
+      "dob": "2001-02-23",
+      "caps": 11,
+      "goals": 1,
+      "club": "Rangers"
+    },
+    {
+      "pos": "FW",
+      "name": "Romelu Lukaku",
+      "dob": "1993-05-13",
+      "caps": 124,
+      "goals": 89,
+      "club": "Napoli"
+    },
+    {
+      "pos": "FW",
+      "name": "Leandro Trossard",
+      "dob": "1994-12-04",
+      "caps": 50,
+      "goals": 11,
+      "club": "Arsenal"
+    },
+    {
+      "pos": "FW",
+      "name": "Jérémy Doku",
+      "dob": "2002-05-27",
+      "caps": 41,
+      "goals": 7,
+      "club": "Manchester City"
+    },
+    {
+      "pos": "FW",
+      "name": "Dodi Lukébakio",
+      "dob": "1997-09-24",
+      "caps": 29,
+      "goals": 5,
+      "club": "Benfica"
+    },
+    {
+      "pos": "FW",
+      "name": "Charles De Ketelaere",
+      "dob": "2001-03-10",
+      "caps": 28,
+      "goals": 5,
+      "club": "Atalanta"
+    },
+    {
+      "pos": "FW",
+      "name": "Alexis Saelemaekers",
+      "dob": "1999-06-27",
+      "caps": 23,
+      "goals": 2,
+      "club": "Milan"
+    },
+    {
+      "pos": "FW",
+      "name": "Diego Moreira",
+      "dob": "2004-08-06",
+      "caps": 2,
+      "goals": 0,
+      "club": "Strasbourg"
+    },
+    {
+      "pos": "FW",
+      "name": "Matias Fernandez-Pardo",
+      "dob": "2005-02-03",
+      "caps": 0,
+      "goals": 0,
+      "club": "Lille"
+    }
+  ]
+}

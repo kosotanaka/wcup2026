@@ -1,0 +1,159 @@
+{
+  "name": "Iraq",
+  "group": "I",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Jalal Hassan",
+      "dob": "1991-05-18",
+      "caps": 100,
+      "goals": 0,
+      "club": "Al-Zawraa",
+      "captain": true
+    },
+    {
+      "pos": "GK",
+      "name": "Fahad Talib",
+      "dob": "1994-10-21",
+      "caps": 21,
+      "goals": 0,
+      "club": "Al-Talaba"
+    },
+    {
+      "pos": "GK",
+      "name": "Ahmed Basil",
+      "dob": "1996-08-19",
+      "caps": 14,
+      "goals": 0,
+      "club": "Al-Shorta"
+    },
+    {
+      "pos": "DF",
+      "name": "Rebin Sulaka",
+      "dob": "1992-04-12",
+      "caps": 54,
+      "goals": 1,
+      "club": "Port"
+    },
+    {
+      "pos": "DF",
+      "name": "Manaf Younis",
+      "dob": "1996-11-16",
+      "caps": 32,
+      "goals": 1,
+      "club": "Al-Shorta"
+    },
+    {
+      "pos": "DF",
+      "name": "Merchas Doski",
+      "dob": "1999-12-07",
+      "caps": 30,
+      "goals": 0,
+      "club": "Viktoria Plzeň"
+    },
+    {
+      "pos": "DF",
+      "name": "Zaid Tahseen",
+      "dob": "2001-01-29",
+      "caps": 26,
+      "goals": 1,
+      "club": "Pakhtakor"
+    },
+    {
+      "pos": "DF",
+      "name": "Hussein Ali",
+      "dob": "2002-03-01",
+      "caps": 25,
+      "goals": 1,
+      "club": "Pogoń Szczecin"
+    },
+    {
+      "pos": "DF",
+      "name": "Frans Putros",
+      "dob": "1993-07-14",
+      "caps": 26,
+      "goals": 0,
+      "club": "Persib"
+    },
+    {
+      "pos": "DF",
+      "name": "Maitham Jabbar",
+      "dob": "2000-11-10",
+      "caps": 20,
+      "goals": 0,
+      "club": "Al-Zawraa"
+    },
+    {
+      "pos": "MF",
+      "name": "Ibrahim Bayesh",
+      "dob": "2000-05-01",
+      "caps": 74,
+      "goals": 8,
+      "club": "Al-Dhafra"
+    },
+    {
+      "pos": "MF",
+      "name": "Amir Al-Ammari",
+      "dob": "1997-07-27",
+      "caps": 49,
+      "goals": 3,
+      "club": "Cracovia"
+    },
+    {
+      "pos": "MF",
+      "name": "Zidane Iqbal",
+      "dob": "2003-04-27",
+      "caps": 23,
+      "goals": 2,
+      "club": "Utrecht"
+    },
+    {
+      "pos": "MF",
+      "name": "Youssef Amyn",
+      "dob": "2003-08-21",
+      "caps": 25,
+      "goals": 2,
+      "club": "AEK Larnaca"
+    },
+    {
+      "pos": "MF",
+      "name": "Ali Jasim",
+      "dob": "2004-01-20",
+      "caps": 35,
+      "goals": 2,
+      "club": "Al-Najma"
+    },
+    {
+      "pos": "MF",
+      "name": "Hasan Abdulkareem",
+      "dob": "1999-01-01",
+      "caps": 21,
+      "goals": 1,
+      "club": "Al-Zawraa"
+    },
+    {
+      "pos": "FW",
+      "name": "Aymen Hussein",
+      "dob": "1996-03-22",
+      "caps": 93,
+      "goals": 33,
+      "club": "Al-Karma"
+    },
+    {
+      "pos": "FW",
+      "name": "Mohanad Ali",
+      "dob": "2000-06-20",
+      "caps": 71,
+      "goals": 27,
+      "club": "Dibba"
+    },
+    {
+      "pos": "FW",
+      "name": "Ali Al-Hamadi",
+      "dob": "2002-03-01",
+      "caps": 18,
+      "goals": 5,
+      "club": "Luton Town"
+    }
+  ]
+}

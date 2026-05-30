@@ -1,0 +1,215 @@
+{
+  "name": "Paraguay",
+  "group": "D",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Gatito Fernández",
+      "dob": "1988-03-29",
+      "caps": 30,
+      "goals": 0,
+      "club": "Cerro Porteño"
+    },
+    {
+      "pos": "GK",
+      "name": "Carlos Coronel",
+      "dob": "1996-12-29",
+      "caps": 9,
+      "goals": 0,
+      "club": "São Paulo"
+    },
+    {
+      "pos": "GK",
+      "name": "Orlando Gill",
+      "dob": "2000-06-11",
+      "caps": 5,
+      "goals": 0,
+      "club": "San Lorenzo"
+    },
+    {
+      "pos": "DF",
+      "name": "Gustavo Gómez",
+      "dob": "1993-05-06",
+      "caps": 88,
+      "goals": 4,
+      "club": "Palmeiras",
+      "captain": true
+    },
+    {
+      "pos": "DF",
+      "name": "Júnior Alonso",
+      "dob": "1993-02-09",
+      "caps": 70,
+      "goals": 3,
+      "club": "Atlético Mineiro"
+    },
+    {
+      "pos": "DF",
+      "name": "Fabián Balbuena",
+      "dob": "1991-08-23",
+      "caps": 47,
+      "goals": 2,
+      "club": "Grêmio"
+    },
+    {
+      "pos": "DF",
+      "name": "Omar Alderete",
+      "dob": "1996-12-26",
+      "caps": 35,
+      "goals": 3,
+      "club": "Sunderland"
+    },
+    {
+      "pos": "DF",
+      "name": "Juan José Cáceres",
+      "dob": "2000-06-01",
+      "caps": 16,
+      "goals": 0,
+      "club": "Dynamo Moscow"
+    },
+    {
+      "pos": "DF",
+      "name": "Blas Riveros",
+      "dob": "1998-02-03",
+      "caps": 15,
+      "goals": 0,
+      "club": "Cerro Porteño"
+    },
+    {
+      "pos": "DF",
+      "name": "Agustín Sández",
+      "dob": "2001-01-16",
+      "caps": 5,
+      "goals": 0,
+      "club": "Rosario Central"
+    },
+    {
+      "pos": "DF",
+      "name": "Mateo Gamarra",
+      "dob": "2000-10-20",
+      "caps": 3,
+      "goals": 0,
+      "club": "Cruzeiro"
+    },
+    {
+      "pos": "MF",
+      "name": "Miguel Almirón",
+      "dob": "1994-02-10",
+      "caps": 75,
+      "goals": 9,
+      "club": "Atlanta United FC"
+    },
+    {
+      "pos": "MF",
+      "name": "Mathías Villasanti",
+      "dob": "1997-01-24",
+      "caps": 51,
+      "goals": 0,
+      "club": "Grêmio"
+    },
+    {
+      "pos": "MF",
+      "name": "Andrés Cubas",
+      "dob": "1996-05-22",
+      "caps": 32,
+      "goals": 0,
+      "club": "Vancouver Whitecaps FC"
+    },
+    {
+      "pos": "MF",
+      "name": "Kaku",
+      "dob": "1995-01-11",
+      "caps": 32,
+      "goals": 5,
+      "club": "Al Ain"
+    },
+    {
+      "pos": "MF",
+      "name": "Ramón Sosa",
+      "dob": "1999-08-31",
+      "caps": 28,
+      "goals": 1,
+      "club": "Palmeiras"
+    },
+    {
+      "pos": "MF",
+      "name": "Diego Gómez",
+      "dob": "2003-03-27",
+      "caps": 23,
+      "goals": 3,
+      "club": "Brighton & Hove Albion"
+    },
+    {
+      "pos": "MF",
+      "name": "Damián Bobadilla",
+      "dob": "2001-07-11",
+      "caps": 19,
+      "goals": 1,
+      "club": "São Paulo"
+    },
+    {
+      "pos": "MF",
+      "name": "Braian Ojeda",
+      "dob": "2000-07-27",
+      "caps": 16,
+      "goals": 0,
+      "club": "Orlando City SC"
+    },
+    {
+      "pos": "MF",
+      "name": "Matías Galarza",
+      "dob": "2002-02-11",
+      "caps": 14,
+      "goals": 2,
+      "club": "Atlanta United FC"
+    },
+    {
+      "pos": "FW",
+      "name": "Óscar Romero",
+      "dob": "1992-07-04",
+      "caps": 55,
+      "goals": 4,
+      "club": "Huracán"
+    },
+    {
+      "pos": "FW",
+      "name": "Ángel Romero",
+      "dob": "1992-07-04",
+      "caps": 51,
+      "goals": 8,
+      "club": "Boca Juniors"
+    },
+    {
+      "pos": "FW",
+      "name": "Antonio Sanabria",
+      "dob": "1996-03-04",
+      "caps": 47,
+      "goals": 7,
+      "club": "Cremonese"
+    },
+    {
+      "pos": "FW",
+      "name": "Julio Enciso",
+      "dob": "2004-01-23",
+      "caps": 31,
+      "goals": 4,
+      "club": "Strasbourg"
+    },
+    {
+      "pos": "FW",
+      "name": "Gabriel Ávalos",
+      "dob": "1991-07-09",
+      "caps": 22,
+      "goals": 2,
+      "club": "Independiente"
+    },
+    {
+      "pos": "FW",
+      "name": "Isidro Pitta",
+      "dob": "1999-08-14",
+      "caps": 5,
+      "goals": 0,
+      "club": "Red Bull Bragantino"
+    }
+  ]
+}

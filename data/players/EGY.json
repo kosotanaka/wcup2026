@@ -1,0 +1,167 @@
+{
+  "name": "Egypt",
+  "group": "G",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Mohamed El Shenawy",
+      "dob": "1988-12-18",
+      "caps": 76,
+      "goals": 0,
+      "club": "Al Ahly"
+    },
+    {
+      "pos": "GK",
+      "name": "Mostafa Shobeir",
+      "dob": "2000-03-17",
+      "caps": 8,
+      "goals": 0,
+      "club": "Al Ahly"
+    },
+    {
+      "pos": "GK",
+      "name": "Mohamed Alaa",
+      "dob": "1999-01-09",
+      "caps": 0,
+      "goals": 0,
+      "club": "El Gouna"
+    },
+    {
+      "pos": "DF",
+      "name": "Hamdy Fathy",
+      "dob": "1994-09-29",
+      "caps": 62,
+      "goals": 3,
+      "club": "Al-Wakrah"
+    },
+    {
+      "pos": "DF",
+      "name": "Ramy Rabia",
+      "dob": "1993-05-20",
+      "caps": 44,
+      "goals": 5,
+      "club": "Al Ain"
+    },
+    {
+      "pos": "DF",
+      "name": "Mohamed Hany",
+      "dob": "1996-01-25",
+      "caps": 41,
+      "goals": 0,
+      "club": "Al Ahly"
+    },
+    {
+      "pos": "DF",
+      "name": "Ahmed Fatouh",
+      "dob": "1998-03-22",
+      "caps": 38,
+      "goals": 1,
+      "club": "Zamalek"
+    },
+    {
+      "pos": "DF",
+      "name": "Mohamed Abdelmonem",
+      "dob": "1999-02-01",
+      "caps": 35,
+      "goals": 3,
+      "club": "Nice"
+    },
+    {
+      "pos": "DF",
+      "name": "Yasser Ibrahim",
+      "dob": "1993-02-10",
+      "caps": 16,
+      "goals": 1,
+      "club": "Al Ahly"
+    },
+    {
+      "pos": "DF",
+      "name": "Hossam Abdelmaguid",
+      "dob": "2001-04-30",
+      "caps": 13,
+      "goals": 0,
+      "club": "Zamalek"
+    },
+    {
+      "pos": "MF",
+      "name": "Marwan Attia",
+      "dob": "1998-08-12",
+      "caps": 33,
+      "goals": 1,
+      "club": "Al Ahly"
+    },
+    {
+      "pos": "MF",
+      "name": "Emam Ashour",
+      "dob": "1998-02-20",
+      "caps": 28,
+      "goals": 0,
+      "club": "Al Ahly"
+    },
+    {
+      "pos": "MF",
+      "name": "Mohanad Lasheen",
+      "dob": "1996-05-29",
+      "caps": 22,
+      "goals": 0,
+      "club": "Pyramids"
+    },
+    {
+      "pos": "MF",
+      "name": "Mahmoud Saber",
+      "dob": "2001-07-30",
+      "caps": 15,
+      "goals": 1,
+      "club": "ZED"
+    },
+    {
+      "pos": "FW",
+      "name": "Mohamed Salah",
+      "dob": "1992-06-15",
+      "caps": 116,
+      "goals": 67,
+      "club": "Liverpool",
+      "captain": true
+    },
+    {
+      "pos": "FW",
+      "name": "Trézéguet",
+      "dob": "1994-10-01",
+      "caps": 95,
+      "goals": 23,
+      "club": "Al Ahly"
+    },
+    {
+      "pos": "FW",
+      "name": "Omar Marmoush",
+      "dob": "1999-02-07",
+      "caps": 48,
+      "goals": 11,
+      "club": "Manchester City"
+    },
+    {
+      "pos": "FW",
+      "name": "Zizo",
+      "dob": "1996-01-10",
+      "caps": 62,
+      "goals": 5,
+      "club": "Al Ahly"
+    },
+    {
+      "pos": "FW",
+      "name": "Ibrahim Adel",
+      "dob": "2001-04-23",
+      "caps": 23,
+      "goals": 3,
+      "club": "Nordsjælland"
+    },
+    {
+      "pos": "FW",
+      "name": "Haissem Hassan",
+      "dob": "2002-02-08",
+      "caps": 3,
+      "goals": 0,
+      "club": "Oviedo"
+    }
+  ]
+}

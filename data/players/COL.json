@@ -1,0 +1,167 @@
+{
+  "name": "Colombia",
+  "group": "K",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "David Ospina",
+      "dob": "1988-08-31",
+      "caps": 129,
+      "goals": 0,
+      "club": "Atlético Nacional"
+    },
+    {
+      "pos": "GK",
+      "name": "Camilo Vargas",
+      "dob": "1989-03-09",
+      "caps": 40,
+      "goals": 0,
+      "club": "Atlas"
+    },
+    {
+      "pos": "GK",
+      "name": "Álvaro Montero",
+      "dob": "1995-03-29",
+      "caps": 11,
+      "goals": 0,
+      "club": "Vélez Sarsfield"
+    },
+    {
+      "pos": "DF",
+      "name": "Davinson Sánchez",
+      "dob": "1996-06-12",
+      "caps": 77,
+      "goals": 3,
+      "club": "Galatasaray"
+    },
+    {
+      "pos": "DF",
+      "name": "Santiago Arias",
+      "dob": "1992-01-13",
+      "caps": 66,
+      "goals": 0,
+      "club": "Independiente"
+    },
+    {
+      "pos": "DF",
+      "name": "Yerry Mina",
+      "dob": "1994-09-23",
+      "caps": 52,
+      "goals": 8,
+      "club": "Cagliari"
+    },
+    {
+      "pos": "DF",
+      "name": "Daniel Muñoz",
+      "dob": "1996-05-26",
+      "caps": 44,
+      "goals": 3,
+      "club": "Crystal Palace"
+    },
+    {
+      "pos": "DF",
+      "name": "Johan Mojica",
+      "dob": "1992-08-21",
+      "caps": 43,
+      "goals": 1,
+      "club": "Mallorca"
+    },
+    {
+      "pos": "DF",
+      "name": "Jhon Lucumí",
+      "dob": "1998-06-26",
+      "caps": 35,
+      "goals": 1,
+      "club": "Bologna"
+    },
+    {
+      "pos": "MF",
+      "name": "James Rodríguez",
+      "dob": "1991-07-12",
+      "caps": 124,
+      "goals": 31,
+      "club": "Minnesota United FC",
+      "captain": true
+    },
+    {
+      "pos": "MF",
+      "name": "Jefferson Lerma",
+      "dob": "1994-10-25",
+      "caps": 64,
+      "goals": 5,
+      "club": "Crystal Palace"
+    },
+    {
+      "pos": "MF",
+      "name": "Juan Fernando Quintero",
+      "dob": "1993-01-18",
+      "caps": 47,
+      "goals": 6,
+      "club": "River Plate"
+    },
+    {
+      "pos": "MF",
+      "name": "Jhon Arias",
+      "dob": "1997-09-21",
+      "caps": 36,
+      "goals": 4,
+      "club": "Palmeiras"
+    },
+    {
+      "pos": "MF",
+      "name": "Richard Ríos",
+      "dob": "2000-06-02",
+      "caps": 30,
+      "goals": 2,
+      "club": "Benfica"
+    },
+    {
+      "pos": "MF",
+      "name": "Kevin Castaño",
+      "dob": "2000-09-29",
+      "caps": 24,
+      "goals": 0,
+      "club": "River Plate"
+    },
+    {
+      "pos": "MF",
+      "name": "Jorge Carrascal",
+      "dob": "1998-05-25",
+      "caps": 22,
+      "goals": 2,
+      "club": "Flamengo"
+    },
+    {
+      "pos": "FW",
+      "name": "Luis Díaz",
+      "dob": "1997-01-13",
+      "caps": 72,
+      "goals": 21,
+      "club": "Bayern Munich"
+    },
+    {
+      "pos": "FW",
+      "name": "Jhon Córdoba",
+      "dob": "1993-05-11",
+      "caps": 21,
+      "goals": 6,
+      "club": "Krasnodar"
+    },
+    {
+      "pos": "FW",
+      "name": "Luis Suárez",
+      "dob": "1997-12-02",
+      "caps": 10,
+      "goals": 4,
+      "club": "Sporting CP"
+    },
+    {
+      "pos": "FW",
+      "name": "Cucho Hernández",
+      "dob": "1999-04-20",
+      "caps": 7,
+      "goals": 2,
+      "club": "Real Betis"
+    }
+  ]
+}

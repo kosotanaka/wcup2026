@@ -1,0 +1,215 @@
+{
+  "name": "Japan",
+  "group": "F",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Zion Suzuki",
+      "dob": "2002-08-21",
+      "caps": 23,
+      "goals": 0,
+      "club": "Parma"
+    },
+    {
+      "pos": "GK",
+      "name": "Keisuke Ōsako",
+      "dob": "1999-07-28",
+      "caps": 11,
+      "goals": 0,
+      "club": "Sanfrecce Hiroshima"
+    },
+    {
+      "pos": "GK",
+      "name": "Tomoki Hayakawa",
+      "dob": "1999-03-03",
+      "caps": 3,
+      "goals": 0,
+      "club": "Kashima Antlers"
+    },
+    {
+      "pos": "DF",
+      "name": "Yūto Nagatomo",
+      "dob": "1986-09-12",
+      "caps": 144,
+      "goals": 4,
+      "club": "FC Tokyo"
+    },
+    {
+      "pos": "DF",
+      "name": "Kō Itakura",
+      "dob": "1997-01-27",
+      "caps": 39,
+      "goals": 2,
+      "club": "Ajax"
+    },
+    {
+      "pos": "DF",
+      "name": "Takehiro Tomiyasu",
+      "dob": "1998-11-05",
+      "caps": 42,
+      "goals": 1,
+      "club": "Ajax"
+    },
+    {
+      "pos": "DF",
+      "name": "Shōgo Taniguchi",
+      "dob": "1991-07-15",
+      "caps": 37,
+      "goals": 1,
+      "club": "Sint-Truiden"
+    },
+    {
+      "pos": "DF",
+      "name": "Hiroki Itō",
+      "dob": "1999-05-12",
+      "caps": 23,
+      "goals": 1,
+      "club": "Bayern Munich"
+    },
+    {
+      "pos": "DF",
+      "name": "Yukinari Sugawara",
+      "dob": "2000-06-28",
+      "caps": 20,
+      "goals": 2,
+      "club": "Werder Bremen"
+    },
+    {
+      "pos": "DF",
+      "name": "Ayumu Seko",
+      "dob": "2000-06-07",
+      "caps": 13,
+      "goals": 0,
+      "club": "Le Havre"
+    },
+    {
+      "pos": "DF",
+      "name": "Junnosuke Suzuki",
+      "dob": "2003-07-12",
+      "caps": 6,
+      "goals": 0,
+      "club": "Copenhagen"
+    },
+    {
+      "pos": "DF",
+      "name": "Tsuyoshi Watanabe",
+      "dob": "1997-02-05",
+      "caps": 10,
+      "goals": 0,
+      "club": "Feyenoord"
+    },
+    {
+      "pos": "MF",
+      "name": "Wataru Endo",
+      "dob": "1993-02-09",
+      "caps": 72,
+      "goals": 4,
+      "club": "Liverpool",
+      "captain": true
+    },
+    {
+      "pos": "MF",
+      "name": "Junya Itō",
+      "dob": "1993-03-09",
+      "caps": 68,
+      "goals": 15,
+      "club": "Genk"
+    },
+    {
+      "pos": "MF",
+      "name": "Ritsu Dōan",
+      "dob": "1998-06-16",
+      "caps": 64,
+      "goals": 11,
+      "club": "Eintracht Frankfurt"
+    },
+    {
+      "pos": "MF",
+      "name": "Daichi Kamada",
+      "dob": "1996-08-05",
+      "caps": 49,
+      "goals": 12,
+      "club": "Crystal Palace"
+    },
+    {
+      "pos": "MF",
+      "name": "Takefusa Kubo",
+      "dob": "2001-06-04",
+      "caps": 48,
+      "goals": 7,
+      "club": "Real Sociedad"
+    },
+    {
+      "pos": "MF",
+      "name": "Ao Tanaka",
+      "dob": "1998-09-10",
+      "caps": 37,
+      "goals": 8,
+      "club": "Leeds United"
+    },
+    {
+      "pos": "MF",
+      "name": "Keito Nakamura",
+      "dob": "2000-07-28",
+      "caps": 24,
+      "goals": 10,
+      "club": "Reims"
+    },
+    {
+      "pos": "MF",
+      "name": "Kaishū Sano",
+      "dob": "2000-12-30",
+      "caps": 12,
+      "goals": 0,
+      "club": "Mainz 05"
+    },
+    {
+      "pos": "FW",
+      "name": "Ayase Ueda",
+      "dob": "1998-08-28",
+      "caps": 38,
+      "goals": 16,
+      "club": "Feyenoord"
+    },
+    {
+      "pos": "FW",
+      "name": "Daizen Maeda",
+      "dob": "1997-10-20",
+      "caps": 27,
+      "goals": 4,
+      "club": "Celtic"
+    },
+    {
+      "pos": "FW",
+      "name": "Kōki Ogawa",
+      "dob": "1997-08-08",
+      "caps": 14,
+      "goals": 10,
+      "club": "NEC"
+    },
+    {
+      "pos": "FW",
+      "name": "Yuito Suzuki",
+      "dob": "2001-10-25",
+      "caps": 6,
+      "goals": 0,
+      "club": "SC Freiburg"
+    },
+    {
+      "pos": "FW",
+      "name": "Keisuke Gotō",
+      "dob": "2005-06-03",
+      "caps": 3,
+      "goals": 0,
+      "club": "Sint-Truiden"
+    },
+    {
+      "pos": "FW",
+      "name": "Kento Shiogai",
+      "dob": "2005-03-26",
+      "caps": 1,
+      "goals": 0,
+      "club": "VfL Wolfsburg"
+    }
+  ]
+}

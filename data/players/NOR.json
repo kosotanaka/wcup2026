@@ -1,0 +1,183 @@
+{
+  "name": "Norway",
+  "group": "I",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Ørjan Nyland",
+      "dob": "1990-09-10",
+      "caps": 69,
+      "goals": 0,
+      "club": "Sevilla"
+    },
+    {
+      "pos": "GK",
+      "name": "Egil Selvik",
+      "dob": "1997-07-30",
+      "caps": 6,
+      "goals": 0,
+      "club": "Watford"
+    },
+    {
+      "pos": "GK",
+      "name": "Sander Tangvik",
+      "dob": "2002-11-29",
+      "caps": 0,
+      "goals": 0,
+      "club": "Hamburger SV"
+    },
+    {
+      "pos": "DF",
+      "name": "Julian Ryerson",
+      "dob": "1997-11-17",
+      "caps": 41,
+      "goals": 1,
+      "club": "Borussia Dortmund"
+    },
+    {
+      "pos": "DF",
+      "name": "Kristoffer Ajer",
+      "dob": "1998-04-17",
+      "caps": 50,
+      "goals": 2,
+      "club": "Brentford"
+    },
+    {
+      "pos": "DF",
+      "name": "Marcus Holmgren Pedersen",
+      "dob": "2000-07-16",
+      "caps": 31,
+      "goals": 0,
+      "club": "Torino"
+    },
+    {
+      "pos": "DF",
+      "name": "Leo Østigård",
+      "dob": "1999-11-28",
+      "caps": 36,
+      "goals": 1,
+      "club": "Genoa"
+    },
+    {
+      "pos": "DF",
+      "name": "David Møller Wolfe",
+      "dob": "2002-04-23",
+      "caps": 20,
+      "goals": 1,
+      "club": "Wolverhampton Wanderers"
+    },
+    {
+      "pos": "DF",
+      "name": "Fredrik André Bjørkan",
+      "dob": "1998-08-21",
+      "caps": 19,
+      "goals": 1,
+      "club": "Bodø/Glimt"
+    },
+    {
+      "pos": "DF",
+      "name": "Torbjørn Heggem",
+      "dob": "1999-01-12",
+      "caps": 13,
+      "goals": 0,
+      "club": "Bologna"
+    },
+    {
+      "pos": "MF",
+      "name": "Martin Ødegaard",
+      "dob": "1998-12-17",
+      "caps": 67,
+      "goals": 4,
+      "club": "Arsenal",
+      "captain": true
+    },
+    {
+      "pos": "MF",
+      "name": "Sander Berge",
+      "dob": "1998-02-14",
+      "caps": 64,
+      "goals": 1,
+      "club": "Fulham"
+    },
+    {
+      "pos": "MF",
+      "name": "Patrick Berg",
+      "dob": "1997-11-24",
+      "caps": 41,
+      "goals": 0,
+      "club": "Bodø/Glimt"
+    },
+    {
+      "pos": "MF",
+      "name": "Kristian Thorstvedt",
+      "dob": "1999-03-13",
+      "caps": 35,
+      "goals": 4,
+      "club": "Sassuolo"
+    },
+    {
+      "pos": "MF",
+      "name": "Morten Thorsby",
+      "dob": "1996-05-05",
+      "caps": 30,
+      "goals": 0,
+      "club": "Cremonese"
+    },
+    {
+      "pos": "MF",
+      "name": "Fredrik Aursnes",
+      "dob": "1995-12-10",
+      "caps": 20,
+      "goals": 1,
+      "club": "Benfica"
+    },
+    {
+      "pos": "MF",
+      "name": "Antonio Nusa",
+      "dob": "2005-04-17",
+      "caps": 22,
+      "goals": 7,
+      "club": "RB Leipzig"
+    },
+    {
+      "pos": "MF",
+      "name": "Oscar Bobb",
+      "dob": "2003-07-12",
+      "caps": 18,
+      "goals": 2,
+      "club": "Fulham"
+    },
+    {
+      "pos": "MF",
+      "name": "Andreas Schjelderup",
+      "dob": "2004-06-01",
+      "caps": 10,
+      "goals": 1,
+      "club": "Benfica"
+    },
+    {
+      "pos": "FW",
+      "name": "Erling Haaland",
+      "dob": "2000-07-21",
+      "caps": 49,
+      "goals": 55,
+      "club": "Manchester City"
+    },
+    {
+      "pos": "FW",
+      "name": "Alexander Sørloth",
+      "dob": "1995-12-05",
+      "caps": 70,
+      "goals": 26,
+      "club": "Atlético Madrid"
+    },
+    {
+      "pos": "FW",
+      "name": "Jørgen Strand Larsen",
+      "dob": "2000-02-06",
+      "caps": 26,
+      "goals": 4,
+      "club": "Crystal Palace"
+    }
+  ]
+}

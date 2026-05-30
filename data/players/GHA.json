@@ -1,0 +1,159 @@
+{
+  "name": "Ghana",
+  "group": "L",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Lawrence Ati-Zigi",
+      "dob": "1996-11-29",
+      "caps": 28,
+      "goals": 0,
+      "club": "St. Gallen"
+    },
+    {
+      "pos": "GK",
+      "name": "Benjamin Asare",
+      "dob": "1992-07-13",
+      "caps": 10,
+      "goals": 0,
+      "club": "Hearts of Oak"
+    },
+    {
+      "pos": "GK",
+      "name": "Joseph Anang",
+      "dob": "2000-06-08",
+      "caps": 1,
+      "goals": 0,
+      "club": "St Patrick's Athletic"
+    },
+    {
+      "pos": "DF",
+      "name": "Abdul Rahman Baba",
+      "dob": "1994-07-02",
+      "caps": 52,
+      "goals": 1,
+      "club": "PAOK"
+    },
+    {
+      "pos": "DF",
+      "name": "Alexander Djiku",
+      "dob": "1994-08-09",
+      "caps": 38,
+      "goals": 4,
+      "club": "Spartak Moscow"
+    },
+    {
+      "pos": "DF",
+      "name": "Gideon Mensah",
+      "dob": "1998-07-18",
+      "caps": 39,
+      "goals": 0,
+      "club": "Auxerre"
+    },
+    {
+      "pos": "DF",
+      "name": "Alidu Seidu",
+      "dob": "2000-06-04",
+      "caps": 23,
+      "goals": 1,
+      "club": "Rennes"
+    },
+    {
+      "pos": "DF",
+      "name": "Jerome Opoku",
+      "dob": "1998-10-14",
+      "caps": 10,
+      "goals": 1,
+      "club": "İstanbul Başakşehir"
+    },
+    {
+      "pos": "DF",
+      "name": "Jonas Adjetey",
+      "dob": "2003-12-13",
+      "caps": 9,
+      "goals": 0,
+      "club": "VfL Wolfsburg"
+    },
+    {
+      "pos": "MF",
+      "name": "Thomas Partey",
+      "dob": "1993-06-13",
+      "caps": 56,
+      "goals": 15,
+      "club": "Villarreal"
+    },
+    {
+      "pos": "MF",
+      "name": "Abdul Fatawu",
+      "dob": "2004-03-08",
+      "caps": 27,
+      "goals": 3,
+      "club": "Leicester City"
+    },
+    {
+      "pos": "MF",
+      "name": "Kamaldeen Sulemana",
+      "dob": "2002-02-15",
+      "caps": 27,
+      "goals": 1,
+      "club": "Atalanta"
+    },
+    {
+      "pos": "MF",
+      "name": "Elisha Owusu",
+      "dob": "1997-11-07",
+      "caps": 19,
+      "goals": 0,
+      "club": "Auxerre"
+    },
+    {
+      "pos": "MF",
+      "name": "Caleb Yirenkyi",
+      "dob": "2006-01-15",
+      "caps": 10,
+      "goals": 0,
+      "club": "Nordsjælland"
+    },
+    {
+      "pos": "FW",
+      "name": "Jordan Ayew",
+      "dob": "1991-09-11",
+      "caps": 117,
+      "goals": 33,
+      "club": "Leicester City",
+      "captain": true
+    },
+    {
+      "pos": "FW",
+      "name": "Iñaki Williams",
+      "dob": "1994-06-15",
+      "caps": 25,
+      "goals": 2,
+      "club": "Athletic Bilbao"
+    },
+    {
+      "pos": "FW",
+      "name": "Antoine Semenyo",
+      "dob": "2000-01-07",
+      "caps": 34,
+      "goals": 3,
+      "club": "Manchester City"
+    },
+    {
+      "pos": "FW",
+      "name": "Ernest Nuamah",
+      "dob": "2003-11-01",
+      "caps": 18,
+      "goals": 4,
+      "club": "Lyon"
+    },
+    {
+      "pos": "FW",
+      "name": "Kamaldeen Sulemana",
+      "dob": "2002-02-15",
+      "caps": 27,
+      "goals": 1,
+      "club": "Atalanta"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "name": "Congo DR",
+  "group": "K",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Lionel Mpasi",
+      "dob": "1994-08-01",
+      "caps": 27,
+      "goals": 0,
+      "club": "Le Havre"
+    },
+    {
+      "pos": "GK",
+      "name": "Timothy Fayulu",
+      "dob": "1999-07-24",
+      "caps": 3,
+      "goals": 0,
+      "club": "Noah"
+    },
+    {
+      "pos": "GK",
+      "name": "Matthieu Epolo",
+      "dob": "2005-01-15",
+      "caps": 1,
+      "goals": 0,
+      "club": "Standard Liège"
+    },
+    {
+      "pos": "DF",
+      "name": "Chancel Mbemba",
+      "dob": "1994-08-08",
+      "caps": 107,
+      "goals": 7,
+      "club": "Lille",
+      "captain": true
+    },
+    {
+      "pos": "DF",
+      "name": "Arthur Masuaku",
+      "dob": "1993-11-07",
+      "caps": 44,
+      "goals": 4,
+      "club": "Lens"
+    },
+    {
+      "pos": "DF",
+      "name": "Gédéon Kalulu",
+      "dob": "1997-08-29",
+      "caps": 27,
+      "goals": 0,
+      "club": "Aris Limassol"
+    },
+    {
+      "pos": "DF",
+      "name": "Aaron Wan-Bissaka",
+      "dob": "1997-11-26",
+      "caps": 10,
+      "goals": 0,
+      "club": "West Ham United"
+    },
+    {
+      "pos": "DF",
+      "name": "Axel Tuanzebe",
+      "dob": "1997-11-14",
+      "caps": 12,
+      "goals": 1,
+      "club": "Burnley"
+    },
+    {
+      "pos": "DF",
+      "name": "Joris Kayembe",
+      "dob": "1994-08-08",
+      "caps": 24,
+      "goals": 0,
+      "club": "Genk"
+    },
+    {
+      "pos": "MF",
+      "name": "Samuel Moutoussamy",
+      "dob": "1996-08-12",
+      "caps": 56,
+      "goals": 0,
+      "club": "Atromitos"
+    },
+    {
+      "pos": "MF",
+      "name": "Edo Kayembe",
+      "dob": "1998-06-03",
+      "caps": 41,
+      "goals": 2,
+      "club": "Watford"
+    },
+    {
+      "pos": "MF",
+      "name": "Charles Pickel",
+      "dob": "1997-05-15",
+      "caps": 33,
+      "goals": 1,
+      "club": "Espanyol"
+    },
+    {
+      "pos": "MF",
+      "name": "Gaël Kakuta",
+      "dob": "1991-06-21",
+      "caps": 30,
+      "goals": 5,
+      "club": "AEL"
+    },
+    {
+      "pos": "MF",
+      "name": "Noah Sadiki",
+      "dob": "2004-12-17",
+      "caps": 18,
+      "goals": 0,
+      "club": "Sunderland"
+    },
+    {
+      "pos": "MF",
+      "name": "Ngal'ayel Mukau",
+      "dob": "2004-11-03",
+      "caps": 12,
+      "goals": 0,
+      "club": "Lille"
+    },
+    {
+      "pos": "FW",
+      "name": "Cédric Bakambu",
+      "dob": "1991-04-11",
+      "caps": 68,
+      "goals": 21,
+      "club": "Real Betis"
+    },
+    {
+      "pos": "FW",
+      "name": "Yoane Wissa",
+      "dob": "1996-09-03",
+      "caps": 36,
+      "goals": 9,
+      "club": "Newcastle United"
+    },
+    {
+      "pos": "FW",
+      "name": "Meschak Elia",
+      "dob": "1997-08-06",
+      "caps": 68,
+      "goals": 12,
+      "club": "Alanyaspor"
+    },
+    {
+      "pos": "FW",
+      "name": "Théo Bongonda",
+      "dob": "1995-11-20",
+      "caps": 37,
+      "goals": 7,
+      "club": "Spartak Moscow"
+    },
+    {
+      "pos": "FW",
+      "name": "Fiston Mayele",
+      "dob": "1994-06-24",
+      "caps": 37,
+      "goals": 6,
+      "club": "Pyramids"
+    }
+  ]
+}

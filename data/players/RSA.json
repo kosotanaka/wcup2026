@@ -1,0 +1,215 @@
+{
+  "name": "South Africa",
+  "group": "A",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Ronwen Williams",
+      "dob": "1992-01-21",
+      "caps": 62,
+      "goals": 0,
+      "club": "Mamelodi Sundowns",
+      "captain": true
+    },
+    {
+      "pos": "GK",
+      "name": "Ricardo Goss",
+      "dob": "1994-04-02",
+      "caps": 4,
+      "goals": 0,
+      "club": "Siwelele"
+    },
+    {
+      "pos": "GK",
+      "name": "Sipho Chaine",
+      "dob": "1996-12-14",
+      "caps": 3,
+      "goals": 0,
+      "club": "Orlando Pirates"
+    },
+    {
+      "pos": "DF",
+      "name": "Aubrey Modiba",
+      "dob": "1995-07-22",
+      "caps": 44,
+      "goals": 3,
+      "club": "Mamelodi Sundowns"
+    },
+    {
+      "pos": "DF",
+      "name": "Khuliso Mudau",
+      "dob": "1995-04-26",
+      "caps": 32,
+      "goals": 1,
+      "club": "Mamelodi Sundowns"
+    },
+    {
+      "pos": "DF",
+      "name": "Nkosinathi Sibisi",
+      "dob": "1995-09-22",
+      "caps": 19,
+      "goals": 0,
+      "club": "Orlando Pirates"
+    },
+    {
+      "pos": "DF",
+      "name": "Mbekezeli Mbokazi",
+      "dob": "2005-09-19",
+      "caps": 10,
+      "goals": 1,
+      "club": "Chicago Fire FC"
+    },
+    {
+      "pos": "DF",
+      "name": "Ime Okon",
+      "dob": "2004-02-20",
+      "caps": 7,
+      "goals": 1,
+      "club": "Hannover 96"
+    },
+    {
+      "pos": "DF",
+      "name": "Samukele Kabini",
+      "dob": "2004-03-15",
+      "caps": 5,
+      "goals": 0,
+      "club": "Molde"
+    },
+    {
+      "pos": "DF",
+      "name": "Khulumani Ndamane",
+      "dob": "2004-02-05",
+      "caps": 5,
+      "goals": 0,
+      "club": "Mamelodi Sundowns"
+    },
+    {
+      "pos": "DF",
+      "name": "Thabang Matuludi",
+      "dob": "1999-01-14",
+      "caps": 2,
+      "goals": 0,
+      "club": "Polokwane City"
+    },
+    {
+      "pos": "DF",
+      "name": "Kamogelo Sebelebele",
+      "dob": "2002-07-21",
+      "caps": 2,
+      "goals": 0,
+      "club": "Orlando Pirates"
+    },
+    {
+      "pos": "DF",
+      "name": "Bradley Cross",
+      "dob": "2001-01-30",
+      "caps": 0,
+      "goals": 0,
+      "club": "Kaizer Chiefs"
+    },
+    {
+      "pos": "DF",
+      "name": "Olwethu Makhanya",
+      "dob": "2004-04-30",
+      "caps": 0,
+      "goals": 0,
+      "club": "Philadelphia Union"
+    },
+    {
+      "pos": "MF",
+      "name": "Teboho Mokoena",
+      "dob": "1997-01-24",
+      "caps": 51,
+      "goals": 9,
+      "club": "Mamelodi Sundowns"
+    },
+    {
+      "pos": "MF",
+      "name": "Sphephelo Sithole",
+      "dob": "1999-03-03",
+      "caps": 27,
+      "goals": 1,
+      "club": "Tondela"
+    },
+    {
+      "pos": "MF",
+      "name": "Thalente Mbatha",
+      "dob": "2000-03-06",
+      "caps": 14,
+      "goals": 3,
+      "club": "Orlando Pirates"
+    },
+    {
+      "pos": "MF",
+      "name": "Jayden Adams",
+      "dob": "2001-05-05",
+      "caps": 4,
+      "goals": 0,
+      "club": "Mamelodi Sundowns"
+    },
+    {
+      "pos": "FW",
+      "name": "Themba Zwane",
+      "dob": "1989-08-03",
+      "caps": 53,
+      "goals": 12,
+      "club": "Mamelodi Sundowns"
+    },
+    {
+      "pos": "FW",
+      "name": "Lyle Foster",
+      "dob": "2000-05-09",
+      "caps": 26,
+      "goals": 10,
+      "club": "Burnley"
+    },
+    {
+      "pos": "FW",
+      "name": "Evidence Makgopa",
+      "dob": "2000-06-05",
+      "caps": 26,
+      "goals": 6,
+      "club": "Orlando Pirates"
+    },
+    {
+      "pos": "FW",
+      "name": "Oswin Appollis",
+      "dob": "2001-08-25",
+      "caps": 25,
+      "goals": 8,
+      "club": "Orlando Pirates"
+    },
+    {
+      "pos": "FW",
+      "name": "Iqraam Rayners",
+      "dob": "1995-12-19",
+      "caps": 13,
+      "goals": 4,
+      "club": "Mamelodi Sundowns"
+    },
+    {
+      "pos": "FW",
+      "name": "Relebohile Mofokeng",
+      "dob": "2004-10-23",
+      "caps": 12,
+      "goals": 0,
+      "club": "Orlando Pirates"
+    },
+    {
+      "pos": "FW",
+      "name": "Thapelo Maseko",
+      "dob": "2003-11-11",
+      "caps": 9,
+      "goals": 1,
+      "club": "AEL Limassol"
+    },
+    {
+      "pos": "FW",
+      "name": "Tshepang Moremi",
+      "dob": "2000-10-02",
+      "caps": 9,
+      "goals": 1,
+      "club": "Orlando Pirates"
+    }
+  ]
+}

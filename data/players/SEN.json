@@ -1,0 +1,199 @@
+{
+  "name": "Senegal",
+  "group": "I",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Édouard Mendy",
+      "dob": "1992-03-01",
+      "caps": 56,
+      "goals": 0,
+      "club": "Al-Ahli"
+    },
+    {
+      "pos": "GK",
+      "name": "Mory Diaw",
+      "dob": "1993-06-22",
+      "caps": 4,
+      "goals": 0,
+      "club": "Le Havre"
+    },
+    {
+      "pos": "GK",
+      "name": "Yehvann Diouf",
+      "dob": "1999-11-16",
+      "caps": 2,
+      "goals": 0,
+      "club": "Nice"
+    },
+    {
+      "pos": "DF",
+      "name": "Kalidou Koulibaly",
+      "dob": "1991-06-20",
+      "caps": 103,
+      "goals": 2,
+      "club": "Al-Hilal",
+      "captain": true
+    },
+    {
+      "pos": "DF",
+      "name": "Krépin Diatta",
+      "dob": "1999-02-25",
+      "caps": 59,
+      "goals": 2,
+      "club": "Monaco"
+    },
+    {
+      "pos": "DF",
+      "name": "Moussa Niakhaté",
+      "dob": "1996-03-08",
+      "caps": 29,
+      "goals": 0,
+      "club": "Lyon"
+    },
+    {
+      "pos": "DF",
+      "name": "Ismail Jakobs",
+      "dob": "1999-08-17",
+      "caps": 28,
+      "goals": 0,
+      "club": "Galatasaray"
+    },
+    {
+      "pos": "DF",
+      "name": "Abdoulaye Seck",
+      "dob": "1992-06-04",
+      "caps": 21,
+      "goals": 4,
+      "club": "Maccabi Haifa"
+    },
+    {
+      "pos": "DF",
+      "name": "El Hadji Malick Diouf",
+      "dob": "2004-12-28",
+      "caps": 18,
+      "goals": 1,
+      "club": "West Ham United"
+    },
+    {
+      "pos": "DF",
+      "name": "Antoine Mendy",
+      "dob": "2004-05-27",
+      "caps": 6,
+      "goals": 0,
+      "club": "Nice"
+    },
+    {
+      "pos": "DF",
+      "name": "Mamadou Sarr",
+      "dob": "2005-08-29",
+      "caps": 6,
+      "goals": 0,
+      "club": "Chelsea"
+    },
+    {
+      "pos": "MF",
+      "name": "Idrissa Gueye",
+      "dob": "1989-09-26",
+      "caps": 131,
+      "goals": 7,
+      "club": "Everton"
+    },
+    {
+      "pos": "MF",
+      "name": "Pape Gueye",
+      "dob": "1999-01-24",
+      "caps": 40,
+      "goals": 5,
+      "club": "Villarreal"
+    },
+    {
+      "pos": "MF",
+      "name": "Pape Matar Sarr",
+      "dob": "2002-09-14",
+      "caps": 38,
+      "goals": 4,
+      "club": "Tottenham Hotspur"
+    },
+    {
+      "pos": "MF",
+      "name": "Lamine Camara",
+      "dob": "2004-01-01",
+      "caps": 25,
+      "goals": 7,
+      "club": "Monaco"
+    },
+    {
+      "pos": "MF",
+      "name": "Habib Diarra",
+      "dob": "2004-01-03",
+      "caps": 19,
+      "goals": 4,
+      "club": "Sunderland"
+    },
+    {
+      "pos": "MF",
+      "name": "Pathé Ciss",
+      "dob": "1994-03-16",
+      "caps": 29,
+      "goals": 0,
+      "club": "Rayo Vallecano"
+    },
+    {
+      "pos": "FW",
+      "name": "Sadio Mané",
+      "dob": "1992-04-10",
+      "caps": 126,
+      "goals": 53,
+      "club": "Al-Nassr"
+    },
+    {
+      "pos": "FW",
+      "name": "Ismaïla Sarr",
+      "dob": "1998-02-25",
+      "caps": 83,
+      "goals": 19,
+      "club": "Crystal Palace"
+    },
+    {
+      "pos": "FW",
+      "name": "Iliman Ndiaye",
+      "dob": "2000-03-06",
+      "caps": 38,
+      "goals": 4,
+      "club": "Everton"
+    },
+    {
+      "pos": "FW",
+      "name": "Nicolas Jackson",
+      "dob": "2001-06-20",
+      "caps": 31,
+      "goals": 8,
+      "club": "Bayern Munich"
+    },
+    {
+      "pos": "FW",
+      "name": "Bamba Dieng",
+      "dob": "2000-03-23",
+      "caps": 21,
+      "goals": 2,
+      "club": "Lorient"
+    },
+    {
+      "pos": "FW",
+      "name": "Ibrahim Mbaye",
+      "dob": "2008-01-24",
+      "caps": 10,
+      "goals": 3,
+      "club": "Paris Saint-Germain"
+    },
+    {
+      "pos": "FW",
+      "name": "Assane Diao",
+      "dob": "2005-12-07",
+      "caps": 4,
+      "goals": 0,
+      "club": "Como"
+    }
+  ]
+}

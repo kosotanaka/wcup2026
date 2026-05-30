@@ -1,0 +1,199 @@
+{
+  "name": "Sweden",
+  "group": "F",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Jacob Widell Zetterström",
+      "dob": "1998-07-11",
+      "caps": 2,
+      "goals": 0,
+      "club": "Derby County"
+    },
+    {
+      "pos": "GK",
+      "name": "Viktor Johansson",
+      "dob": "1998-09-14",
+      "caps": 12,
+      "goals": 0,
+      "club": "Stoke City"
+    },
+    {
+      "pos": "GK",
+      "name": "Kristoffer Nordfeldt",
+      "dob": "1989-06-23",
+      "caps": 20,
+      "goals": 0,
+      "club": "AIK"
+    },
+    {
+      "pos": "DF",
+      "name": "Victor Lindelöf",
+      "dob": "1994-07-17",
+      "caps": 75,
+      "goals": 3,
+      "club": "Aston Villa",
+      "captain": true
+    },
+    {
+      "pos": "DF",
+      "name": "Isak Hien",
+      "dob": "1999-01-13",
+      "caps": 27,
+      "goals": 0,
+      "club": "Atalanta"
+    },
+    {
+      "pos": "DF",
+      "name": "Gabriel Gudmundsson",
+      "dob": "1999-04-29",
+      "caps": 23,
+      "goals": 0,
+      "club": "Leeds United"
+    },
+    {
+      "pos": "DF",
+      "name": "Carl Starfelt",
+      "dob": "1995-06-01",
+      "caps": 17,
+      "goals": 0,
+      "club": "Celta Vigo"
+    },
+    {
+      "pos": "DF",
+      "name": "Gustaf Lagerbielke",
+      "dob": "2000-04-10",
+      "caps": 9,
+      "goals": 2,
+      "club": "Braga"
+    },
+    {
+      "pos": "DF",
+      "name": "Hjalmar Ekdal",
+      "dob": "1998-10-21",
+      "caps": 11,
+      "goals": 0,
+      "club": "Burnley"
+    },
+    {
+      "pos": "DF",
+      "name": "Daniel Svensson",
+      "dob": "2002-02-12",
+      "caps": 11,
+      "goals": 0,
+      "club": "Borussia Dortmund"
+    },
+    {
+      "pos": "DF",
+      "name": "Elliot Stroud",
+      "dob": "2002-06-22",
+      "caps": 0,
+      "goals": 0,
+      "club": "Mjällby AIF"
+    },
+    {
+      "pos": "MF",
+      "name": "Mattias Svanberg",
+      "dob": "1999-01-05",
+      "caps": 39,
+      "goals": 2,
+      "club": "VfL Wolfsburg"
+    },
+    {
+      "pos": "MF",
+      "name": "Ken Sema",
+      "dob": "1993-09-30",
+      "caps": 32,
+      "goals": 5,
+      "club": "Pafos"
+    },
+    {
+      "pos": "MF",
+      "name": "Jesper Karlström",
+      "dob": "1995-06-21",
+      "caps": 23,
+      "goals": 0,
+      "club": "Udinese"
+    },
+    {
+      "pos": "MF",
+      "name": "Yasin Ayari",
+      "dob": "2003-10-06",
+      "caps": 19,
+      "goals": 3,
+      "club": "Brighton & Hove Albion"
+    },
+    {
+      "pos": "MF",
+      "name": "Lucas Bergvall",
+      "dob": "2006-02-02",
+      "caps": 8,
+      "goals": 0,
+      "club": "Tottenham Hotspur"
+    },
+    {
+      "pos": "MF",
+      "name": "Besfort Zeneli",
+      "dob": "2002-11-21",
+      "caps": 6,
+      "goals": 0,
+      "club": "Union Saint-Gilloise"
+    },
+    {
+      "pos": "FW",
+      "name": "Viktor Gyökeres",
+      "dob": "1998-06-04",
+      "caps": 32,
+      "goals": 19,
+      "club": "Arsenal"
+    },
+    {
+      "pos": "FW",
+      "name": "Alexander Isak",
+      "dob": "1999-09-21",
+      "caps": 56,
+      "goals": 16,
+      "club": "Liverpool"
+    },
+    {
+      "pos": "FW",
+      "name": "Anthony Elanga",
+      "dob": "2002-04-27",
+      "caps": 28,
+      "goals": 6,
+      "club": "Newcastle United"
+    },
+    {
+      "pos": "FW",
+      "name": "Benjamin Nygren",
+      "dob": "2001-07-08",
+      "caps": 9,
+      "goals": 3,
+      "club": "Celtic"
+    },
+    {
+      "pos": "FW",
+      "name": "Gustaf Nilsson",
+      "dob": "1997-05-23",
+      "caps": 8,
+      "goals": 3,
+      "club": "Club Brugge"
+    },
+    {
+      "pos": "FW",
+      "name": "Alexander Bernhardsson",
+      "dob": "1998-09-08",
+      "caps": 9,
+      "goals": 0,
+      "club": "Holstein Kiel"
+    },
+    {
+      "pos": "FW",
+      "name": "Taha Ali",
+      "dob": "1998-07-01",
+      "caps": 1,
+      "goals": 0,
+      "club": "Malmö FF"
+    }
+  ]
+}

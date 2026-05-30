@@ -1,0 +1,167 @@
+{
+  "name": "Ecuador",
+  "group": "E",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Hernán Galíndez",
+      "dob": "1987-03-30",
+      "caps": 45,
+      "goals": 0,
+      "club": "Aucas"
+    },
+    {
+      "pos": "GK",
+      "name": "Alexander Domínguez",
+      "dob": "1987-06-05",
+      "caps": 77,
+      "goals": 0,
+      "club": "Liga de Quito"
+    },
+    {
+      "pos": "GK",
+      "name": "Moisés Ramírez",
+      "dob": "1995-03-06",
+      "caps": 12,
+      "goals": 0,
+      "club": "Independiente del Valle"
+    },
+    {
+      "pos": "DF",
+      "name": "Piero Hincapié",
+      "dob": "2002-01-09",
+      "caps": 38,
+      "goals": 2,
+      "club": "Bayer Leverkusen"
+    },
+    {
+      "pos": "DF",
+      "name": "Robert Arboleda",
+      "dob": "1991-10-22",
+      "caps": 57,
+      "goals": 3,
+      "club": "São Paulo"
+    },
+    {
+      "pos": "DF",
+      "name": "Félix Torres",
+      "dob": "1997-01-11",
+      "caps": 36,
+      "goals": 4,
+      "club": "Santos Laguna"
+    },
+    {
+      "pos": "DF",
+      "name": "Angelo Preciado",
+      "dob": "1998-02-17",
+      "caps": 40,
+      "goals": 1,
+      "club": "Genk"
+    },
+    {
+      "pos": "DF",
+      "name": "Diego Palacios",
+      "dob": "1999-07-12",
+      "caps": 22,
+      "goals": 0,
+      "club": "Portland Timbers"
+    },
+    {
+      "pos": "DF",
+      "name": "Jackson Porozo",
+      "dob": "2000-11-11",
+      "caps": 14,
+      "goals": 1,
+      "club": "Espanyol"
+    },
+    {
+      "pos": "MF",
+      "name": "Moisés Caicedo",
+      "dob": "2001-11-02",
+      "caps": 43,
+      "goals": 4,
+      "club": "Chelsea",
+      "captain": true
+    },
+    {
+      "pos": "MF",
+      "name": "Carlos Gruezo",
+      "dob": "1995-04-19",
+      "caps": 52,
+      "goals": 1,
+      "club": "Augsburg"
+    },
+    {
+      "pos": "MF",
+      "name": "Jhegson Méndez",
+      "dob": "1997-08-05",
+      "caps": 38,
+      "goals": 0,
+      "club": "Los Angeles FC"
+    },
+    {
+      "pos": "MF",
+      "name": "Ángel Mena",
+      "dob": "1988-01-21",
+      "caps": 75,
+      "goals": 14,
+      "club": "León"
+    },
+    {
+      "pos": "MF",
+      "name": "Jeremy Sarmiento",
+      "dob": "2002-06-16",
+      "caps": 23,
+      "goals": 4,
+      "club": "Brighton"
+    },
+    {
+      "pos": "FW",
+      "name": "Enner Valencia",
+      "dob": "1989-11-04",
+      "caps": 83,
+      "goals": 39,
+      "club": "Internacional"
+    },
+    {
+      "pos": "FW",
+      "name": "Michael Estrada",
+      "dob": "1996-04-13",
+      "caps": 37,
+      "goals": 10,
+      "club": "Cruz Azul"
+    },
+    {
+      "pos": "FW",
+      "name": "Djorkaeff Reasco",
+      "dob": "1999-06-19",
+      "caps": 20,
+      "goals": 3,
+      "club": "Nantes"
+    },
+    {
+      "pos": "FW",
+      "name": "Gonzalo Plata",
+      "dob": "2000-11-01",
+      "caps": 35,
+      "goals": 7,
+      "club": "Al-Qadsiah"
+    },
+    {
+      "pos": "FW",
+      "name": "Kevin Rodríguez",
+      "dob": "2002-01-23",
+      "caps": 17,
+      "goals": 5,
+      "club": "Ipswich Town"
+    },
+    {
+      "pos": "FW",
+      "name": "Kendry Páez",
+      "dob": "2007-05-10",
+      "caps": 12,
+      "goals": 3,
+      "club": "Independiente del Valle"
+    }
+  ]
+}

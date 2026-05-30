@@ -1,0 +1,215 @@
+{
+  "name": "Curaçao",
+  "group": "E",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Eloy Room",
+      "dob": "1989-02-06",
+      "caps": 70,
+      "goals": 0,
+      "club": "Miami FC"
+    },
+    {
+      "pos": "GK",
+      "name": "Trevor Doornbusch",
+      "dob": "1999-07-06",
+      "caps": 7,
+      "goals": 0,
+      "club": "VVV-Venlo"
+    },
+    {
+      "pos": "GK",
+      "name": "Tyrick Bodak",
+      "dob": "2002-05-15",
+      "caps": 4,
+      "goals": 0,
+      "club": "Telstar"
+    },
+    {
+      "pos": "DF",
+      "name": "Juriën Gaari",
+      "dob": "1993-12-23",
+      "caps": 58,
+      "goals": 1,
+      "club": "Abha"
+    },
+    {
+      "pos": "DF",
+      "name": "Roshon van Eijma",
+      "dob": "1998-06-09",
+      "caps": 27,
+      "goals": 1,
+      "club": "RKC Waalwijk"
+    },
+    {
+      "pos": "DF",
+      "name": "Sherel Floranus",
+      "dob": "1998-08-23",
+      "caps": 26,
+      "goals": 0,
+      "club": "PEC Zwolle"
+    },
+    {
+      "pos": "DF",
+      "name": "Joshua Brenet",
+      "dob": "1994-03-20",
+      "caps": 17,
+      "goals": 1,
+      "club": "Kayserispor"
+    },
+    {
+      "pos": "DF",
+      "name": "Armando Obispo",
+      "dob": "1999-03-05",
+      "caps": 4,
+      "goals": 0,
+      "club": "PSV Eindhoven"
+    },
+    {
+      "pos": "DF",
+      "name": "Shurandy Sambo",
+      "dob": "2001-08-19",
+      "caps": 7,
+      "goals": 0,
+      "club": "Sparta Rotterdam"
+    },
+    {
+      "pos": "DF",
+      "name": "Riechedly Bazoer",
+      "dob": "1996-10-12",
+      "caps": 3,
+      "goals": 0,
+      "club": "Konyaspor"
+    },
+    {
+      "pos": "DF",
+      "name": "Deveron Fonville",
+      "dob": "2003-05-16",
+      "caps": 0,
+      "goals": 0,
+      "club": "NEC"
+    },
+    {
+      "pos": "MF",
+      "name": "Leandro Bacuna",
+      "dob": "1991-08-21",
+      "caps": 70,
+      "goals": 16,
+      "club": "Iğdır",
+      "captain": true
+    },
+    {
+      "pos": "MF",
+      "name": "Juninho Bacuna",
+      "dob": "1997-08-07",
+      "caps": 47,
+      "goals": 14,
+      "club": "Volendam"
+    },
+    {
+      "pos": "MF",
+      "name": "Godfried Roemeratoe",
+      "dob": "1999-08-19",
+      "caps": 26,
+      "goals": 1,
+      "club": "RKC Waalwijk"
+    },
+    {
+      "pos": "MF",
+      "name": "Livano Comenencia",
+      "dob": "2004-02-03",
+      "caps": 18,
+      "goals": 1,
+      "club": "Zürich"
+    },
+    {
+      "pos": "MF",
+      "name": "Kevin Felida",
+      "dob": "1999-11-11",
+      "caps": 19,
+      "goals": 1,
+      "club": "Den Bosch"
+    },
+    {
+      "pos": "MF",
+      "name": "Ar'jany Martha",
+      "dob": "2003-09-04",
+      "caps": 8,
+      "goals": 2,
+      "club": "Rotherham United"
+    },
+    {
+      "pos": "MF",
+      "name": "Tyrese Noslin",
+      "dob": "2002-09-11",
+      "caps": 5,
+      "goals": 1,
+      "club": "Telstar"
+    },
+    {
+      "pos": "FW",
+      "name": "Kenji Gorré",
+      "dob": "1994-09-29",
+      "caps": 37,
+      "goals": 6,
+      "club": "Maccabi Haifa"
+    },
+    {
+      "pos": "FW",
+      "name": "Gervane Kastaneer",
+      "dob": "1996-06-09",
+      "caps": 27,
+      "goals": 9,
+      "club": "Terengganu"
+    },
+    {
+      "pos": "FW",
+      "name": "Jearl Margaritha",
+      "dob": "2000-04-10",
+      "caps": 21,
+      "goals": 5,
+      "club": "Beveren"
+    },
+    {
+      "pos": "FW",
+      "name": "Jeremy Antonisse",
+      "dob": "2002-03-29",
+      "caps": 25,
+      "goals": 3,
+      "club": "Kifisia"
+    },
+    {
+      "pos": "FW",
+      "name": "Brandley Kuwas",
+      "dob": "1992-09-19",
+      "caps": 34,
+      "goals": 2,
+      "club": "Volendam"
+    },
+    {
+      "pos": "FW",
+      "name": "Tahith Chong",
+      "dob": "1999-12-04",
+      "caps": 4,
+      "goals": 2,
+      "club": "Sheffield United"
+    },
+    {
+      "pos": "FW",
+      "name": "Sontje Hansen",
+      "dob": "2002-05-18",
+      "caps": 5,
+      "goals": 1,
+      "club": "Middlesbrough"
+    },
+    {
+      "pos": "FW",
+      "name": "Jürgen Locadia",
+      "dob": "1993-11-07",
+      "caps": 12,
+      "goals": 1,
+      "club": "Miami FC"
+    }
+  ]
+}

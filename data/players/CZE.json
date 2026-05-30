@@ -1,0 +1,239 @@
+{
+  "name": "Czechia",
+  "group": "A",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Matěj Kovář",
+      "dob": "2000-05-17",
+      "caps": 19,
+      "goals": 0,
+      "club": "PSV Eindhoven"
+    },
+    {
+      "pos": "GK",
+      "name": "Jindřich Staněk",
+      "dob": "1996-04-27",
+      "caps": 14,
+      "goals": 0,
+      "club": "Slavia Prague"
+    },
+    {
+      "pos": "GK",
+      "name": "Lukáš Horníček",
+      "dob": "2002-07-13",
+      "caps": 0,
+      "goals": 0,
+      "club": "Braga"
+    },
+    {
+      "pos": "DF",
+      "name": "Vladimír Coufal",
+      "dob": "1992-08-22",
+      "caps": 61,
+      "goals": 2,
+      "club": "TSG Hoffenheim"
+    },
+    {
+      "pos": "DF",
+      "name": "Tomáš Holeš",
+      "dob": "1993-03-31",
+      "caps": 39,
+      "goals": 2,
+      "club": "Slavia Prague"
+    },
+    {
+      "pos": "DF",
+      "name": "Ladislav Krejčí",
+      "dob": "1999-04-20",
+      "caps": 25,
+      "goals": 5,
+      "club": "Wolverhampton Wanderers",
+      "captain": true
+    },
+    {
+      "pos": "DF",
+      "name": "David Zima",
+      "dob": "2000-11-08",
+      "caps": 24,
+      "goals": 1,
+      "club": "Slavia Prague"
+    },
+    {
+      "pos": "DF",
+      "name": "Jaroslav Zelený",
+      "dob": "1992-08-20",
+      "caps": 21,
+      "goals": 0,
+      "club": "Sparta Prague"
+    },
+    {
+      "pos": "DF",
+      "name": "David Jurásek",
+      "dob": "2000-08-07",
+      "caps": 16,
+      "goals": 1,
+      "club": "Slavia Prague"
+    },
+    {
+      "pos": "DF",
+      "name": "David Douděra",
+      "dob": "1998-05-31",
+      "caps": 15,
+      "goals": 2,
+      "club": "Slavia Prague"
+    },
+    {
+      "pos": "DF",
+      "name": "Robin Hranáč",
+      "dob": "2000-01-29",
+      "caps": 12,
+      "goals": 1,
+      "club": "TSG Hoffenheim"
+    },
+    {
+      "pos": "DF",
+      "name": "Štěpán Chaloupek",
+      "dob": "2003-03-08",
+      "caps": 3,
+      "goals": 0,
+      "club": "Slavia Prague"
+    },
+    {
+      "pos": "MF",
+      "name": "Tomáš Souček",
+      "dob": "1995-02-27",
+      "caps": 89,
+      "goals": 17,
+      "club": "West Ham United"
+    },
+    {
+      "pos": "MF",
+      "name": "Vladimír Darida",
+      "dob": "1990-08-08",
+      "caps": 78,
+      "goals": 8,
+      "club": "Hradec Králové"
+    },
+    {
+      "pos": "MF",
+      "name": "Lukáš Provod",
+      "dob": "1996-10-23",
+      "caps": 37,
+      "goals": 3,
+      "club": "Slavia Prague"
+    },
+    {
+      "pos": "MF",
+      "name": "Michal Sadílek",
+      "dob": "1999-05-31",
+      "caps": 33,
+      "goals": 1,
+      "club": "Slavia Prague"
+    },
+    {
+      "pos": "MF",
+      "name": "Pavel Šulc",
+      "dob": "2000-12-29",
+      "caps": 20,
+      "goals": 5,
+      "club": "Lyon"
+    },
+    {
+      "pos": "MF",
+      "name": "Lukáš Červ",
+      "dob": "2001-04-10",
+      "caps": 15,
+      "goals": 2,
+      "club": "Viktoria Plzeň"
+    },
+    {
+      "pos": "MF",
+      "name": "Tomáš Ladra",
+      "dob": "1997-05-24",
+      "caps": 1,
+      "goals": 0,
+      "club": "Viktoria Plzeň"
+    },
+    {
+      "pos": "MF",
+      "name": "Pavel Bucha",
+      "dob": "1998-03-11",
+      "caps": 0,
+      "goals": 0,
+      "club": "FC Cincinnati"
+    },
+    {
+      "pos": "MF",
+      "name": "Hugo Sochůrek",
+      "dob": "2008-06-07",
+      "caps": 0,
+      "goals": 0,
+      "club": "Sparta Prague"
+    },
+    {
+      "pos": "MF",
+      "name": "Alexandr Sojka",
+      "dob": "2003-04-02",
+      "caps": 0,
+      "goals": 0,
+      "club": "Viktoria Plzeň"
+    },
+    {
+      "pos": "MF",
+      "name": "Denis Višinský",
+      "dob": "2003-03-21",
+      "caps": 0,
+      "goals": 0,
+      "club": "Viktoria Plzeň"
+    },
+    {
+      "pos": "FW",
+      "name": "Patrik Schick",
+      "dob": "1996-01-24",
+      "caps": 52,
+      "goals": 25,
+      "club": "Bayer Leverkusen"
+    },
+    {
+      "pos": "FW",
+      "name": "Adam Hložek",
+      "dob": "2002-07-25",
+      "caps": 41,
+      "goals": 4,
+      "club": "TSG Hoffenheim"
+    },
+    {
+      "pos": "FW",
+      "name": "Jan Kuchta",
+      "dob": "1997-01-08",
+      "caps": 30,
+      "goals": 3,
+      "club": "Sparta Prague"
+    },
+    {
+      "pos": "FW",
+      "name": "Tomáš Chorý",
+      "dob": "1995-01-26",
+      "caps": 21,
+      "goals": 6,
+      "club": "Slavia Prague"
+    },
+    {
+      "pos": "FW",
+      "name": "Mojmír Chytil",
+      "dob": "1999-04-29",
+      "caps": 21,
+      "goals": 6,
+      "club": "Slavia Prague"
+    },
+    {
+      "pos": "FW",
+      "name": "Christophe Kabongo",
+      "dob": "2003-08-27",
+      "caps": 0,
+      "goals": 0,
+      "club": "Mladá Boleslav"
+    }
+  ]
+}

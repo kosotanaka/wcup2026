@@ -1,0 +1,215 @@
+{
+  "name": "Brazil",
+  "group": "C",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Alisson",
+      "dob": "1992-10-02",
+      "caps": 76,
+      "goals": 0,
+      "club": "Liverpool"
+    },
+    {
+      "pos": "GK",
+      "name": "Ederson",
+      "dob": "1993-08-17",
+      "caps": 31,
+      "goals": 0,
+      "club": "Fenerbahçe"
+    },
+    {
+      "pos": "GK",
+      "name": "Weverton",
+      "dob": "1987-12-13",
+      "caps": 10,
+      "goals": 0,
+      "club": "Grêmio"
+    },
+    {
+      "pos": "DF",
+      "name": "Marquinhos",
+      "dob": "1994-05-14",
+      "caps": 104,
+      "goals": 7,
+      "club": "Paris Saint-Germain"
+    },
+    {
+      "pos": "DF",
+      "name": "Danilo Luiz",
+      "dob": "1991-07-15",
+      "caps": 68,
+      "goals": 1,
+      "club": "Flamengo"
+    },
+    {
+      "pos": "DF",
+      "name": "Alex Sandro",
+      "dob": "1991-01-26",
+      "caps": 43,
+      "goals": 2,
+      "club": "Flamengo"
+    },
+    {
+      "pos": "DF",
+      "name": "Gabriel Magalhães",
+      "dob": "1997-12-19",
+      "caps": 17,
+      "goals": 1,
+      "club": "Arsenal"
+    },
+    {
+      "pos": "DF",
+      "name": "Bremer",
+      "dob": "1997-03-18",
+      "caps": 6,
+      "goals": 1,
+      "club": "Juventus"
+    },
+    {
+      "pos": "DF",
+      "name": "Wesley",
+      "dob": "2003-09-06",
+      "caps": 6,
+      "goals": 0,
+      "club": "Roma"
+    },
+    {
+      "pos": "DF",
+      "name": "Roger Ibañez",
+      "dob": "1998-11-23",
+      "caps": 5,
+      "goals": 0,
+      "club": "Al-Ahli"
+    },
+    {
+      "pos": "DF",
+      "name": "Douglas Santos",
+      "dob": "1994-03-22",
+      "caps": 5,
+      "goals": 0,
+      "club": "Zenit Saint Petersburg"
+    },
+    {
+      "pos": "DF",
+      "name": "Léo Pereira",
+      "dob": "1996-01-31",
+      "caps": 2,
+      "goals": 0,
+      "club": "Flamengo"
+    },
+    {
+      "pos": "MF",
+      "name": "Casemiro",
+      "dob": "1992-02-23",
+      "caps": 84,
+      "goals": 8,
+      "club": "Manchester United",
+      "captain": true
+    },
+    {
+      "pos": "MF",
+      "name": "Lucas Paquetá",
+      "dob": "1997-08-27",
+      "caps": 61,
+      "goals": 12,
+      "club": "Flamengo"
+    },
+    {
+      "pos": "MF",
+      "name": "Bruno Guimarães",
+      "dob": "1997-11-16",
+      "caps": 41,
+      "goals": 2,
+      "club": "Newcastle United"
+    },
+    {
+      "pos": "MF",
+      "name": "Fabinho",
+      "dob": "1993-10-23",
+      "caps": 31,
+      "goals": 0,
+      "club": "Al-Ittihad"
+    },
+    {
+      "pos": "MF",
+      "name": "Danilo Santos",
+      "dob": "2001-04-29",
+      "caps": 2,
+      "goals": 1,
+      "club": "Botafogo"
+    },
+    {
+      "pos": "FW",
+      "name": "Neymar",
+      "dob": "1992-02-05",
+      "caps": 128,
+      "goals": 79,
+      "club": "Santos"
+    },
+    {
+      "pos": "FW",
+      "name": "Vinícius Júnior",
+      "dob": "2000-07-12",
+      "caps": 47,
+      "goals": 8,
+      "club": "Real Madrid"
+    },
+    {
+      "pos": "FW",
+      "name": "Raphinha",
+      "dob": "1996-12-14",
+      "caps": 37,
+      "goals": 11,
+      "club": "Barcelona"
+    },
+    {
+      "pos": "FW",
+      "name": "Gabriel Martinelli",
+      "dob": "2001-06-18",
+      "caps": 22,
+      "goals": 4,
+      "club": "Arsenal"
+    },
+    {
+      "pos": "FW",
+      "name": "Matheus Cunha",
+      "dob": "1999-05-27",
+      "caps": 21,
+      "goals": 1,
+      "club": "Manchester United"
+    },
+    {
+      "pos": "FW",
+      "name": "Endrick",
+      "dob": "2006-07-21",
+      "caps": 15,
+      "goals": 3,
+      "club": "Lyon"
+    },
+    {
+      "pos": "FW",
+      "name": "Luiz Henrique",
+      "dob": "2001-01-02",
+      "caps": 13,
+      "goals": 2,
+      "club": "Zenit Saint Petersburg"
+    },
+    {
+      "pos": "FW",
+      "name": "Igor Thiago",
+      "dob": "2001-06-26",
+      "caps": 2,
+      "goals": 1,
+      "club": "Brentford"
+    },
+    {
+      "pos": "FW",
+      "name": "Rayan",
+      "dob": "2006-08-03",
+      "caps": 1,
+      "goals": 0,
+      "club": "Bournemouth"
+    }
+  ]
+}

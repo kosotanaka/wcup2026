@@ -1,0 +1,215 @@
+{
+  "name": "Switzerland",
+  "group": "B",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Gregor Kobel",
+      "dob": "1997-12-06",
+      "caps": 20,
+      "goals": 0,
+      "club": "Borussia Dortmund"
+    },
+    {
+      "pos": "GK",
+      "name": "Yvon Mvogo",
+      "dob": "1994-06-06",
+      "caps": 12,
+      "goals": 0,
+      "club": "Lorient"
+    },
+    {
+      "pos": "GK",
+      "name": "Marvin Keller",
+      "dob": "2002-07-03",
+      "caps": 0,
+      "goals": 0,
+      "club": "Young Boys"
+    },
+    {
+      "pos": "DF",
+      "name": "Ricardo Rodriguez",
+      "dob": "1992-08-25",
+      "caps": 136,
+      "goals": 9,
+      "club": "Real Betis"
+    },
+    {
+      "pos": "DF",
+      "name": "Manuel Akanji",
+      "dob": "1995-07-19",
+      "caps": 79,
+      "goals": 4,
+      "club": "Inter Milan"
+    },
+    {
+      "pos": "DF",
+      "name": "Nico Elvedi",
+      "dob": "1996-09-30",
+      "caps": 65,
+      "goals": 3,
+      "club": "Borussia Mönchengladbach"
+    },
+    {
+      "pos": "DF",
+      "name": "Silvan Widmer",
+      "dob": "1993-03-05",
+      "caps": 58,
+      "goals": 5,
+      "club": "Mainz 05"
+    },
+    {
+      "pos": "DF",
+      "name": "Eray Cömert",
+      "dob": "1998-02-04",
+      "caps": 20,
+      "goals": 0,
+      "club": "Valencia"
+    },
+    {
+      "pos": "DF",
+      "name": "Miro Muheim",
+      "dob": "1998-03-24",
+      "caps": 8,
+      "goals": 0,
+      "club": "Hamburger SV"
+    },
+    {
+      "pos": "DF",
+      "name": "Aurèle Amenda",
+      "dob": "2003-07-31",
+      "caps": 6,
+      "goals": 0,
+      "club": "Eintracht Frankfurt"
+    },
+    {
+      "pos": "DF",
+      "name": "Luca Jaquez",
+      "dob": "2003-06-02",
+      "caps": 2,
+      "goals": 0,
+      "club": "VfB Stuttgart"
+    },
+    {
+      "pos": "MF",
+      "name": "Granit Xhaka",
+      "dob": "1992-09-27",
+      "caps": 144,
+      "goals": 16,
+      "club": "Sunderland",
+      "captain": true
+    },
+    {
+      "pos": "MF",
+      "name": "Remo Freuler",
+      "dob": "1992-04-15",
+      "caps": 86,
+      "goals": 11,
+      "club": "Bologna"
+    },
+    {
+      "pos": "MF",
+      "name": "Breel Embolo",
+      "dob": "1997-02-14",
+      "caps": 85,
+      "goals": 23,
+      "club": "Rennes"
+    },
+    {
+      "pos": "MF",
+      "name": "Denis Zakaria",
+      "dob": "1996-11-20",
+      "caps": 63,
+      "goals": 3,
+      "club": "Monaco"
+    },
+    {
+      "pos": "MF",
+      "name": "Djibril Sow",
+      "dob": "1997-02-06",
+      "caps": 50,
+      "goals": 0,
+      "club": "Sevilla"
+    },
+    {
+      "pos": "MF",
+      "name": "Michel Aebischer",
+      "dob": "1997-01-06",
+      "caps": 38,
+      "goals": 2,
+      "club": "Pisa"
+    },
+    {
+      "pos": "MF",
+      "name": "Fabian Rieder",
+      "dob": "2002-02-16",
+      "caps": 27,
+      "goals": 1,
+      "club": "FC Augsburg"
+    },
+    {
+      "pos": "MF",
+      "name": "Christian Fassnacht",
+      "dob": "1993-11-11",
+      "caps": 21,
+      "goals": 4,
+      "club": "Young Boys"
+    },
+    {
+      "pos": "MF",
+      "name": "Ardon Jashari",
+      "dob": "2002-07-30",
+      "caps": 6,
+      "goals": 0,
+      "club": "Milan"
+    },
+    {
+      "pos": "MF",
+      "name": "Johan Manzambi",
+      "dob": "2005-10-14",
+      "caps": 10,
+      "goals": 3,
+      "club": "SC Freiburg"
+    },
+    {
+      "pos": "FW",
+      "name": "Rubén Vargas",
+      "dob": "1998-08-05",
+      "caps": 60,
+      "goals": 11,
+      "club": "Sevilla"
+    },
+    {
+      "pos": "FW",
+      "name": "Dan Ndoye",
+      "dob": "2000-10-25",
+      "caps": 29,
+      "goals": 6,
+      "club": "Nottingham Forest"
+    },
+    {
+      "pos": "FW",
+      "name": "Zeki Amdouni",
+      "dob": "2000-12-04",
+      "caps": 27,
+      "goals": 11,
+      "club": "Burnley"
+    },
+    {
+      "pos": "FW",
+      "name": "Noah Okafor",
+      "dob": "2000-05-24",
+      "caps": 24,
+      "goals": 2,
+      "club": "Leeds United"
+    },
+    {
+      "pos": "FW",
+      "name": "Cedric Itten",
+      "dob": "1996-12-27",
+      "caps": 13,
+      "goals": 5,
+      "club": "Fortuna Düsseldorf"
+    }
+  ]
+}

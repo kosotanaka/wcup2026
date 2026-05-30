@@ -1,0 +1,199 @@
+{
+  "name": "Argentina",
+  "group": "J",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Emiliano Martínez",
+      "dob": "1992-09-02",
+      "caps": 59,
+      "goals": 0,
+      "club": "Aston Villa"
+    },
+    {
+      "pos": "GK",
+      "name": "Gerónimo Rulli",
+      "dob": "1992-05-20",
+      "caps": 7,
+      "goals": 0,
+      "club": "Marseille"
+    },
+    {
+      "pos": "GK",
+      "name": "Juan Musso",
+      "dob": "1994-05-06",
+      "caps": 3,
+      "goals": 0,
+      "club": "Atlético Madrid"
+    },
+    {
+      "pos": "DF",
+      "name": "Nicolás Otamendi",
+      "dob": "1988-02-12",
+      "caps": 130,
+      "goals": 8,
+      "club": "Benfica"
+    },
+    {
+      "pos": "DF",
+      "name": "Nicolás Tagliafico",
+      "dob": "1992-08-31",
+      "caps": 75,
+      "goals": 1,
+      "club": "Lyon"
+    },
+    {
+      "pos": "DF",
+      "name": "Cristian Romero",
+      "dob": "1998-04-27",
+      "caps": 49,
+      "goals": 3,
+      "club": "Tottenham Hotspur"
+    },
+    {
+      "pos": "DF",
+      "name": "Nahuel Molina",
+      "dob": "1998-04-06",
+      "caps": 58,
+      "goals": 1,
+      "club": "Atlético Madrid"
+    },
+    {
+      "pos": "DF",
+      "name": "Gonzalo Montiel",
+      "dob": "1997-01-01",
+      "caps": 38,
+      "goals": 2,
+      "club": "River Plate"
+    },
+    {
+      "pos": "DF",
+      "name": "Lisandro Martínez",
+      "dob": "1998-01-18",
+      "caps": 26,
+      "goals": 1,
+      "club": "Manchester United"
+    },
+    {
+      "pos": "DF",
+      "name": "Leonardo Balerdi",
+      "dob": "1999-01-26",
+      "caps": 11,
+      "goals": 0,
+      "club": "Marseille"
+    },
+    {
+      "pos": "DF",
+      "name": "Facundo Medina",
+      "dob": "1999-05-28",
+      "caps": 7,
+      "goals": 0,
+      "club": "Marseille"
+    },
+    {
+      "pos": "MF",
+      "name": "Rodrigo De Paul",
+      "dob": "1994-05-24",
+      "caps": 85,
+      "goals": 2,
+      "club": "Inter Miami CF"
+    },
+    {
+      "pos": "MF",
+      "name": "Leandro Paredes",
+      "dob": "1994-06-29",
+      "caps": 77,
+      "goals": 5,
+      "club": "Boca Juniors"
+    },
+    {
+      "pos": "MF",
+      "name": "Giovani Lo Celso",
+      "dob": "1996-04-09",
+      "caps": 65,
+      "goals": 4,
+      "club": "Real Betis"
+    },
+    {
+      "pos": "MF",
+      "name": "Alexis Mac Allister",
+      "dob": "1998-12-24",
+      "caps": 44,
+      "goals": 6,
+      "club": "Liverpool"
+    },
+    {
+      "pos": "MF",
+      "name": "Enzo Fernández",
+      "dob": "2001-01-17",
+      "caps": 40,
+      "goals": 6,
+      "club": "Chelsea"
+    },
+    {
+      "pos": "MF",
+      "name": "Exequiel Palacios",
+      "dob": "1998-10-05",
+      "caps": 38,
+      "goals": 0,
+      "club": "Bayer Leverkusen"
+    },
+    {
+      "pos": "FW",
+      "name": "Lionel Messi",
+      "dob": "1987-06-24",
+      "caps": 198,
+      "goals": 116,
+      "club": "Inter Miami CF",
+      "captain": true
+    },
+    {
+      "pos": "FW",
+      "name": "Lautaro Martínez",
+      "dob": "1997-08-22",
+      "caps": 75,
+      "goals": 36,
+      "club": "Inter Milan"
+    },
+    {
+      "pos": "FW",
+      "name": "Julián Alvarez",
+      "dob": "2000-01-31",
+      "caps": 51,
+      "goals": 14,
+      "club": "Atlético Madrid"
+    },
+    {
+      "pos": "FW",
+      "name": "Nicolás González",
+      "dob": "1998-04-06",
+      "caps": 50,
+      "goals": 6,
+      "club": "Atlético Madrid"
+    },
+    {
+      "pos": "FW",
+      "name": "Thiago Almada",
+      "dob": "2001-04-26",
+      "caps": 14,
+      "goals": 4,
+      "club": "Atlético Madrid"
+    },
+    {
+      "pos": "FW",
+      "name": "Giuliano Simeone",
+      "dob": "2002-12-18",
+      "caps": 11,
+      "goals": 1,
+      "club": "Atlético Madrid"
+    },
+    {
+      "pos": "FW",
+      "name": "Nico Paz",
+      "dob": "2004-09-08",
+      "caps": 8,
+      "goals": 1,
+      "club": "Como"
+    }
+  ]
+}

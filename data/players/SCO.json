@@ -1,0 +1,215 @@
+{
+  "name": "Scotland",
+  "group": "C",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Craig Gordon",
+      "dob": "1982-12-31",
+      "caps": 83,
+      "goals": 0,
+      "club": "Heart of Midlothian"
+    },
+    {
+      "pos": "GK",
+      "name": "Angus Gunn",
+      "dob": "1996-01-22",
+      "caps": 21,
+      "goals": 0,
+      "club": "Nottingham Forest"
+    },
+    {
+      "pos": "GK",
+      "name": "Liam Kelly",
+      "dob": "1996-01-23",
+      "caps": 2,
+      "goals": 0,
+      "club": "Rangers"
+    },
+    {
+      "pos": "DF",
+      "name": "Andy Robertson",
+      "dob": "1994-03-11",
+      "caps": 92,
+      "goals": 4,
+      "club": "Liverpool",
+      "captain": true
+    },
+    {
+      "pos": "DF",
+      "name": "Grant Hanley",
+      "dob": "1991-11-20",
+      "caps": 66,
+      "goals": 2,
+      "club": "Hibernian"
+    },
+    {
+      "pos": "DF",
+      "name": "Kieran Tierney",
+      "dob": "1997-06-05",
+      "caps": 55,
+      "goals": 2,
+      "club": "Celtic"
+    },
+    {
+      "pos": "DF",
+      "name": "Scott McKenna",
+      "dob": "1996-11-12",
+      "caps": 49,
+      "goals": 1,
+      "club": "Dinamo Zagreb"
+    },
+    {
+      "pos": "DF",
+      "name": "Jack Hendry",
+      "dob": "1995-05-07",
+      "caps": 37,
+      "goals": 3,
+      "club": "Al-Ettifaq"
+    },
+    {
+      "pos": "DF",
+      "name": "Nathan Patterson",
+      "dob": "2001-10-16",
+      "caps": 25,
+      "goals": 1,
+      "club": "Everton"
+    },
+    {
+      "pos": "DF",
+      "name": "Anthony Ralston",
+      "dob": "1998-11-16",
+      "caps": 25,
+      "goals": 1,
+      "club": "Celtic"
+    },
+    {
+      "pos": "DF",
+      "name": "John Souttar",
+      "dob": "1996-09-25",
+      "caps": 22,
+      "goals": 2,
+      "club": "Rangers"
+    },
+    {
+      "pos": "DF",
+      "name": "Aaron Hickey",
+      "dob": "2002-06-10",
+      "caps": 19,
+      "goals": 0,
+      "club": "Brentford"
+    },
+    {
+      "pos": "DF",
+      "name": "Dominic Hyam",
+      "dob": "1995-12-20",
+      "caps": 2,
+      "goals": 0,
+      "club": "Wrexham"
+    },
+    {
+      "pos": "MF",
+      "name": "John McGinn",
+      "dob": "1994-10-18",
+      "caps": 85,
+      "goals": 20,
+      "club": "Aston Villa"
+    },
+    {
+      "pos": "MF",
+      "name": "Scott McTominay",
+      "dob": "1996-12-08",
+      "caps": 69,
+      "goals": 14,
+      "club": "Napoli"
+    },
+    {
+      "pos": "MF",
+      "name": "Ryan Christie",
+      "dob": "1995-02-22",
+      "caps": 66,
+      "goals": 9,
+      "club": "Bournemouth"
+    },
+    {
+      "pos": "MF",
+      "name": "Kenny McLean",
+      "dob": "1992-01-08",
+      "caps": 56,
+      "goals": 3,
+      "club": "Norwich City"
+    },
+    {
+      "pos": "MF",
+      "name": "Billy Gilmour",
+      "dob": "2001-06-11",
+      "caps": 45,
+      "goals": 2,
+      "club": "Napoli"
+    },
+    {
+      "pos": "MF",
+      "name": "Lewis Ferguson",
+      "dob": "1999-08-24",
+      "caps": 23,
+      "goals": 1,
+      "club": "Bologna"
+    },
+    {
+      "pos": "MF",
+      "name": "Ben Gannon-Doak",
+      "dob": "2005-11-11",
+      "caps": 12,
+      "goals": 1,
+      "club": "Bournemouth"
+    },
+    {
+      "pos": "MF",
+      "name": "Findlay Curtis",
+      "dob": "2006-06-09",
+      "caps": 1,
+      "goals": 0,
+      "club": "Kilmarnock"
+    },
+    {
+      "pos": "FW",
+      "name": "Lyndon Dykes",
+      "dob": "1995-10-07",
+      "caps": 50,
+      "goals": 10,
+      "club": "Charlton Athletic"
+    },
+    {
+      "pos": "FW",
+      "name": "Ché Adams",
+      "dob": "1996-07-13",
+      "caps": 46,
+      "goals": 11,
+      "club": "Torino"
+    },
+    {
+      "pos": "FW",
+      "name": "Lawrence Shankland",
+      "dob": "1995-08-10",
+      "caps": 18,
+      "goals": 4,
+      "club": "Heart of Midlothian"
+    },
+    {
+      "pos": "FW",
+      "name": "George Hirst",
+      "dob": "1999-02-15",
+      "caps": 8,
+      "goals": 1,
+      "club": "Ipswich Town"
+    },
+    {
+      "pos": "FW",
+      "name": "Ross Stewart",
+      "dob": "1996-07-11",
+      "caps": 2,
+      "goals": 0,
+      "club": "Southampton"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "name": "Côte d'Ivoire",
+  "group": "E",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Yahia Fofana",
+      "dob": "2000-08-21",
+      "caps": 34,
+      "goals": 0,
+      "club": "Çaykur Rizespor"
+    },
+    {
+      "pos": "GK",
+      "name": "Alban Lafont",
+      "dob": "1999-01-23",
+      "caps": 4,
+      "goals": 0,
+      "club": "Panathinaikos"
+    },
+    {
+      "pos": "GK",
+      "name": "Mohamed Koné",
+      "dob": "2002-03-07",
+      "caps": 0,
+      "goals": 0,
+      "club": "Charleroi"
+    },
+    {
+      "pos": "DF",
+      "name": "Ghislain Konan",
+      "dob": "1995-12-27",
+      "caps": 53,
+      "goals": 0,
+      "club": "Gil Vicente"
+    },
+    {
+      "pos": "DF",
+      "name": "Odilon Kossounou",
+      "dob": "2001-01-04",
+      "caps": 35,
+      "goals": 0,
+      "club": "Atalanta"
+    },
+    {
+      "pos": "DF",
+      "name": "Wilfried Singo",
+      "dob": "2000-12-25",
+      "caps": 33,
+      "goals": 1,
+      "club": "Galatasaray"
+    },
+    {
+      "pos": "DF",
+      "name": "Evan Ndicka",
+      "dob": "1999-08-20",
+      "caps": 28,
+      "goals": 0,
+      "club": "Roma"
+    },
+    {
+      "pos": "DF",
+      "name": "Emmanuel Agbadou",
+      "dob": "1997-06-07",
+      "caps": 19,
+      "goals": 2,
+      "club": "Beşiktaş"
+    },
+    {
+      "pos": "DF",
+      "name": "Guéla Doué",
+      "dob": "2002-10-17",
+      "caps": 19,
+      "goals": 2,
+      "club": "Strasbourg"
+    },
+    {
+      "pos": "DF",
+      "name": "Ousmane Diomande",
+      "dob": "2003-12-04",
+      "caps": 14,
+      "goals": 1,
+      "club": "Sporting CP"
+    },
+    {
+      "pos": "DF",
+      "name": "Christopher Opéri",
+      "dob": "1997-04-29",
+      "caps": 11,
+      "goals": 0,
+      "club": "İstanbul Başakşehir"
+    },
+    {
+      "pos": "MF",
+      "name": "Franck Kessié",
+      "dob": "1996-12-19",
+      "caps": 102,
+      "goals": 15,
+      "club": "Al-Ahli",
+      "captain": true
+    },
+    {
+      "pos": "MF",
+      "name": "Jean Michaël Seri",
+      "dob": "1991-07-19",
+      "caps": 65,
+      "goals": 4,
+      "club": "Maribor"
+    },
+    {
+      "pos": "MF",
+      "name": "Ibrahim Sangaré",
+      "dob": "1997-12-02",
+      "caps": 57,
+      "goals": 12,
+      "club": "Nottingham Forest"
+    },
+    {
+      "pos": "MF",
+      "name": "Seko Fofana",
+      "dob": "1995-05-07",
+      "caps": 31,
+      "goals": 7,
+      "club": "Porto"
+    },
+    {
+      "pos": "MF",
+      "name": "Christ Inao Oulaï",
+      "dob": "2006-04-06",
+      "caps": 8,
+      "goals": 0,
+      "club": "Trabzonspor"
+    },
+    {
+      "pos": "MF",
+      "name": "Parfait Guiagon",
+      "dob": "2001-02-22",
+      "caps": 5,
+      "goals": 0,
+      "club": "Charleroi"
+    },
+    {
+      "pos": "FW",
+      "name": "Nicolas Pépé",
+      "dob": "1995-05-29",
+      "caps": 54,
+      "goals": 12,
+      "club": "Villarreal"
+    },
+    {
+      "pos": "FW",
+      "name": "Oumar Diakité",
+      "dob": "2003-12-20",
+      "caps": 28,
+      "goals": 6,
+      "club": "Cercle Brugge"
+    },
+    {
+      "pos": "FW",
+      "name": "Simon Adingra",
+      "dob": "2002-01-01",
+      "caps": 28,
+      "goals": 5,
+      "club": "Monaco"
+    },
+    {
+      "pos": "FW",
+      "name": "Evann Guessand",
+      "dob": "2001-07-01",
+      "caps": 21,
+      "goals": 4,
+      "club": "Crystal Palace"
+    },
+    {
+      "pos": "FW",
+      "name": "Amad Diallo",
+      "dob": "2002-07-11",
+      "caps": 18,
+      "goals": 5,
+      "club": "Manchester United"
+    },
+    {
+      "pos": "FW",
+      "name": "Yan Diomande",
+      "dob": "2006-11-14",
+      "caps": 9,
+      "goals": 3,
+      "club": "RB Leipzig"
+    },
+    {
+      "pos": "FW",
+      "name": "Bazoumana Touré",
+      "dob": "2006-03-02",
+      "caps": 5,
+      "goals": 2,
+      "club": "TSG Hoffenheim"
+    },
+    {
+      "pos": "FW",
+      "name": "Elye Wahi",
+      "dob": "2003-01-02",
+      "caps": 1,
+      "goals": 0,
+      "club": "Nice"
+    },
+    {
+      "pos": "FW",
+      "name": "Ange-Yoan Bonny",
+      "dob": "2003-10-25",
+      "caps": 0,
+      "goals": 0,
+      "club": "Inter Milan"
+    }
+  ]
+}

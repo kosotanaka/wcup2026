@@ -1,0 +1,183 @@
+{
+  "name": "Croatia",
+  "group": "L",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Dominik Livaković",
+      "dob": "1995-01-09",
+      "caps": 73,
+      "goals": 0,
+      "club": "Dinamo Zagreb"
+    },
+    {
+      "pos": "GK",
+      "name": "Dominik Kotarski",
+      "dob": "2000-02-10",
+      "caps": 3,
+      "goals": 0,
+      "club": "Copenhagen"
+    },
+    {
+      "pos": "GK",
+      "name": "Ivor Pandur",
+      "dob": "2000-03-25",
+      "caps": 0,
+      "goals": 0,
+      "club": "Hull City"
+    },
+    {
+      "pos": "DF",
+      "name": "Joško Gvardiol",
+      "dob": "2002-01-23",
+      "caps": 46,
+      "goals": 4,
+      "club": "Manchester City"
+    },
+    {
+      "pos": "DF",
+      "name": "Duje Ćaleta-Car",
+      "dob": "1996-09-17",
+      "caps": 38,
+      "goals": 1,
+      "club": "Real Sociedad"
+    },
+    {
+      "pos": "DF",
+      "name": "Josip Šutalo",
+      "dob": "2000-02-28",
+      "caps": 31,
+      "goals": 0,
+      "club": "Ajax"
+    },
+    {
+      "pos": "DF",
+      "name": "Josip Stanišić",
+      "dob": "2000-04-02",
+      "caps": 29,
+      "goals": 0,
+      "club": "Bayern Munich"
+    },
+    {
+      "pos": "DF",
+      "name": "Marin Pongračić",
+      "dob": "1997-09-11",
+      "caps": 18,
+      "goals": 0,
+      "club": "Fiorentina"
+    },
+    {
+      "pos": "DF",
+      "name": "Martin Erlić",
+      "dob": "1998-01-24",
+      "caps": 12,
+      "goals": 1,
+      "club": "Midtjylland"
+    },
+    {
+      "pos": "DF",
+      "name": "Luka Vušković",
+      "dob": "2007-02-24",
+      "caps": 4,
+      "goals": 1,
+      "club": "Hamburger SV"
+    },
+    {
+      "pos": "MF",
+      "name": "Luka Modrić",
+      "dob": "1985-09-09",
+      "caps": 196,
+      "goals": 28,
+      "club": "Milan",
+      "captain": true
+    },
+    {
+      "pos": "MF",
+      "name": "Mateo Kovačić",
+      "dob": "1994-05-06",
+      "caps": 111,
+      "goals": 5,
+      "club": "Manchester City"
+    },
+    {
+      "pos": "MF",
+      "name": "Mario Pašalić",
+      "dob": "1995-02-09",
+      "caps": 83,
+      "goals": 11,
+      "club": "Atalanta"
+    },
+    {
+      "pos": "MF",
+      "name": "Nikola Vlašić",
+      "dob": "1997-10-04",
+      "caps": 61,
+      "goals": 10,
+      "club": "Torino"
+    },
+    {
+      "pos": "MF",
+      "name": "Luka Sučić",
+      "dob": "2002-09-08",
+      "caps": 19,
+      "goals": 1,
+      "club": "Real Sociedad"
+    },
+    {
+      "pos": "MF",
+      "name": "Martin Baturina",
+      "dob": "2003-02-16",
+      "caps": 17,
+      "goals": 1,
+      "club": "Como"
+    },
+    {
+      "pos": "MF",
+      "name": "Petar Sučić",
+      "dob": "2003-10-25",
+      "caps": 15,
+      "goals": 1,
+      "club": "Inter Milan"
+    },
+    {
+      "pos": "MF",
+      "name": "Kristijan Jakić",
+      "dob": "1997-05-14",
+      "caps": 16,
+      "goals": 2,
+      "club": "FC Augsburg"
+    },
+    {
+      "pos": "FW",
+      "name": "Ivan Perišić",
+      "dob": "1989-02-02",
+      "caps": 152,
+      "goals": 38,
+      "club": "PSV Eindhoven"
+    },
+    {
+      "pos": "FW",
+      "name": "Andrej Kramarić",
+      "dob": "1991-06-19",
+      "caps": 114,
+      "goals": 36,
+      "club": "TSG Hoffenheim"
+    },
+    {
+      "pos": "FW",
+      "name": "Ante Budimir",
+      "dob": "1991-07-22",
+      "caps": 36,
+      "goals": 6,
+      "club": "Osasuna"
+    },
+    {
+      "pos": "FW",
+      "name": "Igor Matanović",
+      "dob": "2003-03-31",
+      "caps": 8,
+      "goals": 2,
+      "club": "SC Freiburg"
+    }
+  ]
+}

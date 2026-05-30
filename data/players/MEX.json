@@ -1,0 +1,415 @@
+{
+  "name": "Mexico",
+  "group": "A",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Guillermo Ochoa",
+      "dob": "1985-07-13",
+      "caps": 151,
+      "goals": 0,
+      "club": "AEL Limassol"
+    },
+    {
+      "pos": "GK",
+      "name": "Raúl Rangel",
+      "dob": "2000-02-25",
+      "caps": 12,
+      "goals": 0,
+      "club": "Guadalajara"
+    },
+    {
+      "pos": "GK",
+      "name": "Carlos Acevedo",
+      "dob": "1996-04-19",
+      "caps": 7,
+      "goals": 0,
+      "club": "Santos Laguna"
+    },
+    {
+      "pos": "GK",
+      "name": "José Antonio Rodríguez",
+      "dob": "1992-07-04",
+      "caps": 2,
+      "goals": 0,
+      "club": "Tijuana"
+    },
+    {
+      "pos": "GK",
+      "name": "Carlos Moreno",
+      "dob": "1998-01-29",
+      "caps": 0,
+      "goals": 0,
+      "club": "Pachuca"
+    },
+    {
+      "pos": "GK",
+      "name": "Alex Padilla",
+      "dob": "2003-09-01",
+      "caps": 0,
+      "goals": 0,
+      "club": "Athletic Bilbao"
+    },
+    {
+      "pos": "DF",
+      "name": "Jesús Gallardo",
+      "dob": "1994-08-15",
+      "caps": 119,
+      "goals": 3,
+      "club": "Toluca"
+    },
+    {
+      "pos": "DF",
+      "name": "César Montes",
+      "dob": "1997-02-24",
+      "caps": 65,
+      "goals": 4,
+      "club": "Lokomotiv Moscow"
+    },
+    {
+      "pos": "DF",
+      "name": "Jorge Sánchez",
+      "dob": "1997-12-10",
+      "caps": 57,
+      "goals": 3,
+      "club": "PAOK"
+    },
+    {
+      "pos": "DF",
+      "name": "Johan Vásquez",
+      "dob": "1998-10-22",
+      "caps": 44,
+      "goals": 1,
+      "club": "Genoa"
+    },
+    {
+      "pos": "DF",
+      "name": "Israel Reyes",
+      "dob": "2000-05-23",
+      "caps": 32,
+      "goals": 2,
+      "club": "América"
+    },
+    {
+      "pos": "DF",
+      "name": "Jesús Alberto Angulo",
+      "dob": "1998-01-30",
+      "caps": 19,
+      "goals": 0,
+      "club": "UANL"
+    },
+    {
+      "pos": "DF",
+      "name": "Julián Araujo",
+      "dob": "2001-08-13",
+      "caps": 16,
+      "goals": 0,
+      "club": "Celtic"
+    },
+    {
+      "pos": "DF",
+      "name": "Mateo Chávez",
+      "dob": "2004-05-11",
+      "caps": 8,
+      "goals": 0,
+      "club": "AZ"
+    },
+    {
+      "pos": "DF",
+      "name": "Víctor Guzmán",
+      "dob": "2002-03-07",
+      "caps": 6,
+      "goals": 0,
+      "club": "Monterrey"
+    },
+    {
+      "pos": "DF",
+      "name": "Richard Ledezma",
+      "dob": "2000-09-06",
+      "caps": 3,
+      "goals": 1,
+      "club": "Guadalajara"
+    },
+    {
+      "pos": "DF",
+      "name": "Everardo López",
+      "dob": "2005-03-23",
+      "caps": 3,
+      "goals": 0,
+      "club": "Toluca"
+    },
+    {
+      "pos": "DF",
+      "name": "Alejandro Gómez",
+      "dob": "2002-01-31",
+      "caps": 2,
+      "goals": 0,
+      "club": "Tijuana"
+    },
+    {
+      "pos": "DF",
+      "name": "Bryan González",
+      "dob": "2003-04-10",
+      "caps": 2,
+      "goals": 0,
+      "club": "Guadalajara"
+    },
+    {
+      "pos": "DF",
+      "name": "Ramón Juárez",
+      "dob": "2001-05-03",
+      "caps": 2,
+      "goals": 0,
+      "club": "América"
+    },
+    {
+      "pos": "MF",
+      "name": "Edson Álvarez",
+      "dob": "1997-10-24",
+      "caps": 96,
+      "goals": 7,
+      "club": "Fenerbahçe",
+      "captain": true
+    },
+    {
+      "pos": "MF",
+      "name": "Orbelín Pineda",
+      "dob": "1996-03-24",
+      "caps": 90,
+      "goals": 12,
+      "club": "AEK Athens"
+    },
+    {
+      "pos": "MF",
+      "name": "Carlos Rodríguez",
+      "dob": "1997-01-03",
+      "caps": 67,
+      "goals": 0,
+      "club": "Cruz Azul"
+    },
+    {
+      "pos": "MF",
+      "name": "Roberto Alvarado",
+      "dob": "1998-09-07",
+      "caps": 66,
+      "goals": 5,
+      "club": "Guadalajara"
+    },
+    {
+      "pos": "MF",
+      "name": "Luis Romo",
+      "dob": "1995-06-05",
+      "caps": 61,
+      "goals": 4,
+      "club": "Guadalajara"
+    },
+    {
+      "pos": "MF",
+      "name": "Luis Chávez",
+      "dob": "1996-01-15",
+      "caps": 43,
+      "goals": 4,
+      "club": "Dynamo Moscow"
+    },
+    {
+      "pos": "MF",
+      "name": "Érick Sánchez",
+      "dob": "1999-09-27",
+      "caps": 38,
+      "goals": 3,
+      "club": "América"
+    },
+    {
+      "pos": "MF",
+      "name": "Diego Lainez",
+      "dob": "2000-06-09",
+      "caps": 33,
+      "goals": 3,
+      "club": "UANL"
+    },
+    {
+      "pos": "MF",
+      "name": "Érik Lira",
+      "dob": "2000-05-08",
+      "caps": 23,
+      "goals": 0,
+      "club": "Cruz Azul"
+    },
+    {
+      "pos": "MF",
+      "name": "Marcel Ruiz",
+      "dob": "2000-10-26",
+      "caps": 17,
+      "goals": 0,
+      "club": "Toluca"
+    },
+    {
+      "pos": "MF",
+      "name": "Efraín Álvarez",
+      "dob": "2002-06-19",
+      "caps": 7,
+      "goals": 1,
+      "club": "Guadalajara"
+    },
+    {
+      "pos": "MF",
+      "name": "Brian Gutiérrez",
+      "dob": "2003-06-17",
+      "caps": 6,
+      "goals": 2,
+      "club": "Guadalajara"
+    },
+    {
+      "pos": "MF",
+      "name": "Gilberto Mora",
+      "dob": "2008-10-14",
+      "caps": 6,
+      "goals": 0,
+      "club": "Tijuana"
+    },
+    {
+      "pos": "MF",
+      "name": "Alexis Gutiérrez",
+      "dob": "2001-02-26",
+      "caps": 5,
+      "goals": 0,
+      "club": "América"
+    },
+    {
+      "pos": "MF",
+      "name": "Obed Vargas",
+      "dob": "2005-08-05",
+      "caps": 5,
+      "goals": 0,
+      "club": "Atlético Madrid"
+    },
+    {
+      "pos": "MF",
+      "name": "Jesús Ricardo Angulo",
+      "dob": "1997-02-20",
+      "caps": 3,
+      "goals": 1,
+      "club": "Toluca"
+    },
+    {
+      "pos": "MF",
+      "name": "Kevin Castañeda",
+      "dob": "1999-10-28",
+      "caps": 3,
+      "goals": 0,
+      "club": "Tijuana"
+    },
+    {
+      "pos": "MF",
+      "name": "Jordán Carrillo",
+      "dob": "2001-11-30",
+      "caps": 2,
+      "goals": 0,
+      "club": "UNAM"
+    },
+    {
+      "pos": "MF",
+      "name": "Álvaro Fidalgo",
+      "dob": "1997-04-09",
+      "caps": 2,
+      "goals": 0,
+      "club": "Real Betis"
+    },
+    {
+      "pos": "MF",
+      "name": "Jorge Ruvalcaba",
+      "dob": "2001-07-23",
+      "caps": 1,
+      "goals": 0,
+      "club": "New York Red Bulls"
+    },
+    {
+      "pos": "MF",
+      "name": "Alexéi Domínguez",
+      "dob": "2005-01-03",
+      "caps": 0,
+      "goals": 0,
+      "club": "Pachuca"
+    },
+    {
+      "pos": "MF",
+      "name": "Jeremy Márquez",
+      "dob": "2000-06-21",
+      "caps": 0,
+      "goals": 0,
+      "club": "Cruz Azul"
+    },
+    {
+      "pos": "MF",
+      "name": "Elías Montiel",
+      "dob": "2005-10-07",
+      "caps": 0,
+      "goals": 0,
+      "club": "Pachuca"
+    },
+    {
+      "pos": "FW",
+      "name": "Raúl Jiménez",
+      "dob": "1991-05-05",
+      "caps": 123,
+      "goals": 44,
+      "club": "Fulham"
+    },
+    {
+      "pos": "FW",
+      "name": "Alexis Vega",
+      "dob": "1997-11-25",
+      "caps": 50,
+      "goals": 7,
+      "club": "Toluca"
+    },
+    {
+      "pos": "FW",
+      "name": "Santiago Giménez",
+      "dob": "2001-04-18",
+      "caps": 46,
+      "goals": 6,
+      "club": "Milan"
+    },
+    {
+      "pos": "FW",
+      "name": "César Huerta",
+      "dob": "2000-12-03",
+      "caps": 25,
+      "goals": 3,
+      "club": "Anderlecht"
+    },
+    {
+      "pos": "FW",
+      "name": "Julián Quiñones",
+      "dob": "1997-03-24",
+      "caps": 20,
+      "goals": 2,
+      "club": "Al-Qadsiah"
+    },
+    {
+      "pos": "FW",
+      "name": "Guillermo Martínez",
+      "dob": "1995-03-15",
+      "caps": 10,
+      "goals": 3,
+      "club": "UNAM"
+    },
+    {
+      "pos": "FW",
+      "name": "Germán Berterame",
+      "dob": "1998-11-13",
+      "caps": 9,
+      "goals": 2,
+      "club": "Inter Miami CF"
+    },
+    {
+      "pos": "FW",
+      "name": "Armando González",
+      "dob": "2003-04-20",
+      "caps": 7,
+      "goals": 1,
+      "club": "Guadalajara"
+    }
+  ]
+}

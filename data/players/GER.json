@@ -1,0 +1,207 @@
+{
+  "name": "Germany",
+  "group": "E",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Manuel Neuer",
+      "dob": "1986-03-27",
+      "caps": 124,
+      "goals": 0,
+      "club": "Bayern Munich"
+    },
+    {
+      "pos": "GK",
+      "name": "Oliver Baumann",
+      "dob": "1990-06-02",
+      "caps": 11,
+      "goals": 0,
+      "club": "TSG Hoffenheim"
+    },
+    {
+      "pos": "GK",
+      "name": "Alexander Nübel",
+      "dob": "1996-09-30",
+      "caps": 3,
+      "goals": 0,
+      "club": "VfB Stuttgart"
+    },
+    {
+      "pos": "DF",
+      "name": "Antonio Rüdiger",
+      "dob": "1993-03-03",
+      "caps": 82,
+      "goals": 3,
+      "club": "Real Madrid"
+    },
+    {
+      "pos": "DF",
+      "name": "Jonathan Tah",
+      "dob": "1996-02-11",
+      "caps": 45,
+      "goals": 1,
+      "club": "Bayern Munich"
+    },
+    {
+      "pos": "DF",
+      "name": "David Raum",
+      "dob": "1998-04-22",
+      "caps": 36,
+      "goals": 1,
+      "club": "RB Leipzig"
+    },
+    {
+      "pos": "DF",
+      "name": "Nico Schlotterbeck",
+      "dob": "1999-12-01",
+      "caps": 25,
+      "goals": 0,
+      "club": "Borussia Dortmund"
+    },
+    {
+      "pos": "DF",
+      "name": "Waldemar Anton",
+      "dob": "1996-07-20",
+      "caps": 12,
+      "goals": 0,
+      "club": "Borussia Dortmund"
+    },
+    {
+      "pos": "DF",
+      "name": "Malick Thiaw",
+      "dob": "2001-08-08",
+      "caps": 5,
+      "goals": 0,
+      "club": "Newcastle United"
+    },
+    {
+      "pos": "DF",
+      "name": "Nathaniel Brown",
+      "dob": "2003-06-16",
+      "caps": 3,
+      "goals": 0,
+      "club": "Eintracht Frankfurt"
+    },
+    {
+      "pos": "MF",
+      "name": "Joshua Kimmich",
+      "dob": "1995-02-08",
+      "caps": 108,
+      "goals": 10,
+      "club": "Bayern Munich",
+      "captain": true
+    },
+    {
+      "pos": "MF",
+      "name": "Leon Goretzka",
+      "dob": "1995-02-06",
+      "caps": 69,
+      "goals": 15,
+      "club": "Bayern Munich"
+    },
+    {
+      "pos": "MF",
+      "name": "Leroy Sané",
+      "dob": "1996-01-11",
+      "caps": 74,
+      "goals": 16,
+      "club": "Galatasaray"
+    },
+    {
+      "pos": "MF",
+      "name": "Florian Wirtz",
+      "dob": "2003-05-03",
+      "caps": 39,
+      "goals": 10,
+      "club": "Liverpool"
+    },
+    {
+      "pos": "MF",
+      "name": "Jamal Musiala",
+      "dob": "2003-02-26",
+      "caps": 40,
+      "goals": 8,
+      "club": "Bayern Munich"
+    },
+    {
+      "pos": "MF",
+      "name": "Pascal Groß",
+      "dob": "1991-06-15",
+      "caps": 18,
+      "goals": 1,
+      "club": "Brighton & Hove Albion"
+    },
+    {
+      "pos": "MF",
+      "name": "Angelo Stiller",
+      "dob": "2001-04-04",
+      "caps": 7,
+      "goals": 0,
+      "club": "VfB Stuttgart"
+    },
+    {
+      "pos": "MF",
+      "name": "Felix Nmecha",
+      "dob": "2000-10-10",
+      "caps": 6,
+      "goals": 1,
+      "club": "Borussia Dortmund"
+    },
+    {
+      "pos": "MF",
+      "name": "Nadiem Amiri",
+      "dob": "1996-10-27",
+      "caps": 9,
+      "goals": 1,
+      "club": "Mainz 05"
+    },
+    {
+      "pos": "MF",
+      "name": "Aleksandar Pavlović",
+      "dob": "2004-05-03",
+      "caps": 9,
+      "goals": 1,
+      "club": "Bayern Munich"
+    },
+    {
+      "pos": "FW",
+      "name": "Kai Havertz",
+      "dob": "1999-06-11",
+      "caps": 57,
+      "goals": 21,
+      "club": "Arsenal"
+    },
+    {
+      "pos": "FW",
+      "name": "Nick Woltemade",
+      "dob": "2002-02-14",
+      "caps": 10,
+      "goals": 4,
+      "club": "Newcastle United"
+    },
+    {
+      "pos": "FW",
+      "name": "Deniz Undav",
+      "dob": "1996-07-19",
+      "caps": 7,
+      "goals": 4,
+      "club": "VfB Stuttgart"
+    },
+    {
+      "pos": "FW",
+      "name": "Maximilian Beier",
+      "dob": "2002-10-17",
+      "caps": 7,
+      "goals": 0,
+      "club": "Borussia Dortmund"
+    },
+    {
+      "pos": "FW",
+      "name": "Jamie Leweling",
+      "dob": "2001-02-26",
+      "caps": 4,
+      "goals": 1,
+      "club": "VfB Stuttgart"
+    }
+  ]
+}

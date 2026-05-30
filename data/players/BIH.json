@@ -1,0 +1,215 @@
+{
+  "name": "Bosnia & Herzegovina",
+  "group": "B",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Nikola Vasilj",
+      "dob": "1995-12-02",
+      "caps": 25,
+      "goals": 0,
+      "club": "FC St. Pauli"
+    },
+    {
+      "pos": "GK",
+      "name": "Martin Zlomislić",
+      "dob": "1998-08-16",
+      "caps": 3,
+      "goals": 0,
+      "club": "Rijeka"
+    },
+    {
+      "pos": "GK",
+      "name": "Osman Hadžikić",
+      "dob": "1996-03-12",
+      "caps": 0,
+      "goals": 0,
+      "club": "Slaven Belupo"
+    },
+    {
+      "pos": "DF",
+      "name": "Sead Kolašinac",
+      "dob": "1993-06-20",
+      "caps": 64,
+      "goals": 0,
+      "club": "Atalanta"
+    },
+    {
+      "pos": "DF",
+      "name": "Dennis Hadžikadunić",
+      "dob": "1998-07-09",
+      "caps": 31,
+      "goals": 0,
+      "club": "Sampdoria"
+    },
+    {
+      "pos": "DF",
+      "name": "Amar Dedić",
+      "dob": "2002-08-18",
+      "caps": 27,
+      "goals": 1,
+      "club": "Benfica"
+    },
+    {
+      "pos": "DF",
+      "name": "Nikola Katić",
+      "dob": "1996-10-10",
+      "caps": 16,
+      "goals": 1,
+      "club": "Schalke 04"
+    },
+    {
+      "pos": "DF",
+      "name": "Tarik Muharemović",
+      "dob": "2003-02-28",
+      "caps": 13,
+      "goals": 1,
+      "club": "Sassuolo"
+    },
+    {
+      "pos": "DF",
+      "name": "Nihad Mujakić",
+      "dob": "1998-04-15",
+      "caps": 11,
+      "goals": 1,
+      "club": "Gaziantep"
+    },
+    {
+      "pos": "DF",
+      "name": "Stjepan Radeljić",
+      "dob": "1997-09-05",
+      "caps": 5,
+      "goals": 0,
+      "club": "Rijeka"
+    },
+    {
+      "pos": "DF",
+      "name": "Nidal Čelik",
+      "dob": "2006-07-17",
+      "caps": 1,
+      "goals": 0,
+      "club": "Lens"
+    },
+    {
+      "pos": "MF",
+      "name": "Amir Hadžiahmetović",
+      "dob": "1997-03-08",
+      "caps": 35,
+      "goals": 0,
+      "club": "Hull City"
+    },
+    {
+      "pos": "MF",
+      "name": "Benjamin Tahirović",
+      "dob": "2003-03-03",
+      "caps": 27,
+      "goals": 2,
+      "club": "Brøndby"
+    },
+    {
+      "pos": "MF",
+      "name": "Armin Gigović",
+      "dob": "2002-04-06",
+      "caps": 19,
+      "goals": 1,
+      "club": "Young Boys"
+    },
+    {
+      "pos": "MF",
+      "name": "Dženis Burnić",
+      "dob": "1998-05-22",
+      "caps": 19,
+      "goals": 0,
+      "club": "Karlsruher SC"
+    },
+    {
+      "pos": "MF",
+      "name": "Ivan Bašić",
+      "dob": "2002-04-30",
+      "caps": 16,
+      "goals": 0,
+      "club": "Astana"
+    },
+    {
+      "pos": "MF",
+      "name": "Esmir Bajraktarević",
+      "dob": "2005-03-10",
+      "caps": 15,
+      "goals": 1,
+      "club": "PSV Eindhoven"
+    },
+    {
+      "pos": "MF",
+      "name": "Amar Memić",
+      "dob": "2001-01-20",
+      "caps": 12,
+      "goals": 1,
+      "club": "Viktoria Plzeň"
+    },
+    {
+      "pos": "MF",
+      "name": "Ivan Šunjić",
+      "dob": "1996-10-09",
+      "caps": 11,
+      "goals": 0,
+      "club": "Pafos"
+    },
+    {
+      "pos": "MF",
+      "name": "Kerim Alajbegović",
+      "dob": "2007-09-21",
+      "caps": 9,
+      "goals": 1,
+      "club": "Red Bull Salzburg"
+    },
+    {
+      "pos": "MF",
+      "name": "Ermin Mahmić",
+      "dob": "2005-03-14",
+      "caps": 1,
+      "goals": 0,
+      "club": "Slovan Liberec"
+    },
+    {
+      "pos": "FW",
+      "name": "Edin Džeko",
+      "dob": "1986-03-17",
+      "caps": 148,
+      "goals": 73,
+      "club": "Schalke 04",
+      "captain": true
+    },
+    {
+      "pos": "FW",
+      "name": "Ermedin Demirović",
+      "dob": "1998-03-25",
+      "caps": 39,
+      "goals": 4,
+      "club": "VfB Stuttgart"
+    },
+    {
+      "pos": "FW",
+      "name": "Samed Baždar",
+      "dob": "2004-01-31",
+      "caps": 12,
+      "goals": 1,
+      "club": "Jagiellonia Białystok"
+    },
+    {
+      "pos": "FW",
+      "name": "Haris Tabaković",
+      "dob": "1994-06-20",
+      "caps": 10,
+      "goals": 4,
+      "club": "Borussia Mönchengladbach"
+    },
+    {
+      "pos": "FW",
+      "name": "Jovo Lukić",
+      "dob": "1998-11-28",
+      "caps": 2,
+      "goals": 0,
+      "club": "Universitatea Cluj"
+    }
+  ]
+}

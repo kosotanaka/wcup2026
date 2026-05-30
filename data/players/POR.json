@@ -1,0 +1,199 @@
+{
+  "name": "Portugal",
+  "group": "K",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Diogo Costa",
+      "dob": "1999-09-19",
+      "caps": 42,
+      "goals": 0,
+      "club": "Porto"
+    },
+    {
+      "pos": "GK",
+      "name": "José Sá",
+      "dob": "1993-01-17",
+      "caps": 4,
+      "goals": 0,
+      "club": "Wolverhampton Wanderers"
+    },
+    {
+      "pos": "GK",
+      "name": "Rui Silva",
+      "dob": "1994-02-07",
+      "caps": 2,
+      "goals": 0,
+      "club": "Sporting CP"
+    },
+    {
+      "pos": "DF",
+      "name": "Rúben Dias",
+      "dob": "1997-05-14",
+      "caps": 74,
+      "goals": 3,
+      "club": "Manchester City"
+    },
+    {
+      "pos": "DF",
+      "name": "João Cancelo",
+      "dob": "1994-05-27",
+      "caps": 66,
+      "goals": 12,
+      "club": "Barcelona"
+    },
+    {
+      "pos": "DF",
+      "name": "Nélson Semedo",
+      "dob": "1993-11-16",
+      "caps": 48,
+      "goals": 0,
+      "club": "Fenerbahçe"
+    },
+    {
+      "pos": "DF",
+      "name": "Nuno Mendes",
+      "dob": "2002-06-19",
+      "caps": 43,
+      "goals": 1,
+      "club": "Paris Saint-Germain"
+    },
+    {
+      "pos": "DF",
+      "name": "Diogo Dalot",
+      "dob": "1999-03-18",
+      "caps": 33,
+      "goals": 3,
+      "club": "Manchester United"
+    },
+    {
+      "pos": "DF",
+      "name": "Gonçalo Inácio",
+      "dob": "2001-08-25",
+      "caps": 20,
+      "goals": 2,
+      "club": "Sporting CP"
+    },
+    {
+      "pos": "DF",
+      "name": "Matheus Nunes",
+      "dob": "1998-08-27",
+      "caps": 19,
+      "goals": 2,
+      "club": "Manchester City"
+    },
+    {
+      "pos": "DF",
+      "name": "Renato Veiga",
+      "dob": "2003-07-29",
+      "caps": 11,
+      "goals": 1,
+      "club": "Villarreal"
+    },
+    {
+      "pos": "MF",
+      "name": "Bernardo Silva",
+      "dob": "1994-08-10",
+      "caps": 107,
+      "goals": 14,
+      "club": "Manchester City"
+    },
+    {
+      "pos": "MF",
+      "name": "Bruno Fernandes",
+      "dob": "1994-09-08",
+      "caps": 87,
+      "goals": 28,
+      "club": "Manchester United"
+    },
+    {
+      "pos": "MF",
+      "name": "Rúben Neves",
+      "dob": "1997-03-13",
+      "caps": 65,
+      "goals": 1,
+      "club": "Al-Hilal"
+    },
+    {
+      "pos": "MF",
+      "name": "Vitinha",
+      "dob": "2000-02-13",
+      "caps": 37,
+      "goals": 0,
+      "club": "Paris Saint-Germain"
+    },
+    {
+      "pos": "MF",
+      "name": "João Neves",
+      "dob": "2004-09-27",
+      "caps": 21,
+      "goals": 3,
+      "club": "Paris Saint-Germain"
+    },
+    {
+      "pos": "FW",
+      "name": "Cristiano Ronaldo",
+      "dob": "1985-02-05",
+      "caps": 226,
+      "goals": 143,
+      "club": "Al-Nassr",
+      "captain": true
+    },
+    {
+      "pos": "FW",
+      "name": "João Félix",
+      "dob": "1999-11-10",
+      "caps": 52,
+      "goals": 12,
+      "club": "Al-Nassr"
+    },
+    {
+      "pos": "FW",
+      "name": "Rafael Leão",
+      "dob": "1999-06-10",
+      "caps": 43,
+      "goals": 5,
+      "club": "Milan"
+    },
+    {
+      "pos": "FW",
+      "name": "Gonçalo Ramos",
+      "dob": "2001-06-20",
+      "caps": 24,
+      "goals": 10,
+      "club": "Paris Saint-Germain"
+    },
+    {
+      "pos": "FW",
+      "name": "Gonçalo Guedes",
+      "dob": "1996-11-29",
+      "caps": 33,
+      "goals": 7,
+      "club": "Real Sociedad"
+    },
+    {
+      "pos": "FW",
+      "name": "Pedro Neto",
+      "dob": "2000-03-09",
+      "caps": 23,
+      "goals": 2,
+      "club": "Chelsea"
+    },
+    {
+      "pos": "FW",
+      "name": "Francisco Trincão",
+      "dob": "1999-12-29",
+      "caps": 17,
+      "goals": 3,
+      "club": "Sporting CP"
+    },
+    {
+      "pos": "FW",
+      "name": "Francisco Conceição",
+      "dob": "2002-12-14",
+      "caps": 15,
+      "goals": 3,
+      "club": "Juventus"
+    }
+  ]
+}

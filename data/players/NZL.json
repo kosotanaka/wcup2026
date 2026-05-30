@@ -1,0 +1,207 @@
+{
+  "name": "New Zealand",
+  "group": "G",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Max Crocombe",
+      "dob": "1993-08-12",
+      "caps": 22,
+      "goals": 0,
+      "club": "Millwall"
+    },
+    {
+      "pos": "GK",
+      "name": "Alex Paulsen",
+      "dob": "2002-07-04",
+      "caps": 6,
+      "goals": 0,
+      "club": "Lechia Gdańsk"
+    },
+    {
+      "pos": "GK",
+      "name": "Michael Woud",
+      "dob": "1999-01-16",
+      "caps": 6,
+      "goals": 0,
+      "club": "Auckland FC"
+    },
+    {
+      "pos": "DF",
+      "name": "Michael Boxall",
+      "dob": "1988-08-18",
+      "caps": 61,
+      "goals": 1,
+      "club": "Minnesota United FC"
+    },
+    {
+      "pos": "DF",
+      "name": "Tim Payne",
+      "dob": "1994-01-10",
+      "caps": 49,
+      "goals": 3,
+      "club": "Wellington Phoenix"
+    },
+    {
+      "pos": "DF",
+      "name": "Tommy Smith",
+      "dob": "1990-03-31",
+      "caps": 56,
+      "goals": 2,
+      "club": "Braintree Town"
+    },
+    {
+      "pos": "DF",
+      "name": "Liberato Cacace",
+      "dob": "2000-09-27",
+      "caps": 35,
+      "goals": 1,
+      "club": "Wrexham"
+    },
+    {
+      "pos": "DF",
+      "name": "Nando Pijnaker",
+      "dob": "1999-02-25",
+      "caps": 23,
+      "goals": 0,
+      "club": "Auckland FC"
+    },
+    {
+      "pos": "DF",
+      "name": "Francis de Vries",
+      "dob": "1994-11-28",
+      "caps": 18,
+      "goals": 1,
+      "club": "Auckland FC"
+    },
+    {
+      "pos": "DF",
+      "name": "Tyler Bindon",
+      "dob": "2005-01-27",
+      "caps": 23,
+      "goals": 3,
+      "club": "Sheffield United"
+    },
+    {
+      "pos": "DF",
+      "name": "Finn Surman",
+      "dob": "2003-09-23",
+      "caps": 17,
+      "goals": 2,
+      "club": "Portland Timbers"
+    },
+    {
+      "pos": "MF",
+      "name": "Elijah Just",
+      "dob": "2000-05-01",
+      "caps": 42,
+      "goals": 9,
+      "club": "Motherwell"
+    },
+    {
+      "pos": "MF",
+      "name": "Marko Stamenić",
+      "dob": "2002-02-19",
+      "caps": 37,
+      "goals": 3,
+      "club": "Swansea City"
+    },
+    {
+      "pos": "MF",
+      "name": "Matthew Garbett",
+      "dob": "2002-04-13",
+      "caps": 35,
+      "goals": 5,
+      "club": "Peterborough United"
+    },
+    {
+      "pos": "MF",
+      "name": "Ryan Thomas",
+      "dob": "1994-12-20",
+      "caps": 25,
+      "goals": 3,
+      "club": "PEC Zwolle"
+    },
+    {
+      "pos": "MF",
+      "name": "Callum McCowatt",
+      "dob": "1999-04-30",
+      "caps": 30,
+      "goals": 4,
+      "club": "Silkeborg"
+    },
+    {
+      "pos": "MF",
+      "name": "Sarpreet Singh",
+      "dob": "1999-02-20",
+      "caps": 26,
+      "goals": 3,
+      "club": "Wellington Phoenix"
+    },
+    {
+      "pos": "MF",
+      "name": "Joe Bell",
+      "dob": "1999-04-27",
+      "caps": 31,
+      "goals": 1,
+      "club": "Viking"
+    },
+    {
+      "pos": "MF",
+      "name": "Ben Old",
+      "dob": "2002-08-13",
+      "caps": 22,
+      "goals": 2,
+      "club": "Saint-Étienne"
+    },
+    {
+      "pos": "FW",
+      "name": "Chris Wood",
+      "dob": "1991-12-07",
+      "caps": 88,
+      "goals": 45,
+      "club": "Nottingham Forest",
+      "captain": true
+    },
+    {
+      "pos": "FW",
+      "name": "Kosta Barbarouses",
+      "dob": "1990-02-19",
+      "caps": 74,
+      "goals": 10,
+      "club": "Western Sydney Wanderers"
+    },
+    {
+      "pos": "FW",
+      "name": "Ben Waine",
+      "dob": "2001-06-11",
+      "caps": 30,
+      "goals": 9,
+      "club": "Port Vale"
+    },
+    {
+      "pos": "FW",
+      "name": "Jesse Randall",
+      "dob": "2002-08-19",
+      "caps": 9,
+      "goals": 2,
+      "club": "Auckland FC"
+    },
+    {
+      "pos": "FW",
+      "name": "Callan Elliot",
+      "dob": "1999-07-07",
+      "caps": 9,
+      "goals": 0,
+      "club": "Auckland FC"
+    },
+    {
+      "pos": "FW",
+      "name": "Alex Rufer",
+      "dob": "1996-06-12",
+      "caps": 24,
+      "goals": 0,
+      "club": "Wellington Phoenix"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "name": "Qatar",
+  "group": "B",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Meshaal Barsham",
+      "dob": "1998-02-14",
+      "caps": 52,
+      "goals": 0,
+      "club": "Al-Sadd"
+    },
+    {
+      "pos": "GK",
+      "name": "Salah Zakaria",
+      "dob": "1999-04-24",
+      "caps": 8,
+      "goals": 0,
+      "club": "Al-Duhail"
+    },
+    {
+      "pos": "GK",
+      "name": "Mahmud Abunada",
+      "dob": "2000-02-05",
+      "caps": 4,
+      "goals": 0,
+      "club": "Al-Rayyan"
+    },
+    {
+      "pos": "GK",
+      "name": "Shehab Ellethy",
+      "dob": "2000-04-18",
+      "caps": 1,
+      "goals": 0,
+      "club": "Al-Shahaniya"
+    },
+    {
+      "pos": "DF",
+      "name": "Boualem Khoukhi",
+      "dob": "1990-07-09",
+      "caps": 115,
+      "goals": 20,
+      "club": "Al-Sadd"
+    },
+    {
+      "pos": "DF",
+      "name": "Pedro Miguel",
+      "dob": "1990-08-06",
+      "caps": 98,
+      "goals": 3,
+      "club": "Al-Sadd"
+    },
+    {
+      "pos": "DF",
+      "name": "Homam Ahmed",
+      "dob": "1999-08-25",
+      "caps": 67,
+      "goals": 3,
+      "club": "Cultural Leonesa"
+    },
+    {
+      "pos": "DF",
+      "name": "Lucas Mendes",
+      "dob": "1990-07-03",
+      "caps": 25,
+      "goals": 1,
+      "club": "Al-Wakrah"
+    },
+    {
+      "pos": "DF",
+      "name": "Sultan Al-Brake",
+      "dob": "1996-04-07",
+      "caps": 16,
+      "goals": 0,
+      "club": "Al-Duhail"
+    },
+    {
+      "pos": "DF",
+      "name": "Al-Hashmi Al-Hussain",
+      "dob": "2003-08-15",
+      "caps": 7,
+      "goals": 0,
+      "club": "Al-Arabi"
+    },
+    {
+      "pos": "DF",
+      "name": "Ayoub Al-Oui",
+      "dob": "2005-03-11",
+      "caps": 5,
+      "goals": 0,
+      "club": "Al-Gharafa"
+    },
+    {
+      "pos": "DF",
+      "name": "Issa Laye",
+      "dob": "1997-12-22",
+      "caps": 3,
+      "goals": 0,
+      "club": "Al-Arabi"
+    },
+    {
+      "pos": "DF",
+      "name": "Rayyan Al-Ali",
+      "dob": "2006-03-26",
+      "caps": 1,
+      "goals": 0,
+      "club": "Al-Gharafa"
+    },
+    {
+      "pos": "MF",
+      "name": "Abdulaziz Hatem",
+      "dob": "1990-10-28",
+      "caps": 117,
+      "goals": 11,
+      "club": "Al-Rayyan"
+    },
+    {
+      "pos": "MF",
+      "name": "Karim Boudiaf",
+      "dob": "1990-09-16",
+      "caps": 117,
+      "goals": 5,
+      "club": "Al-Duhail"
+    },
+    {
+      "pos": "MF",
+      "name": "Assim Madibo",
+      "dob": "1996-10-22",
+      "caps": 50,
+      "goals": 0,
+      "club": "Al-Wakrah"
+    },
+    {
+      "pos": "MF",
+      "name": "Ahmed Fathy",
+      "dob": "1993-01-25",
+      "caps": 47,
+      "goals": 0,
+      "club": "Al-Arabi"
+    },
+    {
+      "pos": "MF",
+      "name": "Jassem Gaber",
+      "dob": "2002-02-20",
+      "caps": 31,
+      "goals": 1,
+      "club": "Al-Rayyan"
+    },
+    {
+      "pos": "MF",
+      "name": "Mohamed Al-Mannai",
+      "dob": "2003-10-30",
+      "caps": 9,
+      "goals": 0,
+      "club": "Al-Shamal"
+    },
+    {
+      "pos": "MF",
+      "name": "Tahsin Jamshid",
+      "dob": "2006-06-16",
+      "caps": 2,
+      "goals": 0,
+      "club": "Al-Duhail"
+    },
+    {
+      "pos": "FW",
+      "name": "Hassan Al-Haydos",
+      "dob": "1990-12-11",
+      "caps": 185,
+      "goals": 41,
+      "club": "Al-Sadd",
+      "captain": true
+    },
+    {
+      "pos": "FW",
+      "name": "Akram Afif",
+      "dob": "1996-11-18",
+      "caps": 124,
+      "goals": 39,
+      "club": "Al-Sadd"
+    },
+    {
+      "pos": "FW",
+      "name": "Almoez Ali",
+      "dob": "1996-08-19",
+      "caps": 115,
+      "goals": 55,
+      "club": "Al-Duhail"
+    },
+    {
+      "pos": "FW",
+      "name": "Mohammed Muntari",
+      "dob": "1993-12-20",
+      "caps": 67,
+      "goals": 16,
+      "club": "Al-Gharafa"
+    },
+    {
+      "pos": "FW",
+      "name": "Ahmed Alaaeldin",
+      "dob": "1993-01-31",
+      "caps": 67,
+      "goals": 9,
+      "club": "Al-Rayyan"
+    },
+    {
+      "pos": "FW",
+      "name": "Yusuf Abdurisag",
+      "dob": "1999-08-06",
+      "caps": 38,
+      "goals": 3,
+      "club": "Al-Wakrah"
+    },
+    {
+      "pos": "FW",
+      "name": "Edmilson Junior",
+      "dob": "1994-08-19",
+      "caps": 15,
+      "goals": 0,
+      "club": "Al-Duhail"
+    },
+    {
+      "pos": "FW",
+      "name": "Ahmed Al-Ganehi",
+      "dob": "2000-09-22",
+      "caps": 13,
+      "goals": 1,
+      "club": "Al-Gharafa"
+    }
+  ]
+}

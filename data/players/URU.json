@@ -1,0 +1,167 @@
+{
+  "name": "Uruguay",
+  "group": "H",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Sergio Rochet",
+      "dob": "1993-03-07",
+      "caps": 51,
+      "goals": 0,
+      "club": "Nacional"
+    },
+    {
+      "pos": "GK",
+      "name": "Sebastián Sosa",
+      "dob": "1986-09-24",
+      "caps": 35,
+      "goals": 0,
+      "club": "Independiente"
+    },
+    {
+      "pos": "GK",
+      "name": "Gastón Álvarez",
+      "dob": "2000-07-14",
+      "caps": 4,
+      "goals": 0,
+      "club": "Nacional"
+    },
+    {
+      "pos": "DF",
+      "name": "Diego Godín",
+      "dob": "1986-02-16",
+      "caps": 166,
+      "goals": 10,
+      "club": "Vélez Sarsfield",
+      "captain": true
+    },
+    {
+      "pos": "DF",
+      "name": "José María Giménez",
+      "dob": "1995-01-20",
+      "caps": 80,
+      "goals": 3,
+      "club": "Atlético Madrid"
+    },
+    {
+      "pos": "DF",
+      "name": "Matías Viña",
+      "dob": "1997-11-13",
+      "caps": 40,
+      "goals": 2,
+      "club": "Flamengo"
+    },
+    {
+      "pos": "DF",
+      "name": "Mathías Olivera",
+      "dob": "1997-10-31",
+      "caps": 37,
+      "goals": 1,
+      "club": "Napoli"
+    },
+    {
+      "pos": "DF",
+      "name": "Ronald Araújo",
+      "dob": "1999-03-07",
+      "caps": 32,
+      "goals": 3,
+      "club": "Juventus"
+    },
+    {
+      "pos": "DF",
+      "name": "Guillermo Varela",
+      "dob": "1993-03-24",
+      "caps": 28,
+      "goals": 1,
+      "club": "Flamengo"
+    },
+    {
+      "pos": "DF",
+      "name": "Sebastián Cáceres",
+      "dob": "1999-08-07",
+      "caps": 10,
+      "goals": 0,
+      "club": "América"
+    },
+    {
+      "pos": "MF",
+      "name": "Rodrigo Bentancur",
+      "dob": "1997-06-25",
+      "caps": 69,
+      "goals": 6,
+      "club": "Tottenham Hotspur"
+    },
+    {
+      "pos": "MF",
+      "name": "Lucas Torreira",
+      "dob": "1996-02-11",
+      "caps": 70,
+      "goals": 5,
+      "club": "Galatasaray"
+    },
+    {
+      "pos": "MF",
+      "name": "Federico Valverde",
+      "dob": "1998-07-22",
+      "caps": 60,
+      "goals": 7,
+      "club": "Real Madrid"
+    },
+    {
+      "pos": "MF",
+      "name": "Manuel Ugarte",
+      "dob": "2001-04-11",
+      "caps": 37,
+      "goals": 1,
+      "club": "Manchester United"
+    },
+    {
+      "pos": "MF",
+      "name": "Nicolás De La Cruz",
+      "dob": "1997-06-01",
+      "caps": 38,
+      "goals": 5,
+      "club": "Flamengo"
+    },
+    {
+      "pos": "FW",
+      "name": "Luis Suárez",
+      "dob": "1987-01-24",
+      "caps": 141,
+      "goals": 69,
+      "club": "River Plate"
+    },
+    {
+      "pos": "FW",
+      "name": "Darwin Núñez",
+      "dob": "1999-06-24",
+      "caps": 45,
+      "goals": 18,
+      "club": "Liverpool"
+    },
+    {
+      "pos": "FW",
+      "name": "Edinson Cavani",
+      "dob": "1987-02-14",
+      "caps": 138,
+      "goals": 58,
+      "club": "Boca Juniors"
+    },
+    {
+      "pos": "FW",
+      "name": "Maxi Gómez",
+      "dob": "1996-08-14",
+      "caps": 27,
+      "goals": 9,
+      "club": "Trabzonspor"
+    },
+    {
+      "pos": "FW",
+      "name": "Facundo Pellistri",
+      "dob": "2001-12-20",
+      "caps": 25,
+      "goals": 5,
+      "club": "Getafe"
+    }
+  ]
+}

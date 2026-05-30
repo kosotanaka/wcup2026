@@ -1,0 +1,215 @@
+{
+  "name": "USA",
+  "group": "D",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Matt Turner",
+      "dob": "1994-06-24",
+      "caps": 53,
+      "goals": 0,
+      "club": "New England Revolution"
+    },
+    {
+      "pos": "GK",
+      "name": "Matt Freese",
+      "dob": "1998-09-02",
+      "caps": 14,
+      "goals": 0,
+      "club": "New York City FC"
+    },
+    {
+      "pos": "GK",
+      "name": "Chris Brady",
+      "dob": "2004-03-03",
+      "caps": 0,
+      "goals": 0,
+      "club": "Chicago Fire FC"
+    },
+    {
+      "pos": "DF",
+      "name": "Tim Ream",
+      "dob": "1987-10-05",
+      "caps": 80,
+      "goals": 1,
+      "club": "Charlotte FC"
+    },
+    {
+      "pos": "DF",
+      "name": "Antonee Robinson",
+      "dob": "1997-08-08",
+      "caps": 52,
+      "goals": 4,
+      "club": "Fulham"
+    },
+    {
+      "pos": "DF",
+      "name": "Miles Robinson",
+      "dob": "1997-03-14",
+      "caps": 38,
+      "goals": 3,
+      "club": "FC Cincinnati"
+    },
+    {
+      "pos": "DF",
+      "name": "Sergiño Dest",
+      "dob": "2000-11-03",
+      "caps": 37,
+      "goals": 2,
+      "club": "PSV Eindhoven"
+    },
+    {
+      "pos": "DF",
+      "name": "Chris Richards",
+      "dob": "2000-03-28",
+      "caps": 36,
+      "goals": 3,
+      "club": "Crystal Palace"
+    },
+    {
+      "pos": "DF",
+      "name": "Mark McKenzie",
+      "dob": "1999-02-25",
+      "caps": 27,
+      "goals": 0,
+      "club": "Toulouse"
+    },
+    {
+      "pos": "DF",
+      "name": "Joe Scally",
+      "dob": "2002-12-31",
+      "caps": 24,
+      "goals": 0,
+      "club": "Borussia Mönchengladbach"
+    },
+    {
+      "pos": "DF",
+      "name": "Maximilian Arfsten",
+      "dob": "2001-04-19",
+      "caps": 18,
+      "goals": 1,
+      "club": "Columbus Crew"
+    },
+    {
+      "pos": "DF",
+      "name": "Alex Freeman",
+      "dob": "2004-08-09",
+      "caps": 15,
+      "goals": 2,
+      "club": "Villarreal"
+    },
+    {
+      "pos": "DF",
+      "name": "Auston Trusty",
+      "dob": "1998-08-12",
+      "caps": 6,
+      "goals": 0,
+      "club": "Celtic"
+    },
+    {
+      "pos": "MF",
+      "name": "Weston McKennie",
+      "dob": "1998-08-28",
+      "caps": 64,
+      "goals": 12,
+      "club": "Juventus"
+    },
+    {
+      "pos": "MF",
+      "name": "Tyler Adams",
+      "dob": "1999-02-14",
+      "caps": 52,
+      "goals": 2,
+      "club": "Bournemouth"
+    },
+    {
+      "pos": "MF",
+      "name": "Cristian Roldan",
+      "dob": "1995-06-03",
+      "caps": 45,
+      "goals": 0,
+      "club": "Seattle Sounders FC"
+    },
+    {
+      "pos": "MF",
+      "name": "Giovanni Reyna",
+      "dob": "2002-11-13",
+      "caps": 36,
+      "goals": 9,
+      "club": "Borussia Mönchengladbach"
+    },
+    {
+      "pos": "MF",
+      "name": "Malik Tillman",
+      "dob": "2002-05-28",
+      "caps": 28,
+      "goals": 3,
+      "club": "Bayer Leverkusen"
+    },
+    {
+      "pos": "MF",
+      "name": "Sebastian Berhalter",
+      "dob": "2001-05-10",
+      "caps": 11,
+      "goals": 1,
+      "club": "Vancouver Whitecaps FC"
+    },
+    {
+      "pos": "FW",
+      "name": "Christian Pulisic",
+      "dob": "1998-09-18",
+      "caps": 84,
+      "goals": 32,
+      "club": "Milan",
+      "captain": true
+    },
+    {
+      "pos": "FW",
+      "name": "Brenden Aaronson",
+      "dob": "2000-10-22",
+      "caps": 57,
+      "goals": 9,
+      "club": "Leeds United"
+    },
+    {
+      "pos": "FW",
+      "name": "Timothy Weah",
+      "dob": "2000-02-22",
+      "caps": 49,
+      "goals": 7,
+      "club": "Marseille"
+    },
+    {
+      "pos": "FW",
+      "name": "Ricardo Pepi",
+      "dob": "2003-01-09",
+      "caps": 35,
+      "goals": 13,
+      "club": "PSV Eindhoven"
+    },
+    {
+      "pos": "FW",
+      "name": "Folarin Balogun",
+      "dob": "2001-07-03",
+      "caps": 25,
+      "goals": 8,
+      "club": "Monaco"
+    },
+    {
+      "pos": "FW",
+      "name": "Haji Wright",
+      "dob": "1998-03-27",
+      "caps": 20,
+      "goals": 7,
+      "club": "Coventry City"
+    },
+    {
+      "pos": "FW",
+      "name": "Alejandro Zendejas",
+      "dob": "1998-02-07",
+      "caps": 13,
+      "goals": 2,
+      "club": "América"
+    }
+  ]
+}

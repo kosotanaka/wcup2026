@@ -1,0 +1,215 @@
+{
+  "name": "France",
+  "group": "I",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Mike Maignan",
+      "dob": "1995-07-03",
+      "caps": 38,
+      "goals": 0,
+      "club": "Milan"
+    },
+    {
+      "pos": "GK",
+      "name": "Brice Samba",
+      "dob": "1994-04-25",
+      "caps": 4,
+      "goals": 0,
+      "club": "Rennes"
+    },
+    {
+      "pos": "GK",
+      "name": "Robin Risser",
+      "dob": "2004-12-02",
+      "caps": 0,
+      "goals": 0,
+      "club": "Lens"
+    },
+    {
+      "pos": "DF",
+      "name": "Jules Koundé",
+      "dob": "1998-11-12",
+      "caps": 46,
+      "goals": 0,
+      "club": "Barcelona"
+    },
+    {
+      "pos": "DF",
+      "name": "William Saliba",
+      "dob": "2001-03-24",
+      "caps": 31,
+      "goals": 0,
+      "club": "Arsenal"
+    },
+    {
+      "pos": "DF",
+      "name": "Théo Hernandez",
+      "dob": "1997-10-06",
+      "caps": 42,
+      "goals": 2,
+      "club": "Al-Hilal"
+    },
+    {
+      "pos": "DF",
+      "name": "Lucas Hernandez",
+      "dob": "1996-02-14",
+      "caps": 41,
+      "goals": 0,
+      "club": "Paris Saint-Germain"
+    },
+    {
+      "pos": "DF",
+      "name": "Dayot Upamecano",
+      "dob": "1998-10-27",
+      "caps": 36,
+      "goals": 2,
+      "club": "Bayern Munich"
+    },
+    {
+      "pos": "DF",
+      "name": "Ibrahima Konaté",
+      "dob": "1999-05-25",
+      "caps": 27,
+      "goals": 0,
+      "club": "Liverpool"
+    },
+    {
+      "pos": "DF",
+      "name": "Lucas Digne",
+      "dob": "1993-07-20",
+      "caps": 56,
+      "goals": 0,
+      "club": "Aston Villa"
+    },
+    {
+      "pos": "DF",
+      "name": "Malo Gusto",
+      "dob": "2003-05-19",
+      "caps": 9,
+      "goals": 0,
+      "club": "Chelsea"
+    },
+    {
+      "pos": "DF",
+      "name": "Maxence Lacroix",
+      "dob": "2000-04-06",
+      "caps": 2,
+      "goals": 0,
+      "club": "Crystal Palace"
+    },
+    {
+      "pos": "MF",
+      "name": "N'Golo Kanté",
+      "dob": "1991-03-29",
+      "caps": 67,
+      "goals": 2,
+      "club": "Fenerbahçe"
+    },
+    {
+      "pos": "MF",
+      "name": "Aurélien Tchouaméni",
+      "dob": "2000-01-27",
+      "caps": 44,
+      "goals": 3,
+      "club": "Real Madrid"
+    },
+    {
+      "pos": "MF",
+      "name": "Adrien Rabiot",
+      "dob": "1995-04-03",
+      "caps": 57,
+      "goals": 7,
+      "club": "Milan"
+    },
+    {
+      "pos": "MF",
+      "name": "Manu Koné",
+      "dob": "2001-05-17",
+      "caps": 12,
+      "goals": 0,
+      "club": "Roma"
+    },
+    {
+      "pos": "MF",
+      "name": "Warren Zaïre-Emery",
+      "dob": "2006-03-08",
+      "caps": 10,
+      "goals": 1,
+      "club": "Paris Saint-Germain"
+    },
+    {
+      "pos": "FW",
+      "name": "Kylian Mbappé",
+      "dob": "1998-12-20",
+      "caps": 96,
+      "goals": 56,
+      "club": "Real Madrid",
+      "captain": true
+    },
+    {
+      "pos": "FW",
+      "name": "Ousmane Dembélé",
+      "dob": "1997-05-15",
+      "caps": 58,
+      "goals": 7,
+      "club": "Paris Saint-Germain"
+    },
+    {
+      "pos": "FW",
+      "name": "Marcus Thuram",
+      "dob": "1997-08-06",
+      "caps": 33,
+      "goals": 3,
+      "club": "Inter Milan"
+    },
+    {
+      "pos": "FW",
+      "name": "Bradley Barcola",
+      "dob": "2002-09-02",
+      "caps": 18,
+      "goals": 3,
+      "club": "Paris Saint-Germain"
+    },
+    {
+      "pos": "FW",
+      "name": "Michael Olise",
+      "dob": "2001-12-12",
+      "caps": 15,
+      "goals": 4,
+      "club": "Bayern Munich"
+    },
+    {
+      "pos": "FW",
+      "name": "Désiré Doué",
+      "dob": "2005-06-03",
+      "caps": 6,
+      "goals": 2,
+      "club": "Paris Saint-Germain"
+    },
+    {
+      "pos": "FW",
+      "name": "Rayan Cherki",
+      "dob": "2003-08-17",
+      "caps": 5,
+      "goals": 1,
+      "club": "Manchester City"
+    },
+    {
+      "pos": "FW",
+      "name": "Maghnes Akliouche",
+      "dob": "2002-02-25",
+      "caps": 7,
+      "goals": 1,
+      "club": "Monaco"
+    },
+    {
+      "pos": "FW",
+      "name": "Jean-Philippe Mateta",
+      "dob": "1997-06-28",
+      "caps": 3,
+      "goals": 2,
+      "club": "Crystal Palace"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "name": "Algeria",
+  "group": "J",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Rais M'Bolhi",
+      "dob": "1986-04-25",
+      "caps": 102,
+      "goals": 0,
+      "club": "ES Sétif",
+      "captain": true
+    },
+    {
+      "pos": "GK",
+      "name": "Alexandre Oukidja",
+      "dob": "1988-11-30",
+      "caps": 34,
+      "goals": 0,
+      "club": "Strasbourg"
+    },
+    {
+      "pos": "GK",
+      "name": "Farouk Chafai",
+      "dob": "1994-01-10",
+      "caps": 8,
+      "goals": 0,
+      "club": "MC Alger"
+    },
+    {
+      "pos": "DF",
+      "name": "Aissa Mandi",
+      "dob": "1991-10-22",
+      "caps": 82,
+      "goals": 4,
+      "club": "Villarreal"
+    },
+    {
+      "pos": "DF",
+      "name": "Ramy Bensebaini",
+      "dob": "1995-04-16",
+      "caps": 50,
+      "goals": 10,
+      "club": "Borussia Dortmund"
+    },
+    {
+      "pos": "DF",
+      "name": "Djamel Benlamri",
+      "dob": "1989-04-25",
+      "caps": 47,
+      "goals": 1,
+      "club": "Al-Shabab"
+    },
+    {
+      "pos": "DF",
+      "name": "Hicham Boudaoui",
+      "dob": "1999-08-28",
+      "caps": 32,
+      "goals": 1,
+      "club": "Nice"
+    },
+    {
+      "pos": "DF",
+      "name": "Mohamed Amine Tougai",
+      "dob": "2003-08-25",
+      "caps": 9,
+      "goals": 1,
+      "club": "Brest"
+    },
+    {
+      "pos": "DF",
+      "name": "Abdelkader Bedrane",
+      "dob": "1993-12-03",
+      "caps": 15,
+      "goals": 0,
+      "club": "Paradou"
+    },
+    {
+      "pos": "MF",
+      "name": "Sofiane Feghouli",
+      "dob": "1989-12-26",
+      "caps": 96,
+      "goals": 13,
+      "club": "Al-Ittihad"
+    },
+    {
+      "pos": "MF",
+      "name": "Nacer Chadli",
+      "dob": "1989-08-02",
+      "caps": 66,
+      "goals": 17,
+      "club": "Anderlecht"
+    },
+    {
+      "pos": "MF",
+      "name": "Said Benrahma",
+      "dob": "1995-08-10",
+      "caps": 43,
+      "goals": 9,
+      "club": "Lyon"
+    },
+    {
+      "pos": "MF",
+      "name": "Ismaël Bennacer",
+      "dob": "1997-12-01",
+      "caps": 47,
+      "goals": 1,
+      "club": "Milan"
+    },
+    {
+      "pos": "MF",
+      "name": "Ramiz Zerrouki",
+      "dob": "2000-01-16",
+      "caps": 22,
+      "goals": 2,
+      "club": "Twente"
+    },
+    {
+      "pos": "MF",
+      "name": "Yacine Adli",
+      "dob": "2000-07-29",
+      "caps": 22,
+      "goals": 3,
+      "club": "Fiorentina"
+    },
+    {
+      "pos": "FW",
+      "name": "Islam Slimani",
+      "dob": "1988-06-18",
+      "caps": 103,
+      "goals": 43,
+      "club": "Belouizdad"
+    },
+    {
+      "pos": "FW",
+      "name": "Riyad Mahrez",
+      "dob": "1991-02-21",
+      "caps": 88,
+      "goals": 29,
+      "club": "Al-Ahli"
+    },
+    {
+      "pos": "FW",
+      "name": "Baghdad Bounedjah",
+      "dob": "1991-11-24",
+      "caps": 49,
+      "goals": 26,
+      "club": "Al-Sadd"
+    },
+    {
+      "pos": "FW",
+      "name": "Youcef Belaïli",
+      "dob": "1992-07-26",
+      "caps": 64,
+      "goals": 14,
+      "club": "MC Alger"
+    },
+    {
+      "pos": "FW",
+      "name": "Adam Ounas",
+      "dob": "1996-11-11",
+      "caps": 36,
+      "goals": 7,
+      "club": "Galatasaray"
+    }
+  ]
+}

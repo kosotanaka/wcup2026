@@ -1,0 +1,183 @@
+{
+  "name": "Austria",
+  "group": "J",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Alexander Schlager",
+      "dob": "1996-02-01",
+      "caps": 25,
+      "goals": 0,
+      "club": "Red Bull Salzburg"
+    },
+    {
+      "pos": "GK",
+      "name": "Patrick Pentz",
+      "dob": "1997-01-02",
+      "caps": 18,
+      "goals": 0,
+      "club": "Brøndby"
+    },
+    {
+      "pos": "GK",
+      "name": "Florian Wiegele",
+      "dob": "2001-03-21",
+      "caps": 1,
+      "goals": 0,
+      "club": "Viktoria Plzeň"
+    },
+    {
+      "pos": "DF",
+      "name": "David Alaba",
+      "dob": "1992-06-24",
+      "caps": 112,
+      "goals": 15,
+      "club": "Real Madrid",
+      "captain": true
+    },
+    {
+      "pos": "DF",
+      "name": "Stefan Posch",
+      "dob": "1997-05-14",
+      "caps": 51,
+      "goals": 5,
+      "club": "Mainz 05"
+    },
+    {
+      "pos": "DF",
+      "name": "Philipp Lienhart",
+      "dob": "1996-07-11",
+      "caps": 40,
+      "goals": 3,
+      "club": "SC Freiburg"
+    },
+    {
+      "pos": "DF",
+      "name": "Kevin Danso",
+      "dob": "1998-09-19",
+      "caps": 31,
+      "goals": 0,
+      "club": "Tottenham Hotspur"
+    },
+    {
+      "pos": "DF",
+      "name": "Phillipp Mwene",
+      "dob": "1994-01-29",
+      "caps": 29,
+      "goals": 0,
+      "club": "Mainz 05"
+    },
+    {
+      "pos": "DF",
+      "name": "Alexander Prass",
+      "dob": "2001-05-26",
+      "caps": 18,
+      "goals": 0,
+      "club": "TSG Hoffenheim"
+    },
+    {
+      "pos": "DF",
+      "name": "Marco Friedl",
+      "dob": "1998-03-16",
+      "caps": 10,
+      "goals": 0,
+      "club": "Werder Bremen"
+    },
+    {
+      "pos": "MF",
+      "name": "Marcel Sabitzer",
+      "dob": "1994-03-17",
+      "caps": 97,
+      "goals": 25,
+      "club": "Borussia Dortmund"
+    },
+    {
+      "pos": "MF",
+      "name": "Florian Grillitsch",
+      "dob": "1995-08-07",
+      "caps": 58,
+      "goals": 1,
+      "club": "Braga"
+    },
+    {
+      "pos": "MF",
+      "name": "Konrad Laimer",
+      "dob": "1997-05-27",
+      "caps": 56,
+      "goals": 7,
+      "club": "Bayern Munich"
+    },
+    {
+      "pos": "MF",
+      "name": "Xaver Schlager",
+      "dob": "1997-09-28",
+      "caps": 50,
+      "goals": 4,
+      "club": "RB Leipzig"
+    },
+    {
+      "pos": "MF",
+      "name": "Nicolas Seiwald",
+      "dob": "2001-05-04",
+      "caps": 46,
+      "goals": 1,
+      "club": "RB Leipzig"
+    },
+    {
+      "pos": "MF",
+      "name": "Christoph Baumgartner",
+      "dob": "1999-08-01",
+      "caps": 58,
+      "goals": 19,
+      "club": "RB Leipzig"
+    },
+    {
+      "pos": "MF",
+      "name": "Romano Schmid",
+      "dob": "2000-01-27",
+      "caps": 33,
+      "goals": 3,
+      "club": "Werder Bremen"
+    },
+    {
+      "pos": "MF",
+      "name": "Patrick Wimmer",
+      "dob": "2001-05-30",
+      "caps": 30,
+      "goals": 1,
+      "club": "VfL Wolfsburg"
+    },
+    {
+      "pos": "FW",
+      "name": "Marko Arnautović",
+      "dob": "1989-04-19",
+      "caps": 132,
+      "goals": 47,
+      "club": "Red Star Belgrade"
+    },
+    {
+      "pos": "FW",
+      "name": "Michael Gregoritsch",
+      "dob": "1994-04-18",
+      "caps": 74,
+      "goals": 24,
+      "club": "FC Augsburg"
+    },
+    {
+      "pos": "FW",
+      "name": "Saša Kalajdžić",
+      "dob": "1997-07-07",
+      "caps": 21,
+      "goals": 4,
+      "club": "LASK"
+    },
+    {
+      "pos": "FW",
+      "name": "Carney Chukwuemeka",
+      "dob": "2003-10-20",
+      "caps": 2,
+      "goals": 1,
+      "club": "Borussia Dortmund"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "name": "Saudi Arabia",
+  "group": "H",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Mohammed Al-Owais",
+      "dob": "1991-10-10",
+      "caps": 62,
+      "goals": 0,
+      "club": "Al-Ula"
+    },
+    {
+      "pos": "GK",
+      "name": "Nawaf Al-Aqidi",
+      "dob": "2000-05-10",
+      "caps": 22,
+      "goals": 0,
+      "club": "Al-Nassr"
+    },
+    {
+      "pos": "GK",
+      "name": "Ahmed Al-Kassar",
+      "dob": "1991-05-08",
+      "caps": 8,
+      "goals": 0,
+      "club": "Al-Qadsiah"
+    },
+    {
+      "pos": "DF",
+      "name": "Saud Abdulhamid",
+      "dob": "1999-07-18",
+      "caps": 53,
+      "goals": 1,
+      "club": "Lens"
+    },
+    {
+      "pos": "DF",
+      "name": "Hassan Al-Tambakti",
+      "dob": "1999-02-09",
+      "caps": 50,
+      "goals": 0,
+      "club": "Al-Hilal"
+    },
+    {
+      "pos": "DF",
+      "name": "Abdulelah Al-Amri",
+      "dob": "1997-01-15",
+      "caps": 40,
+      "goals": 1,
+      "club": "Al-Nassr"
+    },
+    {
+      "pos": "DF",
+      "name": "Nawaf Boushal",
+      "dob": "1999-09-16",
+      "caps": 23,
+      "goals": 0,
+      "club": "Al-Nassr"
+    },
+    {
+      "pos": "DF",
+      "name": "Ali Majrashi",
+      "dob": "1999-10-02",
+      "caps": 20,
+      "goals": 0,
+      "club": "Al-Ahli"
+    },
+    {
+      "pos": "DF",
+      "name": "Ali Lajami",
+      "dob": "1996-04-24",
+      "caps": 19,
+      "goals": 1,
+      "club": "Al-Hilal"
+    },
+    {
+      "pos": "MF",
+      "name": "Salem Al-Dawsari",
+      "dob": "1991-08-19",
+      "caps": 107,
+      "goals": 26,
+      "club": "Al-Hilal",
+      "captain": true
+    },
+    {
+      "pos": "MF",
+      "name": "Mohamed Kanno",
+      "dob": "1994-09-22",
+      "caps": 74,
+      "goals": 8,
+      "club": "Al-Hilal"
+    },
+    {
+      "pos": "MF",
+      "name": "Nasser Al-Dawsari",
+      "dob": "1998-12-19",
+      "caps": 41,
+      "goals": 0,
+      "club": "Al-Hilal"
+    },
+    {
+      "pos": "MF",
+      "name": "Abdullah Al-Khaibari",
+      "dob": "1996-08-16",
+      "caps": 37,
+      "goals": 0,
+      "club": "Al-Nassr"
+    },
+    {
+      "pos": "MF",
+      "name": "Musab Al-Juwayr",
+      "dob": "2003-06-20",
+      "caps": 32,
+      "goals": 6,
+      "club": "Al-Qadsiah"
+    },
+    {
+      "pos": "MF",
+      "name": "Ayman Yahya",
+      "dob": "2001-05-14",
+      "caps": 25,
+      "goals": 0,
+      "club": "Al-Nassr"
+    },
+    {
+      "pos": "FW",
+      "name": "Firas Al-Buraikan",
+      "dob": "2000-05-14",
+      "caps": 68,
+      "goals": 15,
+      "club": "Al-Ahli"
+    },
+    {
+      "pos": "FW",
+      "name": "Saleh Al-Shehri",
+      "dob": "1993-11-01",
+      "caps": 55,
+      "goals": 18,
+      "club": "Al-Ittihad"
+    },
+    {
+      "pos": "FW",
+      "name": "Abdullah Al-Hamdan",
+      "dob": "1999-09-13",
+      "caps": 47,
+      "goals": 11,
+      "club": "Al-Nassr"
+    }
+  ]
+}
