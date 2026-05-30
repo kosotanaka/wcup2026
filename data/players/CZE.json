@@ -8,7 +8,18 @@
       "dob": "2000-05-17",
       "caps": 19,
       "goals": 0,
-      "club": "PSV Eindhoven"
+      "club": "PSV Eindhoven",
+      "eafc26": {
+        "overall": 75,
+        "potential": 80,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 242948
+      }
     },
     {
       "pos": "GK",
@@ -16,7 +27,18 @@
       "dob": "1996-04-27",
       "caps": 14,
       "goals": 0,
-      "club": "Slavia Prague"
+      "club": "Slavia Prague",
+      "eafc26": {
+        "overall": 76,
+        "potential": 76,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 221909
+      }
     },
     {
       "pos": "GK",
@@ -24,7 +46,18 @@
       "dob": "2002-07-13",
       "caps": 0,
       "goals": 0,
-      "club": "Braga"
+      "club": "Braga",
+      "eafc26": {
+        "overall": 73,
+        "potential": 83,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 258936
+      }
     },
     {
       "pos": "DF",
@@ -32,7 +65,18 @@
       "dob": "1992-08-22",
       "caps": 61,
       "goals": 2,
-      "club": "TSG Hoffenheim"
+      "club": "TSG Hoffenheim",
+      "eafc26": {
+        "overall": 73,
+        "potential": 73,
+        "pace": 58,
+        "shooting": 56,
+        "passing": 70,
+        "dribbling": 70,
+        "defending": 74,
+        "physicality": 71,
+        "player_id": 244470
+      }
     },
     {
       "pos": "DF",
@@ -40,7 +84,18 @@
       "dob": "1993-03-31",
       "caps": 39,
       "goals": 2,
-      "club": "Slavia Prague"
+      "club": "Slavia Prague",
+      "eafc26": {
+        "overall": 76,
+        "potential": 76,
+        "pace": 74,
+        "shooting": 58,
+        "passing": 69,
+        "dribbling": 69,
+        "defending": 75,
+        "physicality": 80,
+        "player_id": 251116
+      }
     },
     {
       "pos": "DF",
@@ -49,7 +104,18 @@
       "caps": 25,
       "goals": 5,
       "club": "Wolverhampton Wanderers",
-      "captain": true
+      "captain": true,
+      "eafc26": {
+        "overall": 78,
+        "potential": 82,
+        "pace": 72,
+        "shooting": 68,
+        "passing": 68,
+        "dribbling": 69,
+        "defending": 76,
+        "physicality": 84,
+        "player_id": 252064
+      }
     },
     {
       "pos": "DF",
@@ -57,7 +123,18 @@
       "dob": "2000-11-08",
       "caps": 24,
       "goals": 1,
-      "club": "Slavia Prague"
+      "club": "Slavia Prague",
+      "eafc26": {
+        "overall": 74,
+        "potential": 77,
+        "pace": 76,
+        "shooting": 38,
+        "passing": 54,
+        "dribbling": 62,
+        "defending": 75,
+        "physicality": 75,
+        "player_id": 255687
+      }
     },
     {
       "pos": "DF",
@@ -65,7 +142,18 @@
       "dob": "1992-08-20",
       "caps": 21,
       "goals": 0,
-      "club": "Sparta Prague"
+      "club": "Sparta Prague",
+      "eafc26": {
+        "overall": 72,
+        "potential": 72,
+        "pace": 74,
+        "shooting": 62,
+        "passing": 69,
+        "dribbling": 70,
+        "defending": 71,
+        "physicality": 75,
+        "player_id": 199323
+      }
     },
     {
       "pos": "DF",
@@ -73,7 +161,18 @@
       "dob": "2000-08-07",
       "caps": 16,
       "goals": 1,
-      "club": "Slavia Prague"
+      "club": "Slavia Prague",
+      "eafc26": {
+        "overall": 73,
+        "potential": 77,
+        "pace": 83,
+        "shooting": 61,
+        "passing": 68,
+        "dribbling": 72,
+        "defending": 67,
+        "physicality": 74,
+        "player_id": 267594
+      }
     },
     {
       "pos": "DF",
@@ -81,7 +180,18 @@
       "dob": "1998-05-31",
       "caps": 15,
       "goals": 2,
-      "club": "Slavia Prague"
+      "club": "Slavia Prague",
+      "eafc26": {
+        "overall": 74,
+        "potential": 74,
+        "pace": 89,
+        "shooting": 66,
+        "passing": 65,
+        "dribbling": 72,
+        "defending": 65,
+        "physicality": 67,
+        "player_id": 269509
+      }
     },
     {
       "pos": "DF",
@@ -89,7 +199,18 @@
       "dob": "2000-01-29",
       "caps": 12,
       "goals": 1,
-      "club": "TSG Hoffenheim"
+      "club": "TSG Hoffenheim",
+      "eafc26": {
+        "overall": 71,
+        "potential": 74,
+        "pace": 75,
+        "shooting": 38,
+        "passing": 51,
+        "dribbling": 52,
+        "defending": 70,
+        "physicality": 76,
+        "player_id": 276646
+      }
     },
     {
       "pos": "DF",
@@ -97,7 +218,18 @@
       "dob": "2003-03-08",
       "caps": 3,
       "goals": 0,
-      "club": "Slavia Prague"
+      "club": "Slavia Prague",
+      "eafc26": {
+        "overall": 70,
+        "potential": 76,
+        "pace": 69,
+        "shooting": 34,
+        "passing": 52,
+        "dribbling": 57,
+        "defending": 68,
+        "physicality": 76,
+        "player_id": 73456
+      }
     },
     {
       "pos": "MF",
@@ -105,7 +237,18 @@
       "dob": "1995-02-27",
       "caps": 89,
       "goals": 17,
-      "club": "West Ham United"
+      "club": "West Ham United",
+      "eafc26": {
+        "overall": 78,
+        "potential": 78,
+        "pace": 45,
+        "shooting": 72,
+        "passing": 71,
+        "dribbling": 68,
+        "defending": 78,
+        "physicality": 82,
+        "player_id": 236792
+      }
     },
     {
       "pos": "MF",
@@ -121,7 +264,18 @@
       "dob": "1996-10-23",
       "caps": 37,
       "goals": 3,
-      "club": "Slavia Prague"
+      "club": "Slavia Prague",
+      "eafc26": {
+        "overall": 78,
+        "potential": 78,
+        "pace": 76,
+        "shooting": 75,
+        "passing": 78,
+        "dribbling": 78,
+        "defending": 64,
+        "physicality": 82,
+        "player_id": 253727
+      }
     },
     {
       "pos": "MF",
@@ -129,7 +283,18 @@
       "dob": "1999-05-31",
       "caps": 33,
       "goals": 1,
-      "club": "Slavia Prague"
+      "club": "Slavia Prague",
+      "eafc26": {
+        "overall": 76,
+        "potential": 78,
+        "pace": 53,
+        "shooting": 58,
+        "passing": 75,
+        "dribbling": 71,
+        "defending": 72,
+        "physicality": 79,
+        "player_id": 245209
+      }
     },
     {
       "pos": "MF",
@@ -137,7 +302,18 @@
       "dob": "2000-12-29",
       "caps": 20,
       "goals": 5,
-      "club": "Lyon"
+      "club": "Lyon",
+      "eafc26": {
+        "overall": 77,
+        "potential": 80,
+        "pace": 71,
+        "shooting": 73,
+        "passing": 74,
+        "dribbling": 77,
+        "defending": 39,
+        "physicality": 64,
+        "player_id": 247050
+      }
     },
     {
       "pos": "MF",
@@ -145,7 +321,18 @@
       "dob": "2001-04-10",
       "caps": 15,
       "goals": 2,
-      "club": "Viktoria Plzeň"
+      "club": "Viktoria Plzeň",
+      "eafc26": {
+        "overall": 74,
+        "potential": 78,
+        "pace": 69,
+        "shooting": 65,
+        "passing": 67,
+        "dribbling": 69,
+        "defending": 71,
+        "physicality": 78,
+        "player_id": 71259
+      }
     },
     {
       "pos": "MF",
@@ -153,7 +340,18 @@
       "dob": "1997-05-24",
       "caps": 1,
       "goals": 0,
-      "club": "Viktoria Plzeň"
+      "club": "Viktoria Plzeň",
+      "eafc26": {
+        "overall": 72,
+        "potential": 72,
+        "pace": 74,
+        "shooting": 69,
+        "passing": 71,
+        "dribbling": 73,
+        "defending": 45,
+        "physicality": 64,
+        "player_id": 79948
+      }
     },
     {
       "pos": "MF",
@@ -161,7 +359,18 @@
       "dob": "1998-03-11",
       "caps": 0,
       "goals": 0,
-      "club": "FC Cincinnati"
+      "club": "FC Cincinnati",
+      "eafc26": {
+        "overall": 75,
+        "potential": 76,
+        "pace": 71,
+        "shooting": 70,
+        "passing": 74,
+        "dribbling": 76,
+        "defending": 69,
+        "physicality": 71,
+        "player_id": 244788
+      }
     },
     {
       "pos": "MF",
@@ -185,7 +394,18 @@
       "dob": "2003-03-21",
       "caps": 0,
       "goals": 0,
-      "club": "Viktoria Plzeň"
+      "club": "Viktoria Plzeň",
+      "eafc26": {
+        "overall": 68,
+        "potential": 74,
+        "pace": 76,
+        "shooting": 61,
+        "passing": 65,
+        "dribbling": 69,
+        "defending": 47,
+        "physicality": 59,
+        "player_id": 80073
+      }
     },
     {
       "pos": "FW",
@@ -193,7 +413,18 @@
       "dob": "1996-01-24",
       "caps": 52,
       "goals": 25,
-      "club": "Bayer Leverkusen"
+      "club": "Bayer Leverkusen",
+      "eafc26": {
+        "overall": 85,
+        "potential": 85,
+        "pace": 72,
+        "shooting": 83,
+        "passing": 71,
+        "dribbling": 81,
+        "defending": 38,
+        "physicality": 77,
+        "player_id": 234236
+      }
     },
     {
       "pos": "FW",
@@ -201,7 +432,18 @@
       "dob": "2002-07-25",
       "caps": 41,
       "goals": 4,
-      "club": "TSG Hoffenheim"
+      "club": "TSG Hoffenheim",
+      "eafc26": {
+        "overall": 77,
+        "potential": 83,
+        "pace": 78,
+        "shooting": 78,
+        "passing": 72,
+        "dribbling": 77,
+        "defending": 31,
+        "physicality": 79,
+        "player_id": 246618
+      }
     },
     {
       "pos": "FW",
@@ -209,7 +451,18 @@
       "dob": "1997-01-08",
       "caps": 30,
       "goals": 3,
-      "club": "Sparta Prague"
+      "club": "Sparta Prague",
+      "eafc26": {
+        "overall": 73,
+        "potential": 73,
+        "pace": 77,
+        "shooting": 71,
+        "passing": 64,
+        "dribbling": 71,
+        "defending": 34,
+        "physicality": 80,
+        "player_id": 257536
+      }
     },
     {
       "pos": "FW",
@@ -217,7 +470,18 @@
       "dob": "1995-01-26",
       "caps": 21,
       "goals": 6,
-      "club": "Slavia Prague"
+      "club": "Slavia Prague",
+      "eafc26": {
+        "overall": 75,
+        "potential": 75,
+        "pace": 57,
+        "shooting": 75,
+        "passing": 60,
+        "dribbling": 64,
+        "defending": 32,
+        "physicality": 88,
+        "player_id": 244793
+      }
     },
     {
       "pos": "FW",
@@ -225,7 +489,18 @@
       "dob": "1999-04-29",
       "caps": 21,
       "goals": 6,
-      "club": "Slavia Prague"
+      "club": "Slavia Prague",
+      "eafc26": {
+        "overall": 74,
+        "potential": 76,
+        "pace": 73,
+        "shooting": 72,
+        "passing": 55,
+        "dribbling": 68,
+        "defending": 29,
+        "physicality": 81,
+        "player_id": 274906
+      }
     },
     {
       "pos": "FW",
@@ -233,7 +508,18 @@
       "dob": "2003-08-27",
       "caps": 0,
       "goals": 0,
-      "club": "Mladá Boleslav"
+      "club": "Mladá Boleslav",
+      "eafc26": {
+        "overall": 68,
+        "potential": 78,
+        "pace": 68,
+        "shooting": 70,
+        "passing": 57,
+        "dribbling": 66,
+        "defending": 25,
+        "physicality": 69,
+        "player_id": 72936
+      }
     }
   ]
 }

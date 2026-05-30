@@ -24,7 +24,18 @@
       "dob": "2002-05-15",
       "caps": 4,
       "goals": 0,
-      "club": "Telstar"
+      "club": "Telstar",
+      "eafc26": {
+        "overall": 60,
+        "potential": 69,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 79028
+      }
     },
     {
       "pos": "DF",
@@ -48,7 +59,18 @@
       "dob": "1998-08-23",
       "caps": 26,
       "goals": 0,
-      "club": "PEC Zwolle"
+      "club": "PEC Zwolle",
+      "eafc26": {
+        "overall": 66,
+        "potential": 67,
+        "pace": 82,
+        "shooting": 42,
+        "passing": 55,
+        "dribbling": 67,
+        "defending": 62,
+        "physicality": 73,
+        "player_id": 233098
+      }
     },
     {
       "pos": "DF",
@@ -72,7 +94,18 @@
       "dob": "2001-08-19",
       "caps": 7,
       "goals": 0,
-      "club": "Sparta Rotterdam"
+      "club": "Sparta Rotterdam",
+      "eafc26": {
+        "overall": 68,
+        "potential": 75,
+        "pace": 78,
+        "shooting": 45,
+        "passing": 59,
+        "dribbling": 67,
+        "defending": 63,
+        "physicality": 72,
+        "player_id": 260099
+      }
     },
     {
       "pos": "DF",
@@ -105,7 +138,18 @@
       "dob": "1997-08-07",
       "caps": 47,
       "goals": 14,
-      "club": "Volendam"
+      "club": "Volendam",
+      "eafc26": {
+        "overall": 69,
+        "potential": 70,
+        "pace": 73,
+        "shooting": 68,
+        "passing": 69,
+        "dribbling": 72,
+        "defending": 63,
+        "physicality": 76,
+        "player_id": 226677
+      }
     },
     {
       "pos": "MF",
@@ -121,7 +165,18 @@
       "dob": "2004-02-03",
       "caps": 18,
       "goals": 1,
-      "club": "Zürich"
+      "club": "Zürich",
+      "eafc26": {
+        "overall": 62,
+        "potential": 76,
+        "pace": 74,
+        "shooting": 43,
+        "passing": 55,
+        "dribbling": 61,
+        "defending": 57,
+        "physicality": 61,
+        "player_id": 275206
+      }
     },
     {
       "pos": "MF",
@@ -137,7 +192,18 @@
       "dob": "2003-09-04",
       "caps": 8,
       "goals": 2,
-      "club": "Rotherham United"
+      "club": "Rotherham United",
+      "eafc26": {
+        "overall": 64,
+        "potential": 75,
+        "pace": 82,
+        "shooting": 49,
+        "passing": 60,
+        "dribbling": 67,
+        "defending": 56,
+        "physicality": 54,
+        "player_id": 264221
+      }
     },
     {
       "pos": "MF",
@@ -145,7 +211,18 @@
       "dob": "2002-09-11",
       "caps": 5,
       "goals": 1,
-      "club": "Telstar"
+      "club": "Telstar",
+      "eafc26": {
+        "overall": 66,
+        "potential": 73,
+        "pace": 81,
+        "shooting": 54,
+        "passing": 59,
+        "dribbling": 65,
+        "defending": 59,
+        "physicality": 67,
+        "player_id": 79032
+      }
     },
     {
       "pos": "FW",
@@ -185,7 +262,18 @@
       "dob": "1992-09-19",
       "caps": 34,
       "goals": 2,
-      "club": "Volendam"
+      "club": "Volendam",
+      "eafc26": {
+        "overall": 67,
+        "potential": 67,
+        "pace": 71,
+        "shooting": 69,
+        "passing": 65,
+        "dribbling": 70,
+        "defending": 33,
+        "physicality": 62,
+        "player_id": 228666
+      }
     },
     {
       "pos": "FW",
@@ -193,7 +281,18 @@
       "dob": "1999-12-04",
       "caps": 4,
       "goals": 2,
-      "club": "Sheffield United"
+      "club": "Sheffield United",
+      "eafc26": {
+        "overall": 71,
+        "potential": 76,
+        "pace": 77,
+        "shooting": 66,
+        "passing": 70,
+        "dribbling": 73,
+        "defending": 54,
+        "physicality": 63,
+        "player_id": 233510
+      }
     },
     {
       "pos": "FW",

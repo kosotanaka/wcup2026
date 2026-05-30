@@ -8,7 +8,18 @@
       "dob": "1991-03-16",
       "caps": 56,
       "goals": 0,
-      "club": "Nacional"
+      "club": "Nacional",
+      "eafc26": {
+        "overall": 72,
+        "potential": 72,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 202089
+      }
     },
     {
       "pos": "GK",
@@ -16,7 +27,18 @@
       "dob": "1994-12-25",
       "caps": 46,
       "goals": 0,
-      "club": "Al-Fayha"
+      "club": "Al-Fayha",
+      "eafc26": {
+        "overall": 70,
+        "potential": 71,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 263976
+      }
     },
     {
       "pos": "GK",
@@ -48,7 +70,18 @@
       "dob": "1996-02-11",
       "caps": 91,
       "goals": 9,
-      "club": "Beşiktaş"
+      "club": "Beşiktaş",
+      "eafc26": {
+        "overall": 76,
+        "potential": 76,
+        "pace": 84,
+        "shooting": 57,
+        "passing": 70,
+        "dribbling": 71,
+        "defending": 70,
+        "physicality": 76,
+        "player_id": 237841
+      }
     },
     {
       "pos": "DF",
@@ -64,7 +97,18 @@
       "dob": "1998-10-16",
       "caps": 47,
       "goals": 1,
-      "club": "LASK"
+      "club": "LASK",
+      "eafc26": {
+        "overall": 69,
+        "potential": 73,
+        "pace": 74,
+        "shooting": 51,
+        "passing": 60,
+        "dribbling": 64,
+        "defending": 68,
+        "physicality": 79,
+        "player_id": 252873
+      }
     },
     {
       "pos": "DF",
@@ -80,7 +124,18 @@
       "dob": "2001-06-03",
       "caps": 30,
       "goals": 1,
-      "club": "Norwich City"
+      "club": "Norwich City",
+      "eafc26": {
+        "overall": 68,
+        "potential": 74,
+        "pace": 72,
+        "shooting": 31,
+        "passing": 53,
+        "dribbling": 61,
+        "defending": 65,
+        "physicality": 73,
+        "player_id": 72708
+      }
     },
     {
       "pos": "MF",
@@ -89,7 +144,18 @@
       "caps": 159,
       "goals": 4,
       "club": "San Diego FC",
-      "captain": true
+      "captain": true,
+      "eafc26": {
+        "overall": 70,
+        "potential": 70,
+        "pace": 43,
+        "shooting": 56,
+        "passing": 65,
+        "dribbling": 67,
+        "defending": 64,
+        "physicality": 75,
+        "player_id": 217047
+      }
     },
     {
       "pos": "MF",
@@ -145,7 +211,18 @@
       "dob": "2000-02-03",
       "caps": 25,
       "goals": 2,
-      "club": "Minnesota United FC"
+      "club": "Minnesota United FC",
+      "eafc26": {
+        "overall": 65,
+        "potential": 69,
+        "pace": 53,
+        "shooting": 42,
+        "passing": 54,
+        "dribbling": 58,
+        "defending": 64,
+        "physicality": 73,
+        "player_id": 259568
+      }
     },
     {
       "pos": "FW",
@@ -153,7 +230,18 @@
       "dob": "1993-08-18",
       "caps": 65,
       "goals": 17,
-      "club": "Universidad Católica"
+      "club": "Universidad Católica",
+      "eafc26": {
+        "overall": 68,
+        "potential": 68,
+        "pace": 69,
+        "shooting": 68,
+        "passing": 58,
+        "dribbling": 68,
+        "defending": 33,
+        "physicality": 68,
+        "player_id": 243545
+      }
     },
     {
       "pos": "FW",

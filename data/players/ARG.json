@@ -8,7 +8,18 @@
       "dob": "1992-09-02",
       "caps": 59,
       "goals": 0,
-      "club": "Aston Villa"
+      "club": "Aston Villa",
+      "eafc26": {
+        "overall": 85,
+        "potential": 85,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 202811
+      }
     },
     {
       "pos": "GK",
@@ -16,7 +27,18 @@
       "dob": "1992-05-20",
       "caps": 7,
       "goals": 0,
-      "club": "Marseille"
+      "club": "Marseille",
+      "eafc26": {
+        "overall": 82,
+        "potential": 82,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 215316
+      }
     },
     {
       "pos": "GK",
@@ -24,7 +46,18 @@
       "dob": "1994-05-06",
       "caps": 3,
       "goals": 0,
-      "club": "Atlético Madrid"
+      "club": "Atlético Madrid",
+      "eafc26": {
+        "overall": 79,
+        "potential": 79,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 214979
+      }
     },
     {
       "pos": "DF",
@@ -32,7 +65,18 @@
       "dob": "1988-02-12",
       "caps": 130,
       "goals": 8,
-      "club": "Benfica"
+      "club": "Benfica",
+      "eafc26": {
+        "overall": 82,
+        "potential": 82,
+        "pace": 60,
+        "shooting": 57,
+        "passing": 64,
+        "dribbling": 62,
+        "defending": 83,
+        "physicality": 85,
+        "player_id": 192366
+      }
     },
     {
       "pos": "DF",
@@ -40,7 +84,18 @@
       "dob": "1992-08-31",
       "caps": 75,
       "goals": 1,
-      "club": "Lyon"
+      "club": "Lyon",
+      "eafc26": {
+        "overall": 78,
+        "potential": 78,
+        "pace": 67,
+        "shooting": 56,
+        "passing": 70,
+        "dribbling": 76,
+        "defending": 77,
+        "physicality": 76,
+        "player_id": 211256
+      }
     },
     {
       "pos": "DF",
@@ -48,7 +103,18 @@
       "dob": "1998-04-27",
       "caps": 49,
       "goals": 3,
-      "club": "Tottenham Hotspur"
+      "club": "Tottenham Hotspur",
+      "eafc26": {
+        "overall": 82,
+        "potential": 84,
+        "pace": 66,
+        "shooting": 48,
+        "passing": 62,
+        "dribbling": 65,
+        "defending": 83,
+        "physicality": 81,
+        "player_id": 232488
+      }
     },
     {
       "pos": "DF",
@@ -56,7 +122,18 @@
       "dob": "1998-04-06",
       "caps": 58,
       "goals": 1,
-      "club": "Atlético Madrid"
+      "club": "Atlético Madrid",
+      "eafc26": {
+        "overall": 79,
+        "potential": 80,
+        "pace": 82,
+        "shooting": 67,
+        "passing": 73,
+        "dribbling": 76,
+        "defending": 75,
+        "physicality": 71,
+        "player_id": 233084
+      }
     },
     {
       "pos": "DF",
@@ -64,7 +141,18 @@
       "dob": "1997-01-01",
       "caps": 38,
       "goals": 2,
-      "club": "River Plate"
+      "club": "River Plate",
+      "eafc26": {
+        "overall": 78,
+        "potential": 78,
+        "pace": 81,
+        "shooting": 63,
+        "passing": 71,
+        "dribbling": 77,
+        "defending": 74,
+        "physicality": 80,
+        "player_id": 231340
+      }
     },
     {
       "pos": "DF",
@@ -72,7 +160,18 @@
       "dob": "1998-01-18",
       "caps": 26,
       "goals": 1,
-      "club": "Manchester United"
+      "club": "Manchester United",
+      "eafc26": {
+        "overall": 81,
+        "potential": 82,
+        "pace": 67,
+        "shooting": 59,
+        "passing": 75,
+        "dribbling": 75,
+        "defending": 81,
+        "physicality": 80,
+        "player_id": 239301
+      }
     },
     {
       "pos": "DF",
@@ -80,7 +179,18 @@
       "dob": "1999-01-26",
       "caps": 11,
       "goals": 0,
-      "club": "Marseille"
+      "club": "Marseille",
+      "eafc26": {
+        "overall": 81,
+        "potential": 84,
+        "pace": 77,
+        "shooting": 46,
+        "passing": 65,
+        "dribbling": 69,
+        "defending": 82,
+        "physicality": 79,
+        "player_id": 242835
+      }
     },
     {
       "pos": "DF",
@@ -88,7 +198,18 @@
       "dob": "1999-05-28",
       "caps": 7,
       "goals": 0,
-      "club": "Marseille"
+      "club": "Marseille",
+      "eafc26": {
+        "overall": 79,
+        "potential": 83,
+        "pace": 74,
+        "shooting": 44,
+        "passing": 70,
+        "dribbling": 72,
+        "defending": 79,
+        "physicality": 81,
+        "player_id": 236804
+      }
     },
     {
       "pos": "MF",
@@ -96,7 +217,18 @@
       "dob": "1994-05-24",
       "caps": 85,
       "goals": 2,
-      "club": "Inter Miami CF"
+      "club": "Inter Miami CF",
+      "eafc26": {
+        "overall": 84,
+        "potential": 84,
+        "pace": 75,
+        "shooting": 78,
+        "passing": 83,
+        "dribbling": 83,
+        "defending": 76,
+        "physicality": 83,
+        "player_id": 212616
+      }
     },
     {
       "pos": "MF",
@@ -104,7 +236,18 @@
       "dob": "1994-06-29",
       "caps": 77,
       "goals": 5,
-      "club": "Boca Juniors"
+      "club": "Boca Juniors",
+      "eafc26": {
+        "overall": 78,
+        "potential": 78,
+        "pace": 62,
+        "shooting": 70,
+        "passing": 82,
+        "dribbling": 79,
+        "defending": 72,
+        "physicality": 74,
+        "player_id": 207439
+      }
     },
     {
       "pos": "MF",
@@ -112,7 +255,18 @@
       "dob": "1996-04-09",
       "caps": 65,
       "goals": 4,
-      "club": "Real Betis"
+      "club": "Real Betis",
+      "eafc26": {
+        "overall": 82,
+        "potential": 82,
+        "pace": 68,
+        "shooting": 81,
+        "passing": 82,
+        "dribbling": 84,
+        "defending": 68,
+        "physicality": 71,
+        "player_id": 226226
+      }
     },
     {
       "pos": "MF",
@@ -120,7 +274,18 @@
       "dob": "1998-12-24",
       "caps": 44,
       "goals": 6,
-      "club": "Liverpool"
+      "club": "Liverpool",
+      "eafc26": {
+        "overall": 87,
+        "potential": 88,
+        "pace": 66,
+        "shooting": 82,
+        "passing": 85,
+        "dribbling": 85,
+        "defending": 78,
+        "physicality": 76,
+        "player_id": 239837
+      }
     },
     {
       "pos": "MF",
@@ -128,7 +293,18 @@
       "dob": "2001-01-17",
       "caps": 40,
       "goals": 6,
-      "club": "Chelsea"
+      "club": "Chelsea",
+      "eafc26": {
+        "overall": 84,
+        "potential": 87,
+        "pace": 68,
+        "shooting": 75,
+        "passing": 85,
+        "dribbling": 81,
+        "defending": 73,
+        "physicality": 75,
+        "player_id": 247090
+      }
     },
     {
       "pos": "MF",
@@ -136,7 +312,18 @@
       "dob": "1998-10-05",
       "caps": 38,
       "goals": 0,
-      "club": "Bayer Leverkusen"
+      "club": "Bayer Leverkusen",
+      "eafc26": {
+        "overall": 84,
+        "potential": 86,
+        "pace": 62,
+        "shooting": 76,
+        "passing": 80,
+        "dribbling": 82,
+        "defending": 81,
+        "physicality": 71,
+        "player_id": 231521
+      }
     },
     {
       "pos": "FW",
@@ -145,7 +332,18 @@
       "caps": 198,
       "goals": 116,
       "club": "Inter Miami CF",
-      "captain": true
+      "captain": true,
+      "eafc26": {
+        "overall": 86,
+        "potential": 86,
+        "pace": 78,
+        "shooting": 85,
+        "passing": 85,
+        "dribbling": 90,
+        "defending": 33,
+        "physicality": 64,
+        "player_id": 158023
+      }
     },
     {
       "pos": "FW",
@@ -153,7 +351,18 @@
       "dob": "1997-08-22",
       "caps": 75,
       "goals": 36,
-      "club": "Inter Milan"
+      "club": "Inter Milan",
+      "eafc26": {
+        "overall": 88,
+        "potential": 88,
+        "pace": 81,
+        "shooting": 88,
+        "passing": 75,
+        "dribbling": 84,
+        "defending": 51,
+        "physicality": 83,
+        "player_id": 231478
+      }
     },
     {
       "pos": "FW",
@@ -161,7 +370,18 @@
       "dob": "2000-01-31",
       "caps": 51,
       "goals": 14,
-      "club": "Atlético Madrid"
+      "club": "Atlético Madrid",
+      "eafc26": {
+        "overall": 87,
+        "potential": 90,
+        "pace": 85,
+        "shooting": 87,
+        "passing": 81,
+        "dribbling": 87,
+        "defending": 57,
+        "physicality": 79,
+        "player_id": 246191
+      }
     },
     {
       "pos": "FW",
@@ -169,7 +389,18 @@
       "dob": "1998-04-06",
       "caps": 50,
       "goals": 6,
-      "club": "Atlético Madrid"
+      "club": "Atlético Madrid",
+      "eafc26": {
+        "overall": 78,
+        "potential": 78,
+        "pace": 82,
+        "shooting": 75,
+        "passing": 73,
+        "dribbling": 78,
+        "defending": 45,
+        "physicality": 61,
+        "player_id": 240690
+      }
     },
     {
       "pos": "FW",
@@ -177,7 +408,18 @@
       "dob": "2001-04-26",
       "caps": 14,
       "goals": 4,
-      "club": "Atlético Madrid"
+      "club": "Atlético Madrid",
+      "eafc26": {
+        "overall": 79,
+        "potential": 86,
+        "pace": 79,
+        "shooting": 74,
+        "passing": 79,
+        "dribbling": 83,
+        "defending": 51,
+        "physicality": 58,
+        "player_id": 245371
+      }
     },
     {
       "pos": "FW",
@@ -185,7 +427,18 @@
       "dob": "2002-12-18",
       "caps": 11,
       "goals": 1,
-      "club": "Atlético Madrid"
+      "club": "Atlético Madrid",
+      "eafc26": {
+        "overall": 81,
+        "potential": 86,
+        "pace": 91,
+        "shooting": 73,
+        "passing": 72,
+        "dribbling": 81,
+        "defending": 45,
+        "physicality": 81,
+        "player_id": 253396
+      }
     },
     {
       "pos": "FW",
@@ -193,7 +446,18 @@
       "dob": "2004-09-08",
       "caps": 8,
       "goals": 1,
-      "club": "Como"
+      "club": "Como",
+      "eafc26": {
+        "overall": 79,
+        "potential": 89,
+        "pace": 78,
+        "shooting": 71,
+        "passing": 77,
+        "dribbling": 82,
+        "defending": 51,
+        "physicality": 64,
+        "player_id": 277846
+      }
     }
   ]
 }

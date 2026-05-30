@@ -16,7 +16,18 @@
       "dob": "2000-02-25",
       "caps": 12,
       "goals": 0,
-      "club": "Guadalajara"
+      "club": "Guadalajara",
+      "eafc26": {
+        "overall": 72,
+        "potential": 76,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 73325
+      }
     },
     {
       "pos": "GK",
@@ -40,7 +51,18 @@
       "dob": "1998-01-29",
       "caps": 0,
       "goals": 0,
-      "club": "Pachuca"
+      "club": "Pachuca",
+      "eafc26": {
+        "overall": 72,
+        "potential": 75,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 245359
+      }
     },
     {
       "pos": "GK",
@@ -48,7 +70,18 @@
       "dob": "2003-09-01",
       "caps": 0,
       "goals": 0,
-      "club": "Athletic Bilbao"
+      "club": "Athletic Bilbao",
+      "eafc26": {
+        "overall": 68,
+        "potential": 79,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 271034
+      }
     },
     {
       "pos": "DF",
@@ -56,7 +89,18 @@
       "dob": "1994-08-15",
       "caps": 119,
       "goals": 3,
-      "club": "Toluca"
+      "club": "Toluca",
+      "eafc26": {
+        "overall": 75,
+        "potential": 75,
+        "pace": 83,
+        "shooting": 67,
+        "passing": 70,
+        "dribbling": 75,
+        "defending": 69,
+        "physicality": 75,
+        "player_id": 226045
+      }
     },
     {
       "pos": "DF",
@@ -64,7 +108,18 @@
       "dob": "1997-02-24",
       "caps": 65,
       "goals": 4,
-      "club": "Lokomotiv Moscow"
+      "club": "Lokomotiv Moscow",
+      "eafc26": {
+        "overall": 75,
+        "potential": 77,
+        "pace": 57,
+        "shooting": 46,
+        "passing": 60,
+        "dribbling": 63,
+        "defending": 74,
+        "physicality": 79,
+        "player_id": 229980
+      }
     },
     {
       "pos": "DF",
@@ -72,7 +127,18 @@
       "dob": "1997-12-10",
       "caps": 57,
       "goals": 3,
-      "club": "PAOK"
+      "club": "PAOK",
+      "eafc26": {
+        "overall": 73,
+        "potential": 74,
+        "pace": 84,
+        "shooting": 50,
+        "passing": 63,
+        "dribbling": 71,
+        "defending": 69,
+        "physicality": 78,
+        "player_id": 233493
+      }
     },
     {
       "pos": "DF",
@@ -80,7 +146,18 @@
       "dob": "1998-10-22",
       "caps": 44,
       "goals": 1,
-      "club": "Genoa"
+      "club": "Genoa",
+      "eafc26": {
+        "overall": 75,
+        "potential": 78,
+        "pace": 61,
+        "shooting": 33,
+        "passing": 58,
+        "dribbling": 60,
+        "defending": 76,
+        "physicality": 75,
+        "player_id": 244349
+      }
     },
     {
       "pos": "DF",
@@ -104,7 +181,18 @@
       "dob": "2001-08-13",
       "caps": 16,
       "goals": 0,
-      "club": "Celtic"
+      "club": "Celtic",
+      "eafc26": {
+        "overall": 74,
+        "potential": 81,
+        "pace": 83,
+        "shooting": 35,
+        "passing": 64,
+        "dribbling": 70,
+        "defending": 71,
+        "physicality": 73,
+        "player_id": 247678
+      }
     },
     {
       "pos": "DF",
@@ -112,7 +200,18 @@
       "dob": "2004-05-11",
       "caps": 8,
       "goals": 0,
-      "club": "AZ"
+      "club": "AZ",
+      "eafc26": {
+        "overall": 72,
+        "potential": 79,
+        "pace": 82,
+        "shooting": 45,
+        "passing": 64,
+        "dribbling": 71,
+        "defending": 65,
+        "physicality": 68,
+        "player_id": 78784
+      }
     },
     {
       "pos": "DF",
@@ -169,7 +268,18 @@
       "caps": 96,
       "goals": 7,
       "club": "Fenerbahçe",
-      "captain": true
+      "captain": true,
+      "eafc26": {
+        "overall": 78,
+        "potential": 79,
+        "pace": 65,
+        "shooting": 58,
+        "passing": 69,
+        "dribbling": 72,
+        "defending": 78,
+        "physicality": 79,
+        "player_id": 235844
+      }
     },
     {
       "pos": "MF",
@@ -177,7 +287,18 @@
       "dob": "1996-03-24",
       "caps": 90,
       "goals": 12,
-      "club": "AEK Athens"
+      "club": "AEK Athens",
+      "eafc26": {
+        "overall": 77,
+        "potential": 77,
+        "pace": 81,
+        "shooting": 74,
+        "passing": 72,
+        "dribbling": 81,
+        "defending": 68,
+        "physicality": 69,
+        "player_id": 224574
+      }
     },
     {
       "pos": "MF",
@@ -185,7 +306,18 @@
       "dob": "1997-01-03",
       "caps": 67,
       "goals": 0,
-      "club": "Cruz Azul"
+      "club": "Cruz Azul",
+      "eafc26": {
+        "overall": 76,
+        "potential": 76,
+        "pace": 77,
+        "shooting": 67,
+        "passing": 73,
+        "dribbling": 78,
+        "defending": 66,
+        "physicality": 68,
+        "player_id": 235389
+      }
     },
     {
       "pos": "MF",
@@ -193,7 +325,18 @@
       "dob": "1998-09-07",
       "caps": 66,
       "goals": 5,
-      "club": "Guadalajara"
+      "club": "Guadalajara",
+      "eafc26": {
+        "overall": 78,
+        "potential": 78,
+        "pace": 81,
+        "shooting": 71,
+        "passing": 78,
+        "dribbling": 76,
+        "defending": 53,
+        "physicality": 69,
+        "player_id": 237043
+      }
     },
     {
       "pos": "MF",
@@ -217,7 +360,18 @@
       "dob": "1999-09-27",
       "caps": 38,
       "goals": 3,
-      "club": "América"
+      "club": "América",
+      "eafc26": {
+        "overall": 78,
+        "potential": 81,
+        "pace": 74,
+        "shooting": 75,
+        "passing": 77,
+        "dribbling": 73,
+        "defending": 75,
+        "physicality": 72,
+        "player_id": 235537
+      }
     },
     {
       "pos": "MF",
@@ -225,7 +379,18 @@
       "dob": "2000-06-09",
       "caps": 33,
       "goals": 3,
-      "club": "UANL"
+      "club": "UANL",
+      "eafc26": {
+        "overall": 76,
+        "potential": 77,
+        "pace": 80,
+        "shooting": 66,
+        "passing": 70,
+        "dribbling": 82,
+        "defending": 52,
+        "physicality": 53,
+        "player_id": 237995
+      }
     },
     {
       "pos": "MF",
@@ -233,7 +398,18 @@
       "dob": "2000-05-08",
       "caps": 23,
       "goals": 0,
-      "club": "Cruz Azul"
+      "club": "Cruz Azul",
+      "eafc26": {
+        "overall": 73,
+        "potential": 80,
+        "pace": 74,
+        "shooting": 58,
+        "passing": 68,
+        "dribbling": 68,
+        "defending": 69,
+        "physicality": 74,
+        "player_id": 257784
+      }
     },
     {
       "pos": "MF",
@@ -241,7 +417,18 @@
       "dob": "2000-10-26",
       "caps": 17,
       "goals": 0,
-      "club": "Toluca"
+      "club": "Toluca",
+      "eafc26": {
+        "overall": 75,
+        "potential": 82,
+        "pace": 74,
+        "shooting": 65,
+        "passing": 75,
+        "dribbling": 75,
+        "defending": 68,
+        "physicality": 68,
+        "player_id": 244973
+      }
     },
     {
       "pos": "MF",
@@ -249,7 +436,18 @@
       "dob": "2002-06-19",
       "caps": 7,
       "goals": 1,
-      "club": "Guadalajara"
+      "club": "Guadalajara",
+      "eafc26": {
+        "overall": 78,
+        "potential": 79,
+        "pace": 65,
+        "shooting": 58,
+        "passing": 69,
+        "dribbling": 72,
+        "defending": 78,
+        "physicality": 79,
+        "player_id": 235844
+      }
     },
     {
       "pos": "MF",
@@ -281,7 +479,18 @@
       "dob": "2005-08-05",
       "caps": 5,
       "goals": 0,
-      "club": "Atlético Madrid"
+      "club": "Atlético Madrid",
+      "eafc26": {
+        "overall": 69,
+        "potential": 79,
+        "pace": 74,
+        "shooting": 52,
+        "passing": 64,
+        "dribbling": 73,
+        "defending": 63,
+        "physicality": 57,
+        "player_id": 263701
+      }
     },
     {
       "pos": "MF",
@@ -353,7 +562,18 @@
       "dob": "1991-05-05",
       "caps": 123,
       "goals": 44,
-      "club": "Fulham"
+      "club": "Fulham",
+      "eafc26": {
+        "overall": 77,
+        "potential": 77,
+        "pace": 57,
+        "shooting": 79,
+        "passing": 74,
+        "dribbling": 75,
+        "defending": 46,
+        "physicality": 79,
+        "player_id": 204838
+      }
     },
     {
       "pos": "FW",
@@ -361,7 +581,18 @@
       "dob": "1997-11-25",
       "caps": 50,
       "goals": 7,
-      "club": "Toluca"
+      "club": "Toluca",
+      "eafc26": {
+        "overall": 78,
+        "potential": 78,
+        "pace": 80,
+        "shooting": 78,
+        "passing": 77,
+        "dribbling": 80,
+        "defending": 32,
+        "physicality": 73,
+        "player_id": 233260
+      }
     },
     {
       "pos": "FW",
@@ -369,7 +600,18 @@
       "dob": "2001-04-18",
       "caps": 46,
       "goals": 6,
-      "club": "Milan"
+      "club": "Milan",
+      "eafc26": {
+        "overall": 79,
+        "potential": 84,
+        "pace": 78,
+        "shooting": 80,
+        "passing": 70,
+        "dribbling": 77,
+        "defending": 46,
+        "physicality": 69,
+        "player_id": 245152
+      }
     },
     {
       "pos": "FW",
@@ -377,7 +619,18 @@
       "dob": "2000-12-03",
       "caps": 25,
       "goals": 3,
-      "club": "Anderlecht"
+      "club": "Anderlecht",
+      "eafc26": {
+        "overall": 73,
+        "potential": 77,
+        "pace": 84,
+        "shooting": 68,
+        "passing": 68,
+        "dribbling": 75,
+        "defending": 48,
+        "physicality": 70,
+        "player_id": 246289
+      }
     },
     {
       "pos": "FW",
@@ -385,7 +638,18 @@
       "dob": "1997-03-24",
       "caps": 20,
       "goals": 2,
-      "club": "Al-Qadsiah"
+      "club": "Al-Qadsiah",
+      "eafc26": {
+        "overall": 80,
+        "potential": 80,
+        "pace": 88,
+        "shooting": 79,
+        "passing": 70,
+        "dribbling": 79,
+        "defending": 36,
+        "physicality": 83,
+        "player_id": 234579
+      }
     },
     {
       "pos": "FW",
@@ -401,7 +665,18 @@
       "dob": "1998-11-13",
       "caps": 9,
       "goals": 2,
-      "club": "Inter Miami CF"
+      "club": "Inter Miami CF",
+      "eafc26": {
+        "overall": 78,
+        "potential": 81,
+        "pace": 77,
+        "shooting": 79,
+        "passing": 68,
+        "dribbling": 75,
+        "defending": 34,
+        "physicality": 73,
+        "player_id": 237248
+      }
     },
     {
       "pos": "FW",

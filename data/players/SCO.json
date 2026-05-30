@@ -8,7 +8,18 @@
       "dob": "1982-12-31",
       "caps": 83,
       "goals": 0,
-      "club": "Heart of Midlothian"
+      "club": "Heart of Midlothian",
+      "eafc26": {
+        "overall": 67,
+        "potential": 67,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 53110
+      }
     },
     {
       "pos": "GK",
@@ -16,7 +27,18 @@
       "dob": "1996-01-22",
       "caps": 21,
       "goals": 0,
-      "club": "Nottingham Forest"
+      "club": "Nottingham Forest",
+      "eafc26": {
+        "overall": 72,
+        "potential": 74,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 216325
+      }
     },
     {
       "pos": "GK",
@@ -24,7 +46,18 @@
       "dob": "1996-01-23",
       "caps": 2,
       "goals": 0,
-      "club": "Rangers"
+      "club": "Rangers",
+      "eafc26": {
+        "overall": 67,
+        "potential": 67,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 225203
+      }
     },
     {
       "pos": "DF",
@@ -33,7 +66,18 @@
       "caps": 92,
       "goals": 4,
       "club": "Liverpool",
-      "captain": true
+      "captain": true,
+      "eafc26": {
+        "overall": 82,
+        "potential": 82,
+        "pace": 74,
+        "shooting": 61,
+        "passing": 80,
+        "dribbling": 77,
+        "defending": 79,
+        "physicality": 75,
+        "player_id": 216267
+      }
     },
     {
       "pos": "DF",
@@ -41,7 +85,18 @@
       "dob": "1991-11-20",
       "caps": 66,
       "goals": 2,
-      "club": "Hibernian"
+      "club": "Hibernian",
+      "eafc26": {
+        "overall": 70,
+        "potential": 70,
+        "pace": 52,
+        "shooting": 30,
+        "passing": 47,
+        "dribbling": 49,
+        "defending": 69,
+        "physicality": 78,
+        "player_id": 198904
+      }
     },
     {
       "pos": "DF",
@@ -49,7 +104,18 @@
       "dob": "1997-06-05",
       "caps": 55,
       "goals": 2,
-      "club": "Celtic"
+      "club": "Celtic",
+      "eafc26": {
+        "overall": 77,
+        "potential": 77,
+        "pace": 76,
+        "shooting": 60,
+        "passing": 75,
+        "dribbling": 76,
+        "defending": 75,
+        "physicality": 73,
+        "player_id": 226491
+      }
     },
     {
       "pos": "DF",
@@ -57,7 +123,18 @@
       "dob": "1996-11-12",
       "caps": 49,
       "goals": 1,
-      "club": "Dinamo Zagreb"
+      "club": "Dinamo Zagreb",
+      "eafc26": {
+        "overall": 75,
+        "potential": 77,
+        "pace": 60,
+        "shooting": 32,
+        "passing": 51,
+        "dribbling": 56,
+        "defending": 76,
+        "physicality": 80,
+        "player_id": 225974
+      }
     },
     {
       "pos": "DF",
@@ -65,7 +142,18 @@
       "dob": "1995-05-07",
       "caps": 37,
       "goals": 3,
-      "club": "Al-Ettifaq"
+      "club": "Al-Ettifaq",
+      "eafc26": {
+        "overall": 74,
+        "potential": 74,
+        "pace": 73,
+        "shooting": 56,
+        "passing": 63,
+        "dribbling": 64,
+        "defending": 71,
+        "physicality": 82,
+        "player_id": 225316
+      }
     },
     {
       "pos": "DF",
@@ -73,7 +161,18 @@
       "dob": "2001-10-16",
       "caps": 25,
       "goals": 1,
-      "club": "Everton"
+      "club": "Everton",
+      "eafc26": {
+        "overall": 71,
+        "potential": 76,
+        "pace": 71,
+        "shooting": 46,
+        "passing": 63,
+        "dribbling": 70,
+        "defending": 70,
+        "physicality": 69,
+        "player_id": 257896
+      }
     },
     {
       "pos": "DF",
@@ -81,7 +180,18 @@
       "dob": "1998-11-16",
       "caps": 25,
       "goals": 1,
-      "club": "Celtic"
+      "club": "Celtic",
+      "eafc26": {
+        "overall": 71,
+        "potential": 74,
+        "pace": 76,
+        "shooting": 59,
+        "passing": 69,
+        "dribbling": 70,
+        "defending": 64,
+        "physicality": 78,
+        "player_id": 234072
+      }
     },
     {
       "pos": "DF",
@@ -89,7 +199,18 @@
       "dob": "1996-09-25",
       "caps": 22,
       "goals": 2,
-      "club": "Rangers"
+      "club": "Rangers",
+      "eafc26": {
+        "overall": 73,
+        "potential": 74,
+        "pace": 73,
+        "shooting": 48,
+        "passing": 63,
+        "dribbling": 70,
+        "defending": 72,
+        "physicality": 77,
+        "player_id": 212516
+      }
     },
     {
       "pos": "DF",
@@ -97,7 +218,18 @@
       "dob": "2002-06-10",
       "caps": 19,
       "goals": 0,
-      "club": "Brentford"
+      "club": "Brentford",
+      "eafc26": {
+        "overall": 74,
+        "potential": 79,
+        "pace": 71,
+        "shooting": 54,
+        "passing": 70,
+        "dribbling": 73,
+        "defending": 74,
+        "physicality": 64,
+        "player_id": 248808
+      }
     },
     {
       "pos": "DF",
@@ -105,7 +237,18 @@
       "dob": "1995-12-20",
       "caps": 2,
       "goals": 0,
-      "club": "Wrexham"
+      "club": "Wrexham",
+      "eafc26": {
+        "overall": 71,
+        "potential": 71,
+        "pace": 51,
+        "shooting": 32,
+        "passing": 54,
+        "dribbling": 58,
+        "defending": 71,
+        "physicality": 76,
+        "player_id": 221281
+      }
     },
     {
       "pos": "MF",
@@ -113,7 +256,18 @@
       "dob": "1994-10-18",
       "caps": 85,
       "goals": 20,
-      "club": "Aston Villa"
+      "club": "Aston Villa",
+      "eafc26": {
+        "overall": 81,
+        "potential": 81,
+        "pace": 69,
+        "shooting": 77,
+        "passing": 78,
+        "dribbling": 80,
+        "defending": 77,
+        "physicality": 83,
+        "player_id": 210881
+      }
     },
     {
       "pos": "MF",
@@ -121,7 +275,18 @@
       "dob": "1996-12-08",
       "caps": 69,
       "goals": 14,
-      "club": "Napoli"
+      "club": "Napoli",
+      "eafc26": {
+        "overall": 85,
+        "potential": 85,
+        "pace": 76,
+        "shooting": 82,
+        "passing": 77,
+        "dribbling": 80,
+        "defending": 80,
+        "physicality": 85,
+        "player_id": 237238
+      }
     },
     {
       "pos": "MF",
@@ -129,7 +294,18 @@
       "dob": "1995-02-22",
       "caps": 66,
       "goals": 9,
-      "club": "Bournemouth"
+      "club": "Bournemouth",
+      "eafc26": {
+        "overall": 79,
+        "potential": 79,
+        "pace": 69,
+        "shooting": 70,
+        "passing": 77,
+        "dribbling": 78,
+        "defending": 74,
+        "physicality": 76,
+        "player_id": 213884
+      }
     },
     {
       "pos": "MF",
@@ -137,7 +313,18 @@
       "dob": "1992-01-08",
       "caps": 56,
       "goals": 3,
-      "club": "Norwich City"
+      "club": "Norwich City",
+      "eafc26": {
+        "overall": 72,
+        "potential": 72,
+        "pace": 58,
+        "shooting": 67,
+        "passing": 68,
+        "dribbling": 71,
+        "defending": 66,
+        "physicality": 73,
+        "player_id": 201368
+      }
     },
     {
       "pos": "MF",
@@ -145,7 +332,18 @@
       "dob": "2001-06-11",
       "caps": 45,
       "goals": 2,
-      "club": "Napoli"
+      "club": "Napoli",
+      "eafc26": {
+        "overall": 74,
+        "potential": 79,
+        "pace": 60,
+        "shooting": 58,
+        "passing": 74,
+        "dribbling": 76,
+        "defending": 69,
+        "physicality": 58,
+        "player_id": 245992
+      }
     },
     {
       "pos": "MF",
@@ -153,7 +351,18 @@
       "dob": "1999-08-24",
       "caps": 23,
       "goals": 1,
-      "club": "Bologna"
+      "club": "Bologna",
+      "eafc26": {
+        "overall": 78,
+        "potential": 81,
+        "pace": 72,
+        "shooting": 78,
+        "passing": 74,
+        "dribbling": 78,
+        "defending": 72,
+        "physicality": 75,
+        "player_id": 242280
+      }
     },
     {
       "pos": "MF",
@@ -161,7 +370,18 @@
       "dob": "2005-11-11",
       "caps": 12,
       "goals": 1,
-      "club": "Bournemouth"
+      "club": "Bournemouth",
+      "eafc26": {
+        "overall": 71,
+        "potential": 85,
+        "pace": 89,
+        "shooting": 61,
+        "passing": 63,
+        "dribbling": 75,
+        "defending": 28,
+        "physicality": 60,
+        "player_id": 266815
+      }
     },
     {
       "pos": "MF",
@@ -169,7 +389,18 @@
       "dob": "2006-06-09",
       "caps": 1,
       "goals": 0,
-      "club": "Kilmarnock"
+      "club": "Kilmarnock",
+      "eafc26": {
+        "overall": 63,
+        "potential": 84,
+        "pace": 63,
+        "shooting": 53,
+        "passing": 61,
+        "dribbling": 66,
+        "defending": 34,
+        "physicality": 44,
+        "player_id": 76784
+      }
     },
     {
       "pos": "FW",
@@ -177,7 +408,18 @@
       "dob": "1995-10-07",
       "caps": 50,
       "goals": 10,
-      "club": "Charlton Athletic"
+      "club": "Charlton Athletic",
+      "eafc26": {
+        "overall": 68,
+        "potential": 68,
+        "pace": 66,
+        "shooting": 67,
+        "passing": 52,
+        "dribbling": 64,
+        "defending": 29,
+        "physicality": 82,
+        "player_id": 247279
+      }
     },
     {
       "pos": "FW",
@@ -185,7 +427,18 @@
       "dob": "1996-07-13",
       "caps": 46,
       "goals": 11,
-      "club": "Torino"
+      "club": "Torino",
+      "eafc26": {
+        "overall": 77,
+        "potential": 77,
+        "pace": 82,
+        "shooting": 80,
+        "passing": 64,
+        "dribbling": 77,
+        "defending": 43,
+        "physicality": 72,
+        "player_id": 226093
+      }
     },
     {
       "pos": "FW",
@@ -193,7 +446,18 @@
       "dob": "1995-08-10",
       "caps": 18,
       "goals": 4,
-      "club": "Heart of Midlothian"
+      "club": "Heart of Midlothian",
+      "eafc26": {
+        "overall": 73,
+        "potential": 73,
+        "pace": 63,
+        "shooting": 75,
+        "passing": 66,
+        "dribbling": 72,
+        "defending": 28,
+        "physicality": 80,
+        "player_id": 216218
+      }
     },
     {
       "pos": "FW",
@@ -201,7 +465,18 @@
       "dob": "1999-02-15",
       "caps": 8,
       "goals": 1,
-      "club": "Ipswich Town"
+      "club": "Ipswich Town",
+      "eafc26": {
+        "overall": 72,
+        "potential": 74,
+        "pace": 73,
+        "shooting": 71,
+        "passing": 55,
+        "dribbling": 66,
+        "defending": 43,
+        "physicality": 74,
+        "player_id": 233602
+      }
     },
     {
       "pos": "FW",
@@ -209,7 +484,18 @@
       "dob": "1996-07-11",
       "caps": 2,
       "goals": 0,
-      "club": "Southampton"
+      "club": "Southampton",
+      "eafc26": {
+        "overall": 71,
+        "potential": 71,
+        "pace": 68,
+        "shooting": 71,
+        "passing": 57,
+        "dribbling": 64,
+        "defending": 30,
+        "physicality": 70,
+        "player_id": 244319
+      }
     }
   ]
 }

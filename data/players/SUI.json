@@ -8,7 +8,18 @@
       "dob": "1997-12-06",
       "caps": 20,
       "goals": 0,
-      "club": "Borussia Dortmund"
+      "club": "Borussia Dortmund",
+      "eafc26": {
+        "overall": 86,
+        "potential": 89,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 235073
+      }
     },
     {
       "pos": "GK",
@@ -16,7 +27,18 @@
       "dob": "1994-06-06",
       "caps": 12,
       "goals": 0,
-      "club": "Lorient"
+      "club": "Lorient",
+      "eafc26": {
+        "overall": 76,
+        "potential": 76,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 206003
+      }
     },
     {
       "pos": "GK",
@@ -24,7 +46,18 @@
       "dob": "2002-07-03",
       "caps": 0,
       "goals": 0,
-      "club": "Young Boys"
+      "club": "Young Boys",
+      "eafc26": {
+        "overall": 72,
+        "potential": 81,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 256726
+      }
     },
     {
       "pos": "DF",
@@ -32,7 +65,18 @@
       "dob": "1992-08-25",
       "caps": 136,
       "goals": 9,
-      "club": "Real Betis"
+      "club": "Real Betis",
+      "eafc26": {
+        "overall": 74,
+        "potential": 74,
+        "pace": 66,
+        "shooting": 69,
+        "passing": 78,
+        "dribbling": 74,
+        "defending": 70,
+        "physicality": 72,
+        "player_id": 193352
+      }
     },
     {
       "pos": "DF",
@@ -40,7 +84,18 @@
       "dob": "1995-07-19",
       "caps": 79,
       "goals": 4,
-      "club": "Inter Milan"
+      "club": "Inter Milan",
+      "eafc26": {
+        "overall": 82,
+        "potential": 82,
+        "pace": 74,
+        "shooting": 48,
+        "passing": 69,
+        "dribbling": 73,
+        "defending": 82,
+        "physicality": 81,
+        "player_id": 229237
+      }
     },
     {
       "pos": "DF",
@@ -48,7 +103,18 @@
       "dob": "1996-09-30",
       "caps": 65,
       "goals": 3,
-      "club": "Borussia Mönchengladbach"
+      "club": "Borussia Mönchengladbach",
+      "eafc26": {
+        "overall": 77,
+        "potential": 77,
+        "pace": 70,
+        "shooting": 39,
+        "passing": 63,
+        "dribbling": 65,
+        "defending": 78,
+        "physicality": 76,
+        "player_id": 221491
+      }
     },
     {
       "pos": "DF",
@@ -56,7 +122,18 @@
       "dob": "1993-03-05",
       "caps": 58,
       "goals": 5,
-      "club": "Mainz 05"
+      "club": "Mainz 05",
+      "eafc26": {
+        "overall": 72,
+        "potential": 72,
+        "pace": 73,
+        "shooting": 62,
+        "passing": 70,
+        "dribbling": 71,
+        "defending": 70,
+        "physicality": 72,
+        "player_id": 216158
+      }
     },
     {
       "pos": "DF",
@@ -64,7 +141,18 @@
       "dob": "1998-02-04",
       "caps": 20,
       "goals": 0,
-      "club": "Valencia"
+      "club": "Valencia",
+      "eafc26": {
+        "overall": 72,
+        "potential": 74,
+        "pace": 66,
+        "shooting": 49,
+        "passing": 61,
+        "dribbling": 55,
+        "defending": 72,
+        "physicality": 76,
+        "player_id": 233885
+      }
     },
     {
       "pos": "DF",
@@ -72,7 +160,18 @@
       "dob": "1998-03-24",
       "caps": 8,
       "goals": 0,
-      "club": "Hamburger SV"
+      "club": "Hamburger SV",
+      "eafc26": {
+        "overall": 75,
+        "potential": 76,
+        "pace": 73,
+        "shooting": 66,
+        "passing": 73,
+        "dribbling": 73,
+        "defending": 71,
+        "physicality": 73,
+        "player_id": 232839
+      }
     },
     {
       "pos": "DF",
@@ -80,7 +179,18 @@
       "dob": "2003-07-31",
       "caps": 6,
       "goals": 0,
-      "club": "Eintracht Frankfurt"
+      "club": "Eintracht Frankfurt",
+      "eafc26": {
+        "overall": 71,
+        "potential": 80,
+        "pace": 68,
+        "shooting": 27,
+        "passing": 51,
+        "dribbling": 48,
+        "defending": 69,
+        "physicality": 75,
+        "player_id": 270846
+      }
     },
     {
       "pos": "DF",
@@ -88,7 +198,18 @@
       "dob": "2003-06-02",
       "caps": 2,
       "goals": 0,
-      "club": "VfB Stuttgart"
+      "club": "VfB Stuttgart",
+      "eafc26": {
+        "overall": 69,
+        "potential": 78,
+        "pace": 64,
+        "shooting": 42,
+        "passing": 52,
+        "dribbling": 62,
+        "defending": 68,
+        "physicality": 71,
+        "player_id": 266685
+      }
     },
     {
       "pos": "MF",
@@ -97,7 +218,18 @@
       "caps": 144,
       "goals": 16,
       "club": "Sunderland",
-      "captain": true
+      "captain": true,
+      "eafc26": {
+        "overall": 85,
+        "potential": 85,
+        "pace": 47,
+        "shooting": 75,
+        "passing": 85,
+        "dribbling": 74,
+        "defending": 78,
+        "physicality": 82,
+        "player_id": 199503
+      }
     },
     {
       "pos": "MF",
@@ -105,7 +237,18 @@
       "dob": "1992-04-15",
       "caps": 86,
       "goals": 11,
-      "club": "Bologna"
+      "club": "Bologna",
+      "eafc26": {
+        "overall": 81,
+        "potential": 81,
+        "pace": 58,
+        "shooting": 72,
+        "passing": 76,
+        "dribbling": 77,
+        "defending": 77,
+        "physicality": 74,
+        "player_id": 202024
+      }
     },
     {
       "pos": "MF",
@@ -113,7 +256,18 @@
       "dob": "1997-02-14",
       "caps": 85,
       "goals": 23,
-      "club": "Rennes"
+      "club": "Rennes",
+      "eafc26": {
+        "overall": 77,
+        "potential": 77,
+        "pace": 78,
+        "shooting": 75,
+        "passing": 70,
+        "dribbling": 75,
+        "defending": 51,
+        "physicality": 80,
+        "player_id": 222357
+      }
     },
     {
       "pos": "MF",
@@ -121,7 +275,18 @@
       "dob": "1996-11-20",
       "caps": 63,
       "goals": 3,
-      "club": "Monaco"
+      "club": "Monaco",
+      "eafc26": {
+        "overall": 82,
+        "potential": 83,
+        "pace": 80,
+        "shooting": 67,
+        "passing": 74,
+        "dribbling": 77,
+        "defending": 80,
+        "physicality": 85,
+        "player_id": 229261
+      }
     },
     {
       "pos": "MF",
@@ -129,7 +294,18 @@
       "dob": "1997-02-06",
       "caps": 50,
       "goals": 0,
-      "club": "Sevilla"
+      "club": "Sevilla",
+      "eafc26": {
+        "overall": 76,
+        "potential": 76,
+        "pace": 78,
+        "shooting": 69,
+        "passing": 73,
+        "dribbling": 76,
+        "defending": 74,
+        "physicality": 78,
+        "player_id": 229752
+      }
     },
     {
       "pos": "MF",
@@ -137,7 +313,18 @@
       "dob": "1997-01-06",
       "caps": 38,
       "goals": 2,
-      "club": "Pisa"
+      "club": "Pisa",
+      "eafc26": {
+        "overall": 74,
+        "potential": 74,
+        "pace": 66,
+        "shooting": 67,
+        "passing": 72,
+        "dribbling": 75,
+        "defending": 74,
+        "physicality": 70,
+        "player_id": 236898
+      }
     },
     {
       "pos": "MF",
@@ -145,7 +332,18 @@
       "dob": "2002-02-16",
       "caps": 27,
       "goals": 1,
-      "club": "FC Augsburg"
+      "club": "FC Augsburg",
+      "eafc26": {
+        "overall": 74,
+        "potential": 82,
+        "pace": 74,
+        "shooting": 69,
+        "passing": 71,
+        "dribbling": 75,
+        "defending": 51,
+        "physicality": 62,
+        "player_id": 259306
+      }
     },
     {
       "pos": "MF",
@@ -153,7 +351,18 @@
       "dob": "1993-11-11",
       "caps": 21,
       "goals": 4,
-      "club": "Young Boys"
+      "club": "Young Boys",
+      "eafc26": {
+        "overall": 72,
+        "potential": 72,
+        "pace": 76,
+        "shooting": 67,
+        "passing": 68,
+        "dribbling": 72,
+        "defending": 36,
+        "physicality": 69,
+        "player_id": 234913
+      }
     },
     {
       "pos": "MF",
@@ -161,7 +370,18 @@
       "dob": "2002-07-30",
       "caps": 6,
       "goals": 0,
-      "club": "Milan"
+      "club": "Milan",
+      "eafc26": {
+        "overall": 77,
+        "potential": 86,
+        "pace": 75,
+        "shooting": 67,
+        "passing": 75,
+        "dribbling": 73,
+        "defending": 72,
+        "physicality": 82,
+        "player_id": 257186
+      }
     },
     {
       "pos": "MF",
@@ -169,7 +389,18 @@
       "dob": "2005-10-14",
       "caps": 10,
       "goals": 3,
-      "club": "SC Freiburg"
+      "club": "SC Freiburg",
+      "eafc26": {
+        "overall": 67,
+        "potential": 84,
+        "pace": 75,
+        "shooting": 61,
+        "passing": 59,
+        "dribbling": 72,
+        "defending": 56,
+        "physicality": 62,
+        "player_id": 276694
+      }
     },
     {
       "pos": "FW",
@@ -177,7 +408,18 @@
       "dob": "1998-08-05",
       "caps": 60,
       "goals": 11,
-      "club": "Sevilla"
+      "club": "Sevilla",
+      "eafc26": {
+        "overall": 75,
+        "potential": 75,
+        "pace": 84,
+        "shooting": 70,
+        "passing": 69,
+        "dribbling": 78,
+        "defending": 54,
+        "physicality": 64,
+        "player_id": 238581
+      }
     },
     {
       "pos": "FW",
@@ -185,7 +427,18 @@
       "dob": "2000-10-25",
       "caps": 29,
       "goals": 6,
-      "club": "Nottingham Forest"
+      "club": "Nottingham Forest",
+      "eafc26": {
+        "overall": 79,
+        "potential": 82,
+        "pace": 89,
+        "shooting": 72,
+        "passing": 70,
+        "dribbling": 81,
+        "defending": 62,
+        "physicality": 68,
+        "player_id": 257980
+      }
     },
     {
       "pos": "FW",
@@ -193,7 +446,18 @@
       "dob": "2000-12-04",
       "caps": 27,
       "goals": 11,
-      "club": "Burnley"
+      "club": "Burnley",
+      "eafc26": {
+        "overall": 75,
+        "potential": 81,
+        "pace": 71,
+        "shooting": 76,
+        "passing": 69,
+        "dribbling": 76,
+        "defending": 46,
+        "physicality": 70,
+        "player_id": 262642
+      }
     },
     {
       "pos": "FW",
@@ -201,7 +465,18 @@
       "dob": "2000-05-24",
       "caps": 24,
       "goals": 2,
-      "club": "Leeds United"
+      "club": "Leeds United",
+      "eafc26": {
+        "overall": 76,
+        "potential": 79,
+        "pace": 86,
+        "shooting": 76,
+        "passing": 71,
+        "dribbling": 80,
+        "defending": 31,
+        "physicality": 69,
+        "player_id": 242530
+      }
     },
     {
       "pos": "FW",
@@ -209,7 +484,18 @@
       "dob": "1996-12-27",
       "caps": 13,
       "goals": 5,
-      "club": "Fortuna Düsseldorf"
+      "club": "Fortuna Düsseldorf",
+      "eafc26": {
+        "overall": 70,
+        "potential": 70,
+        "pace": 68,
+        "shooting": 71,
+        "passing": 61,
+        "dribbling": 66,
+        "defending": 36,
+        "physicality": 79,
+        "player_id": 233139
+      }
     }
   ]
 }

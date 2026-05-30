@@ -40,7 +40,18 @@
       "dob": "1993-05-20",
       "caps": 44,
       "goals": 5,
-      "club": "Al Ain"
+      "club": "Al Ain",
+      "eafc26": {
+        "overall": 67,
+        "potential": 67,
+        "pace": 60,
+        "shooting": 49,
+        "passing": 55,
+        "dribbling": 55,
+        "defending": 67,
+        "physicality": 72,
+        "player_id": 220380
+      }
     },
     {
       "pos": "DF",
@@ -64,7 +75,18 @@
       "dob": "1999-02-01",
       "caps": 35,
       "goals": 3,
-      "club": "Nice"
+      "club": "Nice",
+      "eafc26": {
+        "overall": 74,
+        "potential": 79,
+        "pace": 62,
+        "shooting": 40,
+        "passing": 63,
+        "dribbling": 61,
+        "defending": 74,
+        "physicality": 74,
+        "player_id": 269164
+      }
     },
     {
       "pos": "DF",
@@ -121,7 +143,18 @@
       "caps": 116,
       "goals": 67,
       "club": "Liverpool",
-      "captain": true
+      "captain": true,
+      "eafc26": {
+        "overall": 91,
+        "potential": 91,
+        "pace": 89,
+        "shooting": 88,
+        "passing": 86,
+        "dribbling": 90,
+        "defending": 45,
+        "physicality": 76,
+        "player_id": 209331
+      }
     },
     {
       "pos": "FW",
@@ -137,7 +170,18 @@
       "dob": "1999-02-07",
       "caps": 48,
       "goals": 11,
-      "club": "Manchester City"
+      "club": "Manchester City",
+      "eafc26": {
+        "overall": 84,
+        "potential": 85,
+        "pace": 89,
+        "shooting": 85,
+        "passing": 76,
+        "dribbling": 86,
+        "defending": 34,
+        "physicality": 71,
+        "player_id": 256675
+      }
     },
     {
       "pos": "FW",

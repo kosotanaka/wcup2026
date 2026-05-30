@@ -24,7 +24,18 @@
       "dob": "1992-06-30",
       "caps": 13,
       "goals": 0,
-      "club": "Sepahan"
+      "club": "Sepahan",
+      "eafc26": {
+        "overall": 68,
+        "potential": 69,
+        "pace": 56,
+        "shooting": 30,
+        "passing": 46,
+        "dribbling": 50,
+        "defending": 69,
+        "physicality": 75,
+        "player_id": 243549
+      }
     },
     {
       "pos": "DF",
@@ -153,7 +164,18 @@
       "dob": "1992-07-18",
       "caps": 104,
       "goals": 60,
-      "club": "Olympiacos"
+      "club": "Olympiacos",
+      "eafc26": {
+        "overall": 78,
+        "potential": 78,
+        "pace": 74,
+        "shooting": 78,
+        "passing": 74,
+        "dribbling": 78,
+        "defending": 38,
+        "physicality": 68,
+        "player_id": 241788
+      }
     },
     {
       "pos": "FW",

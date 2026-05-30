@@ -41,7 +41,18 @@
       "dob": "1996-01-31",
       "caps": 78,
       "goals": 3,
-      "club": "FC Seoul"
+      "club": "FC Seoul",
+      "eafc26": {
+        "overall": 75,
+        "potential": 75,
+        "pace": 79,
+        "shooting": 29,
+        "passing": 46,
+        "dribbling": 52,
+        "defending": 73,
+        "physicality": 83,
+        "player_id": 73466
+      }
     },
     {
       "pos": "DF",
@@ -97,7 +108,18 @@
       "dob": "2000-04-27",
       "caps": 55,
       "goals": 3,
-      "club": "Al-Karma"
+      "club": "Al-Karma",
+      "eafc26": {
+        "overall": 61,
+        "potential": 76,
+        "pace": 91,
+        "shooting": 60,
+        "passing": 41,
+        "dribbling": 56,
+        "defending": 22,
+        "physicality": 56,
+        "player_id": 80641
+      }
     },
     {
       "pos": "MF",
@@ -129,7 +151,18 @@
       "dob": "1997-06-10",
       "caps": 90,
       "goals": 24,
-      "club": "Rennes"
+      "club": "Rennes",
+      "eafc26": {
+        "overall": 75,
+        "potential": 75,
+        "pace": 89,
+        "shooting": 69,
+        "passing": 67,
+        "dribbling": 80,
+        "defending": 38,
+        "physicality": 63,
+        "player_id": 259191
+      }
     },
     {
       "pos": "FW",
@@ -161,7 +194,18 @@
       "dob": "2006-02-01",
       "caps": 9,
       "goals": 1,
-      "club": "Lokomotiva Zagreb"
+      "club": "Lokomotiva Zagreb",
+      "eafc26": {
+        "overall": 61,
+        "potential": 76,
+        "pace": 91,
+        "shooting": 60,
+        "passing": 41,
+        "dribbling": 56,
+        "defending": 22,
+        "physicality": 56,
+        "player_id": 80641
+      }
     }
   ]
 }

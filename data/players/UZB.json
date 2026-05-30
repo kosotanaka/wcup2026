@@ -64,7 +64,18 @@
       "dob": "2004-02-29",
       "caps": 25,
       "goals": 0,
-      "club": "Manchester City"
+      "club": "Manchester City",
+      "eafc26": {
+        "overall": 77,
+        "potential": 85,
+        "pace": 85,
+        "shooting": 39,
+        "passing": 59,
+        "dribbling": 64,
+        "defending": 77,
+        "physicality": 76,
+        "player_id": 277031
+      }
     },
     {
       "pos": "DF",
@@ -121,7 +132,18 @@
       "caps": 90,
       "goals": 44,
       "club": "İstanbul Başakşehir",
-      "captain": true
+      "captain": true,
+      "eafc26": {
+        "overall": 74,
+        "potential": 74,
+        "pace": 79,
+        "shooting": 71,
+        "passing": 64,
+        "dribbling": 75,
+        "defending": 40,
+        "physicality": 66,
+        "player_id": 239964
+      }
     },
     {
       "pos": "FW",
@@ -153,7 +175,18 @@
       "dob": "2003-10-03",
       "caps": 30,
       "goals": 8,
-      "club": "İstanbul Başakşehir"
+      "club": "İstanbul Başakşehir",
+      "eafc26": {
+        "overall": 65,
+        "potential": 77,
+        "pace": 65,
+        "shooting": 62,
+        "passing": 67,
+        "dribbling": 66,
+        "defending": 48,
+        "physicality": 53,
+        "player_id": 80304
+      }
     },
     {
       "pos": "FW",

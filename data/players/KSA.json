@@ -8,7 +8,18 @@
       "dob": "1991-10-10",
       "caps": 62,
       "goals": 0,
-      "club": "Al-Ula"
+      "club": "Al-Ula",
+      "eafc26": {
+        "overall": 54,
+        "potential": 62,
+        "pace": 52,
+        "shooting": 25,
+        "passing": 39,
+        "dribbling": 38,
+        "defending": 55,
+        "physicality": 63,
+        "player_id": 78943
+      }
     },
     {
       "pos": "GK",
@@ -16,7 +27,18 @@
       "dob": "2000-05-10",
       "caps": 22,
       "goals": 0,
-      "club": "Al-Nassr"
+      "club": "Al-Nassr",
+      "eafc26": {
+        "overall": 72,
+        "potential": 78,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 255368
+      }
     },
     {
       "pos": "GK",
@@ -24,7 +46,18 @@
       "dob": "1991-05-08",
       "caps": 8,
       "goals": 0,
-      "club": "Al-Qadsiah"
+      "club": "Al-Qadsiah",
+      "eafc26": {
+        "overall": 63,
+        "potential": 63,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 209027
+      }
     },
     {
       "pos": "DF",
@@ -32,7 +65,18 @@
       "dob": "1999-07-18",
       "caps": 53,
       "goals": 1,
-      "club": "Lens"
+      "club": "Lens",
+      "eafc26": {
+        "overall": 75,
+        "potential": 78,
+        "pace": 86,
+        "shooting": 46,
+        "passing": 66,
+        "dribbling": 71,
+        "defending": 69,
+        "physicality": 70,
+        "player_id": 246688
+      }
     },
     {
       "pos": "DF",
@@ -48,7 +92,18 @@
       "dob": "1997-01-15",
       "caps": 40,
       "goals": 1,
-      "club": "Al-Nassr"
+      "club": "Al-Nassr",
+      "eafc26": {
+        "overall": 55,
+        "potential": 67,
+        "pace": 72,
+        "shooting": 48,
+        "passing": 50,
+        "dribbling": 56,
+        "defending": 49,
+        "physicality": 55,
+        "player_id": 78944
+      }
     },
     {
       "pos": "DF",
@@ -56,7 +111,18 @@
       "dob": "1999-09-16",
       "caps": 23,
       "goals": 0,
-      "club": "Al-Nassr"
+      "club": "Al-Nassr",
+      "eafc26": {
+        "overall": 67,
+        "potential": 70,
+        "pace": 82,
+        "shooting": 39,
+        "passing": 51,
+        "dribbling": 64,
+        "defending": 62,
+        "physicality": 73,
+        "player_id": 254685
+      }
     },
     {
       "pos": "DF",
@@ -64,7 +130,18 @@
       "dob": "1999-10-02",
       "caps": 20,
       "goals": 0,
-      "club": "Al-Ahli"
+      "club": "Al-Ahli",
+      "eafc26": {
+        "overall": 70,
+        "potential": 75,
+        "pace": 86,
+        "shooting": 44,
+        "passing": 52,
+        "dribbling": 64,
+        "defending": 63,
+        "physicality": 74,
+        "player_id": 242506
+      }
     },
     {
       "pos": "DF",
@@ -72,7 +149,18 @@
       "dob": "1996-04-24",
       "caps": 19,
       "goals": 1,
-      "club": "Al-Hilal"
+      "club": "Al-Hilal",
+      "eafc26": {
+        "overall": 70,
+        "potential": 71,
+        "pace": 76,
+        "shooting": 48,
+        "passing": 58,
+        "dribbling": 60,
+        "defending": 68,
+        "physicality": 77,
+        "player_id": 228783
+      }
     },
     {
       "pos": "MF",
@@ -81,7 +169,18 @@
       "caps": 107,
       "goals": 26,
       "club": "Al-Hilal",
-      "captain": true
+      "captain": true,
+      "eafc26": {
+        "overall": 82,
+        "potential": 82,
+        "pace": 87,
+        "shooting": 75,
+        "passing": 75,
+        "dribbling": 84,
+        "defending": 57,
+        "physicality": 81,
+        "player_id": 210602
+      }
     },
     {
       "pos": "MF",
@@ -89,7 +188,18 @@
       "dob": "1994-09-22",
       "caps": 74,
       "goals": 8,
-      "club": "Al-Hilal"
+      "club": "Al-Hilal",
+      "eafc26": {
+        "overall": 72,
+        "potential": 72,
+        "pace": 72,
+        "shooting": 69,
+        "passing": 70,
+        "dribbling": 71,
+        "defending": 69,
+        "physicality": 76,
+        "player_id": 220075
+      }
     },
     {
       "pos": "MF",
@@ -97,7 +207,18 @@
       "dob": "1998-12-19",
       "caps": 41,
       "goals": 0,
-      "club": "Al-Hilal"
+      "club": "Al-Hilal",
+      "eafc26": {
+        "overall": 82,
+        "potential": 82,
+        "pace": 87,
+        "shooting": 75,
+        "passing": 75,
+        "dribbling": 84,
+        "defending": 57,
+        "physicality": 81,
+        "player_id": 210602
+      }
     },
     {
       "pos": "MF",
@@ -105,7 +226,18 @@
       "dob": "1996-08-16",
       "caps": 37,
       "goals": 0,
-      "club": "Al-Nassr"
+      "club": "Al-Nassr",
+      "eafc26": {
+        "overall": 52,
+        "potential": 56,
+        "pace": 60,
+        "shooting": 25,
+        "passing": 31,
+        "dribbling": 42,
+        "defending": 53,
+        "physicality": 54,
+        "player_id": 81235
+      }
     },
     {
       "pos": "MF",
@@ -113,7 +245,18 @@
       "dob": "2003-06-20",
       "caps": 32,
       "goals": 6,
-      "club": "Al-Qadsiah"
+      "club": "Al-Qadsiah",
+      "eafc26": {
+        "overall": 75,
+        "potential": 82,
+        "pace": 68,
+        "shooting": 67,
+        "passing": 79,
+        "dribbling": 74,
+        "defending": 56,
+        "physicality": 70,
+        "player_id": 263824
+      }
     },
     {
       "pos": "MF",
@@ -121,7 +264,18 @@
       "dob": "2001-05-14",
       "caps": 25,
       "goals": 0,
-      "club": "Al-Nassr"
+      "club": "Al-Nassr",
+      "eafc26": {
+        "overall": 68,
+        "potential": 74,
+        "pace": 84,
+        "shooting": 61,
+        "passing": 59,
+        "dribbling": 67,
+        "defending": 49,
+        "physicality": 67,
+        "player_id": 253440
+      }
     },
     {
       "pos": "FW",
@@ -137,7 +291,18 @@
       "dob": "1993-11-01",
       "caps": 55,
       "goals": 18,
-      "club": "Al-Ittihad"
+      "club": "Al-Ittihad",
+      "eafc26": {
+        "overall": 69,
+        "potential": 69,
+        "pace": 66,
+        "shooting": 67,
+        "passing": 51,
+        "dribbling": 64,
+        "defending": 28,
+        "physicality": 72,
+        "player_id": 211173
+      }
     },
     {
       "pos": "FW",
@@ -145,7 +310,18 @@
       "dob": "1999-09-13",
       "caps": 47,
       "goals": 11,
-      "club": "Al-Nassr"
+      "club": "Al-Nassr",
+      "eafc26": {
+        "overall": 55,
+        "potential": 67,
+        "pace": 72,
+        "shooting": 48,
+        "passing": 50,
+        "dribbling": 56,
+        "defending": 49,
+        "physicality": 55,
+        "player_id": 78944
+      }
     }
   ]
 }

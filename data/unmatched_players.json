@@ -1,0 +1,1487 @@
+[
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Guillermo Ochoa"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Carlos Acevedo"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "José Antonio Rodríguez"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Israel Reyes"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Jesús Alberto Angulo"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Víctor Guzmán"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Richard Ledezma"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Everardo López"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Alejandro Gómez"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Bryan González"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Ramón Juárez"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Luis Romo"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Luis Chávez"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Brian Gutiérrez"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Gilberto Mora"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Alexis Gutiérrez"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Jesús Ricardo Angulo"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Kevin Castañeda"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Jordán Carrillo"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Álvaro Fidalgo"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Jorge Ruvalcaba"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Alexéi Domínguez"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Jeremy Márquez"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Elías Montiel"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Guillermo Martínez"
+  },
+  {
+    "code": "MEX",
+    "nation": "Mexico",
+    "player": "Armando González"
+  },
+  {
+    "code": "RSA",
+    "nation": "South Africa",
+    "player": "Ronwen Williams"
+  },
+  {
+    "code": "RSA",
+    "nation": "South Africa",
+    "player": "Ricardo Goss"
+  },
+  {
+    "code": "RSA",
+    "nation": "South Africa",
+    "player": "Sipho Chaine"
+  },
+  {
+    "code": "RSA",
+    "nation": "South Africa",
+    "player": "Aubrey Modiba"
+  },
+  {
+    "code": "RSA",
+    "nation": "South Africa",
+    "player": "Khuliso Mudau"
+  },
+  {
+    "code": "RSA",
+    "nation": "South Africa",
+    "player": "Nkosinathi Sibisi"
+  },
+  {
+    "code": "RSA",
+    "nation": "South Africa",
+    "player": "Mbekezeli Mbokazi"
+  },
+  {
+    "code": "RSA",
+    "nation": "South Africa",
+    "player": "Khulumani Ndamane"
+  },
+  {
+    "code": "RSA",
+    "nation": "South Africa",
+    "player": "Thabang Matuludi"
+  },
+  {
+    "code": "RSA",
+    "nation": "South Africa",
+    "player": "Kamogelo Sebelebele"
+  },
+  {
+    "code": "RSA",
+    "nation": "South Africa",
+    "player": "Bradley Cross"
+  },
+  {
+    "code": "RSA",
+    "nation": "South Africa",
+    "player": "Teboho Mokoena"
+  },
+  {
+    "code": "RSA",
+    "nation": "South Africa",
+    "player": "Thalente Mbatha"
+  },
+  {
+    "code": "RSA",
+    "nation": "South Africa",
+    "player": "Jayden Adams"
+  },
+  {
+    "code": "RSA",
+    "nation": "South Africa",
+    "player": "Themba Zwane"
+  },
+  {
+    "code": "RSA",
+    "nation": "South Africa",
+    "player": "Evidence Makgopa"
+  },
+  {
+    "code": "RSA",
+    "nation": "South Africa",
+    "player": "Oswin Appollis"
+  },
+  {
+    "code": "RSA",
+    "nation": "South Africa",
+    "player": "Iqraam Rayners"
+  },
+  {
+    "code": "RSA",
+    "nation": "South Africa",
+    "player": "Relebohile Mofokeng"
+  },
+  {
+    "code": "RSA",
+    "nation": "South Africa",
+    "player": "Thapelo Maseko"
+  },
+  {
+    "code": "RSA",
+    "nation": "South Africa",
+    "player": "Tshepang Moremi"
+  },
+  {
+    "code": "KOR",
+    "nation": "Korea Republic",
+    "player": "Seol Young-woo"
+  },
+  {
+    "code": "KOR",
+    "nation": "Korea Republic",
+    "player": "Cho Yu-min"
+  },
+  {
+    "code": "KOR",
+    "nation": "Korea Republic",
+    "player": "Lee Ki-hyuk"
+  },
+  {
+    "code": "CZE",
+    "nation": "Czechia",
+    "player": "Vladimír Darida"
+  },
+  {
+    "code": "CZE",
+    "nation": "Czechia",
+    "player": "Hugo Sochůrek"
+  },
+  {
+    "code": "CZE",
+    "nation": "Czechia",
+    "player": "Alexandr Sojka"
+  },
+  {
+    "code": "CAN",
+    "nation": "Canada",
+    "player": "Owen Goodman"
+  },
+  {
+    "code": "CAN",
+    "nation": "Canada",
+    "player": "Alfie Jones"
+  },
+  {
+    "code": "CAN",
+    "nation": "Canada",
+    "player": "Marcelo Flores"
+  },
+  {
+    "code": "BIH",
+    "nation": "Bosnia and Herzegovina",
+    "player": "Martin Zlomislić"
+  },
+  {
+    "code": "BIH",
+    "nation": "Bosnia and Herzegovina",
+    "player": "Osman Hadžikić"
+  },
+  {
+    "code": "BIH",
+    "nation": "Bosnia and Herzegovina",
+    "player": "Stjepan Radeljić"
+  },
+  {
+    "code": "BIH",
+    "nation": "Bosnia and Herzegovina",
+    "player": "Ivan Bašić"
+  },
+  {
+    "code": "BIH",
+    "nation": "Bosnia and Herzegovina",
+    "player": "Ivan Šunjić"
+  },
+  {
+    "code": "BIH",
+    "nation": "Bosnia and Herzegovina",
+    "player": "Ermin Mahmić"
+  },
+  {
+    "code": "QAT",
+    "nation": "Qatar",
+    "player": "Mahmud Abunada"
+  },
+  {
+    "code": "QAT",
+    "nation": "Qatar",
+    "player": "Shehab Ellethy"
+  },
+  {
+    "code": "QAT",
+    "nation": "Qatar",
+    "player": "Sultan Al-Brake"
+  },
+  {
+    "code": "QAT",
+    "nation": "Qatar",
+    "player": "Al-Hashmi Al-Hussain"
+  },
+  {
+    "code": "QAT",
+    "nation": "Qatar",
+    "player": "Ayoub Al-Oui"
+  },
+  {
+    "code": "QAT",
+    "nation": "Qatar",
+    "player": "Issa Laye"
+  },
+  {
+    "code": "QAT",
+    "nation": "Qatar",
+    "player": "Rayyan Al-Ali"
+  },
+  {
+    "code": "QAT",
+    "nation": "Qatar",
+    "player": "Ahmed Fathy"
+  },
+  {
+    "code": "QAT",
+    "nation": "Qatar",
+    "player": "Mohamed Al-Mannai"
+  },
+  {
+    "code": "QAT",
+    "nation": "Qatar",
+    "player": "Tahsin Jamshid"
+  },
+  {
+    "code": "QAT",
+    "nation": "Qatar",
+    "player": "Ahmed Alaaeldin"
+  },
+  {
+    "code": "BRA",
+    "nation": "Brazil",
+    "player": "Danilo Luiz"
+  },
+  {
+    "code": "BRA",
+    "nation": "Brazil",
+    "player": "Douglas Santos"
+  },
+  {
+    "code": "BRA",
+    "nation": "Brazil",
+    "player": "Léo Pereira"
+  },
+  {
+    "code": "BRA",
+    "nation": "Brazil",
+    "player": "Neymar"
+  },
+  {
+    "code": "BRA",
+    "nation": "Brazil",
+    "player": "Rayan"
+  },
+  {
+    "code": "MAR",
+    "nation": "Morocco",
+    "player": "Anass Salah-Eddine"
+  },
+  {
+    "code": "MAR",
+    "nation": "Morocco",
+    "player": "Ayyoub Bouaddi"
+  },
+  {
+    "code": "MAR",
+    "nation": "Morocco",
+    "player": "Gessime Yassine"
+  },
+  {
+    "code": "HAI",
+    "nation": "Haiti",
+    "player": "Alexandre Pierre"
+  },
+  {
+    "code": "HAI",
+    "nation": "Haiti",
+    "player": "Josué Duverger"
+  },
+  {
+    "code": "HAI",
+    "nation": "Haiti",
+    "player": "Duke Lacroix"
+  },
+  {
+    "code": "HAI",
+    "nation": "Haiti",
+    "player": "Hannes Delcroix"
+  },
+  {
+    "code": "HAI",
+    "nation": "Haiti",
+    "player": "Keeto Thermoncy"
+  },
+  {
+    "code": "HAI",
+    "nation": "Haiti",
+    "player": "Leverton Pierre"
+  },
+  {
+    "code": "HAI",
+    "nation": "Haiti",
+    "player": "Carl Sainté"
+  },
+  {
+    "code": "HAI",
+    "nation": "Haiti",
+    "player": "Woodensky Pierre"
+  },
+  {
+    "code": "HAI",
+    "nation": "Haiti",
+    "player": "Dominique Simon"
+  },
+  {
+    "code": "HAI",
+    "nation": "Haiti",
+    "player": "Duckens Nazon"
+  },
+  {
+    "code": "HAI",
+    "nation": "Haiti",
+    "player": "Ruben Providence"
+  },
+  {
+    "code": "HAI",
+    "nation": "Haiti",
+    "player": "Josué Casimir"
+  },
+  {
+    "code": "HAI",
+    "nation": "Haiti",
+    "player": "Yassin Fortuné"
+  },
+  {
+    "code": "HAI",
+    "nation": "Haiti",
+    "player": "Wilson Isidor"
+  },
+  {
+    "code": "HAI",
+    "nation": "Haiti",
+    "player": "Lenny Joseph"
+  },
+  {
+    "code": "PAR",
+    "nation": "Paraguay",
+    "player": "Gatito Fernández"
+  },
+  {
+    "code": "PAR",
+    "nation": "Paraguay",
+    "player": "Gustavo Gómez"
+  },
+  {
+    "code": "PAR",
+    "nation": "Paraguay",
+    "player": "Júnior Alonso"
+  },
+  {
+    "code": "PAR",
+    "nation": "Paraguay",
+    "player": "Fabián Balbuena"
+  },
+  {
+    "code": "PAR",
+    "nation": "Paraguay",
+    "player": "Juan José Cáceres"
+  },
+  {
+    "code": "PAR",
+    "nation": "Paraguay",
+    "player": "Mateo Gamarra"
+  },
+  {
+    "code": "PAR",
+    "nation": "Paraguay",
+    "player": "Mathías Villasanti"
+  },
+  {
+    "code": "PAR",
+    "nation": "Paraguay",
+    "player": "Ramón Sosa"
+  },
+  {
+    "code": "PAR",
+    "nation": "Paraguay",
+    "player": "Damián Bobadilla"
+  },
+  {
+    "code": "PAR",
+    "nation": "Paraguay",
+    "player": "Óscar Romero"
+  },
+  {
+    "code": "PAR",
+    "nation": "Paraguay",
+    "player": "Ángel Romero"
+  },
+  {
+    "code": "PAR",
+    "nation": "Paraguay",
+    "player": "Isidro Pitta"
+  },
+  {
+    "code": "AUS",
+    "nation": "Australia",
+    "player": "Danny Vukovic"
+  },
+  {
+    "code": "AUS",
+    "nation": "Australia",
+    "player": "Milos Degenek"
+  },
+  {
+    "code": "AUS",
+    "nation": "Australia",
+    "player": "Thomas Deng"
+  },
+  {
+    "code": "AUS",
+    "nation": "Australia",
+    "player": "Tom Rogic"
+  },
+  {
+    "code": "AUS",
+    "nation": "Australia",
+    "player": "Aaron Mooy"
+  },
+  {
+    "code": "AUS",
+    "nation": "Australia",
+    "player": "Mitch Duke"
+  },
+  {
+    "code": "CIV",
+    "nation": "Côte d'Ivoire",
+    "player": "Jean Michaël Seri"
+  },
+  {
+    "code": "CIV",
+    "nation": "Côte d'Ivoire",
+    "player": "Elye Wahi"
+  },
+  {
+    "code": "CIV",
+    "nation": "Côte d'Ivoire",
+    "player": "Ange-Yoan Bonny"
+  },
+  {
+    "code": "ECU",
+    "nation": "Ecuador",
+    "player": "Moisés Ramírez"
+  },
+  {
+    "code": "ECU",
+    "nation": "Ecuador",
+    "player": "Robert Arboleda"
+  },
+  {
+    "code": "ECU",
+    "nation": "Ecuador",
+    "player": "Félix Torres"
+  },
+  {
+    "code": "ECU",
+    "nation": "Ecuador",
+    "player": "Jackson Porozo"
+  },
+  {
+    "code": "ECU",
+    "nation": "Ecuador",
+    "player": "Ángel Mena"
+  },
+  {
+    "code": "ECU",
+    "nation": "Ecuador",
+    "player": "Djorkaeff Reasco"
+  },
+  {
+    "code": "ECU",
+    "nation": "Ecuador",
+    "player": "Gonzalo Plata"
+  },
+  {
+    "code": "CUW",
+    "nation": "Curacao",
+    "player": "Eloy Room"
+  },
+  {
+    "code": "CUW",
+    "nation": "Curacao",
+    "player": "Trevor Doornbusch"
+  },
+  {
+    "code": "CUW",
+    "nation": "Curacao",
+    "player": "Juriën Gaari"
+  },
+  {
+    "code": "CUW",
+    "nation": "Curacao",
+    "player": "Roshon van Eijma"
+  },
+  {
+    "code": "CUW",
+    "nation": "Curacao",
+    "player": "Joshua Brenet"
+  },
+  {
+    "code": "CUW",
+    "nation": "Curacao",
+    "player": "Armando Obispo"
+  },
+  {
+    "code": "CUW",
+    "nation": "Curacao",
+    "player": "Riechedly Bazoer"
+  },
+  {
+    "code": "CUW",
+    "nation": "Curacao",
+    "player": "Deveron Fonville"
+  },
+  {
+    "code": "CUW",
+    "nation": "Curacao",
+    "player": "Leandro Bacuna"
+  },
+  {
+    "code": "CUW",
+    "nation": "Curacao",
+    "player": "Godfried Roemeratoe"
+  },
+  {
+    "code": "CUW",
+    "nation": "Curacao",
+    "player": "Kevin Felida"
+  },
+  {
+    "code": "CUW",
+    "nation": "Curacao",
+    "player": "Kenji Gorré"
+  },
+  {
+    "code": "CUW",
+    "nation": "Curacao",
+    "player": "Gervane Kastaneer"
+  },
+  {
+    "code": "CUW",
+    "nation": "Curacao",
+    "player": "Jearl Margaritha"
+  },
+  {
+    "code": "CUW",
+    "nation": "Curacao",
+    "player": "Jeremy Antonisse"
+  },
+  {
+    "code": "CUW",
+    "nation": "Curacao",
+    "player": "Sontje Hansen"
+  },
+  {
+    "code": "CUW",
+    "nation": "Curacao",
+    "player": "Jürgen Locadia"
+  },
+  {
+    "code": "JPN",
+    "nation": "Japan",
+    "player": "Keisuke Ōsako"
+  },
+  {
+    "code": "JPN",
+    "nation": "Japan",
+    "player": "Tomoki Hayakawa"
+  },
+  {
+    "code": "JPN",
+    "nation": "Japan",
+    "player": "Yūto Nagatomo"
+  },
+  {
+    "code": "JPN",
+    "nation": "Japan",
+    "player": "Takehiro Tomiyasu"
+  },
+  {
+    "code": "TUN",
+    "nation": "Tunisia",
+    "player": "Aymen Dahmen"
+  },
+  {
+    "code": "TUN",
+    "nation": "Tunisia",
+    "player": "Sabri Ben Hessen"
+  },
+  {
+    "code": "TUN",
+    "nation": "Tunisia",
+    "player": "Mouhib Chamakh"
+  },
+  {
+    "code": "TUN",
+    "nation": "Tunisia",
+    "player": "Mohamed Amine Ben Hamida"
+  },
+  {
+    "code": "TUN",
+    "nation": "Tunisia",
+    "player": "Omar Rekik"
+  },
+  {
+    "code": "TUN",
+    "nation": "Tunisia",
+    "player": "Rani Khedira"
+  },
+  {
+    "code": "TUN",
+    "nation": "Tunisia",
+    "player": "Firas Chaouat"
+  },
+  {
+    "code": "TUN",
+    "nation": "Tunisia",
+    "player": "Hazem Mastouri"
+  },
+  {
+    "code": "TUN",
+    "nation": "Tunisia",
+    "player": "Khalil Ayari"
+  },
+  {
+    "code": "BEL",
+    "nation": "Belgium",
+    "player": "Matias Fernandez-Pardo"
+  },
+  {
+    "code": "EGY",
+    "nation": "Egypt",
+    "player": "Mohamed El Shenawy"
+  },
+  {
+    "code": "EGY",
+    "nation": "Egypt",
+    "player": "Mostafa Shobeir"
+  },
+  {
+    "code": "EGY",
+    "nation": "Egypt",
+    "player": "Mohamed Alaa"
+  },
+  {
+    "code": "EGY",
+    "nation": "Egypt",
+    "player": "Hamdy Fathy"
+  },
+  {
+    "code": "EGY",
+    "nation": "Egypt",
+    "player": "Mohamed Hany"
+  },
+  {
+    "code": "EGY",
+    "nation": "Egypt",
+    "player": "Ahmed Fatouh"
+  },
+  {
+    "code": "EGY",
+    "nation": "Egypt",
+    "player": "Yasser Ibrahim"
+  },
+  {
+    "code": "EGY",
+    "nation": "Egypt",
+    "player": "Hossam Abdelmaguid"
+  },
+  {
+    "code": "EGY",
+    "nation": "Egypt",
+    "player": "Marwan Attia"
+  },
+  {
+    "code": "EGY",
+    "nation": "Egypt",
+    "player": "Emam Ashour"
+  },
+  {
+    "code": "EGY",
+    "nation": "Egypt",
+    "player": "Mohanad Lasheen"
+  },
+  {
+    "code": "EGY",
+    "nation": "Egypt",
+    "player": "Mahmoud Saber"
+  },
+  {
+    "code": "EGY",
+    "nation": "Egypt",
+    "player": "Trézéguet"
+  },
+  {
+    "code": "EGY",
+    "nation": "Egypt",
+    "player": "Zizo"
+  },
+  {
+    "code": "EGY",
+    "nation": "Egypt",
+    "player": "Ibrahim Adel"
+  },
+  {
+    "code": "EGY",
+    "nation": "Egypt",
+    "player": "Haissem Hassan"
+  },
+  {
+    "code": "IRN",
+    "nation": "Iran",
+    "player": "Alireza Beiranvand"
+  },
+  {
+    "code": "IRN",
+    "nation": "Iran",
+    "player": "Payam Niazmand"
+  },
+  {
+    "code": "IRN",
+    "nation": "Iran",
+    "player": "Ehsan Hajsafi"
+  },
+  {
+    "code": "IRN",
+    "nation": "Iran",
+    "player": "Milad Mohammadi"
+  },
+  {
+    "code": "IRN",
+    "nation": "Iran",
+    "player": "Ramin Rezaeian"
+  },
+  {
+    "code": "IRN",
+    "nation": "Iran",
+    "player": "Hossein Kanaanizadegan"
+  },
+  {
+    "code": "IRN",
+    "nation": "Iran",
+    "player": "Shojae Khalilzadeh"
+  },
+  {
+    "code": "IRN",
+    "nation": "Iran",
+    "player": "Saleh Hardani"
+  },
+  {
+    "code": "IRN",
+    "nation": "Iran",
+    "player": "Ali Nemati"
+  },
+  {
+    "code": "IRN",
+    "nation": "Iran",
+    "player": "Aria Yousefi"
+  },
+  {
+    "code": "IRN",
+    "nation": "Iran",
+    "player": "Alireza Jahanbakhsh"
+  },
+  {
+    "code": "IRN",
+    "nation": "Iran",
+    "player": "Saeid Ezatolahi"
+  },
+  {
+    "code": "IRN",
+    "nation": "Iran",
+    "player": "Saman Ghoddos"
+  },
+  {
+    "code": "IRN",
+    "nation": "Iran",
+    "player": "Mehdi Torabi"
+  },
+  {
+    "code": "IRN",
+    "nation": "Iran",
+    "player": "Rouzbeh Cheshmi"
+  },
+  {
+    "code": "IRN",
+    "nation": "Iran",
+    "player": "Omid Noorafkan"
+  },
+  {
+    "code": "IRN",
+    "nation": "Iran",
+    "player": "Mohammad Mohebi"
+  },
+  {
+    "code": "IRN",
+    "nation": "Iran",
+    "player": "Mehdi Ghayedi"
+  },
+  {
+    "code": "IRN",
+    "nation": "Iran",
+    "player": "Amirhossein Hosseinzadeh"
+  },
+  {
+    "code": "IRN",
+    "nation": "Iran",
+    "player": "Ali Alipour"
+  },
+  {
+    "code": "NZL",
+    "nation": "New Zealand",
+    "player": "Tommy Smith"
+  },
+  {
+    "code": "NZL",
+    "nation": "New Zealand",
+    "player": "Sarpreet Singh"
+  },
+  {
+    "code": "URU",
+    "nation": "Uruguay",
+    "player": "Sergio Rochet"
+  },
+  {
+    "code": "URU",
+    "nation": "Uruguay",
+    "player": "Sebastián Sosa"
+  },
+  {
+    "code": "URU",
+    "nation": "Uruguay",
+    "player": "Diego Godín"
+  },
+  {
+    "code": "URU",
+    "nation": "Uruguay",
+    "player": "Matías Viña"
+  },
+  {
+    "code": "URU",
+    "nation": "Uruguay",
+    "player": "Guillermo Varela"
+  },
+  {
+    "code": "URU",
+    "nation": "Uruguay",
+    "player": "Sebastián Cáceres"
+  },
+  {
+    "code": "URU",
+    "nation": "Uruguay",
+    "player": "Nicolás De La Cruz"
+  },
+  {
+    "code": "KSA",
+    "nation": "Saudi Arabia",
+    "player": "Hassan Al-Tambakti"
+  },
+  {
+    "code": "KSA",
+    "nation": "Saudi Arabia",
+    "player": "Firas Al-Buraikan"
+  },
+  {
+    "code": "CPV",
+    "nation": "Cabo Verde",
+    "player": "Vozinha"
+  },
+  {
+    "code": "CPV",
+    "nation": "Cabo Verde",
+    "player": "Márcio Rosa"
+  },
+  {
+    "code": "CPV",
+    "nation": "Cabo Verde",
+    "player": "CJ dos Santos"
+  },
+  {
+    "code": "CPV",
+    "nation": "Cabo Verde",
+    "player": "Stopira"
+  },
+  {
+    "code": "CPV",
+    "nation": "Cabo Verde",
+    "player": "Diney"
+  },
+  {
+    "code": "CPV",
+    "nation": "Cabo Verde",
+    "player": "Kevin Pina"
+  },
+  {
+    "code": "CPV",
+    "nation": "Cabo Verde",
+    "player": "Deroy Duarte"
+  },
+  {
+    "code": "CPV",
+    "nation": "Cabo Verde",
+    "player": "Laros Duarte"
+  },
+  {
+    "code": "CPV",
+    "nation": "Cabo Verde",
+    "player": "Ryan Mendes"
+  },
+  {
+    "code": "CPV",
+    "nation": "Cabo Verde",
+    "player": "Garry Rodrigues"
+  },
+  {
+    "code": "CPV",
+    "nation": "Cabo Verde",
+    "player": "Willy Semedo"
+  },
+  {
+    "code": "CPV",
+    "nation": "Cabo Verde",
+    "player": "Gilson Benchimol"
+  },
+  {
+    "code": "CPV",
+    "nation": "Cabo Verde",
+    "player": "Hélio Varela"
+  },
+  {
+    "code": "IRQ",
+    "nation": "Iraq",
+    "player": "Jalal Hassan"
+  },
+  {
+    "code": "IRQ",
+    "nation": "Iraq",
+    "player": "Fahad Talib"
+  },
+  {
+    "code": "IRQ",
+    "nation": "Iraq",
+    "player": "Ahmed Basil"
+  },
+  {
+    "code": "IRQ",
+    "nation": "Iraq",
+    "player": "Rebin Sulaka"
+  },
+  {
+    "code": "IRQ",
+    "nation": "Iraq",
+    "player": "Manaf Younis"
+  },
+  {
+    "code": "IRQ",
+    "nation": "Iraq",
+    "player": "Zaid Tahseen"
+  },
+  {
+    "code": "IRQ",
+    "nation": "Iraq",
+    "player": "Hussein Ali"
+  },
+  {
+    "code": "IRQ",
+    "nation": "Iraq",
+    "player": "Frans Putros"
+  },
+  {
+    "code": "IRQ",
+    "nation": "Iraq",
+    "player": "Maitham Jabbar"
+  },
+  {
+    "code": "IRQ",
+    "nation": "Iraq",
+    "player": "Youssef Amyn"
+  },
+  {
+    "code": "IRQ",
+    "nation": "Iraq",
+    "player": "Hasan Abdulkareem"
+  },
+  {
+    "code": "IRQ",
+    "nation": "Iraq",
+    "player": "Aymen Hussein"
+  },
+  {
+    "code": "IRQ",
+    "nation": "Iraq",
+    "player": "Mohanad Ali"
+  },
+  {
+    "code": "AUT",
+    "nation": "Austria",
+    "player": "Marko Arnautović"
+  },
+  {
+    "code": "AUT",
+    "nation": "Austria",
+    "player": "Carney Chukwuemeka"
+  },
+  {
+    "code": "ALG",
+    "nation": "Algeria",
+    "player": "Rais M'Bolhi"
+  },
+  {
+    "code": "ALG",
+    "nation": "Algeria",
+    "player": "Alexandre Oukidja"
+  },
+  {
+    "code": "ALG",
+    "nation": "Algeria",
+    "player": "Farouk Chafai"
+  },
+  {
+    "code": "ALG",
+    "nation": "Algeria",
+    "player": "Djamel Benlamri"
+  },
+  {
+    "code": "ALG",
+    "nation": "Algeria",
+    "player": "Sofiane Feghouli"
+  },
+  {
+    "code": "ALG",
+    "nation": "Algeria",
+    "player": "Nacer Chadli"
+  },
+  {
+    "code": "ALG",
+    "nation": "Algeria",
+    "player": "Yacine Adli"
+  },
+  {
+    "code": "ALG",
+    "nation": "Algeria",
+    "player": "Baghdad Bounedjah"
+  },
+  {
+    "code": "ALG",
+    "nation": "Algeria",
+    "player": "Youcef Belaïli"
+  },
+  {
+    "code": "ALG",
+    "nation": "Algeria",
+    "player": "Adam Ounas"
+  },
+  {
+    "code": "JOR",
+    "nation": "Jordan",
+    "player": "Yazeed Abulaila"
+  },
+  {
+    "code": "JOR",
+    "nation": "Jordan",
+    "player": "Abdallah Al-Fakhouri"
+  },
+  {
+    "code": "JOR",
+    "nation": "Jordan",
+    "player": "Nour Bani Attiah"
+  },
+  {
+    "code": "JOR",
+    "nation": "Jordan",
+    "player": "Ihsan Haddad"
+  },
+  {
+    "code": "JOR",
+    "nation": "Jordan",
+    "player": "Abdallah Nasib"
+  },
+  {
+    "code": "JOR",
+    "nation": "Jordan",
+    "player": "Saed Al-Rosan"
+  },
+  {
+    "code": "JOR",
+    "nation": "Jordan",
+    "player": "Husam Abu Dahab"
+  },
+  {
+    "code": "JOR",
+    "nation": "Jordan",
+    "player": "Mo Abualnadi"
+  },
+  {
+    "code": "JOR",
+    "nation": "Jordan",
+    "player": "Rajaei Ayed"
+  },
+  {
+    "code": "JOR",
+    "nation": "Jordan",
+    "player": "Noor Al-Rawabdeh"
+  },
+  {
+    "code": "JOR",
+    "nation": "Jordan",
+    "player": "Mohammad Abu Hashish"
+  },
+  {
+    "code": "JOR",
+    "nation": "Jordan",
+    "player": "Nizar Al-Rashdan"
+  },
+  {
+    "code": "JOR",
+    "nation": "Jordan",
+    "player": "Mohannad Abu Taha"
+  },
+  {
+    "code": "JOR",
+    "nation": "Jordan",
+    "player": "Mahmoud Al-Mardi"
+  },
+  {
+    "code": "JOR",
+    "nation": "Jordan",
+    "player": "Ali Olwan"
+  },
+  {
+    "code": "JOR",
+    "nation": "Jordan",
+    "player": "Mohammad Abu Zrayq"
+  },
+  {
+    "code": "COL",
+    "nation": "Colombia",
+    "player": "Camilo Vargas"
+  },
+  {
+    "code": "COL",
+    "nation": "Colombia",
+    "player": "Santiago Arias"
+  },
+  {
+    "code": "COL",
+    "nation": "Colombia",
+    "player": "Cucho Hernández"
+  },
+  {
+    "code": "COD",
+    "nation": "Congo DR",
+    "player": "Timothy Fayulu"
+  },
+  {
+    "code": "COD",
+    "nation": "Congo DR",
+    "player": "Matthieu Epolo"
+  },
+  {
+    "code": "COD",
+    "nation": "Congo DR",
+    "player": "Gédéon Kalulu"
+  },
+  {
+    "code": "COD",
+    "nation": "Congo DR",
+    "player": "Samuel Moutoussamy"
+  },
+  {
+    "code": "COD",
+    "nation": "Congo DR",
+    "player": "Gaël Kakuta"
+  },
+  {
+    "code": "COD",
+    "nation": "Congo DR",
+    "player": "Théo Bongonda"
+  },
+  {
+    "code": "COD",
+    "nation": "Congo DR",
+    "player": "Fiston Mayele"
+  },
+  {
+    "code": "UZB",
+    "nation": "Uzbekistan",
+    "player": "Utkir Yusupov"
+  },
+  {
+    "code": "UZB",
+    "nation": "Uzbekistan",
+    "player": "Abduvohid Nematov"
+  },
+  {
+    "code": "UZB",
+    "nation": "Uzbekistan",
+    "player": "Botirali Ergashev"
+  },
+  {
+    "code": "UZB",
+    "nation": "Uzbekistan",
+    "player": "Rustam Ashurmatov"
+  },
+  {
+    "code": "UZB",
+    "nation": "Uzbekistan",
+    "player": "Farrukh Sayfiev"
+  },
+  {
+    "code": "UZB",
+    "nation": "Uzbekistan",
+    "player": "Khojiakbar Alijonov"
+  },
+  {
+    "code": "UZB",
+    "nation": "Uzbekistan",
+    "player": "Sherzod Nasrullaev"
+  },
+  {
+    "code": "UZB",
+    "nation": "Uzbekistan",
+    "player": "Umar Eshmurodov"
+  },
+  {
+    "code": "UZB",
+    "nation": "Uzbekistan",
+    "player": "Otabek Shukurov"
+  },
+  {
+    "code": "UZB",
+    "nation": "Uzbekistan",
+    "player": "Odiljon Hamrobekov"
+  },
+  {
+    "code": "UZB",
+    "nation": "Uzbekistan",
+    "player": "Jamshid Iskanderov"
+  },
+  {
+    "code": "UZB",
+    "nation": "Uzbekistan",
+    "player": "Akmal Mozgovoy"
+  },
+  {
+    "code": "UZB",
+    "nation": "Uzbekistan",
+    "player": "Azizjon Ganiev"
+  },
+  {
+    "code": "UZB",
+    "nation": "Uzbekistan",
+    "player": "Igor Sergeev"
+  },
+  {
+    "code": "UZB",
+    "nation": "Uzbekistan",
+    "player": "Jaloliddin Masharipov"
+  },
+  {
+    "code": "UZB",
+    "nation": "Uzbekistan",
+    "player": "Oston Urunov"
+  },
+  {
+    "code": "UZB",
+    "nation": "Uzbekistan",
+    "player": "Dostonbek Khamdamov"
+  },
+  {
+    "code": "GHA",
+    "nation": "Ghana",
+    "player": "Benjamin Asare"
+  },
+  {
+    "code": "PAN",
+    "nation": "Panama",
+    "player": "César Samudio"
+  },
+  {
+    "code": "PAN",
+    "nation": "Panama",
+    "player": "Eric Davis"
+  },
+  {
+    "code": "PAN",
+    "nation": "Panama",
+    "player": "Fidel Escobar"
+  },
+  {
+    "code": "PAN",
+    "nation": "Panama",
+    "player": "Roderick Miller"
+  },
+  {
+    "code": "PAN",
+    "nation": "Panama",
+    "player": "César Blackman"
+  },
+  {
+    "code": "PAN",
+    "nation": "Panama",
+    "player": "Alberto Quintero"
+  },
+  {
+    "code": "PAN",
+    "nation": "Panama",
+    "player": "Yoel Bárcenas"
+  },
+  {
+    "code": "PAN",
+    "nation": "Panama",
+    "player": "Adalberto Carrasquilla"
+  },
+  {
+    "code": "PAN",
+    "nation": "Panama",
+    "player": "José Luis Rodríguez"
+  },
+  {
+    "code": "PAN",
+    "nation": "Panama",
+    "player": "Cristian Martínez"
+  },
+  {
+    "code": "PAN",
+    "nation": "Panama",
+    "player": "César Yanis"
+  },
+  {
+    "code": "PAN",
+    "nation": "Panama",
+    "player": "Ismael Díaz"
+  },
+  {
+    "code": "PAN",
+    "nation": "Panama",
+    "player": "Cecilio Waterman"
+  }
+]

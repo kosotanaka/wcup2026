@@ -65,7 +65,18 @@
       "dob": "2004-02-20",
       "caps": 7,
       "goals": 1,
-      "club": "Hannover 96"
+      "club": "Hannover 96",
+      "eafc26": {
+        "overall": 67,
+        "potential": 74,
+        "pace": 77,
+        "shooting": 30,
+        "passing": 44,
+        "dribbling": 59,
+        "defending": 68,
+        "physicality": 70,
+        "player_id": 79280
+      }
     },
     {
       "pos": "DF",
@@ -73,7 +84,18 @@
       "dob": "2004-03-15",
       "caps": 5,
       "goals": 0,
-      "club": "Molde"
+      "club": "Molde",
+      "eafc26": {
+        "overall": 63,
+        "potential": 75,
+        "pace": 71,
+        "shooting": 29,
+        "passing": 54,
+        "dribbling": 60,
+        "defending": 59,
+        "physicality": 60,
+        "player_id": 77951
+      }
     },
     {
       "pos": "DF",
@@ -113,7 +135,18 @@
       "dob": "2004-04-30",
       "caps": 0,
       "goals": 0,
-      "club": "Philadelphia Union"
+      "club": "Philadelphia Union",
+      "eafc26": {
+        "overall": 57,
+        "potential": 69,
+        "pace": 74,
+        "shooting": 32,
+        "passing": 42,
+        "dribbling": 44,
+        "defending": 56,
+        "physicality": 64,
+        "player_id": 278688
+      }
     },
     {
       "pos": "MF",
@@ -129,7 +162,18 @@
       "dob": "1999-03-03",
       "caps": 27,
       "goals": 1,
-      "club": "Tondela"
+      "club": "Tondela",
+      "eafc26": {
+        "overall": 65,
+        "potential": 69,
+        "pace": 64,
+        "shooting": 53,
+        "passing": 59,
+        "dribbling": 61,
+        "defending": 64,
+        "physicality": 74,
+        "player_id": 257293
+      }
     },
     {
       "pos": "MF",
@@ -161,7 +205,18 @@
       "dob": "2000-05-09",
       "caps": 26,
       "goals": 10,
-      "club": "Burnley"
+      "club": "Burnley",
+      "eafc26": {
+        "overall": 72,
+        "potential": 77,
+        "pace": 81,
+        "shooting": 72,
+        "passing": 61,
+        "dribbling": 69,
+        "defending": 36,
+        "physicality": 73,
+        "player_id": 241173
+      }
     },
     {
       "pos": "FW",

@@ -40,7 +40,18 @@
       "dob": "1992-06-17",
       "caps": 44,
       "goals": 0,
-      "club": "Shamrock Rovers"
+      "club": "Shamrock Rovers",
+      "eafc26": {
+        "overall": 66,
+        "potential": 66,
+        "pace": 45,
+        "shooting": 29,
+        "passing": 46,
+        "dribbling": 51,
+        "defending": 64,
+        "physicality": 77,
+        "player_id": 202014
+      }
     },
     {
       "pos": "DF",
@@ -48,7 +59,18 @@
       "dob": "1998-05-26",
       "caps": 40,
       "goals": 1,
-      "club": "FCSB"
+      "club": "FCSB",
+      "eafc26": {
+        "overall": 64,
+        "potential": 65,
+        "pace": 71,
+        "shooting": 57,
+        "passing": 61,
+        "dribbling": 64,
+        "defending": 62,
+        "physicality": 63,
+        "player_id": 76537
+      }
     },
     {
       "pos": "DF",
@@ -64,7 +86,18 @@
       "dob": "2001-04-01",
       "caps": 26,
       "goals": 0,
-      "club": "Villarreal"
+      "club": "Villarreal",
+      "eafc26": {
+        "overall": 77,
+        "potential": 84,
+        "pace": 60,
+        "shooting": 40,
+        "passing": 59,
+        "dribbling": 67,
+        "defending": 77,
+        "physicality": 78,
+        "player_id": 243923
+      }
     },
     {
       "pos": "DF",
@@ -72,7 +105,18 @@
       "dob": "1994-08-13",
       "caps": 18,
       "goals": 0,
-      "club": "Columbus Crew"
+      "club": "Columbus Crew",
+      "eafc26": {
+        "overall": 72,
+        "potential": 72,
+        "pace": 73,
+        "shooting": 33,
+        "passing": 67,
+        "dribbling": 71,
+        "defending": 72,
+        "physicality": 74,
+        "player_id": 212401
+      }
     },
     {
       "pos": "DF",
@@ -80,7 +124,18 @@
       "dob": "2003-09-18",
       "caps": 8,
       "goals": 3,
-      "club": "Benfica"
+      "club": "Benfica",
+      "eafc26": {
+        "overall": 66,
+        "potential": 75,
+        "pace": 82,
+        "shooting": 53,
+        "passing": 63,
+        "dribbling": 68,
+        "defending": 60,
+        "physicality": 62,
+        "player_id": 70289
+      }
     },
     {
       "pos": "MF",
@@ -88,7 +143,18 @@
       "dob": "1993-11-23",
       "caps": 53,
       "goals": 5,
-      "club": "PEC Zwolle"
+      "club": "PEC Zwolle",
+      "eafc26": {
+        "overall": 69,
+        "potential": 69,
+        "pace": 72,
+        "shooting": 59,
+        "passing": 70,
+        "dribbling": 72,
+        "defending": 54,
+        "physicality": 68,
+        "player_id": 231150
+      }
     },
     {
       "pos": "MF",
@@ -112,7 +178,18 @@
       "dob": "2001-06-21",
       "caps": 14,
       "goals": 1,
-      "club": "Vitória de Guimarães"
+      "club": "Vitória de Guimarães",
+      "eafc26": {
+        "overall": 71,
+        "potential": 76,
+        "pace": 74,
+        "shooting": 61,
+        "passing": 68,
+        "dribbling": 71,
+        "defending": 38,
+        "physicality": 60,
+        "player_id": 257194
+      }
     },
     {
       "pos": "MF",
@@ -153,7 +230,18 @@
       "dob": "1998-06-14",
       "caps": 25,
       "goals": 2,
-      "club": "Estrela Amadora"
+      "club": "Estrela Amadora",
+      "eafc26": {
+        "overall": 70,
+        "potential": 70,
+        "pace": 77,
+        "shooting": 71,
+        "passing": 68,
+        "dribbling": 72,
+        "defending": 38,
+        "physicality": 68,
+        "player_id": 244193
+      }
     },
     {
       "pos": "FW",
@@ -161,7 +249,18 @@
       "dob": "2001-05-04",
       "caps": 20,
       "goals": 7,
-      "club": "Casa Pia"
+      "club": "Casa Pia",
+      "eafc26": {
+        "overall": 70,
+        "potential": 75,
+        "pace": 82,
+        "shooting": 71,
+        "passing": 56,
+        "dribbling": 68,
+        "defending": 34,
+        "physicality": 64,
+        "player_id": 73853
+      }
     },
     {
       "pos": "FW",
