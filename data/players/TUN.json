@@ -1,0 +1,345 @@
+{
+  "name": "Tunisia",
+  "group": "F",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Aymen Dahmen",
+      "dob": "1997-01-28",
+      "caps": 37,
+      "goals": 0,
+      "club": "CS Sfaxien"
+    },
+    {
+      "pos": "GK",
+      "name": "Sabri Ben Hessen",
+      "dob": "1996-06-13",
+      "caps": 2,
+      "goals": 0,
+      "club": "Étoile du Sahel"
+    },
+    {
+      "pos": "GK",
+      "name": "Mouhib Chamakh",
+      "dob": "2001-08-25",
+      "caps": 1,
+      "goals": 0,
+      "club": "Club Africain"
+    },
+    {
+      "pos": "DF",
+      "name": "Montassar Talbi",
+      "dob": "1998-05-26",
+      "caps": 62,
+      "goals": 4,
+      "club": "Lorient",
+      "eafc26": {
+        "overall": 73,
+        "potential": 76,
+        "pace": 56,
+        "shooting": 30,
+        "passing": 42,
+        "dribbling": 57,
+        "defending": 73,
+        "physicality": 76,
+        "player_id": 245410
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Dylan Bronn",
+      "dob": "1995-06-19",
+      "caps": 52,
+      "goals": 2,
+      "club": "Servette",
+      "eafc26": {
+        "overall": 68,
+        "potential": 68,
+        "pace": 60,
+        "shooting": 61,
+        "passing": 64,
+        "dribbling": 61,
+        "defending": 68,
+        "physicality": 76,
+        "player_id": 235565
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Ali Abdi",
+      "dob": "1993-12-20",
+      "caps": 45,
+      "goals": 7,
+      "club": "Nice",
+      "eafc26": {
+        "overall": 76,
+        "potential": 76,
+        "pace": 86,
+        "shooting": 62,
+        "passing": 70,
+        "dribbling": 73,
+        "defending": 69,
+        "physicality": 75,
+        "player_id": 252711
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Yan Valery",
+      "dob": "1999-02-22",
+      "caps": 21,
+      "goals": 0,
+      "club": "Young Boys",
+      "eafc26": {
+        "overall": 71,
+        "potential": 74,
+        "pace": 62,
+        "shooting": 52,
+        "passing": 63,
+        "dribbling": 68,
+        "defending": 70,
+        "physicality": 74,
+        "player_id": 236316
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Mohamed Amine Ben Hamida",
+      "dob": "1995-12-15",
+      "caps": 12,
+      "goals": 0,
+      "club": "Espérance de Tunis"
+    },
+    {
+      "pos": "DF",
+      "name": "Moutaz Neffati",
+      "dob": "2004-09-04",
+      "caps": 5,
+      "goals": 0,
+      "club": "IFK Norrköping",
+      "eafc26": {
+        "overall": 63,
+        "potential": 74,
+        "pace": 68,
+        "shooting": 53,
+        "passing": 58,
+        "dribbling": 61,
+        "defending": 59,
+        "physicality": 57,
+        "player_id": 279056
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Omar Rekik",
+      "dob": "2001-12-20",
+      "caps": 4,
+      "goals": 0,
+      "club": "Maribor"
+    },
+    {
+      "pos": "MF",
+      "name": "Ellyes Skhiri",
+      "dob": "1995-05-10",
+      "caps": 81,
+      "goals": 4,
+      "club": "Eintracht Frankfurt",
+      "captain": true,
+      "eafc26": {
+        "overall": 80,
+        "potential": 80,
+        "pace": 64,
+        "shooting": 73,
+        "passing": 74,
+        "dribbling": 75,
+        "defending": 80,
+        "physicality": 74,
+        "player_id": 225126
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Hannibal Mejbri",
+      "dob": "2003-01-21",
+      "caps": 44,
+      "goals": 1,
+      "club": "Burnley",
+      "eafc26": {
+        "overall": 74,
+        "potential": 82,
+        "pace": 76,
+        "shooting": 63,
+        "passing": 73,
+        "dribbling": 76,
+        "defending": 68,
+        "physicality": 82,
+        "player_id": 258171
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Anis Ben Slimane",
+      "dob": "2001-03-16",
+      "caps": 39,
+      "goals": 4,
+      "club": "Norwich City",
+      "eafc26": {
+        "overall": 67,
+        "potential": 71,
+        "pace": 65,
+        "shooting": 61,
+        "passing": 62,
+        "dribbling": 68,
+        "defending": 58,
+        "physicality": 75,
+        "player_id": 255210
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Ismaël Gharbi",
+      "dob": "2004-04-10",
+      "caps": 15,
+      "goals": 2,
+      "club": "FC Augsburg",
+      "eafc26": {
+        "overall": 73,
+        "potential": 82,
+        "pace": 78,
+        "shooting": 67,
+        "passing": 69,
+        "dribbling": 79,
+        "defending": 41,
+        "physicality": 56,
+        "player_id": 263194
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Mortadha Ben Ouanes",
+      "dob": "1994-07-02",
+      "caps": 17,
+      "goals": 0,
+      "club": "Kasımpaşa",
+      "eafc26": {
+        "overall": 69,
+        "potential": 69,
+        "pace": 72,
+        "shooting": 60,
+        "passing": 68,
+        "dribbling": 68,
+        "defending": 66,
+        "physicality": 65,
+        "player_id": 263432
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Hadj Mahmoud",
+      "dob": "2000-04-24",
+      "caps": 7,
+      "goals": 0,
+      "club": "Lugano",
+      "eafc26": {
+        "overall": 67,
+        "potential": 74,
+        "pace": 67,
+        "shooting": 58,
+        "passing": 63,
+        "dribbling": 66,
+        "defending": 64,
+        "physicality": 70,
+        "player_id": 264705
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Rani Khedira",
+      "dob": "1994-01-27",
+      "caps": 2,
+      "goals": 0,
+      "club": "Union Berlin"
+    },
+    {
+      "pos": "FW",
+      "name": "Elias Achouri",
+      "dob": "1999-02-10",
+      "caps": 29,
+      "goals": 4,
+      "club": "Copenhagen",
+      "eafc26": {
+        "overall": 72,
+        "potential": 73,
+        "pace": 85,
+        "shooting": 64,
+        "passing": 65,
+        "dribbling": 74,
+        "defending": 32,
+        "physicality": 58,
+        "player_id": 263672
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Firas Chaouat",
+      "dob": "1996-05-08",
+      "caps": 28,
+      "goals": 6,
+      "club": "Club Africain"
+    },
+    {
+      "pos": "FW",
+      "name": "Hazem Mastouri",
+      "dob": "1997-06-18",
+      "caps": 18,
+      "goals": 4,
+      "club": "Dynamo Makhachkala"
+    },
+    {
+      "pos": "FW",
+      "name": "Elias Saad",
+      "dob": "1999-12-27",
+      "caps": 14,
+      "goals": 4,
+      "club": "Hannover 96",
+      "eafc26": {
+        "overall": 72,
+        "potential": 74,
+        "pace": 74,
+        "shooting": 67,
+        "passing": 67,
+        "dribbling": 77,
+        "defending": 31,
+        "physicality": 59,
+        "player_id": 274000
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Sebastian Tounekti",
+      "dob": "2002-07-13",
+      "caps": 10,
+      "goals": 1,
+      "club": "Celtic",
+      "eafc26": {
+        "overall": 69,
+        "potential": 76,
+        "pace": 78,
+        "shooting": 62,
+        "passing": 62,
+        "dribbling": 70,
+        "defending": 24,
+        "physicality": 63,
+        "player_id": 256383
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Khalil Ayari",
+      "dob": "2005-02-02",
+      "caps": 2,
+      "goals": 0,
+      "club": "Paris Saint-Germain Youth"
+    }
+  ]
+}

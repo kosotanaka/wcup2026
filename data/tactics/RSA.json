@@ -1,0 +1,223 @@
+{
+  "name": "South Africa",
+  "code": "RSA",
+  "matches_analyzed": 7,
+  "formations": {
+    "4-2-3-1": 10,
+    "4-4-1-1": 2,
+    "3-4-3": 1,
+    "4-4-2": 5
+  },
+  "primary_formation": "4-2-3-1",
+  "top_starters": [
+    "Ronwen Williams",
+    "Khuliso Johnson Mudau",
+    "Aubrey Maphosa Modiba",
+    "Teboho Mokoena",
+    "Sphephelo S''Miso Sithole",
+    "Themba Zwane",
+    "Evidence Makgopa",
+    "Mothobi Mvala",
+    "Percy Tau",
+    "Gomolemo Grant Kekana",
+    "Thapelo James Morena",
+    "Siyanda Xulu",
+    "Nkosinathi Sibisi",
+    "Mihlali Samson Mayambela",
+    "Thapelo Maseko"
+  ],
+  "top_subs": [
+    "Zakhele Lerato Lepasa",
+    "Thapelo Maseko",
+    "Thabang Amod Monare",
+    "Mihlali Samson Mayambela",
+    "Jayden Adams",
+    "Nyiko Mobbie",
+    "Terrence Mashego",
+    "Oswin Reagan Appollis"
+  ],
+  "matches": [
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920407,
+      "opponent": "Namibia",
+      "score": "4-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Ronwen Williams",
+        "Khuliso Johnson Mudau",
+        "Gomolemo Grant Kekana",
+        "Mothobi Mvala",
+        "Aubrey Maphosa Modiba",
+        "Teboho Mokoena",
+        "Sphephelo S''Miso Sithole",
+        "Thapelo James Morena",
+        "Themba Zwane",
+        "Percy Tau",
+        "Evidence Makgopa"
+      ],
+      "subs_in": [
+        "Thapelo Maseko",
+        "Thabang Amod Monare",
+        "Mihlali Samson Mayambela",
+        "Zakhele Lerato Lepasa",
+        "Jayden Adams"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920416,
+      "opponent": "Tunisia",
+      "score": "0-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Ronwen Williams",
+        "Khuliso Johnson Mudau",
+        "Gomolemo Grant Kekana",
+        "Mothobi Mvala",
+        "Aubrey Maphosa Modiba",
+        "Teboho Mokoena",
+        "Sphephelo S''Miso Sithole",
+        "Thapelo James Morena",
+        "Themba Zwane",
+        "Percy Tau",
+        "Evidence Makgopa"
+      ],
+      "subs_in": [
+        "Nyiko Mobbie",
+        "Thapelo Maseko",
+        "Thabang Amod Monare",
+        "Zakhele Lerato Lepasa"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3922658,
+      "opponent": "Cape Verde Islands",
+      "score": "0-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Ronwen Williams",
+        "Khuliso Johnson Mudau",
+        "Gomolemo Grant Kekana",
+        "Mothobi Mvala",
+        "Aubrey Maphosa Modiba",
+        "Teboho Mokoena",
+        "Sphephelo S''Miso Sithole",
+        "Thapelo James Morena",
+        "Themba Zwane",
+        "Percy Tau",
+        "Evidence Makgopa"
+      ],
+      "subs_in": [
+        "Thapelo Maseko",
+        "Mihlali Samson Mayambela",
+        "Jayden Adams",
+        "Nyiko Mobbie",
+        "Zakhele Lerato Lepasa",
+        "Terrence Mashego"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3923880,
+      "opponent": "Congo DR",
+      "score": "0-0",
+      "formation": "4-4-1-1",
+      "starting_xi": [
+        "Ronwen Williams",
+        "Khuliso Johnson Mudau",
+        "Siyanda Xulu",
+        "Nkosinathi Sibisi",
+        "Aubrey Maphosa Modiba",
+        "Teboho Mokoena",
+        "Sphephelo S''Miso Sithole",
+        "Thapelo James Morena",
+        "Mihlali Samson Mayambela",
+        "Themba Zwane",
+        "Evidence Makgopa"
+      ],
+      "subs_in": [
+        "Oswin Reagan Appollis",
+        "Thabang Amod Monare",
+        "Terrence Mashego",
+        "Zakhele Lerato Lepasa"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3922837,
+      "opponent": "Nigeria",
+      "score": "1-1",
+      "formation": "3-4-3",
+      "starting_xi": [
+        "Ronwen Williams",
+        "Gomolemo Grant Kekana",
+        "Siyanda Xulu",
+        "Mothobi Mvala",
+        "Khuliso Johnson Mudau",
+        "Aubrey Maphosa Modiba",
+        "Teboho Mokoena",
+        "Sphephelo S''Miso Sithole",
+        "Percy Tau",
+        "Themba Zwane",
+        "Evidence Makgopa"
+      ],
+      "subs_in": [
+        "Zakhele Lerato Lepasa",
+        "Mihlali Samson Mayambela",
+        "Nkosinathi Sibisi"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3922243,
+      "opponent": "Morocco",
+      "score": "2-0",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Ronwen Williams",
+        "Khuliso Johnson Mudau",
+        "Gomolemo Grant Kekana",
+        "Mothobi Mvala",
+        "Aubrey Maphosa Modiba",
+        "Teboho Mokoena",
+        "Sphephelo S''Miso Sithole",
+        "Thapelo James Morena",
+        "Percy Tau",
+        "Evidence Makgopa",
+        "Themba Zwane"
+      ],
+      "subs_in": [
+        "Thapelo Maseko",
+        "Zakhele Lerato Lepasa",
+        "Thabang Amod Monare"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920391,
+      "opponent": "Mali",
+      "score": "0-2",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Ronwen Williams",
+        "Khuliso Johnson Mudau",
+        "Siyanda Xulu",
+        "Mothobi Mvala",
+        "Aubrey Maphosa Modiba",
+        "Teboho Mokoena",
+        "Sphephelo S''Miso Sithole",
+        "Percy Tau",
+        "Thapelo Maseko",
+        "Themba Zwane",
+        "Evidence Makgopa"
+      ],
+      "subs_in": [
+        "Zakhele Lerato Lepasa",
+        "Mihlali Samson Mayambela",
+        "Thapelo James Morena"
+      ]
+    }
+  ]
+}

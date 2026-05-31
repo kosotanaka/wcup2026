@@ -1,0 +1,307 @@
+{
+  "name": "Croatia",
+  "code": "CRO",
+  "matches_analyzed": 10,
+  "formations": {
+    "4-3-3": 17,
+    "4-2-3-1": 6,
+    "4-4-2": 1,
+    "3-5-1-1": 1
+  },
+  "primary_formation": "4-3-3",
+  "top_starters": [
+    "Dominik Livaković",
+    "Joško Gvardiol",
+    "Luka Modrić",
+    "Mateo Kovačić",
+    "Andrej Kramarić",
+    "Marcelo Brozović",
+    "Ivan Perišić",
+    "Josip Juranović",
+    "Dejan Lovren",
+    "Borna Sosa",
+    "Josip Šutalo",
+    "Marko Livaja",
+    "Josip Stanišić",
+    "Lovro Majer",
+    "Mario Pašalić"
+  ],
+  "top_subs": [
+    "Mario Pašalić",
+    "Lovro Majer",
+    "Bruno Petković",
+    "Mislav Oršić",
+    "Nikola Vlašić",
+    "Ante Budimir",
+    "Marko Livaja",
+    "Ivan Perišić"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857296,
+      "opponent": "Belgium",
+      "score": "0-0",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Dominik Livaković",
+        "Josip Juranović",
+        "Dejan Lovren",
+        "Joško Gvardiol",
+        "Borna Sosa",
+        "Marcelo Brozović",
+        "Luka Modrić",
+        "Mateo Kovačić",
+        "Andrej Kramarić",
+        "Ivan Perišić",
+        "Marko Livaja"
+      ],
+      "subs_in": [
+        "Bruno Petković",
+        "Mario Pašalić",
+        "Lovro Majer"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857277,
+      "opponent": "Morocco",
+      "score": "0-0",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Dominik Livaković",
+        "Josip Juranović",
+        "Dejan Lovren",
+        "Joško Gvardiol",
+        "Borna Sosa",
+        "Marcelo Brozović",
+        "Luka Modrić",
+        "Mateo Kovačić",
+        "Nikola Vlašić",
+        "Ivan Perišić",
+        "Andrej Kramarić"
+      ],
+      "subs_in": [
+        "Mario Pašalić",
+        "Marko Livaja",
+        "Lovro Majer",
+        "Mislav Oršić"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869684,
+      "opponent": "Morocco",
+      "score": "2-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Dominik Livaković",
+        "Josip Stanišić",
+        "Josip Šutalo",
+        "Joško Gvardiol",
+        "Ivan Perišić",
+        "Luka Modrić",
+        "Mateo Kovačić",
+        "Lovro Majer",
+        "Andrej Kramarić",
+        "Mislav Oršić",
+        "Marko Livaja"
+      ],
+      "subs_in": [
+        "Nikola Vlašić",
+        "Mario Pašalić",
+        "Bruno Petković",
+        "Kristijan Jakić"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869519,
+      "opponent": "Argentina",
+      "score": "0-3",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Dominik Livaković",
+        "Josip Juranović",
+        "Dejan Lovren",
+        "Joško Gvardiol",
+        "Borna Sosa",
+        "Marcelo Brozović",
+        "Luka Modrić",
+        "Mateo Kovačić",
+        "Mario Pašalić",
+        "Ivan Perišić",
+        "Andrej Kramarić"
+      ],
+      "subs_in": [
+        "Mislav Oršić",
+        "Nikola Vlašić",
+        "Bruno Petković",
+        "Marko Livaja",
+        "Lovro Majer"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869420,
+      "opponent": "Brazil",
+      "score": "1-1",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Dominik Livaković",
+        "Josip Juranović",
+        "Dejan Lovren",
+        "Joško Gvardiol",
+        "Borna Sosa",
+        "Marcelo Brozović",
+        "Luka Modrić",
+        "Mateo Kovačić",
+        "Mario Pašalić",
+        "Ivan Perišić",
+        "Andrej Kramarić"
+      ],
+      "subs_in": [
+        "Nikola Vlašić",
+        "Bruno Petković",
+        "Lovro Majer",
+        "Ante Budimir",
+        "Mislav Oršić"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869219,
+      "opponent": "Japan",
+      "score": "1-1",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Dominik Livaković",
+        "Josip Juranović",
+        "Dejan Lovren",
+        "Joško Gvardiol",
+        "Borna Barišić",
+        "Marcelo Brozović",
+        "Luka Modrić",
+        "Mateo Kovačić",
+        "Andrej Kramarić",
+        "Ivan Perišić",
+        "Bruno Petković"
+      ],
+      "subs_in": [
+        "Ante Budimir",
+        "Mario Pašalić",
+        "Lovro Majer",
+        "Nikola Vlašić",
+        "Mislav Oršić",
+        "Marko Livaja"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857281,
+      "opponent": "Canada",
+      "score": "4-1",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Dominik Livaković",
+        "Josip Juranović",
+        "Dejan Lovren",
+        "Joško Gvardiol",
+        "Borna Sosa",
+        "Marcelo Brozović",
+        "Luka Modrić",
+        "Mateo Kovačić",
+        "Andrej Kramarić",
+        "Ivan Perišić",
+        "Marko Livaja"
+      ],
+      "subs_in": [
+        "Bruno Petković",
+        "Nikola Vlašić",
+        "Mislav Oršić",
+        "Mario Pašalić",
+        "Lovro Majer"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930178,
+      "opponent": "Italy",
+      "score": "1-1",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Dominik Livaković",
+        "Josip Stanišić",
+        "Josip Šutalo",
+        "Marin Pongracic",
+        "Joško Gvardiol",
+        "Marcelo Brozović",
+        "Luka Modrić",
+        "Mateo Kovačić",
+        "Luka Sučić",
+        "Mario Pašalić",
+        "Andrej Kramarić"
+      ],
+      "subs_in": [
+        "Ante Budimir",
+        "Ivan Perišić",
+        "Luka Ivanušec",
+        "Lovro Majer",
+        "Josip Juranović"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930160,
+      "opponent": "Spain",
+      "score": "0-3",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Dominik Livaković",
+        "Josip Stanišić",
+        "Josip Šutalo",
+        "Marin Pongracic",
+        "Joško Gvardiol",
+        "Marcelo Brozović",
+        "Luka Modrić",
+        "Mateo Kovačić",
+        "Lovro Majer",
+        "Andrej Kramarić",
+        "Ante Budimir"
+      ],
+      "subs_in": [
+        "Ivan Perišić",
+        "Mario Pašalić",
+        "Luka Sučić",
+        "Bruno Petković"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930167,
+      "opponent": "Albania",
+      "score": "2-2",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Dominik Livaković",
+        "Josip Juranović",
+        "Josip Šutalo",
+        "Joško Gvardiol",
+        "Ivan Perišić",
+        "Marcelo Brozović",
+        "Luka Modrić",
+        "Mateo Kovačić",
+        "Lovro Majer",
+        "Andrej Kramarić",
+        "Bruno Petković"
+      ],
+      "subs_in": [
+        "Luka Sučić",
+        "Mario Pašalić",
+        "Ante Budimir",
+        "Borna Sosa",
+        "Martin Baturina"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "name": "Ghana",
+  "code": "GHA",
+  "matches_analyzed": 6,
+  "formations": {
+    "3-5-2": 2,
+    "4-4-1-1": 1,
+    "4-2-3-1": 9,
+    "3-4-2-1": 3
+  },
+  "primary_formation": "4-2-3-1",
+  "top_starters": [
+    "Mohamed Salisu",
+    "Salis Abdul Samed",
+    "Mohammed Kudus",
+    "Jordan Ayew",
+    "Alexander Djiku",
+    "Iñaki Williams Arthuer",
+    "Gideon Mensah",
+    "Lawrence Ati-Zigi",
+    "Daniel Amartey",
+    "Thomas Teye Partey",
+    "André Ayew Pelé",
+    "Richard Ofori Antwi",
+    "Denis Odoi",
+    "Majeed Ashimeru",
+    "Antoine Semenyo"
+  ],
+  "top_subs": [
+    "Osman Bukari",
+    "Daniel-Kofi Kyereh",
+    "Antoine Semenyo",
+    "Kamaldeen Sulemana",
+    "Iddrisu Baba Mohammed",
+    "André Ayew Pelé",
+    "Iñaki Williams Arthuer",
+    "Tariq Lamptey"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857298,
+      "opponent": "Portugal",
+      "score": "2-3",
+      "formation": "3-5-2",
+      "starting_xi": [
+        "Lawrence Ati-Zigi",
+        "Daniel Amartey",
+        "Alexander Djiku",
+        "Mohamed Salisu",
+        "Alidu Seidu",
+        "Abdul Rahman Baba",
+        "Salis Abdul Samed",
+        "Thomas Teye Partey",
+        "Mohammed Kudus",
+        "André Ayew Pelé",
+        "Iñaki Williams Arthuer"
+      ],
+      "subs_in": [
+        "Tariq Lamptey",
+        "Osman Bukari",
+        "Jordan Ayew",
+        "Antoine Semenyo",
+        "Daniel-Kofi Kyereh"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857299,
+      "opponent": "South Korea",
+      "score": "3-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Lawrence Ati-Zigi",
+        "Tariq Lamptey",
+        "Daniel Amartey",
+        "Mohamed Salisu",
+        "Gideon Mensah",
+        "Thomas Teye Partey",
+        "Salis Abdul Samed",
+        "Mohammed Kudus",
+        "André Ayew Pelé",
+        "Jordan Ayew",
+        "Iñaki Williams Arthuer"
+      ],
+      "subs_in": [
+        "Denis Odoi",
+        "Daniel-Kofi Kyereh",
+        "Kamaldeen Sulemana",
+        "Alexander Djiku",
+        "Abdul Rahman Baba"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857293,
+      "opponent": "Uruguay",
+      "score": "0-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Lawrence Ati-Zigi",
+        "Alidu Seidu",
+        "Daniel Amartey",
+        "Mohamed Salisu",
+        "Abdul Rahman Baba",
+        "Thomas Teye Partey",
+        "Salis Abdul Samed",
+        "Iñaki Williams Arthuer",
+        "André Ayew Pelé",
+        "Jordan Ayew",
+        "Mohammed Kudus"
+      ],
+      "subs_in": [
+        "Osman Bukari",
+        "Kamaldeen Sulemana",
+        "Antoine Semenyo",
+        "Daniel-Kofi Kyereh",
+        "Abdul Fatawu Issahaku"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920410,
+      "opponent": "Mozambique",
+      "score": "2-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Richard Ofori Antwi",
+        "Denis Odoi",
+        "Alexander Djiku",
+        "Mohamed Salisu",
+        "Gideon Mensah",
+        "Majeed Ashimeru",
+        "Salis Abdul Samed",
+        "Joseph Paintsil",
+        "Mohammed Kudus",
+        "Jordan Ayew",
+        "Antoine Semenyo"
+      ],
+      "subs_in": [
+        "Iddrisu Baba Mohammed",
+        "André Ayew Pelé",
+        "Alidu Seidu",
+        "Daniel Amartey",
+        "Iñaki Williams Arthuer"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920396,
+      "opponent": "Egypt",
+      "score": "2-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Richard Ofori Antwi",
+        "Denis Odoi",
+        "Alexander Djiku",
+        "Mohamed Salisu",
+        "Gideon Mensah",
+        "Majeed Ashimeru",
+        "Salis Abdul Samed",
+        "Iñaki Williams Arthuer",
+        "Mohammed Kudus",
+        "Jordan Ayew",
+        "Antoine Semenyo"
+      ],
+      "subs_in": [
+        "Iddrisu Baba Mohammed",
+        "Osman Bukari",
+        "Joseph Paintsil",
+        "Elisha Owusu"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920387,
+      "opponent": "Cape Verde Islands",
+      "score": "1-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Richard Ofori Antwi",
+        "Denis Odoi",
+        "Alexander Djiku",
+        "Mohamed Salisu",
+        "Gideon Mensah",
+        "Iddrisu Baba Mohammed",
+        "Majeed Ashimeru",
+        "Joseph Paintsil",
+        "Ransford Königsdörffer",
+        "Jordan Ayew",
+        "Antoine Semenyo"
+      ],
+      "subs_in": [
+        "André Ayew Pelé",
+        "Ernest Appiah Nuamah",
+        "Iñaki Williams Arthuer",
+        "Salis Abdul Samed",
+        "Osman Bukari"
+      ]
+    }
+  ]
+}

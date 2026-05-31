@@ -1,0 +1,147 @@
+{
+  "name": "Panama",
+  "code": "PAN",
+  "matches_analyzed": 4,
+  "formations": {
+    "3-4-3": 9,
+    "3-5-1-1": 1,
+    "4-4-2": 2,
+    "4-2-3-1": 1
+  },
+  "primary_formation": "3-4-3",
+  "top_starters": [
+    "Orlando Mosquera",
+    "Edgardo Isaac Fariña Wynter",
+    "José Ángel Córdoba Chambers",
+    "Michael Amir Murillo Bermudez",
+    "Erick Javier Davis Grajales",
+    "Cristian Jesús Martínez",
+    "Edgar Yoel Bárcenas Herrera",
+    "Roderick Alonso Miller Molina",
+    "César Rodolfo Blackman Camarena",
+    "José Fajardo Nelson",
+    "Jovani Francisco Welch Lopez",
+    "Adalberto Eliécer Carrasquilla Alcázar",
+    "José Luis Rodríguez Francis",
+    "Eduardo Antonio Guerrero Lozcano",
+    "Carlos Miguel Harvey Cesneros"
+  ],
+  "top_subs": [
+    "Abdiel Armando Ayarza Cocanegra",
+    "Eduardo Antonio Guerrero Lozcano",
+    "Freddy Elías Góndola Smith",
+    "Kahiser Lenis Navarro",
+    "Carlos Miguel Harvey Cesneros",
+    "Omar Javier Valencia Arauz",
+    "Ismael Díaz De León",
+    "Jovani Francisco Welch Lopez"
+  ],
+  "matches": [
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3942416,
+      "opponent": "Colombia",
+      "score": "0-5",
+      "formation": "3-4-3",
+      "starting_xi": [
+        "Orlando Mosquera",
+        "Edgardo Isaac Fariña Wynter",
+        "José Ángel Córdoba Chambers",
+        "Roderick Alonso Miller Molina",
+        "Michael Amir Murillo Bermudez",
+        "Erick Javier Davis Grajales",
+        "Cristian Jesús Martínez",
+        "Jovani Francisco Welch Lopez",
+        "César Rodolfo Blackman Camarena",
+        "Edgar Yoel Bárcenas Herrera",
+        "José Fajardo Nelson"
+      ],
+      "subs_in": [
+        "Carlos Miguel Harvey Cesneros",
+        "Eduardo Antonio Guerrero Lozcano",
+        "Abdiel Armando Ayarza Cocanegra",
+        "Omar Javier Valencia Arauz",
+        "Ismael Díaz De León"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939973,
+      "opponent": "Uruguay",
+      "score": "1-3",
+      "formation": "3-4-3",
+      "starting_xi": [
+        "Orlando Mosquera",
+        "Edgardo Isaac Fariña Wynter",
+        "José Ángel Córdoba Chambers",
+        "Roderick Alonso Miller Molina",
+        "Michael Amir Murillo Bermudez",
+        "Erick Javier Davis Grajales",
+        "Cristian Jesús Martínez",
+        "Adalberto Eliécer Carrasquilla Alcázar",
+        "José Luis Rodríguez Francis",
+        "Edgar Yoel Bárcenas Herrera",
+        "José Fajardo Nelson"
+      ],
+      "subs_in": [
+        "Jovani Francisco Welch Lopez",
+        "Eduardo Antonio Guerrero Lozcano",
+        "Freddy Elías Góndola Smith",
+        "Abdiel Armando Ayarza Cocanegra",
+        "Kahiser Lenis Navarro"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939981,
+      "opponent": "United States",
+      "score": "2-1",
+      "formation": "3-4-3",
+      "starting_xi": [
+        "Orlando Mosquera",
+        "Edgardo Isaac Fariña Wynter",
+        "José Ángel Córdoba Chambers",
+        "Roderick Alonso Miller Molina",
+        "Michael Amir Murillo Bermudez",
+        "Erick Javier Davis Grajales",
+        "Cristian Jesús Martínez",
+        "Adalberto Eliécer Carrasquilla Alcázar",
+        "César Rodolfo Blackman Camarena",
+        "Edgar Yoel Bárcenas Herrera",
+        "Eduardo Antonio Guerrero Lozcano"
+      ],
+      "subs_in": [
+        "José Fajardo Nelson",
+        "Freddy Elías Góndola Smith",
+        "Abdiel Armando Ayarza Cocanegra"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939989,
+      "opponent": "Bolivia",
+      "score": "3-1",
+      "formation": "3-4-3",
+      "starting_xi": [
+        "Orlando Mosquera",
+        "Edgardo Isaac Fariña Wynter",
+        "José Ángel Córdoba Chambers",
+        "Carlos Miguel Harvey Cesneros",
+        "Michael Amir Murillo Bermudez",
+        "Erick Javier Davis Grajales",
+        "Cristian Jesús Martínez",
+        "Jovani Francisco Welch Lopez",
+        "César Rodolfo Blackman Camarena",
+        "Edgar Yoel Bárcenas Herrera",
+        "José Fajardo Nelson"
+      ],
+      "subs_in": [
+        "Kahiser Lenis Navarro",
+        "Abdiel Armando Ayarza Cocanegra",
+        "Eduardo Antonio Guerrero Lozcano",
+        "Freddy Elías Góndola Smith",
+        "César Augusto Yanis Velasco"
+      ]
+    }
+  ]
+}

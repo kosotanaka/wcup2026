@@ -1,0 +1,263 @@
+{
+  "name": "Panama",
+  "group": "L",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Luis Mejía",
+      "dob": "1991-03-16",
+      "caps": 56,
+      "goals": 0,
+      "club": "Nacional",
+      "eafc26": {
+        "overall": 72,
+        "potential": 72,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 202089
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Orlando Mosquera",
+      "dob": "1994-12-25",
+      "caps": 46,
+      "goals": 0,
+      "club": "Al-Fayha",
+      "eafc26": {
+        "overall": 70,
+        "potential": 71,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 263976
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "César Samudio",
+      "dob": "1994-03-26",
+      "caps": 4,
+      "goals": 0,
+      "club": "Marathón"
+    },
+    {
+      "pos": "DF",
+      "name": "Eric Davis",
+      "dob": "1991-03-31",
+      "caps": 104,
+      "goals": 9,
+      "club": "Plaza Amador"
+    },
+    {
+      "pos": "DF",
+      "name": "Fidel Escobar",
+      "dob": "1995-01-09",
+      "caps": 96,
+      "goals": 4,
+      "club": "Saprissa"
+    },
+    {
+      "pos": "DF",
+      "name": "Michael Amir Murillo",
+      "dob": "1996-02-11",
+      "caps": 91,
+      "goals": 9,
+      "club": "Beşiktaş",
+      "eafc26": {
+        "overall": 76,
+        "potential": 76,
+        "pace": 84,
+        "shooting": 57,
+        "passing": 70,
+        "dribbling": 71,
+        "defending": 70,
+        "physicality": 76,
+        "player_id": 237841
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Roderick Miller",
+      "dob": "1992-04-03",
+      "caps": 48,
+      "goals": 2,
+      "club": "Turan Tovuz"
+    },
+    {
+      "pos": "DF",
+      "name": "Andrés Andrade",
+      "dob": "1998-10-16",
+      "caps": 47,
+      "goals": 1,
+      "club": "LASK",
+      "eafc26": {
+        "overall": 69,
+        "potential": 73,
+        "pace": 74,
+        "shooting": 51,
+        "passing": 60,
+        "dribbling": 64,
+        "defending": 68,
+        "physicality": 79,
+        "player_id": 252873
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "César Blackman",
+      "dob": "1998-04-02",
+      "caps": 37,
+      "goals": 3,
+      "club": "Slovan Bratislava"
+    },
+    {
+      "pos": "DF",
+      "name": "José Córdoba",
+      "dob": "2001-06-03",
+      "caps": 30,
+      "goals": 1,
+      "club": "Norwich City",
+      "eafc26": {
+        "overall": 68,
+        "potential": 74,
+        "pace": 72,
+        "shooting": 31,
+        "passing": 53,
+        "dribbling": 61,
+        "defending": 65,
+        "physicality": 73,
+        "player_id": 72708
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Aníbal Godoy",
+      "dob": "1990-02-10",
+      "caps": 159,
+      "goals": 4,
+      "club": "San Diego FC",
+      "captain": true,
+      "eafc26": {
+        "overall": 70,
+        "potential": 70,
+        "pace": 43,
+        "shooting": 56,
+        "passing": 65,
+        "dribbling": 67,
+        "defending": 64,
+        "physicality": 75,
+        "player_id": 217047
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Alberto Quintero",
+      "dob": "1987-12-18",
+      "caps": 140,
+      "goals": 7,
+      "club": "Plaza Amador"
+    },
+    {
+      "pos": "MF",
+      "name": "Yoel Bárcenas",
+      "dob": "1993-10-23",
+      "caps": 101,
+      "goals": 10,
+      "club": "Mazatlán"
+    },
+    {
+      "pos": "MF",
+      "name": "Adalberto Carrasquilla",
+      "dob": "1998-11-28",
+      "caps": 73,
+      "goals": 3,
+      "club": "UNAM"
+    },
+    {
+      "pos": "MF",
+      "name": "José Luis Rodríguez",
+      "dob": "1998-06-19",
+      "caps": 67,
+      "goals": 8,
+      "club": "Juárez"
+    },
+    {
+      "pos": "MF",
+      "name": "Cristian Martínez",
+      "dob": "1997-02-06",
+      "caps": 63,
+      "goals": 2,
+      "club": "Ironi Kiryat Shmona"
+    },
+    {
+      "pos": "MF",
+      "name": "César Yanis",
+      "dob": "1996-01-28",
+      "caps": 55,
+      "goals": 5,
+      "club": "Cobresal"
+    },
+    {
+      "pos": "MF",
+      "name": "Carlos Harvey",
+      "dob": "2000-02-03",
+      "caps": 25,
+      "goals": 2,
+      "club": "Minnesota United FC",
+      "eafc26": {
+        "overall": 65,
+        "potential": 69,
+        "pace": 53,
+        "shooting": 42,
+        "passing": 54,
+        "dribbling": 58,
+        "defending": 64,
+        "physicality": 73,
+        "player_id": 259568
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "José Fajardo",
+      "dob": "1993-08-18",
+      "caps": 65,
+      "goals": 17,
+      "club": "Universidad Católica",
+      "eafc26": {
+        "overall": 68,
+        "potential": 68,
+        "pace": 69,
+        "shooting": 68,
+        "passing": 58,
+        "dribbling": 68,
+        "defending": 33,
+        "physicality": 68,
+        "player_id": 243545
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Ismael Díaz",
+      "dob": "1997-05-12",
+      "caps": 54,
+      "goals": 17,
+      "club": "León"
+    },
+    {
+      "pos": "FW",
+      "name": "Cecilio Waterman",
+      "dob": "1991-04-13",
+      "caps": 52,
+      "goals": 14,
+      "club": "Universidad de Concepción"
+    }
+  ]
+}

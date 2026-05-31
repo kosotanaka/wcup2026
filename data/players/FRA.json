@@ -1,0 +1,501 @@
+{
+  "name": "France",
+  "group": "I",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Mike Maignan",
+      "dob": "1995-07-03",
+      "caps": 38,
+      "goals": 0,
+      "club": "Milan",
+      "eafc26": {
+        "overall": 87,
+        "potential": 88,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 215698
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Brice Samba",
+      "dob": "1994-04-25",
+      "caps": 4,
+      "goals": 0,
+      "club": "Rennes",
+      "eafc26": {
+        "overall": 80,
+        "potential": 80,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 204883
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Robin Risser",
+      "dob": "2004-12-02",
+      "caps": 0,
+      "goals": 0,
+      "club": "Lens",
+      "eafc26": {
+        "overall": 72,
+        "potential": 82,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 271918
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Jules Koundé",
+      "dob": "1998-11-12",
+      "caps": 46,
+      "goals": 0,
+      "club": "Barcelona",
+      "eafc26": {
+        "overall": 87,
+        "potential": 88,
+        "pace": 84,
+        "shooting": 47,
+        "passing": 74,
+        "dribbling": 79,
+        "defending": 86,
+        "physicality": 84,
+        "player_id": 241486
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "William Saliba",
+      "dob": "2001-03-24",
+      "caps": 31,
+      "goals": 0,
+      "club": "Arsenal",
+      "eafc26": {
+        "overall": 87,
+        "potential": 89,
+        "pace": 77,
+        "shooting": 39,
+        "passing": 68,
+        "dribbling": 72,
+        "defending": 87,
+        "physicality": 83,
+        "player_id": 243715
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Théo Hernandez",
+      "dob": "1997-10-06",
+      "caps": 42,
+      "goals": 2,
+      "club": "Al-Hilal",
+      "eafc26": {
+        "overall": 84,
+        "potential": 85,
+        "pace": 90,
+        "shooting": 76,
+        "passing": 78,
+        "dribbling": 83,
+        "defending": 79,
+        "physicality": 83,
+        "player_id": 232656
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Lucas Hernandez",
+      "dob": "1996-02-14",
+      "caps": 41,
+      "goals": 0,
+      "club": "Paris Saint-Germain",
+      "eafc26": {
+        "overall": 81,
+        "potential": 81,
+        "pace": 71,
+        "shooting": 54,
+        "passing": 72,
+        "dribbling": 70,
+        "defending": 82,
+        "physicality": 77,
+        "player_id": 220814
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Dayot Upamecano",
+      "dob": "1998-10-27",
+      "caps": 36,
+      "goals": 2,
+      "club": "Bayern Munich",
+      "eafc26": {
+        "overall": 85,
+        "potential": 88,
+        "pace": 77,
+        "shooting": 45,
+        "passing": 64,
+        "dribbling": 73,
+        "defending": 84,
+        "physicality": 84,
+        "player_id": 229558
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Ibrahima Konaté",
+      "dob": "1999-05-25",
+      "caps": 27,
+      "goals": 0,
+      "club": "Liverpool",
+      "eafc26": {
+        "overall": 86,
+        "potential": 87,
+        "pace": 77,
+        "shooting": 34,
+        "passing": 63,
+        "dribbling": 69,
+        "defending": 86,
+        "physicality": 85,
+        "player_id": 237678
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Lucas Digne",
+      "dob": "1993-07-20",
+      "caps": 56,
+      "goals": 0,
+      "club": "Aston Villa",
+      "eafc26": {
+        "overall": 80,
+        "potential": 80,
+        "pace": 69,
+        "shooting": 68,
+        "passing": 79,
+        "dribbling": 76,
+        "defending": 77,
+        "physicality": 74,
+        "player_id": 200458
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Malo Gusto",
+      "dob": "2003-05-19",
+      "caps": 9,
+      "goals": 0,
+      "club": "Chelsea",
+      "eafc26": {
+        "overall": 79,
+        "potential": 84,
+        "pace": 84,
+        "shooting": 45,
+        "passing": 75,
+        "dribbling": 78,
+        "defending": 73,
+        "physicality": 74,
+        "player_id": 259307
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Maxence Lacroix",
+      "dob": "2000-04-06",
+      "caps": 2,
+      "goals": 0,
+      "club": "Crystal Palace",
+      "eafc26": {
+        "overall": 79,
+        "potential": 82,
+        "pace": 88,
+        "shooting": 40,
+        "passing": 57,
+        "dribbling": 67,
+        "defending": 80,
+        "physicality": 82,
+        "player_id": 244067
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "N'Golo Kanté",
+      "dob": "1991-03-29",
+      "caps": 67,
+      "goals": 2,
+      "club": "Fenerbahçe",
+      "eafc26": {
+        "overall": 85,
+        "potential": 85,
+        "pace": 77,
+        "shooting": 65,
+        "passing": 73,
+        "dribbling": 80,
+        "defending": 85,
+        "physicality": 79,
+        "player_id": 215914
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Aurélien Tchouaméni",
+      "dob": "2000-01-27",
+      "caps": 44,
+      "goals": 3,
+      "club": "Real Madrid",
+      "eafc26": {
+        "overall": 84,
+        "potential": 87,
+        "pace": 71,
+        "shooting": 69,
+        "passing": 79,
+        "dribbling": 78,
+        "defending": 81,
+        "physicality": 82,
+        "player_id": 241637
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Adrien Rabiot",
+      "dob": "1995-04-03",
+      "caps": 57,
+      "goals": 7,
+      "club": "Milan",
+      "eafc26": {
+        "overall": 83,
+        "potential": 83,
+        "pace": 81,
+        "shooting": 79,
+        "passing": 81,
+        "dribbling": 80,
+        "defending": 77,
+        "physicality": 84,
+        "player_id": 210008
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Manu Koné",
+      "dob": "2001-05-17",
+      "caps": 12,
+      "goals": 0,
+      "club": "Roma",
+      "eafc26": {
+        "overall": 79,
+        "potential": 84,
+        "pace": 74,
+        "shooting": 74,
+        "passing": 75,
+        "dribbling": 81,
+        "defending": 74,
+        "physicality": 82,
+        "player_id": 250723
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Warren Zaïre-Emery",
+      "dob": "2006-03-08",
+      "caps": 10,
+      "goals": 1,
+      "club": "Paris Saint-Germain",
+      "eafc26": {
+        "overall": 80,
+        "potential": 87,
+        "pace": 79,
+        "shooting": 68,
+        "passing": 76,
+        "dribbling": 79,
+        "defending": 75,
+        "physicality": 79,
+        "player_id": 270673
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Kylian Mbappé",
+      "dob": "1998-12-20",
+      "caps": 96,
+      "goals": 56,
+      "club": "Real Madrid",
+      "captain": true,
+      "eafc26": {
+        "overall": 91,
+        "potential": 94,
+        "pace": 97,
+        "shooting": 90,
+        "passing": 81,
+        "dribbling": 92,
+        "defending": 37,
+        "physicality": 76,
+        "player_id": 231747
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Ousmane Dembélé",
+      "dob": "1997-05-15",
+      "caps": 58,
+      "goals": 7,
+      "club": "Paris Saint-Germain",
+      "eafc26": {
+        "overall": 90,
+        "potential": 90,
+        "pace": 91,
+        "shooting": 88,
+        "passing": 83,
+        "dribbling": 93,
+        "defending": 50,
+        "physicality": 69,
+        "player_id": 231443
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Marcus Thuram",
+      "dob": "1997-08-06",
+      "caps": 33,
+      "goals": 3,
+      "club": "Inter Milan",
+      "eafc26": {
+        "overall": 85,
+        "potential": 85,
+        "pace": 86,
+        "shooting": 83,
+        "passing": 76,
+        "dribbling": 82,
+        "defending": 50,
+        "physicality": 80,
+        "player_id": 228093
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Bradley Barcola",
+      "dob": "2002-09-02",
+      "caps": 18,
+      "goals": 3,
+      "club": "Paris Saint-Germain",
+      "eafc26": {
+        "overall": 84,
+        "potential": 88,
+        "pace": 90,
+        "shooting": 77,
+        "passing": 78,
+        "dribbling": 84,
+        "defending": 39,
+        "physicality": 66,
+        "player_id": 264652
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Michael Olise",
+      "dob": "2001-12-12",
+      "caps": 15,
+      "goals": 4,
+      "club": "Bayern Munich",
+      "eafc26": {
+        "overall": 86,
+        "potential": 88,
+        "pace": 78,
+        "shooting": 80,
+        "passing": 84,
+        "dribbling": 87,
+        "defending": 50,
+        "physicality": 66,
+        "player_id": 247827
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Désiré Doué",
+      "dob": "2005-06-03",
+      "caps": 6,
+      "goals": 2,
+      "club": "Paris Saint-Germain",
+      "eafc26": {
+        "overall": 85,
+        "potential": 91,
+        "pace": 83,
+        "shooting": 80,
+        "passing": 77,
+        "dribbling": 90,
+        "defending": 55,
+        "physicality": 74,
+        "player_id": 271421
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Rayan Cherki",
+      "dob": "2003-08-17",
+      "caps": 5,
+      "goals": 1,
+      "club": "Manchester City",
+      "eafc26": {
+        "overall": 81,
+        "potential": 88,
+        "pace": 75,
+        "shooting": 75,
+        "passing": 80,
+        "dribbling": 88,
+        "defending": 21,
+        "physicality": 65,
+        "player_id": 251570
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Maghnes Akliouche",
+      "dob": "2002-02-25",
+      "caps": 7,
+      "goals": 1,
+      "club": "Monaco",
+      "eafc26": {
+        "overall": 80,
+        "potential": 86,
+        "pace": 74,
+        "shooting": 70,
+        "passing": 78,
+        "dribbling": 83,
+        "defending": 48,
+        "physicality": 62,
+        "player_id": 264862
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Jean-Philippe Mateta",
+      "dob": "1997-06-28",
+      "caps": 3,
+      "goals": 2,
+      "club": "Crystal Palace",
+      "eafc26": {
+        "overall": 82,
+        "potential": 82,
+        "pace": 75,
+        "shooting": 84,
+        "passing": 70,
+        "dribbling": 77,
+        "defending": 41,
+        "physicality": 81,
+        "player_id": 236461
+      }
+    }
+  ]
+}

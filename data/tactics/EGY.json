@@ -1,0 +1,147 @@
+{
+  "name": "Egypt",
+  "code": "EGY",
+  "matches_analyzed": 4,
+  "formations": {
+    "4-3-3": 7,
+    "4-4-1-1": 1,
+    "4-4-2": 5,
+    "4-2-3-1": 1
+  },
+  "primary_formation": "4-3-3",
+  "top_starters": [
+    "Ahmed Elsayed Ali Elsayed Hegazy",
+    "Mohamed Abdelmonem",
+    "Hamdi Fathi",
+    "Mostafa Mohamed Ahmed Abdallah",
+    "Mohamed Hany Gamal Eldemerdash",
+    "Mohamed Naser Elsayed Elneny",
+    "Ahmed Sayed",
+    "Mohamed El Sayed Mohamed El Shenawy Gomaa",
+    "Ahmed Mohamed Abo El Fotouh Mohamed",
+    "Marwan Attia Fahim Ghallab",
+    "Mahmoud Ibrahim Hassan",
+    "Mohamed Hamdy Sharaf",
+    "Emam Ashour Metwally Abdelghany",
+    "Mohamed Salah",
+    "Omar Marmoush"
+  ],
+  "top_subs": [
+    "Mostafa Fathi",
+    "Mohamed Hamdy Sharaf",
+    "Omar Marmoush",
+    "Omar Kamal Abdel Wahed",
+    "Mahmoud Ibrahim Hassan",
+    "Mahmoud Hamada",
+    "Mohanad Mostafa Lasheen",
+    "Marwan Attia Fahim Ghallab"
+  ],
+  "matches": [
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3922240,
+      "opponent": "Congo DR",
+      "score": "1-1",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Mohamed Abougabal",
+        "Mohamed Hany Gamal Eldemerdash",
+        "Ahmed Elsayed Ali Elsayed Hegazy",
+        "Mohamed Abdelmonem",
+        "Ahmed Mohamed Abo El Fotouh Mohamed",
+        "Marwan Attia Fahim Ghallab",
+        "Mohamed Naser Elsayed Elneny",
+        "Hamdi Fathi",
+        "Ahmed Sayed",
+        "Mahmoud Ibrahim Hassan",
+        "Mostafa Mohamed Ahmed Abdallah"
+      ],
+      "subs_in": [
+        "Mohamed Hamdy Sharaf",
+        "Mahmoud Hamada",
+        "Omar Marmoush",
+        "Mostafa Fathi",
+        "Omar Kamal Abdel Wahed",
+        "Mohanad Mostafa Lasheen"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920396,
+      "opponent": "Ghana",
+      "score": "2-2",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Mohamed El Sayed Mohamed El Shenawy Gomaa",
+        "Omar Kamal Abdel Wahed",
+        "Ahmed Elsayed Ali Elsayed Hegazy",
+        "Mohamed Abdelmonem",
+        "Mohamed Hamdy Sharaf",
+        "Mohamed Naser Elsayed Elneny",
+        "Hamdi Fathi",
+        "Emam Ashour Metwally Abdelghany",
+        "Mohamed Salah",
+        "Omar Marmoush",
+        "Mostafa Mohamed Ahmed Abdallah"
+      ],
+      "subs_in": [
+        "Mostafa Fathi",
+        "Mahmoud Ibrahim Hassan",
+        "Marwan Attia Fahim Ghallab"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920385,
+      "opponent": "Mozambique",
+      "score": "2-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Mohamed El Sayed Mohamed El Shenawy Gomaa",
+        "Mohamed Hany Gamal Eldemerdash",
+        "Ahmed Elsayed Ali Elsayed Hegazy",
+        "Mohamed Abdelmonem",
+        "Mohamed Hamdy Sharaf",
+        "Mohamed Naser Elsayed Elneny",
+        "Hamdi Fathi",
+        "Ahmed Sayed",
+        "Mohamed Salah",
+        "Mahmoud Ibrahim Hassan",
+        "Mostafa Mohamed Ahmed Abdallah"
+      ],
+      "subs_in": [
+        "Omar Marmoush",
+        "Omar Kamal Abdel Wahed",
+        "Emam Ashour Metwally Abdelghany",
+        "Ahmed Hassan Mahgoub"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920411,
+      "opponent": "Cape Verde Islands",
+      "score": "2-2",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Mohamed El Sayed Mohamed El Shenawy Gomaa",
+        "Mohamed Hany Gamal Eldemerdash",
+        "Ahmed Elsayed Ali Elsayed Hegazy",
+        "Mohamed Abdelmonem",
+        "Ahmed Mohamed Abo El Fotouh Mohamed",
+        "Marwan Attia Fahim Ghallab",
+        "Hamdi Fathi",
+        "Emam Ashour Metwally Abdelghany",
+        "Ahmed Sayed",
+        "Omar Marmoush",
+        "Mostafa Mohamed Ahmed Abdallah"
+      ],
+      "subs_in": [
+        "Mahmoud Ibrahim Hassan",
+        "Mohamed Hamdy Sharaf",
+        "Mahmoud Abdul Monem Abdelhamid Soliman",
+        "Mostafa Fathi",
+        "Mohamed Abougabal"
+      ]
+    }
+  ]
+}

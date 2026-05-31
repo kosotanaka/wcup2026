@@ -1,0 +1,310 @@
+{
+  "name": "Ecuador",
+  "group": "E",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Hernán Galíndez",
+      "dob": "1987-03-30",
+      "caps": 45,
+      "goals": 0,
+      "club": "Aucas",
+      "eafc26": {
+        "overall": 74,
+        "potential": 74,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 253354
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Alexander Domínguez",
+      "dob": "1987-06-05",
+      "caps": 77,
+      "goals": 0,
+      "club": "Liga de Quito",
+      "eafc26": {
+        "overall": 73,
+        "potential": 73,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 199103
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Moisés Ramírez",
+      "dob": "1995-03-06",
+      "caps": 12,
+      "goals": 0,
+      "club": "Independiente del Valle"
+    },
+    {
+      "pos": "DF",
+      "name": "Piero Hincapié",
+      "dob": "2002-01-09",
+      "caps": 38,
+      "goals": 2,
+      "club": "Bayer Leverkusen",
+      "eafc26": {
+        "overall": 83,
+        "potential": 89,
+        "pace": 84,
+        "shooting": 41,
+        "passing": 65,
+        "dribbling": 72,
+        "defending": 84,
+        "physicality": 82,
+        "player_id": 256197
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Robert Arboleda",
+      "dob": "1991-10-22",
+      "caps": 57,
+      "goals": 3,
+      "club": "São Paulo"
+    },
+    {
+      "pos": "DF",
+      "name": "Félix Torres",
+      "dob": "1997-01-11",
+      "caps": 36,
+      "goals": 4,
+      "club": "Santos Laguna"
+    },
+    {
+      "pos": "DF",
+      "name": "Angelo Preciado",
+      "dob": "1998-02-17",
+      "caps": 40,
+      "goals": 1,
+      "club": "Genk",
+      "eafc26": {
+        "overall": 75,
+        "potential": 75,
+        "pace": 87,
+        "shooting": 62,
+        "passing": 70,
+        "dribbling": 76,
+        "defending": 66,
+        "physicality": 71,
+        "player_id": 246055
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Diego Palacios",
+      "dob": "1999-07-12",
+      "caps": 22,
+      "goals": 0,
+      "club": "Portland Timbers",
+      "eafc26": {
+        "overall": 71,
+        "potential": 71,
+        "pace": 75,
+        "shooting": 73,
+        "passing": 57,
+        "dribbling": 66,
+        "defending": 33,
+        "physicality": 66,
+        "player_id": 254449
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Jackson Porozo",
+      "dob": "2000-11-11",
+      "caps": 14,
+      "goals": 1,
+      "club": "Espanyol"
+    },
+    {
+      "pos": "MF",
+      "name": "Moisés Caicedo",
+      "dob": "2001-11-02",
+      "caps": 43,
+      "goals": 4,
+      "club": "Chelsea",
+      "captain": true,
+      "eafc26": {
+        "overall": 87,
+        "potential": 89,
+        "pace": 71,
+        "shooting": 64,
+        "passing": 78,
+        "dribbling": 81,
+        "defending": 84,
+        "physicality": 82,
+        "player_id": 256079
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Carlos Gruezo",
+      "dob": "1995-04-19",
+      "caps": 52,
+      "goals": 1,
+      "club": "Augsburg",
+      "eafc26": {
+        "overall": 72,
+        "potential": 72,
+        "pace": 58,
+        "shooting": 46,
+        "passing": 62,
+        "dribbling": 70,
+        "defending": 67,
+        "physicality": 75,
+        "player_id": 221860
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Jhegson Méndez",
+      "dob": "1997-08-05",
+      "caps": 38,
+      "goals": 0,
+      "club": "Los Angeles FC",
+      "eafc26": {
+        "overall": 70,
+        "potential": 70,
+        "pace": 68,
+        "shooting": 57,
+        "passing": 67,
+        "dribbling": 70,
+        "defending": 65,
+        "physicality": 67,
+        "player_id": 246057
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Ángel Mena",
+      "dob": "1988-01-21",
+      "caps": 75,
+      "goals": 14,
+      "club": "León"
+    },
+    {
+      "pos": "MF",
+      "name": "Jeremy Sarmiento",
+      "dob": "2002-06-16",
+      "caps": 23,
+      "goals": 4,
+      "club": "Brighton",
+      "eafc26": {
+        "overall": 70,
+        "potential": 78,
+        "pace": 78,
+        "shooting": 63,
+        "passing": 65,
+        "dribbling": 74,
+        "defending": 37,
+        "physicality": 59,
+        "player_id": 263522
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Enner Valencia",
+      "dob": "1989-11-04",
+      "caps": 83,
+      "goals": 39,
+      "club": "Internacional",
+      "eafc26": {
+        "overall": 55,
+        "potential": 66,
+        "pace": 78,
+        "shooting": 36,
+        "passing": 43,
+        "dribbling": 52,
+        "defending": 47,
+        "physicality": 48,
+        "player_id": 78103
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Michael Estrada",
+      "dob": "1996-04-13",
+      "caps": 37,
+      "goals": 10,
+      "club": "Cruz Azul",
+      "eafc26": {
+        "overall": 69,
+        "potential": 69,
+        "pace": 76,
+        "shooting": 62,
+        "passing": 51,
+        "dribbling": 66,
+        "defending": 24,
+        "physicality": 77,
+        "player_id": 240944
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Djorkaeff Reasco",
+      "dob": "1999-06-19",
+      "caps": 20,
+      "goals": 3,
+      "club": "Nantes"
+    },
+    {
+      "pos": "FW",
+      "name": "Gonzalo Plata",
+      "dob": "2000-11-01",
+      "caps": 35,
+      "goals": 7,
+      "club": "Al-Qadsiah"
+    },
+    {
+      "pos": "FW",
+      "name": "Kevin Rodríguez",
+      "dob": "2002-01-23",
+      "caps": 17,
+      "goals": 5,
+      "club": "Ipswich Town",
+      "eafc26": {
+        "overall": 67,
+        "potential": 71,
+        "pace": 79,
+        "shooting": 65,
+        "passing": 54,
+        "dribbling": 68,
+        "defending": 25,
+        "physicality": 67,
+        "player_id": 272569
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Kendry Páez",
+      "dob": "2007-05-10",
+      "caps": 12,
+      "goals": 3,
+      "club": "Independiente del Valle",
+      "eafc26": {
+        "overall": 73,
+        "potential": 85,
+        "pace": 79,
+        "shooting": 68,
+        "passing": 69,
+        "dribbling": 75,
+        "defending": 43,
+        "physicality": 54,
+        "player_id": 274559
+      }
+    }
+  ]
+}

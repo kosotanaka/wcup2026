@@ -1,0 +1,293 @@
+{
+  "username": "AI予測",
+  "predictions": {
+    "GS001": {
+      "home": 1,
+      "away": 1
+    },
+    "GS002": {
+      "home": 1,
+      "away": 1
+    },
+    "GS003": {
+      "home": 1,
+      "away": 1
+    },
+    "GS004": {
+      "home": 1,
+      "away": 1
+    },
+    "GS005": {
+      "home": 1,
+      "away": 1
+    },
+    "GS006": {
+      "home": 1,
+      "away": 2
+    },
+    "GS007": {
+      "home": 1,
+      "away": 1
+    },
+    "GS008": {
+      "home": 2,
+      "away": 1
+    },
+    "GS009": {
+      "home": 1,
+      "away": 1
+    },
+    "GS010": {
+      "home": 1,
+      "away": 1
+    },
+    "GS011": {
+      "home": 1,
+      "away": 1
+    },
+    "GS012": {
+      "home": 1,
+      "away": 1
+    },
+    "GS013": {
+      "home": 1,
+      "away": 1
+    },
+    "GS014": {
+      "home": 2,
+      "away": 1
+    },
+    "GS015": {
+      "home": 1,
+      "away": 1
+    },
+    "GS016": {
+      "home": 1,
+      "away": 1
+    },
+    "GS017": {
+      "home": 1,
+      "away": 1
+    },
+    "GS018": {
+      "home": 1,
+      "away": 2
+    },
+    "GS019": {
+      "home": 1,
+      "away": 1
+    },
+    "GS020": {
+      "home": 1,
+      "away": 1
+    },
+    "GS021": {
+      "home": 2,
+      "away": 2
+    },
+    "GS022": {
+      "home": 1,
+      "away": 1
+    },
+    "GS023": {
+      "home": 1,
+      "away": 1
+    },
+    "GS024": {
+      "home": 1,
+      "away": 2
+    },
+    "GS025": {
+      "home": 1,
+      "away": 1
+    },
+    "GS026": {
+      "home": 1,
+      "away": 1
+    },
+    "GS027": {
+      "home": 1,
+      "away": 1
+    },
+    "GS028": {
+      "home": 2,
+      "away": 1
+    },
+    "GS029": {
+      "home": 1,
+      "away": 2
+    },
+    "GS030": {
+      "home": 1,
+      "away": 1
+    },
+    "GS031": {
+      "home": 1,
+      "away": 1
+    },
+    "GS032": {
+      "home": 1,
+      "away": 1
+    },
+    "GS033": {
+      "home": 1,
+      "away": 1
+    },
+    "GS034": {
+      "home": 1,
+      "away": 1
+    },
+    "GS035": {
+      "home": 1,
+      "away": 1
+    },
+    "GS036": {
+      "home": 1,
+      "away": 1
+    },
+    "GS037": {
+      "home": 2,
+      "away": 1
+    },
+    "GS038": {
+      "home": 1,
+      "away": 1
+    },
+    "GS039": {
+      "home": 1,
+      "away": 1
+    },
+    "GS040": {
+      "home": 1,
+      "away": 1
+    },
+    "GS041": {
+      "home": 1,
+      "away": 1
+    },
+    "GS042": {
+      "home": 1,
+      "away": 1
+    },
+    "GS043": {
+      "home": 2,
+      "away": 1
+    },
+    "GS044": {
+      "home": 1,
+      "away": 1
+    },
+    "GS045": {
+      "home": 1,
+      "away": 2
+    },
+    "GS046": {
+      "home": 2,
+      "away": 1
+    },
+    "GS047": {
+      "home": 1,
+      "away": 1
+    },
+    "GS048": {
+      "home": 1,
+      "away": 1
+    },
+    "GS049": {
+      "home": 1,
+      "away": 1
+    },
+    "GS050": {
+      "home": 1,
+      "away": 1
+    },
+    "GS051": {
+      "home": 2,
+      "away": 1
+    },
+    "GS052": {
+      "home": 1,
+      "away": 1
+    },
+    "GS053": {
+      "home": 1,
+      "away": 1
+    },
+    "GS054": {
+      "home": 1,
+      "away": 1
+    },
+    "GS055": {
+      "home": 1,
+      "away": 1
+    },
+    "GS056": {
+      "home": 1,
+      "away": 1
+    },
+    "GS057": {
+      "home": 1,
+      "away": 1
+    },
+    "GS058": {
+      "home": 1,
+      "away": 1
+    },
+    "GS059": {
+      "home": 2,
+      "away": 1
+    },
+    "GS060": {
+      "home": 1,
+      "away": 1
+    },
+    "GS061": {
+      "home": 1,
+      "away": 2
+    },
+    "GS062": {
+      "home": 1,
+      "away": 1
+    },
+    "GS063": {
+      "home": 1,
+      "away": 1
+    },
+    "GS064": {
+      "home": 1,
+      "away": 1
+    },
+    "GS065": {
+      "home": 1,
+      "away": 1
+    },
+    "GS066": {
+      "home": 1,
+      "away": 1
+    },
+    "GS067": {
+      "home": 1,
+      "away": 2
+    },
+    "GS068": {
+      "home": 1,
+      "away": 1
+    },
+    "GS069": {
+      "home": 1,
+      "away": 1
+    },
+    "GS070": {
+      "home": 2,
+      "away": 1
+    },
+    "GS071": {
+      "home": 1,
+      "away": 1
+    },
+    "GS072": {
+      "home": 2,
+      "away": 1
+    }
+  }
+}

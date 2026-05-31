@@ -1,0 +1,418 @@
+{
+  "name": "Qatar",
+  "group": "B",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Meshaal Barsham",
+      "dob": "1998-02-14",
+      "caps": 52,
+      "goals": 0,
+      "club": "Al-Sadd",
+      "eafc26": {
+        "overall": 70,
+        "potential": 74,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 268783
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Salah Zakaria",
+      "dob": "1999-04-24",
+      "caps": 8,
+      "goals": 0,
+      "club": "Al-Duhail",
+      "eafc26": {
+        "overall": 64,
+        "potential": 69,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 272472
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Mahmud Abunada",
+      "dob": "2000-02-05",
+      "caps": 4,
+      "goals": 0,
+      "club": "Al-Rayyan"
+    },
+    {
+      "pos": "GK",
+      "name": "Shehab Ellethy",
+      "dob": "2000-04-18",
+      "caps": 1,
+      "goals": 0,
+      "club": "Al-Shahaniya"
+    },
+    {
+      "pos": "DF",
+      "name": "Boualem Khoukhi",
+      "dob": "1990-07-09",
+      "caps": 115,
+      "goals": 20,
+      "club": "Al-Sadd",
+      "eafc26": {
+        "overall": 71,
+        "potential": 71,
+        "pace": 60,
+        "shooting": 60,
+        "passing": 57,
+        "dribbling": 54,
+        "defending": 71,
+        "physicality": 76,
+        "player_id": 268771
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Pedro Miguel",
+      "dob": "1990-08-06",
+      "caps": 98,
+      "goals": 3,
+      "club": "Al-Sadd",
+      "eafc26": {
+        "overall": 68,
+        "potential": 68,
+        "pace": 73,
+        "shooting": 38,
+        "passing": 60,
+        "dribbling": 61,
+        "defending": 64,
+        "physicality": 78,
+        "player_id": 268781
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Homam Ahmed",
+      "dob": "1999-08-25",
+      "caps": 67,
+      "goals": 3,
+      "club": "Cultural Leonesa",
+      "eafc26": {
+        "overall": 68,
+        "potential": 71,
+        "pace": 76,
+        "shooting": 48,
+        "passing": 60,
+        "dribbling": 61,
+        "defending": 62,
+        "physicality": 70,
+        "player_id": 268776
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Lucas Mendes",
+      "dob": "1990-07-03",
+      "caps": 25,
+      "goals": 1,
+      "club": "Al-Wakrah",
+      "eafc26": {
+        "overall": 70,
+        "potential": 70,
+        "pace": 53,
+        "shooting": 57,
+        "passing": 59,
+        "dribbling": 59,
+        "defending": 70,
+        "physicality": 71,
+        "player_id": 203244
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Sultan Al-Brake",
+      "dob": "1996-04-07",
+      "caps": 16,
+      "goals": 0,
+      "club": "Al-Duhail"
+    },
+    {
+      "pos": "DF",
+      "name": "Al-Hashmi Al-Hussain",
+      "dob": "2003-08-15",
+      "caps": 7,
+      "goals": 0,
+      "club": "Al-Arabi"
+    },
+    {
+      "pos": "DF",
+      "name": "Ayoub Al-Oui",
+      "dob": "2005-03-11",
+      "caps": 5,
+      "goals": 0,
+      "club": "Al-Gharafa"
+    },
+    {
+      "pos": "DF",
+      "name": "Issa Laye",
+      "dob": "1997-12-22",
+      "caps": 3,
+      "goals": 0,
+      "club": "Al-Arabi"
+    },
+    {
+      "pos": "DF",
+      "name": "Rayyan Al-Ali",
+      "dob": "2006-03-26",
+      "caps": 1,
+      "goals": 0,
+      "club": "Al-Gharafa"
+    },
+    {
+      "pos": "MF",
+      "name": "Abdulaziz Hatem",
+      "dob": "1990-10-28",
+      "caps": 117,
+      "goals": 11,
+      "club": "Al-Rayyan",
+      "eafc26": {
+        "overall": 70,
+        "potential": 70,
+        "pace": 59,
+        "shooting": 67,
+        "passing": 70,
+        "dribbling": 68,
+        "defending": 61,
+        "physicality": 70,
+        "player_id": 215911
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Karim Boudiaf",
+      "dob": "1990-09-16",
+      "caps": 117,
+      "goals": 5,
+      "club": "Al-Duhail",
+      "eafc26": {
+        "overall": 71,
+        "potential": 71,
+        "pace": 50,
+        "shooting": 62,
+        "passing": 71,
+        "dribbling": 69,
+        "defending": 67,
+        "physicality": 74,
+        "player_id": 268778
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Assim Madibo",
+      "dob": "1996-10-22",
+      "caps": 50,
+      "goals": 0,
+      "club": "Al-Wakrah",
+      "eafc26": {
+        "overall": 65,
+        "potential": 66,
+        "pace": 82,
+        "shooting": 38,
+        "passing": 53,
+        "dribbling": 61,
+        "defending": 65,
+        "physicality": 75,
+        "player_id": 239878
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Ahmed Fathy",
+      "dob": "1993-01-25",
+      "caps": 47,
+      "goals": 0,
+      "club": "Al-Arabi"
+    },
+    {
+      "pos": "MF",
+      "name": "Jassem Gaber",
+      "dob": "2002-02-20",
+      "caps": 31,
+      "goals": 1,
+      "club": "Al-Rayyan",
+      "eafc26": {
+        "overall": 63,
+        "potential": 74,
+        "pace": 64,
+        "shooting": 44,
+        "passing": 53,
+        "dribbling": 54,
+        "defending": 62,
+        "physicality": 72,
+        "player_id": 268982
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Mohamed Al-Mannai",
+      "dob": "2003-10-30",
+      "caps": 9,
+      "goals": 0,
+      "club": "Al-Shamal"
+    },
+    {
+      "pos": "MF",
+      "name": "Tahsin Jamshid",
+      "dob": "2006-06-16",
+      "caps": 2,
+      "goals": 0,
+      "club": "Al-Duhail"
+    },
+    {
+      "pos": "FW",
+      "name": "Hassan Al-Haydos",
+      "dob": "1990-12-11",
+      "caps": 185,
+      "goals": 41,
+      "club": "Al-Sadd",
+      "captain": true,
+      "eafc26": {
+        "overall": 71,
+        "potential": 71,
+        "pace": 76,
+        "shooting": 66,
+        "passing": 69,
+        "dribbling": 75,
+        "defending": 34,
+        "physicality": 43,
+        "player_id": 180561
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Akram Afif",
+      "dob": "1996-11-18",
+      "caps": 124,
+      "goals": 39,
+      "club": "Al-Sadd",
+      "eafc26": {
+        "overall": 78,
+        "potential": 78,
+        "pace": 87,
+        "shooting": 75,
+        "passing": 72,
+        "dribbling": 79,
+        "defending": 32,
+        "physicality": 55,
+        "player_id": 234051
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Almoez Ali",
+      "dob": "1996-08-19",
+      "caps": 115,
+      "goals": 55,
+      "club": "Al-Duhail",
+      "eafc26": {
+        "overall": 74,
+        "potential": 74,
+        "pace": 75,
+        "shooting": 74,
+        "passing": 58,
+        "dribbling": 68,
+        "defending": 25,
+        "physicality": 72,
+        "player_id": 268772
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Mohammed Muntari",
+      "dob": "1993-12-20",
+      "caps": 67,
+      "goals": 16,
+      "club": "Al-Gharafa",
+      "eafc26": {
+        "overall": 66,
+        "potential": 66,
+        "pace": 63,
+        "shooting": 66,
+        "passing": 48,
+        "dribbling": 60,
+        "defending": 27,
+        "physicality": 69,
+        "player_id": 268780
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Ahmed Alaaeldin",
+      "dob": "1993-01-31",
+      "caps": 67,
+      "goals": 9,
+      "club": "Al-Rayyan"
+    },
+    {
+      "pos": "FW",
+      "name": "Yusuf Abdurisag",
+      "dob": "1999-08-06",
+      "caps": 38,
+      "goals": 3,
+      "club": "Al-Wakrah",
+      "eafc26": {
+        "overall": 65,
+        "potential": 66,
+        "pace": 82,
+        "shooting": 56,
+        "passing": 57,
+        "dribbling": 68,
+        "defending": 30,
+        "physicality": 51,
+        "player_id": 268877
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Edmilson Junior",
+      "dob": "1994-08-19",
+      "caps": 15,
+      "goals": 0,
+      "club": "Al-Duhail",
+      "eafc26": {
+        "overall": 76,
+        "potential": 76,
+        "pace": 88,
+        "shooting": 75,
+        "passing": 70,
+        "dribbling": 79,
+        "defending": 44,
+        "physicality": 65,
+        "player_id": 228352
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Ahmed Al-Ganehi",
+      "dob": "2000-09-22",
+      "caps": 13,
+      "goals": 1,
+      "club": "Al-Gharafa",
+      "eafc26": {
+        "overall": 67,
+        "potential": 71,
+        "pace": 72,
+        "shooting": 62,
+        "passing": 60,
+        "dribbling": 68,
+        "defending": 25,
+        "physicality": 51,
+        "player_id": 74236
+      }
+    }
+  ]
+}

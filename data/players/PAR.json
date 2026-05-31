@@ -1,0 +1,369 @@
+{
+  "name": "Paraguay",
+  "group": "D",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Gatito Fernández",
+      "dob": "1988-03-29",
+      "caps": 30,
+      "goals": 0,
+      "club": "Cerro Porteño"
+    },
+    {
+      "pos": "GK",
+      "name": "Carlos Coronel",
+      "dob": "1996-12-29",
+      "caps": 9,
+      "goals": 0,
+      "club": "São Paulo",
+      "eafc26": {
+        "overall": 72,
+        "potential": 75,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 242084
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Orlando Gill",
+      "dob": "2000-06-11",
+      "caps": 5,
+      "goals": 0,
+      "club": "San Lorenzo",
+      "eafc26": {
+        "overall": 65,
+        "potential": 70,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 75260
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Gustavo Gómez",
+      "dob": "1993-05-06",
+      "caps": 88,
+      "goals": 4,
+      "club": "Palmeiras",
+      "captain": true
+    },
+    {
+      "pos": "DF",
+      "name": "Júnior Alonso",
+      "dob": "1993-02-09",
+      "caps": 70,
+      "goals": 3,
+      "club": "Atlético Mineiro"
+    },
+    {
+      "pos": "DF",
+      "name": "Fabián Balbuena",
+      "dob": "1991-08-23",
+      "caps": 47,
+      "goals": 2,
+      "club": "Grêmio"
+    },
+    {
+      "pos": "DF",
+      "name": "Omar Alderete",
+      "dob": "1996-12-26",
+      "caps": 35,
+      "goals": 3,
+      "club": "Sunderland",
+      "eafc26": {
+        "overall": 78,
+        "potential": 79,
+        "pace": 60,
+        "shooting": 61,
+        "passing": 62,
+        "dribbling": 69,
+        "defending": 79,
+        "physicality": 78,
+        "player_id": 240359
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Juan José Cáceres",
+      "dob": "2000-06-01",
+      "caps": 16,
+      "goals": 0,
+      "club": "Dynamo Moscow"
+    },
+    {
+      "pos": "DF",
+      "name": "Blas Riveros",
+      "dob": "1998-02-03",
+      "caps": 15,
+      "goals": 0,
+      "club": "Cerro Porteño",
+      "eafc26": {
+        "overall": 68,
+        "potential": 69,
+        "pace": 78,
+        "shooting": 36,
+        "passing": 59,
+        "dribbling": 70,
+        "defending": 61,
+        "physicality": 70,
+        "player_id": 233476
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Agustín Sández",
+      "dob": "2001-01-16",
+      "caps": 5,
+      "goals": 0,
+      "club": "Rosario Central",
+      "eafc26": {
+        "overall": 73,
+        "potential": 79,
+        "pace": 81,
+        "shooting": 42,
+        "passing": 58,
+        "dribbling": 63,
+        "defending": 70,
+        "physicality": 84,
+        "player_id": 263518
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Mateo Gamarra",
+      "dob": "2000-10-20",
+      "caps": 3,
+      "goals": 0,
+      "club": "Cruzeiro"
+    },
+    {
+      "pos": "MF",
+      "name": "Miguel Almirón",
+      "dob": "1994-02-10",
+      "caps": 75,
+      "goals": 9,
+      "club": "Atlanta United FC",
+      "eafc26": {
+        "overall": 76,
+        "potential": 76,
+        "pace": 87,
+        "shooting": 72,
+        "passing": 70,
+        "dribbling": 79,
+        "defending": 57,
+        "physicality": 64,
+        "player_id": 230977
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Mathías Villasanti",
+      "dob": "1997-01-24",
+      "caps": 51,
+      "goals": 0,
+      "club": "Grêmio"
+    },
+    {
+      "pos": "MF",
+      "name": "Andrés Cubas",
+      "dob": "1996-05-22",
+      "caps": 32,
+      "goals": 0,
+      "club": "Vancouver Whitecaps FC",
+      "eafc26": {
+        "overall": 74,
+        "potential": 74,
+        "pace": 69,
+        "shooting": 47,
+        "passing": 66,
+        "dribbling": 71,
+        "defending": 73,
+        "physicality": 56,
+        "player_id": 222429
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Kaku",
+      "dob": "1995-01-11",
+      "caps": 32,
+      "goals": 5,
+      "club": "Al Ain",
+      "eafc26": {
+        "overall": 79,
+        "potential": 79,
+        "pace": 81,
+        "shooting": 73,
+        "passing": 81,
+        "dribbling": 80,
+        "defending": 52,
+        "physicality": 64,
+        "player_id": 226376
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Ramón Sosa",
+      "dob": "1999-08-31",
+      "caps": 28,
+      "goals": 1,
+      "club": "Palmeiras"
+    },
+    {
+      "pos": "MF",
+      "name": "Diego Gómez",
+      "dob": "2003-03-27",
+      "caps": 23,
+      "goals": 3,
+      "club": "Brighton & Hove Albion",
+      "eafc26": {
+        "overall": 73,
+        "potential": 80,
+        "pace": 69,
+        "shooting": 67,
+        "passing": 71,
+        "dribbling": 75,
+        "defending": 72,
+        "physicality": 75,
+        "player_id": 269278
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Damián Bobadilla",
+      "dob": "2001-07-11",
+      "caps": 19,
+      "goals": 1,
+      "club": "São Paulo"
+    },
+    {
+      "pos": "MF",
+      "name": "Braian Ojeda",
+      "dob": "2000-07-27",
+      "caps": 16,
+      "goals": 0,
+      "club": "Orlando City SC",
+      "eafc26": {
+        "overall": 70,
+        "potential": 76,
+        "pace": 67,
+        "shooting": 54,
+        "passing": 64,
+        "dribbling": 72,
+        "defending": 66,
+        "physicality": 73,
+        "player_id": 248870
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Matías Galarza",
+      "dob": "2002-02-11",
+      "caps": 14,
+      "goals": 2,
+      "club": "Atlanta United FC",
+      "eafc26": {
+        "overall": 73,
+        "potential": 80,
+        "pace": 63,
+        "shooting": 73,
+        "passing": 70,
+        "dribbling": 76,
+        "defending": 65,
+        "physicality": 58,
+        "player_id": 278020
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Óscar Romero",
+      "dob": "1992-07-04",
+      "caps": 55,
+      "goals": 4,
+      "club": "Huracán"
+    },
+    {
+      "pos": "FW",
+      "name": "Ángel Romero",
+      "dob": "1992-07-04",
+      "caps": 51,
+      "goals": 8,
+      "club": "Boca Juniors"
+    },
+    {
+      "pos": "FW",
+      "name": "Antonio Sanabria",
+      "dob": "1996-03-04",
+      "caps": 47,
+      "goals": 7,
+      "club": "Cremonese",
+      "eafc26": {
+        "overall": 76,
+        "potential": 76,
+        "pace": 75,
+        "shooting": 75,
+        "passing": 68,
+        "dribbling": 79,
+        "defending": 32,
+        "physicality": 57,
+        "player_id": 219932
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Julio Enciso",
+      "dob": "2004-01-23",
+      "caps": 31,
+      "goals": 4,
+      "club": "Strasbourg",
+      "eafc26": {
+        "overall": 73,
+        "potential": 84,
+        "pace": 74,
+        "shooting": 72,
+        "passing": 70,
+        "dribbling": 78,
+        "defending": 33,
+        "physicality": 51,
+        "player_id": 255434
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Gabriel Ávalos",
+      "dob": "1991-07-09",
+      "caps": 22,
+      "goals": 2,
+      "club": "Independiente",
+      "eafc26": {
+        "overall": 75,
+        "potential": 75,
+        "pace": 67,
+        "shooting": 75,
+        "passing": 63,
+        "dribbling": 73,
+        "defending": 45,
+        "physicality": 84,
+        "player_id": 226286
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Isidro Pitta",
+      "dob": "1999-08-14",
+      "caps": 5,
+      "goals": 0,
+      "club": "Red Bull Bragantino"
+    }
+  ]
+}

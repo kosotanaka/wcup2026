@@ -1,0 +1,205 @@
+{
+  "name": "IR Iran",
+  "group": "G",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Alireza Beiranvand",
+      "dob": "1992-09-21",
+      "caps": 85,
+      "goals": 0,
+      "club": "Tractor"
+    },
+    {
+      "pos": "GK",
+      "name": "Payam Niazmand",
+      "dob": "1995-04-06",
+      "caps": 15,
+      "goals": 0,
+      "club": "Persepolis"
+    },
+    {
+      "pos": "GK",
+      "name": "Hossein Hosseini",
+      "dob": "1992-06-30",
+      "caps": 13,
+      "goals": 0,
+      "club": "Sepahan",
+      "eafc26": {
+        "overall": 68,
+        "potential": 69,
+        "pace": 56,
+        "shooting": 30,
+        "passing": 46,
+        "dribbling": 50,
+        "defending": 69,
+        "physicality": 75,
+        "player_id": 243549
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Ehsan Hajsafi",
+      "dob": "1990-02-25",
+      "caps": 145,
+      "goals": 7,
+      "club": "Sepahan"
+    },
+    {
+      "pos": "DF",
+      "name": "Milad Mohammadi",
+      "dob": "1993-09-29",
+      "caps": 75,
+      "goals": 1,
+      "club": "Persepolis"
+    },
+    {
+      "pos": "DF",
+      "name": "Ramin Rezaeian",
+      "dob": "1990-03-21",
+      "caps": 73,
+      "goals": 7,
+      "club": "Foolad"
+    },
+    {
+      "pos": "DF",
+      "name": "Hossein Kanaanizadegan",
+      "dob": "1994-03-23",
+      "caps": 64,
+      "goals": 6,
+      "club": "Persepolis"
+    },
+    {
+      "pos": "DF",
+      "name": "Shojae Khalilzadeh",
+      "dob": "1989-05-14",
+      "caps": 57,
+      "goals": 2,
+      "club": "Tractor"
+    },
+    {
+      "pos": "DF",
+      "name": "Saleh Hardani",
+      "dob": "1998-12-26",
+      "caps": 17,
+      "goals": 1,
+      "club": "Esteghlal"
+    },
+    {
+      "pos": "DF",
+      "name": "Ali Nemati",
+      "dob": "1996-02-07",
+      "caps": 16,
+      "goals": 0,
+      "club": "Foolad"
+    },
+    {
+      "pos": "DF",
+      "name": "Aria Yousefi",
+      "dob": "2002-04-22",
+      "caps": 13,
+      "goals": 1,
+      "club": "Sepahan"
+    },
+    {
+      "pos": "MF",
+      "name": "Alireza Jahanbakhsh",
+      "dob": "1993-08-11",
+      "caps": 98,
+      "goals": 17,
+      "club": "Dender",
+      "captain": true
+    },
+    {
+      "pos": "MF",
+      "name": "Saeid Ezatolahi",
+      "dob": "1996-10-01",
+      "caps": 82,
+      "goals": 1,
+      "club": "Shabab Al-Ahli"
+    },
+    {
+      "pos": "MF",
+      "name": "Saman Ghoddos",
+      "dob": "1993-09-06",
+      "caps": 67,
+      "goals": 3,
+      "club": "Kalba"
+    },
+    {
+      "pos": "MF",
+      "name": "Mehdi Torabi",
+      "dob": "1994-09-10",
+      "caps": 52,
+      "goals": 7,
+      "club": "Tractor"
+    },
+    {
+      "pos": "MF",
+      "name": "Rouzbeh Cheshmi",
+      "dob": "1993-07-24",
+      "caps": 40,
+      "goals": 3,
+      "club": "Esteghlal"
+    },
+    {
+      "pos": "MF",
+      "name": "Omid Noorafkan",
+      "dob": "1997-04-09",
+      "caps": 40,
+      "goals": 1,
+      "club": "Sepahan"
+    },
+    {
+      "pos": "MF",
+      "name": "Mohammad Mohebi",
+      "dob": "1998-12-20",
+      "caps": 36,
+      "goals": 14,
+      "club": "Rostov"
+    },
+    {
+      "pos": "FW",
+      "name": "Mehdi Taremi",
+      "dob": "1992-07-18",
+      "caps": 104,
+      "goals": 60,
+      "club": "Olympiacos",
+      "eafc26": {
+        "overall": 78,
+        "potential": 78,
+        "pace": 74,
+        "shooting": 78,
+        "passing": 74,
+        "dribbling": 78,
+        "defending": 38,
+        "physicality": 68,
+        "player_id": 241788
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Mehdi Ghayedi",
+      "dob": "1998-12-05",
+      "caps": 29,
+      "goals": 10,
+      "club": "Al-Nasr"
+    },
+    {
+      "pos": "FW",
+      "name": "Amirhossein Hosseinzadeh",
+      "dob": "2000-10-30",
+      "caps": 17,
+      "goals": 5,
+      "club": "Tractor"
+    },
+    {
+      "pos": "FW",
+      "name": "Ali Alipour",
+      "dob": "1995-11-11",
+      "caps": 13,
+      "goals": 1,
+      "club": "Persepolis"
+    }
+  ]
+}

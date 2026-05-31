@@ -1,0 +1,211 @@
+{
+  "name": "Jordan",
+  "group": "J",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Yazeed Abulaila",
+      "dob": "1993-01-08",
+      "caps": 74,
+      "goals": 0,
+      "club": "Al-Hussein"
+    },
+    {
+      "pos": "GK",
+      "name": "Abdallah Al-Fakhouri",
+      "dob": "2000-01-22",
+      "caps": 11,
+      "goals": 0,
+      "club": "Al-Wehdat"
+    },
+    {
+      "pos": "GK",
+      "name": "Nour Bani Attiah",
+      "dob": "1993-01-25",
+      "caps": 4,
+      "goals": 0,
+      "club": "Al-Faisaly"
+    },
+    {
+      "pos": "DF",
+      "name": "Ihsan Haddad",
+      "dob": "1994-02-05",
+      "caps": 90,
+      "goals": 2,
+      "club": "Al-Hussein",
+      "captain": true
+    },
+    {
+      "pos": "DF",
+      "name": "Yazan Al-Arab",
+      "dob": "1996-01-31",
+      "caps": 78,
+      "goals": 3,
+      "club": "FC Seoul",
+      "eafc26": {
+        "overall": 75,
+        "potential": 75,
+        "pace": 79,
+        "shooting": 29,
+        "passing": 46,
+        "dribbling": 52,
+        "defending": 73,
+        "physicality": 83,
+        "player_id": 73466
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Abdallah Nasib",
+      "dob": "1994-02-25",
+      "caps": 64,
+      "goals": 3,
+      "club": "Al-Zawraa"
+    },
+    {
+      "pos": "DF",
+      "name": "Saed Al-Rosan",
+      "dob": "1997-02-01",
+      "caps": 19,
+      "goals": 2,
+      "club": "Al-Hussein"
+    },
+    {
+      "pos": "DF",
+      "name": "Husam Abu Dahab",
+      "dob": "2000-05-13",
+      "caps": 16,
+      "goals": 0,
+      "club": "Al-Faisaly"
+    },
+    {
+      "pos": "DF",
+      "name": "Mo Abualnadi",
+      "dob": "2001-02-08",
+      "caps": 16,
+      "goals": 0,
+      "club": "Selangor"
+    },
+    {
+      "pos": "MF",
+      "name": "Rajaei Ayed",
+      "dob": "1993-07-25",
+      "caps": 72,
+      "goals": 0,
+      "club": "Al-Hussein"
+    },
+    {
+      "pos": "MF",
+      "name": "Noor Al-Rawabdeh",
+      "dob": "1997-02-24",
+      "caps": 66,
+      "goals": 3,
+      "club": "Selangor"
+    },
+    {
+      "pos": "MF",
+      "name": "Ibrahim Sadeh",
+      "dob": "2000-04-27",
+      "caps": 55,
+      "goals": 3,
+      "club": "Al-Karma",
+      "eafc26": {
+        "overall": 61,
+        "potential": 76,
+        "pace": 91,
+        "shooting": 60,
+        "passing": 41,
+        "dribbling": 56,
+        "defending": 22,
+        "physicality": 56,
+        "player_id": 80641
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Mohammad Abu Hashish",
+      "dob": "1995-05-09",
+      "caps": 54,
+      "goals": 1,
+      "club": "Al-Karma"
+    },
+    {
+      "pos": "MF",
+      "name": "Nizar Al-Rashdan",
+      "dob": "1999-03-23",
+      "caps": 45,
+      "goals": 4,
+      "club": "Qatar SC"
+    },
+    {
+      "pos": "MF",
+      "name": "Mohannad Abu Taha",
+      "dob": "2003-02-02",
+      "caps": 27,
+      "goals": 1,
+      "club": "Al-Quwa Al-Jawiya"
+    },
+    {
+      "pos": "FW",
+      "name": "Musa Al-Taamari",
+      "dob": "1997-06-10",
+      "caps": 90,
+      "goals": 24,
+      "club": "Rennes",
+      "eafc26": {
+        "overall": 75,
+        "potential": 75,
+        "pace": 89,
+        "shooting": 69,
+        "passing": 67,
+        "dribbling": 80,
+        "defending": 38,
+        "physicality": 63,
+        "player_id": 259191
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Mahmoud Al-Mardi",
+      "dob": "1993-10-06",
+      "caps": 87,
+      "goals": 9,
+      "club": "Al-Hussein"
+    },
+    {
+      "pos": "FW",
+      "name": "Ali Olwan",
+      "dob": "2000-03-26",
+      "caps": 64,
+      "goals": 29,
+      "club": "Al-Sailiya"
+    },
+    {
+      "pos": "FW",
+      "name": "Mohammad Abu Zrayq",
+      "dob": "1997-12-30",
+      "caps": 39,
+      "goals": 5,
+      "club": "Raja Casablanca"
+    },
+    {
+      "pos": "FW",
+      "name": "Ibrahim Sabra",
+      "dob": "2006-02-01",
+      "caps": 9,
+      "goals": 1,
+      "club": "Lokomotiva Zagreb",
+      "eafc26": {
+        "overall": 61,
+        "potential": 76,
+        "pace": 91,
+        "shooting": 60,
+        "passing": 41,
+        "dribbling": 56,
+        "defending": 22,
+        "physicality": 56,
+        "player_id": 80641
+      }
+    }
+  ]
+}

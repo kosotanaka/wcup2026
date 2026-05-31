@@ -1,0 +1,501 @@
+{
+  "name": "USA",
+  "group": "D",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Matt Turner",
+      "dob": "1994-06-24",
+      "caps": 53,
+      "goals": 0,
+      "club": "New England Revolution",
+      "eafc26": {
+        "overall": 74,
+        "potential": 74,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 233267
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Matt Freese",
+      "dob": "1998-09-02",
+      "caps": 14,
+      "goals": 0,
+      "club": "New York City FC",
+      "eafc26": {
+        "overall": 69,
+        "potential": 73,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 247506
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Chris Brady",
+      "dob": "2004-03-03",
+      "caps": 0,
+      "goals": 0,
+      "club": "Chicago Fire FC",
+      "eafc26": {
+        "overall": 69,
+        "potential": 80,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 260982
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Tim Ream",
+      "dob": "1987-10-05",
+      "caps": 80,
+      "goals": 1,
+      "club": "Charlotte FC",
+      "eafc26": {
+        "overall": 72,
+        "potential": 72,
+        "pace": 39,
+        "shooting": 44,
+        "passing": 69,
+        "dribbling": 60,
+        "defending": 74,
+        "physicality": 73,
+        "player_id": 198261
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Antonee Robinson",
+      "dob": "1997-08-08",
+      "caps": 52,
+      "goals": 4,
+      "club": "Fulham",
+      "eafc26": {
+        "overall": 82,
+        "potential": 82,
+        "pace": 88,
+        "shooting": 46,
+        "passing": 75,
+        "dribbling": 77,
+        "defending": 78,
+        "physicality": 80,
+        "player_id": 229348
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Miles Robinson",
+      "dob": "1997-03-14",
+      "caps": 38,
+      "goals": 3,
+      "club": "FC Cincinnati",
+      "eafc26": {
+        "overall": 73,
+        "potential": 75,
+        "pace": 82,
+        "shooting": 35,
+        "passing": 55,
+        "dribbling": 67,
+        "defending": 72,
+        "physicality": 79,
+        "player_id": 237255
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Sergiño Dest",
+      "dob": "2000-11-03",
+      "caps": 37,
+      "goals": 2,
+      "club": "PSV Eindhoven",
+      "eafc26": {
+        "overall": 79,
+        "potential": 83,
+        "pace": 87,
+        "shooting": 60,
+        "passing": 75,
+        "dribbling": 83,
+        "defending": 72,
+        "physicality": 72,
+        "player_id": 251804
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Chris Richards",
+      "dob": "2000-03-28",
+      "caps": 36,
+      "goals": 3,
+      "club": "Crystal Palace",
+      "eafc26": {
+        "overall": 77,
+        "potential": 80,
+        "pace": 66,
+        "shooting": 27,
+        "passing": 58,
+        "dribbling": 62,
+        "defending": 78,
+        "physicality": 77,
+        "player_id": 250954
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Mark McKenzie",
+      "dob": "1999-02-25",
+      "caps": 27,
+      "goals": 0,
+      "club": "Toulouse",
+      "eafc26": {
+        "overall": 74,
+        "potential": 79,
+        "pace": 80,
+        "shooting": 36,
+        "passing": 50,
+        "dribbling": 64,
+        "defending": 73,
+        "physicality": 78,
+        "player_id": 242195
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Joe Scally",
+      "dob": "2002-12-31",
+      "caps": 24,
+      "goals": 0,
+      "club": "Borussia Mönchengladbach",
+      "eafc26": {
+        "overall": 74,
+        "potential": 78,
+        "pace": 83,
+        "shooting": 49,
+        "passing": 60,
+        "dribbling": 69,
+        "defending": 71,
+        "physicality": 76,
+        "player_id": 243133
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Maximilian Arfsten",
+      "dob": "2001-04-19",
+      "caps": 18,
+      "goals": 1,
+      "club": "Columbus Crew",
+      "eafc26": {
+        "overall": 67,
+        "potential": 73,
+        "pace": 75,
+        "shooting": 61,
+        "passing": 60,
+        "dribbling": 69,
+        "defending": 60,
+        "physicality": 65,
+        "player_id": 274535
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Alex Freeman",
+      "dob": "2004-08-09",
+      "caps": 15,
+      "goals": 2,
+      "club": "Villarreal",
+      "eafc26": {
+        "overall": 65,
+        "potential": 79,
+        "pace": 82,
+        "shooting": 57,
+        "passing": 62,
+        "dribbling": 67,
+        "defending": 58,
+        "physicality": 73,
+        "player_id": 267920
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Auston Trusty",
+      "dob": "1998-08-12",
+      "caps": 6,
+      "goals": 0,
+      "club": "Celtic",
+      "eafc26": {
+        "overall": 74,
+        "potential": 77,
+        "pace": 78,
+        "shooting": 47,
+        "passing": 56,
+        "dribbling": 60,
+        "defending": 72,
+        "physicality": 83,
+        "player_id": 235755
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Weston McKennie",
+      "dob": "1998-08-28",
+      "caps": 64,
+      "goals": 12,
+      "club": "Juventus",
+      "eafc26": {
+        "overall": 78,
+        "potential": 79,
+        "pace": 77,
+        "shooting": 71,
+        "passing": 77,
+        "dribbling": 77,
+        "defending": 80,
+        "physicality": 80,
+        "player_id": 238744
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Tyler Adams",
+      "dob": "1999-02-14",
+      "caps": 52,
+      "goals": 2,
+      "club": "Bournemouth",
+      "eafc26": {
+        "overall": 79,
+        "potential": 81,
+        "pace": 79,
+        "shooting": 56,
+        "passing": 71,
+        "dribbling": 75,
+        "defending": 79,
+        "physicality": 75,
+        "player_id": 232999
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Cristian Roldan",
+      "dob": "1995-06-03",
+      "caps": 45,
+      "goals": 0,
+      "club": "Seattle Sounders FC",
+      "eafc26": {
+        "overall": 74,
+        "potential": 74,
+        "pace": 77,
+        "shooting": 64,
+        "passing": 69,
+        "dribbling": 73,
+        "defending": 71,
+        "physicality": 79,
+        "player_id": 226807
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Giovanni Reyna",
+      "dob": "2002-11-13",
+      "caps": 36,
+      "goals": 9,
+      "club": "Borussia Mönchengladbach",
+      "eafc26": {
+        "overall": 75,
+        "potential": 81,
+        "pace": 67,
+        "shooting": 72,
+        "passing": 72,
+        "dribbling": 80,
+        "defending": 38,
+        "physicality": 68,
+        "player_id": 245541
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Malik Tillman",
+      "dob": "2002-05-28",
+      "caps": 28,
+      "goals": 3,
+      "club": "Bayer Leverkusen",
+      "eafc26": {
+        "overall": 82,
+        "potential": 87,
+        "pace": 84,
+        "shooting": 76,
+        "passing": 77,
+        "dribbling": 83,
+        "defending": 65,
+        "physicality": 77,
+        "player_id": 256853
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Sebastian Berhalter",
+      "dob": "2001-05-10",
+      "caps": 11,
+      "goals": 1,
+      "club": "Vancouver Whitecaps FC",
+      "eafc26": {
+        "overall": 67,
+        "potential": 72,
+        "pace": 71,
+        "shooting": 54,
+        "passing": 66,
+        "dribbling": 67,
+        "defending": 65,
+        "physicality": 71,
+        "player_id": 255205
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Christian Pulisic",
+      "dob": "1998-09-18",
+      "caps": 84,
+      "goals": 32,
+      "club": "Milan",
+      "captain": true,
+      "eafc26": {
+        "overall": 84,
+        "potential": 84,
+        "pace": 88,
+        "shooting": 82,
+        "passing": 80,
+        "dribbling": 86,
+        "defending": 46,
+        "physicality": 65,
+        "player_id": 227796
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Brenden Aaronson",
+      "dob": "2000-10-22",
+      "caps": 57,
+      "goals": 9,
+      "club": "Leeds United",
+      "eafc26": {
+        "overall": 74,
+        "potential": 78,
+        "pace": 80,
+        "shooting": 66,
+        "passing": 70,
+        "dribbling": 78,
+        "defending": 57,
+        "physicality": 61,
+        "player_id": 247361
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Timothy Weah",
+      "dob": "2000-02-22",
+      "caps": 49,
+      "goals": 7,
+      "club": "Marseille",
+      "eafc26": {
+        "overall": 77,
+        "potential": 78,
+        "pace": 87,
+        "shooting": 75,
+        "passing": 72,
+        "dribbling": 78,
+        "defending": 68,
+        "physicality": 65,
+        "player_id": 241496
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Ricardo Pepi",
+      "dob": "2003-01-09",
+      "caps": 35,
+      "goals": 13,
+      "club": "PSV Eindhoven",
+      "eafc26": {
+        "overall": 76,
+        "potential": 84,
+        "pace": 73,
+        "shooting": 78,
+        "passing": 60,
+        "dribbling": 72,
+        "defending": 46,
+        "physicality": 73,
+        "player_id": 251223
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Folarin Balogun",
+      "dob": "2001-07-03",
+      "caps": 25,
+      "goals": 8,
+      "club": "Monaco",
+      "eafc26": {
+        "overall": 77,
+        "potential": 82,
+        "pace": 84,
+        "shooting": 77,
+        "passing": 62,
+        "dribbling": 77,
+        "defending": 23,
+        "physicality": 68,
+        "player_id": 247463
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Haji Wright",
+      "dob": "1998-03-27",
+      "caps": 20,
+      "goals": 7,
+      "club": "Coventry City",
+      "eafc26": {
+        "overall": 73,
+        "potential": 74,
+        "pace": 82,
+        "shooting": 72,
+        "passing": 60,
+        "dribbling": 71,
+        "defending": 33,
+        "physicality": 76,
+        "player_id": 238743
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Alejandro Zendejas",
+      "dob": "1998-02-07",
+      "caps": 13,
+      "goals": 2,
+      "club": "América",
+      "eafc26": {
+        "overall": 76,
+        "potential": 76,
+        "pace": 85,
+        "shooting": 68,
+        "passing": 70,
+        "dribbling": 80,
+        "defending": 52,
+        "physicality": 67,
+        "player_id": 226579
+      }
+    }
+  ]
+}

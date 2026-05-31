@@ -1,0 +1,231 @@
+{
+  "name": "USA",
+  "code": "USA",
+  "matches_analyzed": 7,
+  "formations": {
+    "4-4-2": 2,
+    "4-3-3": 13,
+    "3-4-3": 1,
+    "4-4-1-1": 1,
+    "3-5-1-1": 1,
+    "3-4-1-2": 1,
+    "4-1-2-1-2": 1
+  },
+  "primary_formation": "4-3-3",
+  "top_starters": [
+    "Matthew Charles Turner",
+    "Tim Ream",
+    "Antonee Robinson",
+    "Tyler Adams",
+    "Weston McKennie",
+    "Christian Pulisic",
+    "Timothy Weah",
+    "Yunus Dimoara Musah",
+    "Sergino Dest",
+    "Walker Zimmerman",
+    "Joseph Scally",
+    "Chris Richards",
+    "Giovanni Reyna",
+    "Folarin Balogun",
+    "Joshua Sargent"
+  ],
+  "top_subs": [
+    "Brenden Aaronson",
+    "Haji Wright",
+    "Joshua Sargent",
+    "Ricardo Daniel Pepi",
+    "Shaquell Moore",
+    "Giovanni Reyna",
+    "Kellyn Kai Perry-Acosta",
+    "DeAndre Yedlin"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857272,
+      "opponent": "England",
+      "score": "0-0",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Matthew Charles Turner",
+        "Sergino Dest",
+        "Walker Zimmerman",
+        "Tim Ream",
+        "Antonee Robinson",
+        "Tyler Adams",
+        "Yunus Dimoara Musah",
+        "Weston McKennie",
+        "Christian Pulisic",
+        "Timothy Weah",
+        "Haji Wright"
+      ],
+      "subs_in": [
+        "Brenden Aaronson",
+        "Shaquell Moore",
+        "Giovanni Reyna",
+        "Joshua Sargent"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857278,
+      "opponent": "Iran",
+      "score": "1-0",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Matthew Charles Turner",
+        "Sergino Dest",
+        "Cameron Carter-Vickers",
+        "Tim Ream",
+        "Antonee Robinson",
+        "Tyler Adams",
+        "Yunus Dimoara Musah",
+        "Weston McKennie",
+        "Timothy Weah",
+        "Christian Pulisic",
+        "Joshua Sargent"
+      ],
+      "subs_in": [
+        "Brenden Aaronson",
+        "Kellyn Kai Perry-Acosta",
+        "Haji Wright",
+        "Walker Zimmerman",
+        "Shaquell Moore"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857282,
+      "opponent": "Wales",
+      "score": "1-1",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Matthew Charles Turner",
+        "Sergino Dest",
+        "Walker Zimmerman",
+        "Tim Ream",
+        "Antonee Robinson",
+        "Tyler Adams",
+        "Weston McKennie",
+        "Yunus Dimoara Musah",
+        "Timothy Weah",
+        "Christian Pulisic",
+        "Joshua Sargent"
+      ],
+      "subs_in": [
+        "Brenden Aaronson",
+        "Haji Wright",
+        "DeAndre Yedlin",
+        "Kellyn Kai Perry-Acosta",
+        "Jordan Morris"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869117,
+      "opponent": "Netherlands",
+      "score": "1-3",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Matthew Charles Turner",
+        "Sergino Dest",
+        "Walker Zimmerman",
+        "Tim Ream",
+        "Antonee Robinson",
+        "Tyler Adams",
+        "Yunus Dimoara Musah",
+        "Weston McKennie",
+        "Timothy Weah",
+        "Christian Pulisic",
+        "Jesus Ferreira"
+      ],
+      "subs_in": [
+        "Giovanni Reyna",
+        "Brenden Aaronson",
+        "Haji Wright",
+        "DeAndre Yedlin",
+        "Jordan Morris"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939974,
+      "opponent": "Bolivia",
+      "score": "2-0",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Matthew Charles Turner",
+        "Joseph Scally",
+        "Chris Richards",
+        "Tim Ream",
+        "Antonee Robinson",
+        "Tyler Adams",
+        "Weston McKennie",
+        "Giovanni Reyna",
+        "Timothy Weah",
+        "Christian Pulisic",
+        "Folarin Balogun"
+      ],
+      "subs_in": [
+        "Yunus Dimoara Musah",
+        "Ricardo Daniel Pepi",
+        "João Lucas de Souza Cardoso",
+        "Luca de la Torre",
+        "Brenden Aaronson"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939990,
+      "opponent": "Uruguay",
+      "score": "0-1",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Matthew Charles Turner",
+        "Joseph Scally",
+        "Chris Richards",
+        "Tim Ream",
+        "Antonee Robinson",
+        "Tyler Adams",
+        "Weston McKennie",
+        "Yunus Dimoara Musah",
+        "Christian Pulisic",
+        "Giovanni Reyna",
+        "Folarin Balogun"
+      ],
+      "subs_in": [
+        "Ricardo Daniel Pepi",
+        "Joshua Sargent",
+        "Haji Wright",
+        "Malik Tillman"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939981,
+      "opponent": "Panama",
+      "score": "1-2",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Matthew Charles Turner",
+        "Joseph Scally",
+        "Chris Richards",
+        "Tim Ream",
+        "Antonee Robinson",
+        "Tyler Adams",
+        "Weston McKennie",
+        "Giovanni Reyna",
+        "Timothy Weah",
+        "Christian Pulisic",
+        "Folarin Balogun"
+      ],
+      "subs_in": [
+        "Ethan Horvath",
+        "Cameron Carter-Vickers",
+        "João Lucas de Souza Cardoso",
+        "Ricardo Daniel Pepi",
+        "Joshua Sargent"
+      ]
+    }
+  ]
+}

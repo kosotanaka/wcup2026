@@ -1,0 +1,120 @@
+{
+  "name": "Algeria",
+  "code": "ALG",
+  "matches_analyzed": 3,
+  "formations": {
+    "4-3-3": 2,
+    "4-2-3-1": 4,
+    "4-4-2": 2
+  },
+  "primary_formation": "4-2-3-1",
+  "top_starters": [
+    "Anthony Louis Mandréa",
+    "Youcef Atal",
+    "Aïssa Mandi",
+    "Rayan Aït Nouri",
+    "Baghdad Bounedjah",
+    "Ramiz Larbi Zerrouki",
+    "Ramy Bensebaini",
+    "Nabil Bentaleb",
+    "Riyad Mahrez",
+    "Mohamed Youcef Belaïli",
+    "Mohamed Amine Tougai",
+    "Hichem Boudaoui",
+    "Houssem Aouar",
+    "Adam Ounas",
+    "Mohamed El Amine Amoura"
+  ],
+  "top_subs": [
+    "Islam Slimani",
+    "Kévin Daniel Van Den Kerkhof",
+    "Adam Ounas",
+    "Riyad Mahrez",
+    "Mohamed Youcef Belaïli",
+    "Nabil Bentaleb",
+    "Mohamed El Amine Amoura",
+    "Fares Chaïbi"
+  ],
+  "matches": [
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920415,
+      "opponent": "Mauritania",
+      "score": "0-1",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Anthony Louis Mandréa",
+        "Youcef Atal",
+        "Aïssa Mandi",
+        "Mohamed Amine Tougai",
+        "Rayan Aït Nouri",
+        "Ramiz Larbi Zerrouki",
+        "Hichem Boudaoui",
+        "Houssem Aouar",
+        "Adam Ounas",
+        "Mohamed El Amine Amoura",
+        "Baghdad Bounedjah"
+      ],
+      "subs_in": [
+        "Riyad Mahrez",
+        "Mohamed Youcef Belaïli",
+        "Nabil Bentaleb",
+        "Islam Slimani",
+        "Kévin Daniel Van Den Kerkhof"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920402,
+      "opponent": "Burkina Faso",
+      "score": "2-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Anthony Louis Mandréa",
+        "Youcef Atal",
+        "Aïssa Mandi",
+        "Ramy Bensebaini",
+        "Rayan Aït Nouri",
+        "Nabil Bentaleb",
+        "Ramiz Larbi Zerrouki",
+        "Riyad Mahrez",
+        "Sofiane Feghouli",
+        "Mohamed Youcef Belaïli",
+        "Baghdad Bounedjah"
+      ],
+      "subs_in": [
+        "Mohamed El Amine Amoura",
+        "Adam Ounas",
+        "Fares Chaïbi",
+        "Islam Slimani"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920390,
+      "opponent": "Angola",
+      "score": "1-1",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Anthony Louis Mandréa",
+        "Youcef Atal",
+        "Aïssa Mandi",
+        "Ramy Bensebaini",
+        "Rayan Aït Nouri",
+        "Nabil Bentaleb",
+        "Fares Chaïbi",
+        "Ismael Bennacer",
+        "Riyad Mahrez",
+        "Mohamed Youcef Belaïli",
+        "Baghdad Bounedjah"
+      ],
+      "subs_in": [
+        "Adam Ounas",
+        "Islam Slimani",
+        "Ramiz Larbi Zerrouki",
+        "Kévin Daniel Van Den Kerkhof",
+        "Houssem Aouar"
+      ]
+    }
+  ]
+}

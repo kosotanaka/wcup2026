@@ -1,0 +1,460 @@
+{
+  "name": "New Zealand",
+  "group": "G",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Max Crocombe",
+      "dob": "1993-08-12",
+      "caps": 22,
+      "goals": 0,
+      "club": "Millwall",
+      "eafc26": {
+        "overall": 65,
+        "potential": 65,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 206566
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Alex Paulsen",
+      "dob": "2002-07-04",
+      "caps": 6,
+      "goals": 0,
+      "club": "Lechia Gdańsk",
+      "eafc26": {
+        "overall": 71,
+        "potential": 80,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 263851
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Michael Woud",
+      "dob": "1999-01-16",
+      "caps": 6,
+      "goals": 0,
+      "club": "Auckland FC",
+      "eafc26": {
+        "overall": 60,
+        "potential": 65,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 235860
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Michael Boxall",
+      "dob": "1988-08-18",
+      "caps": 61,
+      "goals": 1,
+      "club": "Minnesota United FC",
+      "eafc26": {
+        "overall": 70,
+        "potential": 70,
+        "pace": 52,
+        "shooting": 43,
+        "passing": 60,
+        "dribbling": 57,
+        "defending": 69,
+        "physicality": 80,
+        "player_id": 202170
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Tim Payne",
+      "dob": "1994-01-10",
+      "caps": 49,
+      "goals": 3,
+      "club": "Wellington Phoenix",
+      "eafc26": {
+        "overall": 63,
+        "potential": 63,
+        "pace": 68,
+        "shooting": 56,
+        "passing": 57,
+        "dribbling": 55,
+        "defending": 59,
+        "physicality": 79,
+        "player_id": 209361
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Tommy Smith",
+      "dob": "1990-03-31",
+      "caps": 56,
+      "goals": 2,
+      "club": "Braintree Town"
+    },
+    {
+      "pos": "DF",
+      "name": "Liberato Cacace",
+      "dob": "2000-09-27",
+      "caps": 35,
+      "goals": 1,
+      "club": "Wrexham",
+      "eafc26": {
+        "overall": 72,
+        "potential": 77,
+        "pace": 72,
+        "shooting": 60,
+        "passing": 67,
+        "dribbling": 71,
+        "defending": 69,
+        "physicality": 74,
+        "player_id": 242429
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Nando Pijnaker",
+      "dob": "1999-02-25",
+      "caps": 23,
+      "goals": 0,
+      "club": "Auckland FC",
+      "eafc26": {
+        "overall": 67,
+        "potential": 69,
+        "pace": 60,
+        "shooting": 48,
+        "passing": 54,
+        "dribbling": 53,
+        "defending": 65,
+        "physicality": 79,
+        "player_id": 254143
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Francis de Vries",
+      "dob": "1994-11-28",
+      "caps": 18,
+      "goals": 1,
+      "club": "Auckland FC",
+      "eafc26": {
+        "overall": 69,
+        "potential": 69,
+        "pace": 64,
+        "shooting": 53,
+        "passing": 67,
+        "dribbling": 62,
+        "defending": 63,
+        "physicality": 83,
+        "player_id": 237268
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Tyler Bindon",
+      "dob": "2005-01-27",
+      "caps": 23,
+      "goals": 3,
+      "club": "Sheffield United",
+      "eafc26": {
+        "overall": 69,
+        "potential": 82,
+        "pace": 58,
+        "shooting": 46,
+        "passing": 59,
+        "dribbling": 64,
+        "defending": 68,
+        "physicality": 73,
+        "player_id": 277552
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Finn Surman",
+      "dob": "2003-09-23",
+      "caps": 17,
+      "goals": 2,
+      "club": "Portland Timbers",
+      "eafc26": {
+        "overall": 68,
+        "potential": 75,
+        "pace": 65,
+        "shooting": 33,
+        "passing": 49,
+        "dribbling": 55,
+        "defending": 66,
+        "physicality": 78,
+        "player_id": 266150
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Elijah Just",
+      "dob": "2000-05-01",
+      "caps": 42,
+      "goals": 9,
+      "club": "Motherwell",
+      "eafc26": {
+        "overall": 66,
+        "potential": 69,
+        "pace": 81,
+        "shooting": 66,
+        "passing": 58,
+        "dribbling": 68,
+        "defending": 38,
+        "physicality": 53,
+        "player_id": 254136
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Marko Stamenić",
+      "dob": "2002-02-19",
+      "caps": 37,
+      "goals": 3,
+      "club": "Swansea City",
+      "eafc26": {
+        "overall": 71,
+        "potential": 79,
+        "pace": 67,
+        "shooting": 60,
+        "passing": 68,
+        "dribbling": 71,
+        "defending": 66,
+        "physicality": 75,
+        "player_id": 259680
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Matthew Garbett",
+      "dob": "2002-04-13",
+      "caps": 35,
+      "goals": 5,
+      "club": "Peterborough United",
+      "eafc26": {
+        "overall": 65,
+        "potential": 71,
+        "pace": 68,
+        "shooting": 61,
+        "passing": 62,
+        "dribbling": 65,
+        "defending": 52,
+        "physicality": 65,
+        "player_id": 255360
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Ryan Thomas",
+      "dob": "1994-12-20",
+      "caps": 25,
+      "goals": 3,
+      "club": "PEC Zwolle",
+      "eafc26": {
+        "overall": 66,
+        "potential": 66,
+        "pace": 57,
+        "shooting": 58,
+        "passing": 68,
+        "dribbling": 69,
+        "defending": 57,
+        "physicality": 66,
+        "player_id": 220763
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Callum McCowatt",
+      "dob": "1999-04-30",
+      "caps": 30,
+      "goals": 4,
+      "club": "Silkeborg",
+      "eafc26": {
+        "overall": 67,
+        "potential": 70,
+        "pace": 76,
+        "shooting": 67,
+        "passing": 65,
+        "dribbling": 67,
+        "defending": 52,
+        "physicality": 67,
+        "player_id": 243666
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Sarpreet Singh",
+      "dob": "1999-02-20",
+      "caps": 26,
+      "goals": 3,
+      "club": "Wellington Phoenix"
+    },
+    {
+      "pos": "MF",
+      "name": "Joe Bell",
+      "dob": "1999-04-27",
+      "caps": 31,
+      "goals": 1,
+      "club": "Viking",
+      "eafc26": {
+        "overall": 74,
+        "potential": 77,
+        "pace": 70,
+        "shooting": 64,
+        "passing": 72,
+        "dribbling": 71,
+        "defending": 69,
+        "physicality": 81,
+        "player_id": 254142
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Ben Old",
+      "dob": "2002-08-13",
+      "caps": 22,
+      "goals": 2,
+      "club": "Saint-Étienne",
+      "eafc26": {
+        "overall": 68,
+        "potential": 77,
+        "pace": 82,
+        "shooting": 58,
+        "passing": 63,
+        "dribbling": 71,
+        "defending": 52,
+        "physicality": 69,
+        "player_id": 262289
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Chris Wood",
+      "dob": "1991-12-07",
+      "caps": 88,
+      "goals": 45,
+      "club": "Nottingham Forest",
+      "captain": true,
+      "eafc26": {
+        "overall": 82,
+        "potential": 82,
+        "pace": 53,
+        "shooting": 83,
+        "passing": 68,
+        "dribbling": 72,
+        "defending": 40,
+        "physicality": 81,
+        "player_id": 192123
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Kosta Barbarouses",
+      "dob": "1990-02-19",
+      "caps": 74,
+      "goals": 10,
+      "club": "Western Sydney Wanderers",
+      "eafc26": {
+        "overall": 68,
+        "potential": 68,
+        "pace": 78,
+        "shooting": 69,
+        "passing": 58,
+        "dribbling": 69,
+        "defending": 40,
+        "physicality": 77,
+        "player_id": 182091
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Ben Waine",
+      "dob": "2001-06-11",
+      "caps": 30,
+      "goals": 9,
+      "club": "Port Vale",
+      "eafc26": {
+        "overall": 62,
+        "potential": 67,
+        "pace": 77,
+        "shooting": 61,
+        "passing": 54,
+        "dribbling": 60,
+        "defending": 44,
+        "physicality": 68,
+        "player_id": 245539
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Jesse Randall",
+      "dob": "2002-08-19",
+      "caps": 9,
+      "goals": 2,
+      "club": "Auckland FC",
+      "eafc26": {
+        "overall": 60,
+        "potential": 69,
+        "pace": 78,
+        "shooting": 58,
+        "passing": 53,
+        "dribbling": 61,
+        "defending": 31,
+        "physicality": 59,
+        "player_id": 73092
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Callan Elliot",
+      "dob": "1999-07-07",
+      "caps": 9,
+      "goals": 0,
+      "club": "Auckland FC",
+      "eafc26": {
+        "overall": 62,
+        "potential": 65,
+        "pace": 76,
+        "shooting": 48,
+        "passing": 56,
+        "dribbling": 63,
+        "defending": 55,
+        "physicality": 67,
+        "player_id": 246195
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Alex Rufer",
+      "dob": "1996-06-12",
+      "caps": 24,
+      "goals": 0,
+      "club": "Wellington Phoenix",
+      "eafc26": {
+        "overall": 67,
+        "potential": 67,
+        "pace": 64,
+        "shooting": 59,
+        "passing": 65,
+        "dribbling": 65,
+        "defending": 63,
+        "physicality": 78,
+        "player_id": 219392
+      }
+    }
+  ]
+}

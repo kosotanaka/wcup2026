@@ -1,0 +1,501 @@
+{
+  "name": "Netherlands",
+  "group": "F",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Bart Verbruggen",
+      "dob": "2002-08-18",
+      "caps": 27,
+      "goals": 0,
+      "club": "Brighton & Hove Albion",
+      "eafc26": {
+        "overall": 78,
+        "potential": 84,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 258498
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Mark Flekken",
+      "dob": "1993-06-13",
+      "caps": 11,
+      "goals": 0,
+      "club": "Bayer Leverkusen",
+      "eafc26": {
+        "overall": 78,
+        "potential": 78,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 211738
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Robin Roefs",
+      "dob": "2003-01-17",
+      "caps": 0,
+      "goals": 0,
+      "club": "Sunderland",
+      "eafc26": {
+        "overall": 74,
+        "potential": 84,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 263798
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Virgil van Dijk",
+      "dob": "1991-07-08",
+      "caps": 90,
+      "goals": 12,
+      "club": "Liverpool",
+      "captain": true,
+      "eafc26": {
+        "overall": 90,
+        "potential": 90,
+        "pace": 73,
+        "shooting": 60,
+        "passing": 72,
+        "dribbling": 72,
+        "defending": 90,
+        "physicality": 87,
+        "player_id": 203376
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Denzel Dumfries",
+      "dob": "1996-04-18",
+      "caps": 71,
+      "goals": 11,
+      "club": "Inter Milan",
+      "eafc26": {
+        "overall": 84,
+        "potential": 84,
+        "pace": 84,
+        "shooting": 70,
+        "passing": 75,
+        "dribbling": 79,
+        "defending": 79,
+        "physicality": 84,
+        "player_id": 233096
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Nathan Aké",
+      "dob": "1995-02-18",
+      "caps": 58,
+      "goals": 5,
+      "club": "Manchester City",
+      "eafc26": {
+        "overall": 83,
+        "potential": 83,
+        "pace": 72,
+        "shooting": 53,
+        "passing": 72,
+        "dribbling": 75,
+        "defending": 84,
+        "physicality": 74,
+        "player_id": 208920
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Jurriën Timber",
+      "dob": "2001-06-17",
+      "caps": 23,
+      "goals": 0,
+      "club": "Arsenal",
+      "eafc26": {
+        "overall": 82,
+        "potential": 85,
+        "pace": 76,
+        "shooting": 48,
+        "passing": 72,
+        "dribbling": 77,
+        "defending": 82,
+        "physicality": 80,
+        "player_id": 251805
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Micky van de Ven",
+      "dob": "2001-04-19",
+      "caps": 19,
+      "goals": 1,
+      "club": "Tottenham Hotspur",
+      "eafc26": {
+        "overall": 82,
+        "potential": 85,
+        "pace": 90,
+        "shooting": 49,
+        "passing": 64,
+        "dribbling": 72,
+        "defending": 82,
+        "physicality": 80,
+        "player_id": 264453
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Mats Wieffer",
+      "dob": "1999-11-16",
+      "caps": 14,
+      "goals": 1,
+      "club": "Brighton & Hove Albion",
+      "eafc26": {
+        "overall": 78,
+        "potential": 82,
+        "pace": 67,
+        "shooting": 66,
+        "passing": 74,
+        "dribbling": 74,
+        "defending": 76,
+        "physicality": 78,
+        "player_id": 248793
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Jan Paul van Hecke",
+      "dob": "2000-06-08",
+      "caps": 10,
+      "goals": 0,
+      "club": "Brighton & Hove Albion",
+      "eafc26": {
+        "overall": 80,
+        "potential": 83,
+        "pace": 67,
+        "shooting": 46,
+        "passing": 72,
+        "dribbling": 70,
+        "defending": 80,
+        "physicality": 78,
+        "player_id": 258908
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Jorrel Hato",
+      "dob": "2006-03-07",
+      "caps": 7,
+      "goals": 0,
+      "club": "Chelsea",
+      "eafc26": {
+        "overall": 78,
+        "potential": 89,
+        "pace": 85,
+        "shooting": 41,
+        "passing": 70,
+        "dribbling": 74,
+        "defending": 75,
+        "physicality": 73,
+        "player_id": 272978
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Frenkie de Jong",
+      "dob": "1997-05-12",
+      "caps": 64,
+      "goals": 2,
+      "club": "Barcelona",
+      "eafc26": {
+        "overall": 87,
+        "potential": 87,
+        "pace": 82,
+        "shooting": 71,
+        "passing": 85,
+        "dribbling": 87,
+        "defending": 78,
+        "physicality": 77,
+        "player_id": 228702
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Tijjani Reijnders",
+      "dob": "1998-07-29",
+      "caps": 30,
+      "goals": 7,
+      "club": "Manchester City",
+      "eafc26": {
+        "overall": 86,
+        "potential": 87,
+        "pace": 79,
+        "shooting": 79,
+        "passing": 82,
+        "dribbling": 85,
+        "defending": 77,
+        "physicality": 77,
+        "player_id": 240638
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Teun Koopmeiners",
+      "dob": "1998-02-28",
+      "caps": 27,
+      "goals": 3,
+      "club": "Juventus",
+      "eafc26": {
+        "overall": 81,
+        "potential": 81,
+        "pace": 70,
+        "shooting": 79,
+        "passing": 83,
+        "dribbling": 78,
+        "defending": 75,
+        "physicality": 75,
+        "player_id": 240679
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Ryan Gravenberch",
+      "dob": "2002-05-16",
+      "caps": 25,
+      "goals": 1,
+      "club": "Liverpool",
+      "eafc26": {
+        "overall": 85,
+        "potential": 88,
+        "pace": 76,
+        "shooting": 76,
+        "passing": 81,
+        "dribbling": 85,
+        "defending": 81,
+        "physicality": 81,
+        "player_id": 246104
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Marten de Roon",
+      "dob": "1991-03-29",
+      "caps": 42,
+      "goals": 1,
+      "club": "Atalanta",
+      "eafc26": {
+        "overall": 81,
+        "potential": 81,
+        "pace": 61,
+        "shooting": 74,
+        "passing": 77,
+        "dribbling": 76,
+        "defending": 83,
+        "physicality": 80,
+        "player_id": 208461
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Quinten Timber",
+      "dob": "2001-06-17",
+      "caps": 10,
+      "goals": 1,
+      "club": "Marseille",
+      "eafc26": {
+        "overall": 80,
+        "potential": 85,
+        "pace": 77,
+        "shooting": 78,
+        "passing": 76,
+        "dribbling": 80,
+        "defending": 74,
+        "physicality": 83,
+        "player_id": 251806
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Justin Kluivert",
+      "dob": "1999-05-05",
+      "caps": 11,
+      "goals": 0,
+      "club": "Bournemouth",
+      "eafc26": {
+        "overall": 79,
+        "potential": 81,
+        "pace": 87,
+        "shooting": 78,
+        "passing": 76,
+        "dribbling": 81,
+        "defending": 38,
+        "physicality": 62,
+        "player_id": 236920
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Guus Til",
+      "dob": "1997-12-22",
+      "caps": 6,
+      "goals": 1,
+      "club": "PSV Eindhoven",
+      "eafc26": {
+        "overall": 77,
+        "potential": 77,
+        "pace": 79,
+        "shooting": 76,
+        "passing": 72,
+        "dribbling": 74,
+        "defending": 64,
+        "physicality": 74,
+        "player_id": 235663
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Memphis Depay",
+      "dob": "1994-02-13",
+      "caps": 108,
+      "goals": 55,
+      "club": "Corinthians",
+      "eafc26": {
+        "overall": 81,
+        "potential": 81,
+        "pace": 79,
+        "shooting": 82,
+        "passing": 79,
+        "dribbling": 83,
+        "defending": 30,
+        "physicality": 78,
+        "player_id": 202556
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Cody Gakpo",
+      "dob": "1999-05-07",
+      "caps": 48,
+      "goals": 19,
+      "club": "Liverpool",
+      "eafc26": {
+        "overall": 84,
+        "potential": 85,
+        "pace": 83,
+        "shooting": 82,
+        "passing": 80,
+        "dribbling": 83,
+        "defending": 47,
+        "physicality": 74,
+        "player_id": 242516
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Wout Weghorst",
+      "dob": "1992-08-07",
+      "caps": 51,
+      "goals": 14,
+      "club": "Ajax",
+      "eafc26": {
+        "overall": 78,
+        "potential": 78,
+        "pace": 54,
+        "shooting": 78,
+        "passing": 62,
+        "dribbling": 68,
+        "defending": 57,
+        "physicality": 87,
+        "player_id": 223689
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Donyell Malen",
+      "dob": "1999-01-19",
+      "caps": 51,
+      "goals": 13,
+      "club": "Roma",
+      "eafc26": {
+        "overall": 79,
+        "potential": 80,
+        "pace": 86,
+        "shooting": 78,
+        "passing": 72,
+        "dribbling": 82,
+        "defending": 35,
+        "physicality": 67,
+        "player_id": 231447
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Noa Lang",
+      "dob": "1999-06-17",
+      "caps": 15,
+      "goals": 3,
+      "club": "Galatasaray",
+      "eafc26": {
+        "overall": 80,
+        "potential": 81,
+        "pace": 80,
+        "shooting": 77,
+        "passing": 73,
+        "dribbling": 84,
+        "defending": 50,
+        "physicality": 68,
+        "player_id": 239380
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Brian Brobbey",
+      "dob": "2002-02-01",
+      "caps": 10,
+      "goals": 1,
+      "club": "Sunderland",
+      "eafc26": {
+        "overall": 77,
+        "potential": 83,
+        "pace": 84,
+        "shooting": 73,
+        "passing": 56,
+        "dribbling": 72,
+        "defending": 30,
+        "physicality": 80,
+        "player_id": 251810
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Crysencio Summerville",
+      "dob": "2001-10-30",
+      "caps": 0,
+      "goals": 0,
+      "club": "West Ham United",
+      "eafc26": {
+        "overall": 76,
+        "potential": 84,
+        "pace": 89,
+        "shooting": 71,
+        "passing": 67,
+        "dribbling": 80,
+        "defending": 35,
+        "physicality": 54,
+        "player_id": 251954
+      }
+    }
+  ]
+}

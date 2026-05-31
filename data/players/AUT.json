@@ -1,0 +1,403 @@
+{
+  "name": "Austria",
+  "group": "J",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Alexander Schlager",
+      "dob": "1996-02-01",
+      "caps": 25,
+      "goals": 0,
+      "club": "Red Bull Salzburg",
+      "eafc26": {
+        "overall": 73,
+        "potential": 75,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 215522
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Patrick Pentz",
+      "dob": "1997-01-02",
+      "caps": 18,
+      "goals": 0,
+      "club": "Brøndby",
+      "eafc26": {
+        "overall": 72,
+        "potential": 75,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 228505
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Florian Wiegele",
+      "dob": "2001-03-21",
+      "caps": 1,
+      "goals": 0,
+      "club": "Viktoria Plzeň",
+      "eafc26": {
+        "overall": 67,
+        "potential": 72,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 72937
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "David Alaba",
+      "dob": "1992-06-24",
+      "caps": 112,
+      "goals": 15,
+      "club": "Real Madrid",
+      "captain": true,
+      "eafc26": {
+        "overall": 82,
+        "potential": 82,
+        "pace": 68,
+        "shooting": 71,
+        "passing": 82,
+        "dribbling": 79,
+        "defending": 82,
+        "physicality": 75,
+        "player_id": 197445
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Stefan Posch",
+      "dob": "1997-05-14",
+      "caps": 51,
+      "goals": 5,
+      "club": "Mainz 05",
+      "eafc26": {
+        "overall": 79,
+        "potential": 79,
+        "pace": 75,
+        "shooting": 55,
+        "passing": 68,
+        "dribbling": 66,
+        "defending": 80,
+        "physicality": 74,
+        "player_id": 223671
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Philipp Lienhart",
+      "dob": "1996-07-11",
+      "caps": 40,
+      "goals": 3,
+      "club": "SC Freiburg",
+      "eafc26": {
+        "overall": 79,
+        "potential": 80,
+        "pace": 67,
+        "shooting": 28,
+        "passing": 59,
+        "dribbling": 64,
+        "defending": 81,
+        "physicality": 78,
+        "player_id": 231366
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Kevin Danso",
+      "dob": "1998-09-19",
+      "caps": 31,
+      "goals": 0,
+      "club": "Tottenham Hotspur",
+      "eafc26": {
+        "overall": 79,
+        "potential": 82,
+        "pace": 73,
+        "shooting": 32,
+        "passing": 57,
+        "dribbling": 62,
+        "defending": 78,
+        "physicality": 83,
+        "player_id": 237985
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Phillipp Mwene",
+      "dob": "1994-01-29",
+      "caps": 29,
+      "goals": 0,
+      "club": "Mainz 05",
+      "eafc26": {
+        "overall": 76,
+        "potential": 76,
+        "pace": 78,
+        "shooting": 55,
+        "passing": 69,
+        "dribbling": 75,
+        "defending": 70,
+        "physicality": 70,
+        "player_id": 216275
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Alexander Prass",
+      "dob": "2001-05-26",
+      "caps": 18,
+      "goals": 0,
+      "club": "TSG Hoffenheim",
+      "eafc26": {
+        "overall": 74,
+        "potential": 77,
+        "pace": 74,
+        "shooting": 65,
+        "passing": 74,
+        "dribbling": 75,
+        "defending": 69,
+        "physicality": 74,
+        "player_id": 263041
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Marco Friedl",
+      "dob": "1998-03-16",
+      "caps": 10,
+      "goals": 0,
+      "club": "Werder Bremen",
+      "eafc26": {
+        "overall": 77,
+        "potential": 79,
+        "pace": 75,
+        "shooting": 44,
+        "passing": 64,
+        "dribbling": 69,
+        "defending": 79,
+        "physicality": 77,
+        "player_id": 237595
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Marcel Sabitzer",
+      "dob": "1994-03-17",
+      "caps": 97,
+      "goals": 25,
+      "club": "Borussia Dortmund",
+      "eafc26": {
+        "overall": 80,
+        "potential": 80,
+        "pace": 74,
+        "shooting": 80,
+        "passing": 80,
+        "dribbling": 80,
+        "defending": 76,
+        "physicality": 76,
+        "player_id": 204923
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Florian Grillitsch",
+      "dob": "1995-08-07",
+      "caps": 58,
+      "goals": 1,
+      "club": "Braga",
+      "eafc26": {
+        "overall": 75,
+        "potential": 75,
+        "pace": 63,
+        "shooting": 59,
+        "passing": 74,
+        "dribbling": 74,
+        "defending": 72,
+        "physicality": 66,
+        "player_id": 228336
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Konrad Laimer",
+      "dob": "1997-05-27",
+      "caps": 56,
+      "goals": 7,
+      "club": "Bayern Munich",
+      "eafc26": {
+        "overall": 82,
+        "potential": 82,
+        "pace": 82,
+        "shooting": 69,
+        "passing": 76,
+        "dribbling": 75,
+        "defending": 81,
+        "physicality": 76,
+        "player_id": 225375
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Xaver Schlager",
+      "dob": "1997-09-28",
+      "caps": 50,
+      "goals": 4,
+      "club": "RB Leipzig",
+      "eafc26": {
+        "overall": 80,
+        "potential": 82,
+        "pace": 69,
+        "shooting": 70,
+        "passing": 74,
+        "dribbling": 78,
+        "defending": 75,
+        "physicality": 78,
+        "player_id": 233195
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Nicolas Seiwald",
+      "dob": "2001-05-04",
+      "caps": 46,
+      "goals": 1,
+      "club": "RB Leipzig",
+      "eafc26": {
+        "overall": 77,
+        "potential": 84,
+        "pace": 72,
+        "shooting": 62,
+        "passing": 74,
+        "dribbling": 74,
+        "defending": 74,
+        "physicality": 76,
+        "player_id": 257876
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Christoph Baumgartner",
+      "dob": "1999-08-01",
+      "caps": 58,
+      "goals": 19,
+      "club": "RB Leipzig",
+      "eafc26": {
+        "overall": 77,
+        "potential": 80,
+        "pace": 74,
+        "shooting": 72,
+        "passing": 72,
+        "dribbling": 79,
+        "defending": 47,
+        "physicality": 63,
+        "player_id": 242187
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Romano Schmid",
+      "dob": "2000-01-27",
+      "caps": 33,
+      "goals": 3,
+      "club": "Werder Bremen",
+      "eafc26": {
+        "overall": 78,
+        "potential": 81,
+        "pace": 77,
+        "shooting": 67,
+        "passing": 78,
+        "dribbling": 83,
+        "defending": 56,
+        "physicality": 58,
+        "player_id": 239701
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Patrick Wimmer",
+      "dob": "2001-05-30",
+      "caps": 30,
+      "goals": 1,
+      "club": "VfL Wolfsburg",
+      "eafc26": {
+        "overall": 77,
+        "potential": 83,
+        "pace": 84,
+        "shooting": 69,
+        "passing": 72,
+        "dribbling": 81,
+        "defending": 49,
+        "physicality": 73,
+        "player_id": 254566
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Marko Arnautović",
+      "dob": "1989-04-19",
+      "caps": 132,
+      "goals": 47,
+      "club": "Red Star Belgrade"
+    },
+    {
+      "pos": "FW",
+      "name": "Michael Gregoritsch",
+      "dob": "1994-04-18",
+      "caps": 74,
+      "goals": 24,
+      "club": "FC Augsburg",
+      "eafc26": {
+        "overall": 75,
+        "potential": 75,
+        "pace": 37,
+        "shooting": 77,
+        "passing": 68,
+        "dribbling": 68,
+        "defending": 42,
+        "physicality": 76,
+        "player_id": 199439
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Saša Kalajdžić",
+      "dob": "1997-07-07",
+      "caps": 21,
+      "goals": 4,
+      "club": "LASK",
+      "eafc26": {
+        "overall": 74,
+        "potential": 74,
+        "pace": 50,
+        "shooting": 72,
+        "passing": 67,
+        "dribbling": 68,
+        "defending": 45,
+        "physicality": 64,
+        "player_id": 239901
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Carney Chukwuemeka",
+      "dob": "2003-10-20",
+      "caps": 2,
+      "goals": 1,
+      "club": "Borussia Dortmund"
+    }
+  ]
+}

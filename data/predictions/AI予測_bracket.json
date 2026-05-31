@@ -1,0 +1,198 @@
+{
+  "username": "AI予測",
+  "ko_picks": {
+    "KO001": {
+      "home": 2,
+      "away": 1,
+      "et": true,
+      "pk": true
+    },
+    "KO002": {
+      "home": 2,
+      "away": 1,
+      "et": true,
+      "pk": false
+    },
+    "KO003": {
+      "home": 1,
+      "away": 2,
+      "et": false,
+      "pk": false
+    },
+    "KO004": {
+      "home": 2,
+      "away": 1,
+      "et": true,
+      "pk": true
+    },
+    "KO005": {
+      "home": 1,
+      "away": 2,
+      "et": true,
+      "pk": true
+    },
+    "KO006": {
+      "home": 1,
+      "away": 2,
+      "et": true,
+      "pk": true
+    },
+    "KO007": {
+      "home": 2,
+      "away": 1,
+      "et": true,
+      "pk": false
+    },
+    "KO008": {
+      "home": 2,
+      "away": 1,
+      "et": true,
+      "pk": true
+    },
+    "KO009": {
+      "home": 1,
+      "away": 2,
+      "et": true,
+      "pk": true
+    },
+    "KO010": {
+      "home": 2,
+      "away": 1,
+      "et": true,
+      "pk": true
+    },
+    "KO011": {
+      "home": 1,
+      "away": 2,
+      "et": true,
+      "pk": true
+    },
+    "KO012": {
+      "home": 2,
+      "away": 1,
+      "et": true,
+      "pk": false
+    },
+    "KO013": {
+      "home": 2,
+      "away": 1,
+      "et": false,
+      "pk": false
+    },
+    "KO014": {
+      "home": 2,
+      "away": 1,
+      "et": true,
+      "pk": true
+    },
+    "KO015": {
+      "home": 1,
+      "away": 2,
+      "et": false,
+      "pk": false
+    },
+    "KO016": {
+      "home": 2,
+      "away": 1,
+      "et": true,
+      "pk": true
+    },
+    "KO017": {
+      "home": 2,
+      "away": 1,
+      "et": true,
+      "pk": true
+    },
+    "KO018": {
+      "home": 1,
+      "away": 2,
+      "et": false,
+      "pk": false
+    },
+    "KO019": {
+      "home": 2,
+      "away": 1,
+      "et": true,
+      "pk": false
+    },
+    "KO020": {
+      "home": 1,
+      "away": 2,
+      "et": true,
+      "pk": true
+    },
+    "KO021": {
+      "home": 1,
+      "away": 2,
+      "et": true,
+      "pk": false
+    },
+    "KO022": {
+      "home": 1,
+      "away": 2,
+      "et": true,
+      "pk": false
+    },
+    "KO023": {
+      "home": 2,
+      "away": 1,
+      "et": true,
+      "pk": false
+    },
+    "KO024": {
+      "home": 1,
+      "away": 2,
+      "et": true,
+      "pk": false
+    },
+    "KO025": {
+      "home": 1,
+      "away": 2,
+      "et": true,
+      "pk": false
+    },
+    "KO026": {
+      "home": 2,
+      "away": 1,
+      "et": true,
+      "pk": false
+    },
+    "KO027": {
+      "home": 1,
+      "away": 2,
+      "et": true,
+      "pk": true
+    },
+    "KO028": {
+      "home": 1,
+      "away": 2,
+      "et": true,
+      "pk": true
+    },
+    "KO029": {
+      "home": 2,
+      "away": 1,
+      "et": true,
+      "pk": false
+    },
+    "KO030": {
+      "home": 1,
+      "away": 2,
+      "et": false,
+      "pk": false
+    },
+    "KO031": {
+      "home": 2,
+      "away": 1,
+      "et": true,
+      "pk": true
+    },
+    "KO032": {
+      "home": 1,
+      "away": 2,
+      "et": true,
+      "pk": false
+    }
+  },
+  "champion": "POR"
+}

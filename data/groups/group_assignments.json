@@ -1,0 +1,76 @@
+{
+  "groups": {
+    "A": [
+      {"name": "Mexico",          "code": "MEX"},
+      {"name": "South Africa",    "code": "RSA"},
+      {"name": "Korea Republic",  "code": "KOR"},
+      {"name": "Czechia",         "code": "CZE"}
+    ],
+    "B": [
+      {"name": "Canada",               "code": "CAN"},
+      {"name": "Bosnia & Herzegovina", "code": "BIH"},
+      {"name": "Qatar",                "code": "QAT"},
+      {"name": "Switzerland",          "code": "SUI"}
+    ],
+    "C": [
+      {"name": "Brazil",   "code": "BRA"},
+      {"name": "Morocco",  "code": "MAR"},
+      {"name": "Haiti",    "code": "HAI"},
+      {"name": "Scotland", "code": "SCO"}
+    ],
+    "D": [
+      {"name": "USA",       "code": "USA"},
+      {"name": "Paraguay",  "code": "PAR"},
+      {"name": "Australia", "code": "AUS"},
+      {"name": "Türkiye",   "code": "TUR"}
+    ],
+    "E": [
+      {"name": "Germany",       "code": "GER"},
+      {"name": "Curaçao",       "code": "CUW"},
+      {"name": "Côte d'Ivoire", "code": "CIV"},
+      {"name": "Ecuador",       "code": "ECU"}
+    ],
+    "F": [
+      {"name": "Netherlands", "code": "NED"},
+      {"name": "Japan",       "code": "JPN"},
+      {"name": "Sweden",      "code": "SWE"},
+      {"name": "Tunisia",     "code": "TUN"}
+    ],
+    "G": [
+      {"name": "Belgium",     "code": "BEL"},
+      {"name": "Egypt",       "code": "EGY"},
+      {"name": "IR Iran",     "code": "IRN"},
+      {"name": "New Zealand", "code": "NZL"}
+    ],
+    "H": [
+      {"name": "Spain",        "code": "ESP"},
+      {"name": "Cabo Verde",   "code": "CPV"},
+      {"name": "Saudi Arabia", "code": "KSA"},
+      {"name": "Uruguay",      "code": "URU"}
+    ],
+    "I": [
+      {"name": "France",  "code": "FRA"},
+      {"name": "Senegal", "code": "SEN"},
+      {"name": "Iraq",    "code": "IRQ"},
+      {"name": "Norway",  "code": "NOR"}
+    ],
+    "J": [
+      {"name": "Argentina", "code": "ARG"},
+      {"name": "Algeria",   "code": "ALG"},
+      {"name": "Austria",   "code": "AUT"},
+      {"name": "Jordan",    "code": "JOR"}
+    ],
+    "K": [
+      {"name": "Portugal",  "code": "POR"},
+      {"name": "Congo DR",  "code": "COD"},
+      {"name": "Uzbekistan","code": "UZB"},
+      {"name": "Colombia",  "code": "COL"}
+    ],
+    "L": [
+      {"name": "England", "code": "ENG"},
+      {"name": "Croatia", "code": "CRO"},
+      {"name": "Ghana",   "code": "GHA"},
+      {"name": "Panama",  "code": "PAN"}
+    ]
+  }
+}

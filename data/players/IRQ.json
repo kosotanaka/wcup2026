@@ -1,0 +1,225 @@
+{
+  "name": "Iraq",
+  "group": "I",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Jalal Hassan",
+      "dob": "1991-05-18",
+      "caps": 100,
+      "goals": 0,
+      "club": "Al-Zawraa",
+      "captain": true
+    },
+    {
+      "pos": "GK",
+      "name": "Fahad Talib",
+      "dob": "1994-10-21",
+      "caps": 21,
+      "goals": 0,
+      "club": "Al-Talaba"
+    },
+    {
+      "pos": "GK",
+      "name": "Ahmed Basil",
+      "dob": "1996-08-19",
+      "caps": 14,
+      "goals": 0,
+      "club": "Al-Shorta"
+    },
+    {
+      "pos": "DF",
+      "name": "Rebin Sulaka",
+      "dob": "1992-04-12",
+      "caps": 54,
+      "goals": 1,
+      "club": "Port"
+    },
+    {
+      "pos": "DF",
+      "name": "Manaf Younis",
+      "dob": "1996-11-16",
+      "caps": 32,
+      "goals": 1,
+      "club": "Al-Shorta"
+    },
+    {
+      "pos": "DF",
+      "name": "Merchas Doski",
+      "dob": "1999-12-07",
+      "caps": 30,
+      "goals": 0,
+      "club": "Viktoria Plzeň",
+      "eafc26": {
+        "overall": 68,
+        "potential": 71,
+        "pace": 75,
+        "shooting": 54,
+        "passing": 65,
+        "dribbling": 71,
+        "defending": 62,
+        "physicality": 62,
+        "player_id": 76603
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Zaid Tahseen",
+      "dob": "2001-01-29",
+      "caps": 26,
+      "goals": 1,
+      "club": "Pakhtakor"
+    },
+    {
+      "pos": "DF",
+      "name": "Hussein Ali",
+      "dob": "2002-03-01",
+      "caps": 25,
+      "goals": 1,
+      "club": "Pogoń Szczecin"
+    },
+    {
+      "pos": "DF",
+      "name": "Frans Putros",
+      "dob": "1993-07-14",
+      "caps": 26,
+      "goals": 0,
+      "club": "Persib"
+    },
+    {
+      "pos": "DF",
+      "name": "Maitham Jabbar",
+      "dob": "2000-11-10",
+      "caps": 20,
+      "goals": 0,
+      "club": "Al-Zawraa"
+    },
+    {
+      "pos": "MF",
+      "name": "Ibrahim Bayesh",
+      "dob": "2000-05-01",
+      "caps": 74,
+      "goals": 8,
+      "club": "Al-Dhafra",
+      "eafc26": {
+        "overall": 68,
+        "potential": 71,
+        "pace": 79,
+        "shooting": 67,
+        "passing": 60,
+        "dribbling": 69,
+        "defending": 58,
+        "physicality": 75,
+        "player_id": 74514
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Amir Al-Ammari",
+      "dob": "1997-07-27",
+      "caps": 49,
+      "goals": 3,
+      "club": "Cracovia",
+      "eafc26": {
+        "overall": 65,
+        "potential": 65,
+        "pace": 68,
+        "shooting": 57,
+        "passing": 66,
+        "dribbling": 63,
+        "defending": 60,
+        "physicality": 70,
+        "player_id": 261298
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Zidane Iqbal",
+      "dob": "2003-04-27",
+      "caps": 23,
+      "goals": 2,
+      "club": "Utrecht",
+      "eafc26": {
+        "overall": 68,
+        "potential": 78,
+        "pace": 64,
+        "shooting": 60,
+        "passing": 64,
+        "dribbling": 73,
+        "defending": 63,
+        "physicality": 62,
+        "player_id": 265788
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Youssef Amyn",
+      "dob": "2003-08-21",
+      "caps": 25,
+      "goals": 2,
+      "club": "AEK Larnaca"
+    },
+    {
+      "pos": "MF",
+      "name": "Ali Jasim",
+      "dob": "2004-01-20",
+      "caps": 35,
+      "goals": 2,
+      "club": "Al-Najma",
+      "eafc26": {
+        "overall": 62,
+        "potential": 77,
+        "pace": 67,
+        "shooting": 62,
+        "passing": 57,
+        "dribbling": 63,
+        "defending": 22,
+        "physicality": 59,
+        "player_id": 74705
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Hasan Abdulkareem",
+      "dob": "1999-01-01",
+      "caps": 21,
+      "goals": 1,
+      "club": "Al-Zawraa"
+    },
+    {
+      "pos": "FW",
+      "name": "Aymen Hussein",
+      "dob": "1996-03-22",
+      "caps": 93,
+      "goals": 33,
+      "club": "Al-Karma"
+    },
+    {
+      "pos": "FW",
+      "name": "Mohanad Ali",
+      "dob": "2000-06-20",
+      "caps": 71,
+      "goals": 27,
+      "club": "Dibba"
+    },
+    {
+      "pos": "FW",
+      "name": "Ali Al-Hamadi",
+      "dob": "2002-03-01",
+      "caps": 18,
+      "goals": 5,
+      "club": "Luton Town",
+      "eafc26": {
+        "overall": 66,
+        "potential": 73,
+        "pace": 79,
+        "shooting": 63,
+        "passing": 47,
+        "dribbling": 64,
+        "defending": 18,
+        "physicality": 73,
+        "player_id": 263376
+      }
+    }
+  ]
+}

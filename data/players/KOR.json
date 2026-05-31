@@ -1,0 +1,468 @@
+{
+  "name": "Korea Republic",
+  "group": "A",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Kim Seung-gyu",
+      "dob": "1990-09-30",
+      "caps": 85,
+      "goals": 0,
+      "club": "FC Tokyo",
+      "eafc26": {
+        "overall": 66,
+        "potential": 66,
+        "pace": 84,
+        "shooting": 60,
+        "passing": 56,
+        "dribbling": 65,
+        "defending": 26,
+        "physicality": 65,
+        "player_id": 242821
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Jo Hyeon-woo",
+      "dob": "1991-09-25",
+      "caps": 47,
+      "goals": 0,
+      "club": "Ulsan HD",
+      "eafc26": {
+        "overall": 75,
+        "potential": 75,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 212432
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Song Bum-keun",
+      "dob": "1997-10-15",
+      "caps": 2,
+      "goals": 0,
+      "club": "Jeonbuk Hyundai Motors",
+      "eafc26": {
+        "overall": 74,
+        "potential": 78,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 238570
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Kim Min-jae",
+      "dob": "1996-11-15",
+      "caps": 77,
+      "goals": 4,
+      "club": "Bayern Munich",
+      "eafc26": {
+        "overall": 82,
+        "potential": 83,
+        "pace": 73,
+        "shooting": 33,
+        "passing": 58,
+        "dribbling": 63,
+        "defending": 83,
+        "physicality": 84,
+        "player_id": 237086
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Kim Moon-hwan",
+      "dob": "1995-08-01",
+      "caps": 34,
+      "goals": 0,
+      "club": "Daejeon Hana Citizen",
+      "eafc26": {
+        "overall": 69,
+        "potential": 69,
+        "pace": 83,
+        "shooting": 53,
+        "passing": 60,
+        "dribbling": 69,
+        "defending": 62,
+        "physicality": 68,
+        "player_id": 244800
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Seol Young-woo",
+      "dob": "1998-12-05",
+      "caps": 32,
+      "goals": 0,
+      "club": "Red Star Belgrade"
+    },
+    {
+      "pos": "DF",
+      "name": "Cho Yu-min",
+      "dob": "1996-11-17",
+      "caps": 18,
+      "goals": 0,
+      "club": "Sharjah"
+    },
+    {
+      "pos": "DF",
+      "name": "Lee Tae-seok",
+      "dob": "2002-07-28",
+      "caps": 14,
+      "goals": 1,
+      "club": "Austria Wien",
+      "eafc26": {
+        "overall": 69,
+        "potential": 75,
+        "pace": 79,
+        "shooting": 40,
+        "passing": 60,
+        "dribbling": 68,
+        "defending": 62,
+        "physicality": 71,
+        "player_id": 261063
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Park Jin-seob",
+      "dob": "1995-10-23",
+      "caps": 12,
+      "goals": 1,
+      "club": "Zhejiang FC",
+      "eafc26": {
+        "overall": 71,
+        "potential": 71,
+        "pace": 70,
+        "shooting": 54,
+        "passing": 60,
+        "dribbling": 62,
+        "defending": 69,
+        "physicality": 84,
+        "player_id": 243673
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Kim Tae-hyeon",
+      "dob": "2000-09-17",
+      "caps": 7,
+      "goals": 0,
+      "club": "Kashima Antlers",
+      "eafc26": {
+        "overall": 67,
+        "potential": 67,
+        "pace": 72,
+        "shooting": 48,
+        "passing": 60,
+        "dribbling": 65,
+        "defending": 61,
+        "physicality": 67,
+        "player_id": 243672
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Lee Han-beom",
+      "dob": "2002-06-17",
+      "caps": 6,
+      "goals": 0,
+      "club": "Midtjylland",
+      "eafc26": {
+        "overall": 69,
+        "potential": 78,
+        "pace": 55,
+        "shooting": 29,
+        "passing": 51,
+        "dribbling": 58,
+        "defending": 69,
+        "physicality": 71,
+        "player_id": 261062
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Jens Castrop",
+      "dob": "2003-07-29",
+      "caps": 5,
+      "goals": 0,
+      "club": "Borussia Mönchengladbach",
+      "eafc26": {
+        "overall": 70,
+        "potential": 79,
+        "pace": 80,
+        "shooting": 54,
+        "passing": 67,
+        "dribbling": 74,
+        "defending": 62,
+        "physicality": 69,
+        "player_id": 264194
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Lee Ki-hyuk",
+      "dob": "2000-07-07",
+      "caps": 1,
+      "goals": 0,
+      "club": "Gangwon FC"
+    },
+    {
+      "pos": "MF",
+      "name": "Lee Jae-sung",
+      "dob": "1992-08-10",
+      "caps": 103,
+      "goals": 15,
+      "club": "Mainz 05",
+      "eafc26": {
+        "overall": 77,
+        "potential": 77,
+        "pace": 72,
+        "shooting": 71,
+        "passing": 72,
+        "dribbling": 81,
+        "defending": 63,
+        "physicality": 66,
+        "player_id": 221671
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Hwang Hee-chan",
+      "dob": "1996-01-26",
+      "caps": 77,
+      "goals": 16,
+      "club": "Wolverhampton Wanderers",
+      "eafc26": {
+        "overall": 75,
+        "potential": 75,
+        "pace": 81,
+        "shooting": 75,
+        "passing": 70,
+        "dribbling": 75,
+        "defending": 39,
+        "physicality": 68,
+        "player_id": 226380
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Hwang In-beom",
+      "dob": "1996-09-20",
+      "caps": 71,
+      "goals": 6,
+      "club": "Feyenoord",
+      "eafc26": {
+        "overall": 77,
+        "potential": 77,
+        "pace": 62,
+        "shooting": 70,
+        "passing": 76,
+        "dribbling": 77,
+        "defending": 63,
+        "physicality": 65,
+        "player_id": 228010
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Lee Kang-in",
+      "dob": "2001-02-19",
+      "caps": 46,
+      "goals": 11,
+      "club": "Paris Saint-Germain",
+      "eafc26": {
+        "overall": 79,
+        "potential": 84,
+        "pace": 72,
+        "shooting": 75,
+        "passing": 80,
+        "dribbling": 82,
+        "defending": 50,
+        "physicality": 64,
+        "player_id": 243780
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Paik Seung-ho",
+      "dob": "1997-03-17",
+      "caps": 25,
+      "goals": 3,
+      "club": "Birmingham City",
+      "eafc26": {
+        "overall": 72,
+        "potential": 72,
+        "pace": 67,
+        "shooting": 67,
+        "passing": 70,
+        "dribbling": 73,
+        "defending": 66,
+        "physicality": 75,
+        "player_id": 237424
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Kim Jin-gyu",
+      "dob": "1997-02-24",
+      "caps": 20,
+      "goals": 3,
+      "club": "Jeonbuk Hyundai Motors",
+      "eafc26": {
+        "overall": 71,
+        "potential": 71,
+        "pace": 70,
+        "shooting": 67,
+        "passing": 67,
+        "dribbling": 72,
+        "defending": 50,
+        "physicality": 69,
+        "player_id": 227659
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Lee Dong-gyeong",
+      "dob": "1997-09-20",
+      "caps": 16,
+      "goals": 3,
+      "club": "Ulsan HD",
+      "eafc26": {
+        "overall": 75,
+        "potential": 75,
+        "pace": 77,
+        "shooting": 75,
+        "passing": 73,
+        "dribbling": 75,
+        "defending": 59,
+        "physicality": 76,
+        "player_id": 245054
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Bae Jun-ho",
+      "dob": "2003-08-21",
+      "caps": 12,
+      "goals": 2,
+      "club": "Stoke City",
+      "eafc26": {
+        "overall": 71,
+        "potential": 80,
+        "pace": 74,
+        "shooting": 61,
+        "passing": 69,
+        "dribbling": 73,
+        "defending": 36,
+        "physicality": 55,
+        "player_id": 266774
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Eom Ji-sung",
+      "dob": "2002-05-09",
+      "caps": 8,
+      "goals": 2,
+      "club": "Swansea City",
+      "eafc26": {
+        "overall": 71,
+        "potential": 79,
+        "pace": 85,
+        "shooting": 64,
+        "passing": 63,
+        "dribbling": 73,
+        "defending": 36,
+        "physicality": 65,
+        "player_id": 260492
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Yang Hyun-jun",
+      "dob": "2002-05-25",
+      "caps": 8,
+      "goals": 0,
+      "club": "Celtic",
+      "eafc26": {
+        "overall": 70,
+        "potential": 79,
+        "pace": 82,
+        "shooting": 64,
+        "passing": 68,
+        "dribbling": 73,
+        "defending": 39,
+        "physicality": 69,
+        "player_id": 260397
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Son Heung-min",
+      "dob": "1992-07-08",
+      "caps": 142,
+      "goals": 54,
+      "club": "Los Angeles FC",
+      "captain": true,
+      "eafc26": {
+        "overall": 85,
+        "potential": 85,
+        "pace": 84,
+        "shooting": 84,
+        "passing": 81,
+        "dribbling": 83,
+        "defending": 42,
+        "physicality": 73,
+        "player_id": 200104
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Cho Gue-sung",
+      "dob": "1998-01-25",
+      "caps": 42,
+      "goals": 10,
+      "club": "Midtjylland",
+      "eafc26": {
+        "overall": 70,
+        "potential": 71,
+        "pace": 75,
+        "shooting": 69,
+        "passing": 52,
+        "dribbling": 66,
+        "defending": 30,
+        "physicality": 77,
+        "player_id": 247686
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Oh Hyeon-gyu",
+      "dob": "2001-04-12",
+      "caps": 26,
+      "goals": 6,
+      "club": "Beşiktaş",
+      "eafc26": {
+        "overall": 71,
+        "potential": 77,
+        "pace": 78,
+        "shooting": 71,
+        "passing": 54,
+        "dribbling": 67,
+        "defending": 43,
+        "physicality": 80,
+        "player_id": 248712
+      }
+    }
+  ]
+}

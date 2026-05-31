@@ -1,0 +1,468 @@
+{
+  "name": "Morocco",
+  "group": "C",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Yassine Bounou",
+      "dob": "1991-04-05",
+      "caps": 89,
+      "goals": 0,
+      "club": "Al-Hilal",
+      "eafc26": {
+        "overall": 82,
+        "potential": 82,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 209981
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Munir Mohamedi",
+      "dob": "1989-05-10",
+      "caps": 51,
+      "goals": 0,
+      "club": "RS Berkane",
+      "eafc26": {
+        "overall": 74,
+        "potential": 74,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 223573
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Ahmed Reda Tagnaouti",
+      "dob": "1996-04-05",
+      "caps": 3,
+      "goals": 0,
+      "club": "AS FAR",
+      "eafc26": {
+        "overall": 70,
+        "potential": 72,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 241777
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Achraf Hakimi",
+      "dob": "1998-11-04",
+      "caps": 95,
+      "goals": 11,
+      "club": "Paris Saint-Germain",
+      "captain": true,
+      "eafc26": {
+        "overall": 89,
+        "potential": 90,
+        "pace": 92,
+        "shooting": 79,
+        "passing": 82,
+        "dribbling": 83,
+        "defending": 82,
+        "physicality": 79,
+        "player_id": 235212
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Nayef Aguerd",
+      "dob": "1996-03-30",
+      "caps": 64,
+      "goals": 2,
+      "club": "Marseille",
+      "eafc26": {
+        "overall": 81,
+        "potential": 82,
+        "pace": 72,
+        "shooting": 50,
+        "passing": 67,
+        "dribbling": 65,
+        "defending": 82,
+        "physicality": 77,
+        "player_id": 244749
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Noussair Mazraoui",
+      "dob": "1997-11-14",
+      "caps": 43,
+      "goals": 2,
+      "club": "Manchester United",
+      "eafc26": {
+        "overall": 80,
+        "potential": 81,
+        "pace": 75,
+        "shooting": 66,
+        "passing": 76,
+        "dribbling": 80,
+        "defending": 77,
+        "physicality": 72,
+        "player_id": 236401
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Youssef Belammari",
+      "dob": "1998-09-20",
+      "caps": 16,
+      "goals": 0,
+      "club": "Al Ahly",
+      "eafc26": {
+        "overall": 73,
+        "potential": 73,
+        "pace": 59,
+        "shooting": 76,
+        "passing": 65,
+        "dribbling": 72,
+        "defending": 37,
+        "physicality": 64,
+        "player_id": 194209
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Anass Salah-Eddine",
+      "dob": "2002-01-18",
+      "caps": 8,
+      "goals": 0,
+      "club": "PSV Eindhoven"
+    },
+    {
+      "pos": "DF",
+      "name": "Chadi Riad",
+      "dob": "2003-06-17",
+      "caps": 4,
+      "goals": 1,
+      "club": "Crystal Palace",
+      "eafc26": {
+        "overall": 72,
+        "potential": 81,
+        "pace": 60,
+        "shooting": 32,
+        "passing": 57,
+        "dribbling": 61,
+        "defending": 71,
+        "physicality": 72,
+        "player_id": 258490
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Issa Diop",
+      "dob": "1997-01-09",
+      "caps": 2,
+      "goals": 0,
+      "club": "Fulham",
+      "eafc26": {
+        "overall": 76,
+        "potential": 79,
+        "pace": 77,
+        "shooting": 69,
+        "passing": 75,
+        "dribbling": 80,
+        "defending": 54,
+        "physicality": 53,
+        "player_id": 244892
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Zakaria El Ouahdi",
+      "dob": "2001-12-31",
+      "caps": 2,
+      "goals": 0,
+      "club": "Genk",
+      "eafc26": {
+        "overall": 76,
+        "potential": 83,
+        "pace": 73,
+        "shooting": 66,
+        "passing": 70,
+        "dribbling": 77,
+        "defending": 69,
+        "physicality": 71,
+        "player_id": 275353
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Redouane Halhal",
+      "dob": "2003-03-05",
+      "caps": 1,
+      "goals": 0,
+      "club": "Mechelen",
+      "eafc26": {
+        "overall": 63,
+        "potential": 73,
+        "pace": 59,
+        "shooting": 30,
+        "passing": 44,
+        "dribbling": 48,
+        "defending": 64,
+        "physicality": 65,
+        "player_id": 264657
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Sofyan Amrabat",
+      "dob": "1996-08-21",
+      "caps": 73,
+      "goals": 0,
+      "club": "Real Betis",
+      "eafc26": {
+        "overall": 78,
+        "potential": 78,
+        "pace": 61,
+        "shooting": 70,
+        "passing": 73,
+        "dribbling": 74,
+        "defending": 75,
+        "physicality": 82,
+        "player_id": 224158
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Azzedine Ounahi",
+      "dob": "2000-04-19",
+      "caps": 47,
+      "goals": 9,
+      "club": "Girona",
+      "eafc26": {
+        "overall": 76,
+        "potential": 81,
+        "pace": 64,
+        "shooting": 66,
+        "passing": 73,
+        "dribbling": 77,
+        "defending": 63,
+        "physicality": 67,
+        "player_id": 255125
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Bilal El Khannouss",
+      "dob": "2004-05-10",
+      "caps": 35,
+      "goals": 3,
+      "club": "VfB Stuttgart",
+      "eafc26": {
+        "overall": 76,
+        "potential": 84,
+        "pace": 76,
+        "shooting": 64,
+        "passing": 76,
+        "dribbling": 82,
+        "defending": 38,
+        "physicality": 56,
+        "player_id": 257504
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Ismael Saibari",
+      "dob": "2001-01-28",
+      "caps": 28,
+      "goals": 7,
+      "club": "PSV Eindhoven",
+      "eafc26": {
+        "overall": 79,
+        "potential": 84,
+        "pace": 78,
+        "shooting": 75,
+        "passing": 74,
+        "dribbling": 82,
+        "defending": 51,
+        "physicality": 78,
+        "player_id": 259480
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Neil El Aynaoui",
+      "dob": "2001-07-02",
+      "caps": 15,
+      "goals": 2,
+      "club": "Roma",
+      "eafc26": {
+        "overall": 77,
+        "potential": 83,
+        "pace": 62,
+        "shooting": 63,
+        "passing": 76,
+        "dribbling": 74,
+        "defending": 73,
+        "physicality": 75,
+        "player_id": 262745
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Samir El Mourabet",
+      "dob": "2006-08-06",
+      "caps": 2,
+      "goals": 0,
+      "club": "Strasbourg",
+      "eafc26": {
+        "overall": 66,
+        "potential": 77,
+        "pace": 57,
+        "shooting": 51,
+        "passing": 63,
+        "dribbling": 64,
+        "defending": 59,
+        "physicality": 61,
+        "player_id": 279702
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Ayyoub Bouaddi",
+      "dob": "2007-10-02",
+      "caps": 1,
+      "goals": 0,
+      "club": "Lille"
+    },
+    {
+      "pos": "FW",
+      "name": "Ayoub El Kaabi",
+      "dob": "1993-06-25",
+      "caps": 69,
+      "goals": 34,
+      "club": "Olympiacos",
+      "eafc26": {
+        "overall": 80,
+        "potential": 80,
+        "pace": 82,
+        "shooting": 82,
+        "passing": 62,
+        "dribbling": 75,
+        "defending": 46,
+        "physicality": 77,
+        "player_id": 243586
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Soufiane Rahimi",
+      "dob": "1996-06-02",
+      "caps": 35,
+      "goals": 11,
+      "club": "Al Ain",
+      "eafc26": {
+        "overall": 78,
+        "potential": 78,
+        "pace": 85,
+        "shooting": 76,
+        "passing": 72,
+        "dribbling": 77,
+        "defending": 38,
+        "physicality": 66,
+        "player_id": 264348
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Abde Ezzalzouli",
+      "dob": "2001-12-17",
+      "caps": 35,
+      "goals": 2,
+      "club": "Real Betis",
+      "eafc26": {
+        "overall": 77,
+        "potential": 83,
+        "pace": 87,
+        "shooting": 69,
+        "passing": 70,
+        "dribbling": 81,
+        "defending": 29,
+        "physicality": 63,
+        "player_id": 264432
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Brahim Díaz",
+      "dob": "1999-08-03",
+      "caps": 24,
+      "goals": 13,
+      "club": "Real Madrid",
+      "eafc26": {
+        "overall": 82,
+        "potential": 83,
+        "pace": 82,
+        "shooting": 74,
+        "passing": 79,
+        "dribbling": 85,
+        "defending": 31,
+        "physicality": 58,
+        "player_id": 231410
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Chemsdine Talbi",
+      "dob": "2005-05-09",
+      "caps": 5,
+      "goals": 0,
+      "club": "Sunderland",
+      "eafc26": {
+        "overall": 73,
+        "potential": 86,
+        "pace": 90,
+        "shooting": 59,
+        "passing": 64,
+        "dribbling": 79,
+        "defending": 47,
+        "physicality": 57,
+        "player_id": 275048
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Gessime Yassine",
+      "dob": "2005-11-22",
+      "caps": 3,
+      "goals": 0,
+      "club": "Strasbourg"
+    },
+    {
+      "pos": "FW",
+      "name": "Ayoube Amaimouni",
+      "dob": "2004-11-30",
+      "caps": 0,
+      "goals": 0,
+      "club": "Eintracht Frankfurt",
+      "eafc26": {
+        "overall": 63,
+        "potential": 72,
+        "pace": 71,
+        "shooting": 65,
+        "passing": 57,
+        "dribbling": 68,
+        "defending": 21,
+        "physicality": 50,
+        "player_id": 78474
+      }
+    }
+  ]
+}

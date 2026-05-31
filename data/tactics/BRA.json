@@ -1,0 +1,282 @@
+{
+  "name": "Brazil",
+  "code": "BRA",
+  "matches_analyzed": 9,
+  "formations": {
+    "4-3-3": 4,
+    "4-4-1-1": 8,
+    "4-2-3-1": 10,
+    "4-4-2": 4
+  },
+  "primary_formation": "4-2-3-1",
+  "top_starters": [
+    "Alisson Ramsés Becker",
+    "Éder Gabriel Militão",
+    "Marcos Aoás Corrêa",
+    "Lucas Tolentino Coelho de Lima",
+    "Raphael Dias Belloli",
+    "Vinícius José Paixão de Oliveira Júnior",
+    "Danilo Luiz da Silva",
+    "Rodrygo Silva de Goes",
+    "Thiago Emiliano da Silva",
+    "Carlos Henrique Casimiro",
+    "Richarlison de Andrade",
+    "João Victor Gomes da Silva",
+    "Bruno Guimarães Rodriguez Moura",
+    "Neymar da Silva Santos Junior",
+    "Alex Sandro Lobo Silva"
+  ],
+  "top_subs": [
+    "Rodrygo Silva de Goes",
+    "Gabriel Teodoro Martinelli Silva",
+    "Antony Matheus dos Santos",
+    "Andreas Hoelgebaum Pereira",
+    "Sávio Moreira de Oliveira",
+    "Endrick Felipe Moreira de Sousa",
+    "Douglas Luiz Soares de Paulo",
+    "Bruno Guimarães Rodriguez Moura"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857269,
+      "opponent": "Switzerland",
+      "score": "1-0",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Alisson Ramsés Becker",
+        "Éder Gabriel Militão",
+        "Marcos Aoás Corrêa",
+        "Thiago Emiliano da Silva",
+        "Alex Sandro Lobo Silva",
+        "Carlos Henrique Casimiro",
+        "Frederico Rodrigues Santos",
+        "Lucas Tolentino Coelho de Lima",
+        "Raphael Dias Belloli",
+        "Vinícius José Paixão de Oliveira Júnior",
+        "Richarlison de Andrade"
+      ],
+      "subs_in": [
+        "Rodrygo Silva de Goes",
+        "Bruno Guimarães Rodriguez Moura",
+        "Gabriel Fernando de Jesus",
+        "Antony Matheus dos Santos",
+        "Alex Nicolao Telles"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857258,
+      "opponent": "Serbia",
+      "score": "2-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Alisson Ramsés Becker",
+        "Danilo Luiz da Silva",
+        "Marcos Aoás Corrêa",
+        "Thiago Emiliano da Silva",
+        "Alex Sandro Lobo Silva",
+        "Lucas Tolentino Coelho de Lima",
+        "Carlos Henrique Casimiro",
+        "Raphael Dias Belloli",
+        "Neymar da Silva Santos Junior",
+        "Vinícius José Paixão de Oliveira Júnior",
+        "Richarlison de Andrade"
+      ],
+      "subs_in": [
+        "Frederico Rodrigues Santos",
+        "Rodrygo Silva de Goes",
+        "Gabriel Fernando de Jesus",
+        "Antony Matheus dos Santos",
+        "Gabriel Teodoro Martinelli Silva"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869420,
+      "opponent": "Croatia",
+      "score": "1-1",
+      "formation": "4-4-1-1",
+      "starting_xi": [
+        "Alisson Ramsés Becker",
+        "Éder Gabriel Militão",
+        "Marcos Aoás Corrêa",
+        "Thiago Emiliano da Silva",
+        "Danilo Luiz da Silva",
+        "Lucas Tolentino Coelho de Lima",
+        "Carlos Henrique Casimiro",
+        "Raphael Dias Belloli",
+        "Vinícius José Paixão de Oliveira Júnior",
+        "Neymar da Silva Santos Junior",
+        "Richarlison de Andrade"
+      ],
+      "subs_in": [
+        "Antony Matheus dos Santos",
+        "Rodrygo Silva de Goes",
+        "Pedro Guilherme Abreu dos Santos",
+        "Frederico Rodrigues Santos",
+        "Alex Sandro Lobo Silva"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869253,
+      "opponent": "South Korea",
+      "score": "4-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Alisson Ramsés Becker",
+        "Éder Gabriel Militão",
+        "Marcos Aoás Corrêa",
+        "Thiago Emiliano da Silva",
+        "Danilo Luiz da Silva",
+        "Lucas Tolentino Coelho de Lima",
+        "Carlos Henrique Casimiro",
+        "Raphael Dias Belloli",
+        "Neymar da Silva Santos Junior",
+        "Vinícius José Paixão de Oliveira Júnior",
+        "Richarlison de Andrade"
+      ],
+      "subs_in": [
+        "Daniel Alves da Silva",
+        "Gleison Bremer Silva Nascimento",
+        "Gabriel Teodoro Martinelli Silva",
+        "Weverton Pereira da Silva",
+        "Rodrygo Silva de Goes"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857280,
+      "opponent": "Cameroon",
+      "score": "0-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Ederson Santana de Moraes",
+        "Daniel Alves da Silva",
+        "Éder Gabriel Militão",
+        "Gleison Bremer Silva Nascimento",
+        "Alex Nicolao Telles",
+        "Frederico Rodrigues Santos",
+        "Fábio Henrique Tavares",
+        "Antony Matheus dos Santos",
+        "Rodrygo Silva de Goes",
+        "Gabriel Teodoro Martinelli Silva",
+        "Gabriel Fernando de Jesus"
+      ],
+      "subs_in": [
+        "Marcos Aoás Corrêa",
+        "Bruno Guimarães Rodriguez Moura",
+        "Éverton Augusto de Barros Ribeiro",
+        "Pedro Guilherme Abreu dos Santos",
+        "Raphael Dias Belloli"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939991,
+      "opponent": "Colombia",
+      "score": "1-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Alisson Ramsés Becker",
+        "Danilo Luiz da Silva",
+        "Éder Gabriel Militão",
+        "Marcos Aoás Corrêa",
+        "Wendell Nascimento Borges",
+        "João Victor Gomes da Silva",
+        "Bruno Guimarães Rodriguez Moura",
+        "Raphael Dias Belloli",
+        "Lucas Tolentino Coelho de Lima",
+        "Vinícius José Paixão de Oliveira Júnior",
+        "Rodrygo Silva de Goes"
+      ],
+      "subs_in": [
+        "Andreas Hoelgebaum Pereira",
+        "Éderson José dos Santos Lourenço da Silva",
+        "Sávio Moreira de Oliveira",
+        "Endrick Felipe Moreira de Sousa",
+        "Douglas Luiz Soares de Paulo"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939983,
+      "opponent": "Paraguay",
+      "score": "4-1",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Alisson Ramsés Becker",
+        "Danilo Luiz da Silva",
+        "Éder Gabriel Militão",
+        "Marcos Aoás Corrêa",
+        "Wendell Nascimento Borges",
+        "Bruno Guimarães Rodriguez Moura",
+        "João Victor Gomes da Silva",
+        "Sávio Moreira de Oliveira",
+        "Lucas Tolentino Coelho de Lima",
+        "Rodrygo Silva de Goes",
+        "Vinícius José Paixão de Oliveira Júnior"
+      ],
+      "subs_in": [
+        "Raphael Dias Belloli",
+        "Douglas Luiz Soares de Paulo",
+        "Endrick Felipe Moreira de Sousa",
+        "Andreas Hoelgebaum Pereira",
+        "Gabriel dos Santos Magalhães"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939976,
+      "opponent": "Costa Rica",
+      "score": "0-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Alisson Ramsés Becker",
+        "Danilo Luiz da Silva",
+        "Éder Gabriel Militão",
+        "Marcos Aoás Corrêa",
+        "Guilherme Antonio Arana Lopes",
+        "Bruno Guimarães Rodriguez Moura",
+        "João Victor Gomes da Silva",
+        "Raphael Dias Belloli",
+        "Lucas Tolentino Coelho de Lima",
+        "Vinícius José Paixão de Oliveira Júnior",
+        "Rodrygo Silva de Goes"
+      ],
+      "subs_in": [
+        "Sávio Moreira de Oliveira",
+        "Endrick Felipe Moreira de Sousa",
+        "Gabriel Teodoro Martinelli Silva"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3942415,
+      "opponent": "Uruguay",
+      "score": "0-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Alisson Ramsés Becker",
+        "Danilo Luiz da Silva",
+        "Éder Gabriel Militão",
+        "Marcos Aoás Corrêa",
+        "Guilherme Antonio Arana Lopes",
+        "Bruno Guimarães Rodriguez Moura",
+        "João Victor Gomes da Silva",
+        "Raphael Dias Belloli",
+        "Lucas Tolentino Coelho de Lima",
+        "Rodrygo Silva de Goes",
+        "Endrick Felipe Moreira de Sousa"
+      ],
+      "subs_in": [
+        "Douglas Luiz Soares de Paulo",
+        "Andreas Hoelgebaum Pereira",
+        "Sávio Moreira de Oliveira",
+        "Gabriel Teodoro Martinelli Silva",
+        "Francisco Evanilson de Lima Barbosa"
+      ]
+    }
+  ]
+}

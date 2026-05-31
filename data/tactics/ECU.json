@@ -1,0 +1,223 @@
+{
+  "name": "Ecuador",
+  "code": "ECU",
+  "matches_analyzed": 7,
+  "formations": {
+    "3-4-2-1": 2,
+    "4-3-3": 1,
+    "4-4-2": 4,
+    "4-2-3-1": 11
+  },
+  "primary_formation": "4-2-3-1",
+  "top_starters": [
+    "Felix Eduardo Torres Caicedo",
+    "Piero Martín Hincapié Reyna",
+    "Angelo Smit Preciado Quiñónez",
+    "Moisés Isaac Caicedo Corozo",
+    "Enner Remberto Valencia Lastra",
+    "Alan Steven Franco Palma",
+    "Alexander Domínguez Carabalí",
+    "Willian Joel Pacho Tenorio",
+    "Ray Kendry Páez Andrade",
+    "Jeremy Leonel Sarmiento Morante",
+    "Hernán Ismael Galíndez",
+    "Pervis Josué Estupiñán Tenorio",
+    "Gonzalo Jordy Plata Jiménez",
+    "Michael Steveen Estrada Martínez",
+    "Jhegson Sebastián Méndez Carabalí"
+  ],
+  "top_subs": [
+    "Kevin José Rodríguez Cortez",
+    "Alan Steve Minda García",
+    "Jeremy Leonel Sarmiento Morante",
+    "Jordy Josué Caicedo Medina",
+    "Carlos Armando Gruezo Arboleda",
+    "José Adoni Cifuentes Charcopa",
+    "Ángel Israel Mena Delgado",
+    "Romario Andrés Ibarra Mina"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857274,
+      "opponent": "Netherlands",
+      "score": "1-1",
+      "formation": "3-4-2-1",
+      "starting_xi": [
+        "Hernán Ismael Galíndez",
+        "Jackson Gabriel Porozo Vernaza",
+        "Felix Eduardo Torres Caicedo",
+        "Piero Martín Hincapié Reyna",
+        "Angelo Smit Preciado Quiñónez",
+        "Pervis Josué Estupiñán Tenorio",
+        "Jhegson Sebastián Méndez Carabalí",
+        "Moisés Isaac Caicedo Corozo",
+        "Gonzalo Jordy Plata Jiménez",
+        "Enner Remberto Valencia Lastra",
+        "Michael Steveen Estrada Martínez"
+      ],
+      "subs_in": [
+        "Jeremy Leonel Sarmiento Morante",
+        "Kevin José Rodríguez Cortez",
+        "Romario Andrés Ibarra Mina"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857267,
+      "opponent": "Senegal",
+      "score": "1-2",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Hernán Ismael Galíndez",
+        "Angelo Smit Preciado Quiñónez",
+        "Felix Eduardo Torres Caicedo",
+        "Piero Martín Hincapié Reyna",
+        "Pervis Josué Estupiñán Tenorio",
+        "Carlos Armando Gruezo Arboleda",
+        "Alan Steven Franco Palma",
+        "Moisés Isaac Caicedo Corozo",
+        "Gonzalo Jordy Plata Jiménez",
+        "Enner Remberto Valencia Lastra",
+        "Michael Steveen Estrada Martínez"
+      ],
+      "subs_in": [
+        "José Adoni Cifuentes Charcopa",
+        "Jeremy Leonel Sarmiento Morante",
+        "Djorkaeff Neicer Reasco González",
+        "Jackson Gabriel Porozo Vernaza"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857286,
+      "opponent": "Qatar",
+      "score": "2-0",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Hernán Ismael Galíndez",
+        "Angelo Smit Preciado Quiñónez",
+        "Felix Eduardo Torres Caicedo",
+        "Piero Martín Hincapié Reyna",
+        "Pervis Josué Estupiñán Tenorio",
+        "Jhegson Sebastián Méndez Carabalí",
+        "Moisés Isaac Caicedo Corozo",
+        "Gonzalo Jordy Plata Jiménez",
+        "Romario Andrés Ibarra Mina",
+        "Enner Remberto Valencia Lastra",
+        "Michael Steveen Estrada Martínez"
+      ],
+      "subs_in": [
+        "Jeremy Leonel Sarmiento Morante",
+        "José Adoni Cifuentes Charcopa",
+        "Kevin José Rodríguez Cortez",
+        "Alan Steven Franco Palma"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939980,
+      "opponent": "Jamaica",
+      "score": "3-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Alexander Domínguez Carabalí",
+        "Angelo Smit Preciado Quiñónez",
+        "Felix Eduardo Torres Caicedo",
+        "Willian Joel Pacho Tenorio",
+        "Piero Martín Hincapié Reyna",
+        "Alan Steven Franco Palma",
+        "Moisés Isaac Caicedo Corozo",
+        "John Yeboah Zamora",
+        "Ray Kendry Páez Andrade",
+        "Jeremy Leonel Sarmiento Morante",
+        "Kevin José Rodríguez Cortez"
+      ],
+      "subs_in": [
+        "Alan Steve Minda García",
+        "Jordy Josué Caicedo Medina",
+        "Carlos Armando Gruezo Arboleda",
+        "Janner Hitcler Corozo Alman"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939988,
+      "opponent": "Mexico",
+      "score": "0-0",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Alexander Domínguez Carabalí",
+        "Angelo Smit Preciado Quiñónez",
+        "Felix Eduardo Torres Caicedo",
+        "Willian Joel Pacho Tenorio",
+        "Piero Martín Hincapié Reyna",
+        "Alan Steven Franco Palma",
+        "Moisés Isaac Caicedo Corozo",
+        "Ray Kendry Páez Andrade",
+        "Jeremy Leonel Sarmiento Morante",
+        "Kevin José Rodríguez Cortez",
+        "Enner Remberto Valencia Lastra"
+      ],
+      "subs_in": [
+        "Alan Steve Minda García",
+        "Ángel Israel Mena Delgado",
+        "Carlos Armando Gruezo Arboleda",
+        "José Andrés Hurtado Cheme"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939972,
+      "opponent": "Venezuela",
+      "score": "1-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Alexander Domínguez Carabalí",
+        "Angelo Smit Preciado Quiñónez",
+        "Felix Eduardo Torres Caicedo",
+        "Willian Joel Pacho Tenorio",
+        "Piero Martín Hincapié Reyna",
+        "Moisés Isaac Caicedo Corozo",
+        "Alan Steven Franco Palma",
+        "John Yeboah Zamora",
+        "Ray Kendry Páez Andrade",
+        "Jeremy Leonel Sarmiento Morante",
+        "Enner Remberto Valencia Lastra"
+      ],
+      "subs_in": [
+        "Kevin José Rodríguez Cortez",
+        "Carlos Armando Gruezo Arboleda",
+        "Alan Steve Minda García",
+        "Jordy Josué Caicedo Medina"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3942228,
+      "opponent": "Argentina",
+      "score": "1-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Alexander Domínguez Carabalí",
+        "Angelo Smit Preciado Quiñónez",
+        "Felix Eduardo Torres Caicedo",
+        "Willian Joel Pacho Tenorio",
+        "Piero Martín Hincapié Reyna",
+        "Carlos Armando Gruezo Arboleda",
+        "Alan Steven Franco Palma",
+        "Ray Kendry Páez Andrade",
+        "Moisés Isaac Caicedo Corozo",
+        "Jeremy Leonel Sarmiento Morante",
+        "Enner Remberto Valencia Lastra"
+      ],
+      "subs_in": [
+        "Alan Steve Minda García",
+        "Kevin José Rodríguez Cortez",
+        "John Yeboah Zamora",
+        "Ángel Israel Mena Delgado",
+        "Jordy Josué Caicedo Medina"
+      ]
+    }
+  ]
+}

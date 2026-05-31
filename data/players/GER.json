@@ -1,0 +1,482 @@
+{
+  "name": "Germany",
+  "group": "E",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Manuel Neuer",
+      "dob": "1986-03-27",
+      "caps": 124,
+      "goals": 0,
+      "club": "Bayern Munich",
+      "eafc26": {
+        "overall": 84,
+        "potential": 84,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 167495
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Oliver Baumann",
+      "dob": "1990-06-02",
+      "caps": 11,
+      "goals": 0,
+      "club": "TSG Hoffenheim",
+      "eafc26": {
+        "overall": 83,
+        "potential": 83,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 193698
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Alexander Nübel",
+      "dob": "1996-09-30",
+      "caps": 3,
+      "goals": 0,
+      "club": "VfB Stuttgart",
+      "eafc26": {
+        "overall": 81,
+        "potential": 82,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 223885
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Antonio Rüdiger",
+      "dob": "1993-03-03",
+      "caps": 82,
+      "goals": 3,
+      "club": "Real Madrid",
+      "eafc26": {
+        "overall": 86,
+        "potential": 86,
+        "pace": 79,
+        "shooting": 55,
+        "passing": 72,
+        "dribbling": 70,
+        "defending": 84,
+        "physicality": 86,
+        "player_id": 205452
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Jonathan Tah",
+      "dob": "1996-02-11",
+      "caps": 45,
+      "goals": 1,
+      "club": "Bayern Munich",
+      "eafc26": {
+        "overall": 87,
+        "potential": 87,
+        "pace": 63,
+        "shooting": 38,
+        "passing": 60,
+        "dribbling": 63,
+        "defending": 87,
+        "physicality": 86,
+        "player_id": 213331
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "David Raum",
+      "dob": "1998-04-22",
+      "caps": 36,
+      "goals": 1,
+      "club": "RB Leipzig",
+      "eafc26": {
+        "overall": 82,
+        "potential": 83,
+        "pace": 86,
+        "shooting": 61,
+        "passing": 80,
+        "dribbling": 79,
+        "defending": 74,
+        "physicality": 78,
+        "player_id": 236703
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Nico Schlotterbeck",
+      "dob": "1999-12-01",
+      "caps": 25,
+      "goals": 0,
+      "club": "Borussia Dortmund",
+      "eafc26": {
+        "overall": 85,
+        "potential": 88,
+        "pace": 74,
+        "shooting": 60,
+        "passing": 75,
+        "dribbling": 73,
+        "defending": 85,
+        "physicality": 82,
+        "player_id": 247819
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Waldemar Anton",
+      "dob": "1996-07-20",
+      "caps": 12,
+      "goals": 0,
+      "club": "Borussia Dortmund",
+      "eafc26": {
+        "overall": 82,
+        "potential": 82,
+        "pace": 69,
+        "shooting": 47,
+        "passing": 67,
+        "dribbling": 66,
+        "defending": 84,
+        "physicality": 84,
+        "player_id": 229476
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Malick Thiaw",
+      "dob": "2001-08-08",
+      "caps": 5,
+      "goals": 0,
+      "club": "Newcastle United",
+      "eafc26": {
+        "overall": 78,
+        "potential": 84,
+        "pace": 72,
+        "shooting": 47,
+        "passing": 69,
+        "dribbling": 72,
+        "defending": 78,
+        "physicality": 80,
+        "player_id": 256261
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Nathaniel Brown",
+      "dob": "2003-06-16",
+      "caps": 3,
+      "goals": 0,
+      "club": "Eintracht Frankfurt",
+      "eafc26": {
+        "overall": 77,
+        "potential": 85,
+        "pace": 83,
+        "shooting": 53,
+        "passing": 71,
+        "dribbling": 77,
+        "defending": 71,
+        "physicality": 51,
+        "player_id": 269701
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Joshua Kimmich",
+      "dob": "1995-02-08",
+      "caps": 108,
+      "goals": 10,
+      "club": "Bayern Munich",
+      "captain": true,
+      "eafc26": {
+        "overall": 89,
+        "potential": 89,
+        "pace": 72,
+        "shooting": 74,
+        "passing": 89,
+        "dribbling": 84,
+        "defending": 83,
+        "physicality": 79,
+        "player_id": 212622
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Leon Goretzka",
+      "dob": "1995-02-06",
+      "caps": 69,
+      "goals": 15,
+      "club": "Bayern Munich",
+      "eafc26": {
+        "overall": 82,
+        "potential": 82,
+        "pace": 77,
+        "shooting": 78,
+        "passing": 80,
+        "dribbling": 80,
+        "defending": 80,
+        "physicality": 82,
+        "player_id": 209658
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Leroy Sané",
+      "dob": "1996-01-11",
+      "caps": 74,
+      "goals": 16,
+      "club": "Galatasaray",
+      "eafc26": {
+        "overall": 82,
+        "potential": 82,
+        "pace": 87,
+        "shooting": 81,
+        "passing": 78,
+        "dribbling": 85,
+        "defending": 37,
+        "physicality": 68,
+        "player_id": 222492
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Florian Wirtz",
+      "dob": "2003-05-03",
+      "caps": 39,
+      "goals": 10,
+      "club": "Liverpool",
+      "eafc26": {
+        "overall": 89,
+        "potential": 93,
+        "pace": 80,
+        "shooting": 82,
+        "passing": 88,
+        "dribbling": 90,
+        "defending": 54,
+        "physicality": 67,
+        "player_id": 256630
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Jamal Musiala",
+      "dob": "2003-02-26",
+      "caps": 40,
+      "goals": 8,
+      "club": "Bayern Munich",
+      "eafc26": {
+        "overall": 88,
+        "potential": 92,
+        "pace": 80,
+        "shooting": 82,
+        "passing": 80,
+        "dribbling": 90,
+        "defending": 66,
+        "physicality": 65,
+        "player_id": 256790
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Pascal Groß",
+      "dob": "1991-06-15",
+      "caps": 18,
+      "goals": 1,
+      "club": "Brighton & Hove Albion",
+      "eafc26": {
+        "overall": 80,
+        "potential": 80,
+        "pace": 48,
+        "shooting": 75,
+        "passing": 84,
+        "dribbling": 79,
+        "defending": 72,
+        "physicality": 76,
+        "player_id": 190765
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Angelo Stiller",
+      "dob": "2001-04-04",
+      "caps": 7,
+      "goals": 0,
+      "club": "VfB Stuttgart",
+      "eafc26": {
+        "overall": 83,
+        "potential": 87,
+        "pace": 56,
+        "shooting": 58,
+        "passing": 83,
+        "dribbling": 84,
+        "defending": 76,
+        "physicality": 71,
+        "player_id": 250959
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Felix Nmecha",
+      "dob": "2000-10-10",
+      "caps": 6,
+      "goals": 1,
+      "club": "Borussia Dortmund",
+      "eafc26": {
+        "overall": 82,
+        "potential": 86,
+        "pace": 82,
+        "shooting": 74,
+        "passing": 73,
+        "dribbling": 81,
+        "defending": 80,
+        "physicality": 86,
+        "player_id": 246863
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Nadiem Amiri",
+      "dob": "1996-10-27",
+      "caps": 9,
+      "goals": 1,
+      "club": "Mainz 05",
+      "eafc26": {
+        "overall": 81,
+        "potential": 81,
+        "pace": 65,
+        "shooting": 79,
+        "passing": 82,
+        "dribbling": 82,
+        "defending": 62,
+        "physicality": 72,
+        "player_id": 225309
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Aleksandar Pavlović",
+      "dob": "2004-05-03",
+      "caps": 9,
+      "goals": 1,
+      "club": "Bayern Munich",
+      "eafc26": {
+        "overall": 79,
+        "potential": 87,
+        "pace": 62,
+        "shooting": 64,
+        "passing": 79,
+        "dribbling": 78,
+        "defending": 76,
+        "physicality": 71,
+        "player_id": 275298
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Kai Havertz",
+      "dob": "1999-06-11",
+      "caps": 57,
+      "goals": 21,
+      "club": "Arsenal",
+      "eafc26": {
+        "overall": 82,
+        "potential": 84,
+        "pace": 72,
+        "shooting": 79,
+        "passing": 78,
+        "dribbling": 81,
+        "defending": 48,
+        "physicality": 74,
+        "player_id": 235790
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Nick Woltemade",
+      "dob": "2002-02-14",
+      "caps": 10,
+      "goals": 4,
+      "club": "Newcastle United",
+      "eafc26": {
+        "overall": 79,
+        "potential": 84,
+        "pace": 67,
+        "shooting": 78,
+        "passing": 65,
+        "dribbling": 79,
+        "defending": 41,
+        "physicality": 74,
+        "player_id": 254022
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Deniz Undav",
+      "dob": "1996-07-19",
+      "caps": 7,
+      "goals": 4,
+      "club": "VfB Stuttgart",
+      "eafc26": {
+        "overall": 80,
+        "potential": 80,
+        "pace": 66,
+        "shooting": 82,
+        "passing": 74,
+        "dribbling": 80,
+        "defending": 33,
+        "physicality": 77,
+        "player_id": 244176
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Maximilian Beier",
+      "dob": "2002-10-17",
+      "caps": 7,
+      "goals": 0,
+      "club": "Borussia Dortmund",
+      "eafc26": {
+        "overall": 79,
+        "potential": 84,
+        "pace": 86,
+        "shooting": 79,
+        "passing": 68,
+        "dribbling": 80,
+        "defending": 43,
+        "physicality": 62,
+        "player_id": 254117
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Jamie Leweling",
+      "dob": "2001-02-26",
+      "caps": 4,
+      "goals": 1,
+      "club": "VfB Stuttgart",
+      "eafc26": {
+        "overall": 75,
+        "potential": 80,
+        "pace": 83,
+        "shooting": 71,
+        "passing": 65,
+        "dribbling": 78,
+        "defending": 46,
+        "physicality": 72,
+        "player_id": 252448
+      }
+    }
+  ]
+}

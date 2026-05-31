@@ -1,0 +1,377 @@
+{
+  "name": "France",
+  "code": "FRA",
+  "matches_analyzed": 13,
+  "formations": {
+    "4-3-3": 10,
+    "4-2-3-1": 12,
+    "4-4-2": 3,
+    "4-1-2-1-2": 2,
+    "4-4-1-1": 1,
+    "4-1-4-1": 1
+  },
+  "primary_formation": "4-2-3-1",
+  "top_starters": [
+    "Aurélien Djani Tchouaméni",
+    "Jules Koundé",
+    "Dayotchanculle Upamecano",
+    "Theo Bernard François Hernández",
+    "Kylian Mbappé Lottin",
+    "Adrien Rabiot",
+    "Ousmane Dembélé",
+    "Antoine Griezmann",
+    "Raphaël Varane",
+    "Hugo Lloris",
+    "Olivier Giroud",
+    "Mike Maignan",
+    "William Saliba",
+    "N'Golo Kanté",
+    "Ibrahima Konaté"
+  ],
+  "top_subs": [
+    "Youssouf Fofana",
+    "Marcus Thuram",
+    "Kingsley Coman",
+    "Randal Kolo Muani",
+    "Eduardo Camavinga",
+    "Olivier Giroud",
+    "Antoine Griezmann",
+    "Ousmane Dembélé"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857275,
+      "opponent": "Tunisia",
+      "score": "0-1",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Steve Mandanda",
+        "Axel Disasi",
+        "Raphaël Varane",
+        "Ibrahima Konaté",
+        "Eduardo Camavinga",
+        "Aurélien Djani Tchouaméni",
+        "Youssouf Fofana",
+        "Jordan Veretout",
+        "Kingsley Coman",
+        "Mattéo Guendouzi Olié",
+        "Randal Kolo Muani"
+      ],
+      "subs_in": [
+        "William Saliba",
+        "Kylian Mbappé Lottin",
+        "Adrien Rabiot",
+        "Antoine Griezmann",
+        "Ousmane Dembélé"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857266,
+      "opponent": "Denmark",
+      "score": "2-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Hugo Lloris",
+        "Jules Koundé",
+        "Raphaël Varane",
+        "Dayotchanculle Upamecano",
+        "Theo Bernard François Hernández",
+        "Aurélien Djani Tchouaméni",
+        "Adrien Rabiot",
+        "Ousmane Dembélé",
+        "Antoine Griezmann",
+        "Kylian Mbappé Lottin",
+        "Olivier Giroud"
+      ],
+      "subs_in": [
+        "Marcus Thuram",
+        "Ibrahima Konaté",
+        "Kingsley Coman",
+        "Youssouf Fofana"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869685,
+      "opponent": "Argentina",
+      "score": "3-3",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Hugo Lloris",
+        "Jules Koundé",
+        "Raphaël Varane",
+        "Dayotchanculle Upamecano",
+        "Theo Bernard François Hernández",
+        "Aurélien Djani Tchouaméni",
+        "Adrien Rabiot",
+        "Ousmane Dembélé",
+        "Antoine Griezmann",
+        "Kylian Mbappé Lottin",
+        "Olivier Giroud"
+      ],
+      "subs_in": [
+        "Randal Kolo Muani",
+        "Marcus Thuram",
+        "Eduardo Camavinga",
+        "Kingsley Coman",
+        "Youssouf Fofana",
+        "Ibrahima Konaté",
+        "Axel Disasi"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869354,
+      "opponent": "England",
+      "score": "2-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Hugo Lloris",
+        "Jules Koundé",
+        "Raphaël Varane",
+        "Dayotchanculle Upamecano",
+        "Theo Bernard François Hernández",
+        "Aurélien Djani Tchouaméni",
+        "Adrien Rabiot",
+        "Ousmane Dembélé",
+        "Antoine Griezmann",
+        "Kylian Mbappé Lottin",
+        "Olivier Giroud"
+      ],
+      "subs_in": [
+        "Kingsley Coman"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869552,
+      "opponent": "Morocco",
+      "score": "2-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Hugo Lloris",
+        "Jules Koundé",
+        "Raphaël Varane",
+        "Ibrahima Konaté",
+        "Theo Bernard François Hernández",
+        "Aurélien Djani Tchouaméni",
+        "Youssouf Fofana",
+        "Ousmane Dembélé",
+        "Antoine Griezmann",
+        "Kylian Mbappé Lottin",
+        "Olivier Giroud"
+      ],
+      "subs_in": [
+        "Marcus Thuram",
+        "Randal Kolo Muani"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869152,
+      "opponent": "Poland",
+      "score": "3-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Hugo Lloris",
+        "Jules Koundé",
+        "Raphaël Varane",
+        "Dayotchanculle Upamecano",
+        "Theo Bernard François Hernández",
+        "Aurélien Djani Tchouaméni",
+        "Adrien Rabiot",
+        "Ousmane Dembélé",
+        "Antoine Griezmann",
+        "Kylian Mbappé Lottin",
+        "Olivier Giroud"
+      ],
+      "subs_in": [
+        "Youssouf Fofana",
+        "Kingsley Coman",
+        "Marcus Thuram",
+        "Axel Disasi"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857279,
+      "opponent": "Australia",
+      "score": "4-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Hugo Lloris",
+        "Benjamin Pavard",
+        "Ibrahima Konaté",
+        "Dayotchanculle Upamecano",
+        "Lucas Hernández Pi",
+        "Aurélien Djani Tchouaméni",
+        "Adrien Rabiot",
+        "Ousmane Dembélé",
+        "Antoine Griezmann",
+        "Kylian Mbappé Lottin",
+        "Olivier Giroud"
+      ],
+      "subs_in": [
+        "Theo Bernard François Hernández",
+        "Youssouf Fofana",
+        "Kingsley Coman",
+        "Jules Koundé",
+        "Marcus Thuram"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3938643,
+      "opponent": "Poland",
+      "score": "1-1",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Mike Maignan",
+        "Jules Koundé",
+        "Dayotchanculle Upamecano",
+        "William Saliba",
+        "Theo Bernard François Hernández",
+        "Aurélien Djani Tchouaméni",
+        "N'Golo Kanté",
+        "Adrien Rabiot",
+        "Ousmane Dembélé",
+        "Bradley Barcola",
+        "Kylian Mbappé Lottin"
+      ],
+      "subs_in": [
+        "Eduardo Camavinga",
+        "Olivier Giroud",
+        "Antoine Griezmann",
+        "Youssouf Fofana",
+        "Randal Kolo Muani"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3941019,
+      "opponent": "Belgium",
+      "score": "1-0",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Mike Maignan",
+        "Jules Koundé",
+        "Dayotchanculle Upamecano",
+        "William Saliba",
+        "Theo Bernard François Hernández",
+        "Aurélien Djani Tchouaméni",
+        "N'Golo Kanté",
+        "Adrien Rabiot",
+        "Antoine Griezmann",
+        "Kylian Mbappé Lottin",
+        "Marcus Thuram"
+      ],
+      "subs_in": [
+        "Randal Kolo Muani"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3942752,
+      "opponent": "Spain",
+      "score": "1-2",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Mike Maignan",
+        "Jules Koundé",
+        "Dayotchanculle Upamecano",
+        "William Saliba",
+        "Theo Bernard François Hernández",
+        "Aurélien Djani Tchouaméni",
+        "N'Golo Kanté",
+        "Adrien Rabiot",
+        "Ousmane Dembélé",
+        "Kylian Mbappé Lottin",
+        "Randal Kolo Muani"
+      ],
+      "subs_in": [
+        "Eduardo Camavinga",
+        "Bradley Barcola",
+        "Antoine Griezmann",
+        "Olivier Giroud"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3942349,
+      "opponent": "Portugal",
+      "score": "0-0",
+      "formation": "4-1-2-1-2",
+      "starting_xi": [
+        "Mike Maignan",
+        "Jules Koundé",
+        "Dayotchanculle Upamecano",
+        "William Saliba",
+        "Theo Bernard François Hernández",
+        "Aurélien Djani Tchouaméni",
+        "N'Golo Kanté",
+        "Eduardo Camavinga",
+        "Antoine Griezmann",
+        "Randal Kolo Muani",
+        "Kylian Mbappé Lottin"
+      ],
+      "subs_in": [
+        "Ousmane Dembélé",
+        "Marcus Thuram",
+        "Youssouf Fofana",
+        "Bradley Barcola"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930173,
+      "opponent": "Netherlands",
+      "score": "0-0",
+      "formation": "4-4-1-1",
+      "starting_xi": [
+        "Mike Maignan",
+        "Jules Koundé",
+        "Dayotchanculle Upamecano",
+        "William Saliba",
+        "Theo Bernard François Hernández",
+        "N'Golo Kanté",
+        "Aurélien Djani Tchouaméni",
+        "Ousmane Dembélé",
+        "Adrien Rabiot",
+        "Antoine Griezmann",
+        "Marcus Thuram"
+      ],
+      "subs_in": [
+        "Kingsley Coman",
+        "Olivier Giroud"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930165,
+      "opponent": "Austria",
+      "score": "1-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Mike Maignan",
+        "Jules Koundé",
+        "Dayotchanculle Upamecano",
+        "William Saliba",
+        "Theo Bernard François Hernández",
+        "N'Golo Kanté",
+        "Adrien Rabiot",
+        "Ousmane Dembélé",
+        "Antoine Griezmann",
+        "Marcus Thuram",
+        "Kylian Mbappé Lottin"
+      ],
+      "subs_in": [
+        "Randal Kolo Muani",
+        "Eduardo Camavinga",
+        "Olivier Giroud",
+        "Youssouf Fofana"
+      ]
+    }
+  ]
+}

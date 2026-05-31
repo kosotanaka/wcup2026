@@ -1,0 +1,285 @@
+{
+  "name": "Uruguay",
+  "code": "URU",
+  "matches_analyzed": 9,
+  "formations": {
+    "4-3-3": 4,
+    "4-4-2": 5,
+    "3-5-2": 1,
+    "4-2-3-1": 5,
+    "3-4-3": 1,
+    "4-1-4-1": 4,
+    "3-5-1-1": 2
+  },
+  "primary_formation": "4-4-2",
+  "top_starters": [
+    "Sergio Rochet Álvarez",
+    "Federico Santiago Valverde Dipetta",
+    "Darwin Gabriel Núñez Ribeiro",
+    "Mathías Olivera Miramontes",
+    "Facundo Pellistri Rebollo",
+    "Manuel Ugarte Ribeiro",
+    "Maximiliano Javier Araújo Vilches",
+    "José María Giménez de Vargas",
+    "Rodrigo Bentancur Colmán",
+    "Nahitan Michel Nández Acosta",
+    "Matías Nicolás Viña Susperreguy",
+    "Ronald Federico Araújo da Silva",
+    "Diego Nicolás De La Cruz Arcosa",
+    "Diego Roberto Godín Leal",
+    "Matías Vecino Falero"
+  ],
+  "top_subs": [
+    "Giorgian Daniel De Arrascaeta Benedetti",
+    "Luis Alberto Suárez Díaz",
+    "Cristian Gonzalo Olivera Ibarra",
+    "Rodrigo Bentancur Colmán",
+    "Diego Nicolás De La Cruz Arcosa",
+    "Guillermo Varela Olivera",
+    "José María Giménez de Vargas",
+    "Sebastián Enzo Cáceres Ramos"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857287,
+      "opponent": "South Korea",
+      "score": "0-0",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Sergio Rochet Álvarez",
+        "José Martín Cáceres Silva",
+        "Diego Roberto Godín Leal",
+        "José María Giménez de Vargas",
+        "Mathías Olivera Miramontes",
+        "Rodrigo Bentancur Colmán",
+        "Federico Santiago Valverde Dipetta",
+        "Matías Vecino Falero",
+        "Facundo Pellistri Rebollo",
+        "Darwin Gabriel Núñez Ribeiro",
+        "Luis Alberto Suárez Díaz"
+      ],
+      "subs_in": [
+        "Edinson Roberto Cavani Gómez",
+        "Diego Nicolás De La Cruz Arcosa",
+        "Matías Nicolás Viña Susperreguy",
+        "Guillermo Varela Olivera"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857270,
+      "opponent": "Portugal",
+      "score": "0-2",
+      "formation": "3-5-2",
+      "starting_xi": [
+        "Sergio Rochet Álvarez",
+        "José María Giménez de Vargas",
+        "Diego Roberto Godín Leal",
+        "Sebastián Coates Nión",
+        "Guillermo Varela Olivera",
+        "Mathías Olivera Miramontes",
+        "Rodrigo Bentancur Colmán",
+        "Federico Santiago Valverde Dipetta",
+        "Matías Vecino Falero",
+        "Darwin Gabriel Núñez Ribeiro",
+        "Edinson Roberto Cavani Gómez"
+      ],
+      "subs_in": [
+        "Giorgian Daniel De Arrascaeta Benedetti",
+        "Facundo Pellistri Rebollo",
+        "Maximiliano Gómez González",
+        "Luis Alberto Suárez Díaz",
+        "Matías Nicolás Viña Susperreguy"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857293,
+      "opponent": "Ghana",
+      "score": "2-0",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Sergio Rochet Álvarez",
+        "Guillermo Varela Olivera",
+        "José María Giménez de Vargas",
+        "Sebastián Coates Nión",
+        "Mathías Olivera Miramontes",
+        "Federico Santiago Valverde Dipetta",
+        "Rodrigo Bentancur Colmán",
+        "Facundo Pellistri Rebollo",
+        "Giorgian Daniel De Arrascaeta Benedetti",
+        "Luis Alberto Suárez Díaz",
+        "Darwin Gabriel Núñez Ribeiro"
+      ],
+      "subs_in": [
+        "Matías Vecino Falero",
+        "Edinson Roberto Cavani Gómez",
+        "Diego Nicolás De La Cruz Arcosa",
+        "Agustín Canobbio Graviz",
+        "Maximiliano Gómez González"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939982,
+      "opponent": "Bolivia",
+      "score": "5-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Sergio Rochet Álvarez",
+        "Nahitan Michel Nández Acosta",
+        "Ronald Federico Araújo da Silva",
+        "Mathías Olivera Miramontes",
+        "Matías Nicolás Viña Susperreguy",
+        "Manuel Ugarte Ribeiro",
+        "Federico Santiago Valverde Dipetta",
+        "Facundo Pellistri Rebollo",
+        "Diego Nicolás De La Cruz Arcosa",
+        "Maximiliano Javier Araújo Vilches",
+        "Darwin Gabriel Núñez Ribeiro"
+      ],
+      "subs_in": [
+        "Lucas René Olaza Catrofe",
+        "Luis Alberto Suárez Díaz",
+        "Cristian Gonzalo Olivera Ibarra",
+        "Rodrigo Bentancur Colmán",
+        "Giorgian Daniel De Arrascaeta Benedetti"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939990,
+      "opponent": "United States",
+      "score": "1-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Sergio Rochet Álvarez",
+        "Nahitan Michel Nández Acosta",
+        "Ronald Federico Araújo da Silva",
+        "Mathías Olivera Miramontes",
+        "Matías Nicolás Viña Susperreguy",
+        "Federico Santiago Valverde Dipetta",
+        "Manuel Ugarte Ribeiro",
+        "Facundo Pellistri Rebollo",
+        "Diego Nicolás De La Cruz Arcosa",
+        "Maximiliano Javier Araújo Vilches",
+        "Darwin Gabriel Núñez Ribeiro"
+      ],
+      "subs_in": [
+        "Cristian Gonzalo Olivera Ibarra",
+        "José María Giménez de Vargas",
+        "Rodrigo Bentancur Colmán",
+        "Sebastián Enzo Cáceres Ramos",
+        "Luis Alberto Suárez Díaz"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3943076,
+      "opponent": "Canada",
+      "score": "2-2",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Sergio Rochet Álvarez",
+        "Nahitan Michel Nández Acosta",
+        "José María Giménez de Vargas",
+        "Sebastián Enzo Cáceres Ramos",
+        "Matías Nicolás Viña Susperreguy",
+        "Manuel Ugarte Ribeiro",
+        "Rodrigo Bentancur Colmán",
+        "Federico Santiago Valverde Dipetta",
+        "Facundo Pellistri Rebollo",
+        "Maximiliano Javier Araújo Vilches",
+        "Darwin Gabriel Núñez Ribeiro"
+      ],
+      "subs_in": [
+        "Giorgian Daniel De Arrascaeta Benedetti",
+        "Luis Alberto Suárez Díaz",
+        "Paul Brian Rodríguez Bravo",
+        "Cristian Gonzalo Olivera Ibarra",
+        "Lucas René Olaza Catrofe"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3942852,
+      "opponent": "Colombia",
+      "score": "0-1",
+      "formation": "4-1-4-1",
+      "starting_xi": [
+        "Sergio Rochet Álvarez",
+        "Sebastián Enzo Cáceres Ramos",
+        "José María Giménez de Vargas",
+        "Manuel Ugarte Ribeiro",
+        "Mathías Olivera Miramontes",
+        "Rodrigo Bentancur Colmán",
+        "Facundo Pellistri Rebollo",
+        "Federico Santiago Valverde Dipetta",
+        "Diego Nicolás De La Cruz Arcosa",
+        "Maximiliano Javier Araújo Vilches",
+        "Darwin Gabriel Núñez Ribeiro"
+      ],
+      "subs_in": [
+        "Guillermo Varela Olivera",
+        "Giorgian Daniel De Arrascaeta Benedetti",
+        "Cristian Gonzalo Olivera Ibarra",
+        "Luis Alberto Suárez Díaz",
+        "Agustín Canobbio Graviz"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3942415,
+      "opponent": "Brazil",
+      "score": "0-0",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Sergio Rochet Álvarez",
+        "Nahitan Michel Nández Acosta",
+        "Ronald Federico Araújo da Silva",
+        "Mathías Olivera Miramontes",
+        "Matías Nicolás Viña Susperreguy",
+        "Manuel Ugarte Ribeiro",
+        "Federico Santiago Valverde Dipetta",
+        "Diego Nicolás De La Cruz Arcosa",
+        "Facundo Pellistri Rebollo",
+        "Maximiliano Javier Araújo Vilches",
+        "Darwin Gabriel Núñez Ribeiro"
+      ],
+      "subs_in": [
+        "José María Giménez de Vargas",
+        "Sebastián Enzo Cáceres Ramos",
+        "Rodrigo Bentancur Colmán",
+        "Guillermo Varela Olivera",
+        "Giorgian Daniel De Arrascaeta Benedetti"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939973,
+      "opponent": "Panama",
+      "score": "3-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Sergio Rochet Álvarez",
+        "Nahitan Michel Nández Acosta",
+        "Ronald Federico Araújo da Silva",
+        "Mathías Olivera Miramontes",
+        "Matías Nicolás Viña Susperreguy",
+        "Federico Santiago Valverde Dipetta",
+        "Manuel Ugarte Ribeiro",
+        "Facundo Pellistri Rebollo",
+        "Giorgian Daniel De Arrascaeta Benedetti",
+        "Maximiliano Javier Araújo Vilches",
+        "Darwin Gabriel Núñez Ribeiro"
+      ],
+      "subs_in": [
+        "José María Giménez de Vargas",
+        "Sebastián Enzo Cáceres Ramos",
+        "Diego Nicolás De La Cruz Arcosa",
+        "Rodrigo Bentancur Colmán"
+      ]
+    }
+  ]
+}

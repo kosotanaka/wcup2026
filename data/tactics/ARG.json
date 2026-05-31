@@ -1,0 +1,395 @@
+{
+  "name": "Argentina",
+  "code": "ARG",
+  "matches_analyzed": 13,
+  "formations": {
+    "3-5-2": 9,
+    "4-3-3": 10,
+    "4-4-2": 16,
+    "3-4-3": 2,
+    "4-1-4-1": 2,
+    "4-1-2-1-2": 1
+  },
+  "primary_formation": "4-4-2",
+  "top_starters": [
+    "Damián Emiliano Martínez",
+    "Rodrigo Javier De Paul",
+    "Lionel Andrés Messi Cuccittini",
+    "Cristian Gabriel Romero",
+    "Alexis Mac Allister",
+    "Nahuel Molina Lucero",
+    "Enzo Fernandez",
+    "Julián Álvarez",
+    "Nicolás Hernán Otamendi",
+    "Nicolás Alejandro Tagliafico",
+    "Ángel Fabián Di María Hernández",
+    "Lisandro Martínez",
+    "Marcos Javier Acuña",
+    "Gonzalo Ariel Montiel",
+    "Lautaro Javier Martínez"
+  ],
+  "top_subs": [
+    "Lautaro Javier Martínez",
+    "Gonzalo Ariel Montiel",
+    "Leandro Daniel Paredes",
+    "Nicolás Alejandro Tagliafico",
+    "Exequiel Alejandro Palacios",
+    "Giovani Lo Celso",
+    "Nicolás Hernán Otamendi",
+    "Germán Alejandro Pezzella"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869321,
+      "opponent": "Netherlands",
+      "score": "2-2",
+      "formation": "3-5-2",
+      "starting_xi": [
+        "Damián Emiliano Martínez",
+        "Cristian Gabriel Romero",
+        "Nicolás Hernán Otamendi",
+        "Lisandro Martínez",
+        "Nahuel Molina Lucero",
+        "Marcos Javier Acuña",
+        "Enzo Fernandez",
+        "Rodrigo Javier De Paul",
+        "Alexis Mac Allister",
+        "Lionel Andrés Messi Cuccittini",
+        "Julián Álvarez"
+      ],
+      "subs_in": [
+        "Leandro Daniel Paredes",
+        "Nicolás Alejandro Tagliafico",
+        "Germán Alejandro Pezzella",
+        "Lautaro Javier Martínez",
+        "Gonzalo Ariel Montiel",
+        "Ángel Fabián Di María Hernández"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869685,
+      "opponent": "France",
+      "score": "3-3",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Damián Emiliano Martínez",
+        "Nahuel Molina Lucero",
+        "Cristian Gabriel Romero",
+        "Nicolás Hernán Otamendi",
+        "Nicolás Alejandro Tagliafico",
+        "Enzo Fernandez",
+        "Rodrigo Javier De Paul",
+        "Alexis Mac Allister",
+        "Lionel Andrés Messi Cuccittini",
+        "Ángel Fabián Di María Hernández",
+        "Julián Álvarez"
+      ],
+      "subs_in": [
+        "Marcos Javier Acuña",
+        "Gonzalo Ariel Montiel",
+        "Leandro Daniel Paredes",
+        "Lautaro Javier Martínez",
+        "Germán Alejandro Pezzella",
+        "Paulo Bruno Exequiel Dybala"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869151,
+      "opponent": "Australia",
+      "score": "2-1",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Damián Emiliano Martínez",
+        "Nahuel Molina Lucero",
+        "Cristian Gabriel Romero",
+        "Nicolás Hernán Otamendi",
+        "Marcos Javier Acuña",
+        "Enzo Fernandez",
+        "Rodrigo Javier De Paul",
+        "Alexis Mac Allister",
+        "Julián Álvarez",
+        "Alejandro Darío Gómez",
+        "Lionel Andrés Messi Cuccittini"
+      ],
+      "subs_in": [
+        "Lisandro Martínez",
+        "Lautaro Javier Martínez",
+        "Nicolás Alejandro Tagliafico",
+        "Exequiel Alejandro Palacios",
+        "Gonzalo Ariel Montiel"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857264,
+      "opponent": "Poland",
+      "score": "2-0",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Damián Emiliano Martínez",
+        "Nahuel Molina Lucero",
+        "Cristian Gabriel Romero",
+        "Nicolás Hernán Otamendi",
+        "Marcos Javier Acuña",
+        "Enzo Fernandez",
+        "Rodrigo Javier De Paul",
+        "Alexis Mac Allister",
+        "Ángel Fabián Di María Hernández",
+        "Julián Álvarez",
+        "Lionel Andrés Messi Cuccittini"
+      ],
+      "subs_in": [
+        "Leandro Daniel Paredes",
+        "Nicolás Alejandro Tagliafico",
+        "Lautaro Javier Martínez",
+        "Germán Alejandro Pezzella",
+        "Thiago Ezequiel Almada"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857289,
+      "opponent": "Mexico",
+      "score": "2-0",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Damián Emiliano Martínez",
+        "Gonzalo Ariel Montiel",
+        "Nicolás Hernán Otamendi",
+        "Lisandro Martínez",
+        "Marcos Javier Acuña",
+        "Rodrigo Javier De Paul",
+        "Guido Rodríguez",
+        "Ángel Fabián Di María Hernández",
+        "Alexis Mac Allister",
+        "Lionel Andrés Messi Cuccittini",
+        "Lautaro Javier Martínez"
+      ],
+      "subs_in": [
+        "Enzo Fernandez",
+        "Julián Álvarez",
+        "Nahuel Molina Lucero",
+        "Exequiel Alejandro Palacios",
+        "Cristian Gabriel Romero"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869519,
+      "opponent": "Croatia",
+      "score": "3-0",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Damián Emiliano Martínez",
+        "Nahuel Molina Lucero",
+        "Cristian Gabriel Romero",
+        "Nicolás Hernán Otamendi",
+        "Nicolás Alejandro Tagliafico",
+        "Leandro Daniel Paredes",
+        "Enzo Fernandez",
+        "Rodrigo Javier De Paul",
+        "Alexis Mac Allister",
+        "Lionel Andrés Messi Cuccittini",
+        "Julián Álvarez"
+      ],
+      "subs_in": [
+        "Lisandro Martínez",
+        "Exequiel Alejandro Palacios",
+        "Paulo Bruno Exequiel Dybala",
+        "Ángel Martín Correa",
+        "Juan Marcos Foyth"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857300,
+      "opponent": "Saudi Arabia",
+      "score": "1-2",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Damián Emiliano Martínez",
+        "Nahuel Molina Lucero",
+        "Cristian Gabriel Romero",
+        "Nicolás Hernán Otamendi",
+        "Nicolás Alejandro Tagliafico",
+        "Rodrigo Javier De Paul",
+        "Leandro Daniel Paredes",
+        "Ángel Fabián Di María Hernández",
+        "Alejandro Darío Gómez",
+        "Lionel Andrés Messi Cuccittini",
+        "Lautaro Javier Martínez"
+      ],
+      "subs_in": [
+        "Lisandro Martínez",
+        "Julián Álvarez",
+        "Enzo Fernandez",
+        "Marcos Javier Acuña"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939977,
+      "opponent": "Chile",
+      "score": "1-0",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Damián Emiliano Martínez",
+        "Nahuel Molina Lucero",
+        "Cristian Gabriel Romero",
+        "Lisandro Martínez",
+        "Nicolás Alejandro Tagliafico",
+        "Alexis Mac Allister",
+        "Enzo Fernandez",
+        "Rodrigo Javier De Paul",
+        "Nicolás Iván González",
+        "Lionel Andrés Messi Cuccittini",
+        "Julián Álvarez"
+      ],
+      "subs_in": [
+        "Giovani Lo Celso",
+        "Lautaro Javier Martínez",
+        "Ángel Fabián Di María Hernández",
+        "Marcos Javier Acuña",
+        "Gonzalo Ariel Montiel"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939986,
+      "opponent": "Peru",
+      "score": "2-0",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Damián Emiliano Martínez",
+        "Gonzalo Ariel Montiel",
+        "Germán Alejandro Pezzella",
+        "Nicolás Hernán Otamendi",
+        "Nicolás Alejandro Tagliafico",
+        "Leandro Daniel Paredes",
+        "Giovani Lo Celso",
+        "Exequiel Alejandro Palacios",
+        "Ángel Fabián Di María Hernández",
+        "Alejandro Garnacho Ferreyra",
+        "Lautaro Javier Martínez"
+      ],
+      "subs_in": [
+        "Nicolás Iván González",
+        "Enzo Fernandez",
+        "Valentin Carboni",
+        "Guido Rodríguez",
+        "Lucas Martínez Quarta"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3943077,
+      "opponent": "Colombia",
+      "score": "1-0",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Damián Emiliano Martínez",
+        "Gonzalo Ariel Montiel",
+        "Cristian Gabriel Romero",
+        "Lisandro Martínez",
+        "Nicolás Alejandro Tagliafico",
+        "Rodrigo Javier De Paul",
+        "Enzo Fernandez",
+        "Ángel Fabián Di María Hernández",
+        "Alexis Mac Allister",
+        "Lionel Andrés Messi Cuccittini",
+        "Julián Álvarez"
+      ],
+      "subs_in": [
+        "Nicolás Iván González",
+        "Nahuel Molina Lucero",
+        "Lautaro Javier Martínez",
+        "Leandro Daniel Paredes",
+        "Giovani Lo Celso",
+        "Nicolás Hernán Otamendi"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3942785,
+      "opponent": "Canada",
+      "score": "2-0",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Damián Emiliano Martínez",
+        "Gonzalo Ariel Montiel",
+        "Cristian Gabriel Romero",
+        "Lisandro Martínez",
+        "Nicolás Alejandro Tagliafico",
+        "Rodrigo Javier De Paul",
+        "Enzo Fernandez",
+        "Ángel Fabián Di María Hernández",
+        "Alexis Mac Allister",
+        "Lionel Andrés Messi Cuccittini",
+        "Julián Álvarez"
+      ],
+      "subs_in": [
+        "Nicolás Hernán Otamendi",
+        "Nahuel Molina Lucero",
+        "Lautaro Javier Martínez",
+        "Exequiel Alejandro Palacios",
+        "Nicolás Iván González"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3942228,
+      "opponent": "Ecuador",
+      "score": "1-1",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Damián Emiliano Martínez",
+        "Nahuel Molina Lucero",
+        "Cristian Gabriel Romero",
+        "Lisandro Martínez",
+        "Nicolás Alejandro Tagliafico",
+        "Alexis Mac Allister",
+        "Enzo Fernandez",
+        "Rodrigo Javier De Paul",
+        "Nicolás Iván González",
+        "Lionel Andrés Messi Cuccittini",
+        "Lautaro Javier Martínez"
+      ],
+      "subs_in": [
+        "Julián Álvarez",
+        "Giovani Lo Celso",
+        "Nicolás Hernán Otamendi",
+        "Gonzalo Ariel Montiel"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939969,
+      "opponent": "Canada",
+      "score": "2-0",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Damián Emiliano Martínez",
+        "Nahuel Molina Lucero",
+        "Cristian Gabriel Romero",
+        "Lisandro Martínez",
+        "Marcos Javier Acuña",
+        "Rodrigo Javier De Paul",
+        "Leandro Daniel Paredes",
+        "Ángel Fabián Di María Hernández",
+        "Alexis Mac Allister",
+        "Lionel Andrés Messi Cuccittini",
+        "Julián Álvarez"
+      ],
+      "subs_in": [
+        "Giovani Lo Celso",
+        "Nicolás Hernán Otamendi",
+        "Lautaro Javier Martínez",
+        "Gonzalo Ariel Montiel",
+        "Nicolás Alejandro Tagliafico"
+      ]
+    }
+  ]
+}

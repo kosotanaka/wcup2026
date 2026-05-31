@@ -1,0 +1,312 @@
+{
+  "name": "Portugal",
+  "code": "POR",
+  "matches_analyzed": 10,
+  "formations": {
+    "4-3-3": 12,
+    "4-2-3-1": 11,
+    "4-1-2-1-2": 1,
+    "3-4-1-2": 3,
+    "3-4-2-1": 3,
+    "4-4-1-1": 2
+  },
+  "primary_formation": "4-3-3",
+  "top_starters": [
+    "Diogo Meireles Costa",
+    "Rúben Santos Gato Alves Dias",
+    "Bernardo Mota Veiga de Carvalho e Silva",
+    "Bruno Miguel Borges Fernandes",
+    "Cristiano Ronaldo dos Santos Aveiro",
+    "Kléper Laveran Lima Ferreira",
+    "João Pedro Cavaco Cancelo",
+    "João Félix Sequeira",
+    "José Diogo Dalot Teixeira",
+    "Nuno Mendes",
+    "Vitor Machado Ferreira",
+    "Rúben Diogo Da Silva Neves",
+    "Rafael Alexandre Conceição Leão",
+    "João Maria Lobo Alves Palhinha Gonçalves",
+    "Raphaël Adelino José Guerreiro"
+  ],
+  "top_subs": [
+    "Rafael Alexandre Conceição Leão",
+    "Rúben Diogo Da Silva Neves",
+    "Nélson Cabral Semedo",
+    "Gonçalo Matias Ramos",
+    "João Maria Lobo Alves Palhinha Gonçalves",
+    "Matheus Luiz Nunes",
+    "Diogo José Teixeira da Silva",
+    "Francisco Fernandes Conceição"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857298,
+      "opponent": "Ghana",
+      "score": "3-2",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Diogo Meireles Costa",
+        "João Pedro Cavaco Cancelo",
+        "Rúben Santos Gato Alves Dias",
+        "Danilo Luís Hélio Pereira",
+        "Raphaël Adelino José Guerreiro",
+        "Rúben Diogo Da Silva Neves",
+        "Bernardo Mota Veiga de Carvalho e Silva",
+        "Otávio Edmilson da Silva Monteiro",
+        "Bruno Miguel Borges Fernandes",
+        "João Félix Sequeira",
+        "Cristiano Ronaldo dos Santos Aveiro"
+      ],
+      "subs_in": [
+        "William Silva de Carvalho",
+        "Rafael Alexandre Conceição Leão",
+        "Gonçalo Matias Ramos",
+        "João Mário Naval da Costa Eduardo",
+        "João Maria Lobo Alves Palhinha Gonçalves"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869486,
+      "opponent": "Morocco",
+      "score": "0-1",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Diogo Meireles Costa",
+        "José Diogo Dalot Teixeira",
+        "Kléper Laveran Lima Ferreira",
+        "Rúben Santos Gato Alves Dias",
+        "Raphaël Adelino José Guerreiro",
+        "Rúben Diogo Da Silva Neves",
+        "Bernardo Mota Veiga de Carvalho e Silva",
+        "Otávio Edmilson da Silva Monteiro",
+        "Bruno Miguel Borges Fernandes",
+        "João Félix Sequeira",
+        "Gonçalo Matias Ramos"
+      ],
+      "subs_in": [
+        "João Pedro Cavaco Cancelo",
+        "Cristiano Ronaldo dos Santos Aveiro",
+        "Rafael Alexandre Conceição Leão",
+        "Vitor Machado Ferreira",
+        "Ricardo Jorge Luz Horta"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869254,
+      "opponent": "Switzerland",
+      "score": "6-1",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Diogo Meireles Costa",
+        "José Diogo Dalot Teixeira",
+        "Kléper Laveran Lima Ferreira",
+        "Rúben Santos Gato Alves Dias",
+        "Raphaël Adelino José Guerreiro",
+        "William Silva de Carvalho",
+        "Bernardo Mota Veiga de Carvalho e Silva",
+        "Otávio Edmilson da Silva Monteiro",
+        "Bruno Miguel Borges Fernandes",
+        "João Félix Sequeira",
+        "Gonçalo Matias Ramos"
+      ],
+      "subs_in": [
+        "Ricardo Jorge Luz Horta",
+        "Cristiano Ronaldo dos Santos Aveiro",
+        "Vitor Machado Ferreira",
+        "Rúben Diogo Da Silva Neves",
+        "Rafael Alexandre Conceição Leão"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857270,
+      "opponent": "Uruguay",
+      "score": "2-0",
+      "formation": "4-1-2-1-2",
+      "starting_xi": [
+        "Diogo Meireles Costa",
+        "João Pedro Cavaco Cancelo",
+        "Kléper Laveran Lima Ferreira",
+        "Rúben Santos Gato Alves Dias",
+        "Nuno Mendes",
+        "Rúben Diogo Da Silva Neves",
+        "Bernardo Mota Veiga de Carvalho e Silva",
+        "William Silva de Carvalho",
+        "Bruno Miguel Borges Fernandes",
+        "Cristiano Ronaldo dos Santos Aveiro",
+        "João Félix Sequeira"
+      ],
+      "subs_in": [
+        "Raphaël Adelino José Guerreiro",
+        "Rafael Alexandre Conceição Leão",
+        "Gonçalo Matias Ramos",
+        "Matheus Luiz Nunes",
+        "João Maria Lobo Alves Palhinha Gonçalves"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857262,
+      "opponent": "South Korea",
+      "score": "1-2",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Diogo Meireles Costa",
+        "José Diogo Dalot Teixeira",
+        "Kléper Laveran Lima Ferreira",
+        "António João Pereira Albuquerque Tavares Silva",
+        "João Pedro Cavaco Cancelo",
+        "Rúben Diogo Da Silva Neves",
+        "Matheus Luiz Nunes",
+        "Vitor Machado Ferreira",
+        "Ricardo Jorge Luz Horta",
+        "João Mário Naval da Costa Eduardo",
+        "Cristiano Ronaldo dos Santos Aveiro"
+      ],
+      "subs_in": [
+        "João Maria Lobo Alves Palhinha Gonçalves",
+        "Rafael Alexandre Conceição Leão",
+        "André Miguel Valente Silva",
+        "William Silva de Carvalho",
+        "Bernardo Mota Veiga de Carvalho e Silva"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930166,
+      "opponent": "Czech Republic",
+      "score": "2-1",
+      "formation": "3-4-1-2",
+      "starting_xi": [
+        "Diogo Meireles Costa",
+        "Rúben Santos Gato Alves Dias",
+        "Kléper Laveran Lima Ferreira",
+        "Nuno Mendes",
+        "José Diogo Dalot Teixeira",
+        "João Pedro Cavaco Cancelo",
+        "Vitor Machado Ferreira",
+        "Bruno Miguel Borges Fernandes",
+        "Bernardo Mota Veiga de Carvalho e Silva",
+        "Cristiano Ronaldo dos Santos Aveiro",
+        "Rafael Alexandre Conceição Leão"
+      ],
+      "subs_in": [
+        "Gonçalo Bernardo Inácio",
+        "Diogo José Teixeira da Silva",
+        "Nélson Cabral Semedo",
+        "Francisco Fernandes Conceição",
+        "Pedro Lomba Neto"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3938644,
+      "opponent": "Georgia",
+      "score": "0-2",
+      "formation": "3-4-2-1",
+      "starting_xi": [
+        "Diogo Meireles Costa",
+        "António João Pereira Albuquerque Tavares Silva",
+        "Danilo Luís Hélio Pereira",
+        "Gonçalo Bernardo Inácio",
+        "José Diogo Dalot Teixeira",
+        "Pedro Lomba Neto",
+        "João Neves",
+        "João Maria Lobo Alves Palhinha Gonçalves",
+        "Francisco Fernandes Conceição",
+        "João Félix Sequeira",
+        "Cristiano Ronaldo dos Santos Aveiro"
+      ],
+      "subs_in": [
+        "Rúben Diogo Da Silva Neves",
+        "Gonçalo Matias Ramos",
+        "Nélson Cabral Semedo",
+        "Diogo José Teixeira da Silva",
+        "Matheus Luiz Nunes"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930174,
+      "opponent": "Turkey",
+      "score": "3-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Diogo Meireles Costa",
+        "João Pedro Cavaco Cancelo",
+        "Rúben Santos Gato Alves Dias",
+        "Kléper Laveran Lima Ferreira",
+        "Nuno Mendes",
+        "Vitor Machado Ferreira",
+        "João Maria Lobo Alves Palhinha Gonçalves",
+        "Bernardo Mota Veiga de Carvalho e Silva",
+        "Bruno Miguel Borges Fernandes",
+        "Rafael Alexandre Conceição Leão",
+        "Cristiano Ronaldo dos Santos Aveiro"
+      ],
+      "subs_in": [
+        "Pedro Lomba Neto",
+        "Rúben Diogo Da Silva Neves",
+        "Nélson Cabral Semedo",
+        "António João Pereira Albuquerque Tavares Silva",
+        "João Neves"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3942349,
+      "opponent": "France",
+      "score": "0-0",
+      "formation": "4-4-1-1",
+      "starting_xi": [
+        "Diogo Meireles Costa",
+        "João Pedro Cavaco Cancelo",
+        "Rúben Santos Gato Alves Dias",
+        "Kléper Laveran Lima Ferreira",
+        "Nuno Mendes",
+        "João Maria Lobo Alves Palhinha Gonçalves",
+        "Vitor Machado Ferreira",
+        "Bernardo Mota Veiga de Carvalho e Silva",
+        "Rafael Alexandre Conceição Leão",
+        "Bruno Miguel Borges Fernandes",
+        "Cristiano Ronaldo dos Santos Aveiro"
+      ],
+      "subs_in": [
+        "Francisco Fernandes Conceição",
+        "Nélson Cabral Semedo",
+        "Rúben Diogo Da Silva Neves",
+        "João Félix Sequeira",
+        "Matheus Luiz Nunes"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3941020,
+      "opponent": "Slovenia",
+      "score": "0-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Diogo Meireles Costa",
+        "João Pedro Cavaco Cancelo",
+        "Rúben Santos Gato Alves Dias",
+        "Kléper Laveran Lima Ferreira",
+        "Nuno Mendes",
+        "Vitor Machado Ferreira",
+        "João Maria Lobo Alves Palhinha Gonçalves",
+        "Bernardo Mota Veiga de Carvalho e Silva",
+        "Bruno Miguel Borges Fernandes",
+        "Rafael Alexandre Conceição Leão",
+        "Cristiano Ronaldo dos Santos Aveiro"
+      ],
+      "subs_in": [
+        "Diogo José Teixeira da Silva",
+        "Francisco Fernandes Conceição",
+        "Rúben Diogo Da Silva Neves",
+        "Nélson Cabral Semedo"
+      ]
+    }
+  ]
+}

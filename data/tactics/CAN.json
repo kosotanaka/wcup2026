@@ -1,0 +1,285 @@
+{
+  "name": "Canada",
+  "code": "CAN",
+  "matches_analyzed": 9,
+  "formations": {
+    "4-4-1-1": 3,
+    "4-4-2": 8,
+    "3-4-2-1": 4,
+    "3-5-2": 2,
+    "3-4-1-2": 1,
+    "4-2-3-1": 6,
+    "3-4-3": 1,
+    "4-5-1": 1
+  },
+  "primary_formation": "4-4-2",
+  "top_starters": [
+    "Alistair Johnston",
+    "Alphonso Davies",
+    "Cyle Larin",
+    "Richie Laryea",
+    "Stephen Antunes Eustáquio",
+    "Jonathan David",
+    "Moise Bombito",
+    "Maxime Crépeau",
+    "Derek Cornelius",
+    "Jonathan Osorio",
+    "Tajon Buchanan",
+    "Ismael Koné",
+    "Jacob Shaffelburg",
+    "Milan Borjan",
+    "Steven de Sousa Vitoria"
+  ],
+  "top_subs": [
+    "Liam Millar",
+    "Jonathan Osorio",
+    "Ismael Koné",
+    "Tanitoluwa Oluwaseyi",
+    "Jonathan David",
+    "Richie Laryea",
+    "Sam Adekugbe",
+    "Kamal Miller"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857276,
+      "opponent": "Morocco",
+      "score": "1-2",
+      "formation": "4-4-1-1",
+      "starting_xi": [
+        "Milan Borjan",
+        "Alistair Johnston",
+        "Steven de Sousa Vitoria",
+        "Kamal Miller",
+        "Sam Adekugbe",
+        "Jonathan Osorio",
+        "Mark Anthony Kaye",
+        "Alphonso Davies",
+        "Tajon Buchanan",
+        "David Junior Hoilett",
+        "Cyle Larin"
+      ],
+      "subs_in": [
+        "Jonathan David",
+        "Atiba Hutchinson",
+        "Ismael Koné",
+        "Richie Laryea",
+        "David Wallace Wotherspoon"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857268,
+      "opponent": "Belgium",
+      "score": "0-1",
+      "formation": "3-4-2-1",
+      "starting_xi": [
+        "Milan Borjan",
+        "Alistair Johnston",
+        "Steven de Sousa Vitoria",
+        "Kamal Miller",
+        "Richie Laryea",
+        "Alphonso Davies",
+        "Atiba Hutchinson",
+        "Stephen Antunes Eustáquio",
+        "Tajon Buchanan",
+        "David Junior Hoilett",
+        "Jonathan David"
+      ],
+      "subs_in": [
+        "Cyle Larin",
+        "Ismael Koné",
+        "Sam Adekugbe",
+        "Liam Millar",
+        "Jonathan Osorio"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857281,
+      "opponent": "Croatia",
+      "score": "1-4",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Milan Borjan",
+        "Alistair Johnston",
+        "Steven de Sousa Vitoria",
+        "Kamal Miller",
+        "Richie Laryea",
+        "Atiba Hutchinson",
+        "Stephen Antunes Eustáquio",
+        "Tajon Buchanan",
+        "Alphonso Davies",
+        "Cyle Larin",
+        "Jonathan David"
+      ],
+      "subs_in": [
+        "Jonathan Osorio",
+        "Ismael Koné",
+        "David Junior Hoilett",
+        "Lucas Daniel Cavallini",
+        "Sam Adekugbe"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939978,
+      "opponent": "Peru",
+      "score": "1-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Maxime Crépeau",
+        "Alistair Johnston",
+        "Moise Bombito",
+        "Derek Cornelius",
+        "Richie Laryea",
+        "Ismael Koné",
+        "Stephen Antunes Eustáquio",
+        "Liam Millar",
+        "Jonathan David",
+        "Alphonso Davies",
+        "Cyle Larin"
+      ],
+      "subs_in": [
+        "Jonathan Osorio",
+        "Kamal Miller",
+        "Jacob Shaffelburg",
+        "Tajon Buchanan",
+        "Tanitoluwa Oluwaseyi"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3943076,
+      "opponent": "Uruguay",
+      "score": "2-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Dayne Tristan St. Clair",
+        "Alistair Johnston",
+        "Luc Rollet De Fougerolles",
+        "Moise Bombito",
+        "Richie Laryea",
+        "Ismael Koné",
+        "Mathieu Choiniere",
+        "Ali Ahmed",
+        "Jonathan Osorio",
+        "Jacob Shaffelburg",
+        "Tanitoluwa Oluwaseyi"
+      ],
+      "subs_in": [
+        "Alphonso Davies",
+        "Jonathan David",
+        "Derek Cornelius",
+        "Liam Millar",
+        "Thelonius Bair"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3942785,
+      "opponent": "Argentina",
+      "score": "0-2",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Maxime Crépeau",
+        "Alistair Johnston",
+        "Moise Bombito",
+        "Derek Cornelius",
+        "Alphonso Davies",
+        "Ismael Koné",
+        "Stephen Antunes Eustáquio",
+        "Richie Laryea",
+        "Jacob Shaffelburg",
+        "Jonathan David",
+        "Cyle Larin"
+      ],
+      "subs_in": [
+        "Liam Millar",
+        "Ali Ahmed",
+        "Tanitoluwa Oluwaseyi",
+        "Jonathan Osorio",
+        "Mathieu Choiniere"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3942229,
+      "opponent": "Venezuela",
+      "score": "1-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Maxime Crépeau",
+        "Alistair Johnston",
+        "Moise Bombito",
+        "Derek Cornelius",
+        "Alphonso Davies",
+        "Jonathan Osorio",
+        "Stephen Antunes Eustáquio",
+        "Richie Laryea",
+        "Jonathan David",
+        "Jacob Shaffelburg",
+        "Cyle Larin"
+      ],
+      "subs_in": [
+        "Liam Millar",
+        "Tanitoluwa Oluwaseyi",
+        "Ali Ahmed",
+        "Ismael Koné"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939985,
+      "opponent": "Chile",
+      "score": "0-0",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Maxime Crépeau",
+        "Alistair Johnston",
+        "Moise Bombito",
+        "Derek Cornelius",
+        "Alphonso Davies",
+        "Jonathan Osorio",
+        "Stephen Antunes Eustáquio",
+        "Richie Laryea",
+        "Jonathan David",
+        "Jacob Shaffelburg",
+        "Cyle Larin"
+      ],
+      "subs_in": [
+        "Liam Millar",
+        "Tanitoluwa Oluwaseyi",
+        "Tajon Buchanan",
+        "Kamal Miller"
+      ]
+    },
+    {
+      "competition": "Copa America 2024",
+      "match_id": 3939969,
+      "opponent": "Argentina",
+      "score": "0-2",
+      "formation": "4-4-2",
+      "starting_xi": [
+        "Maxime Crépeau",
+        "Alistair Johnston",
+        "Moise Bombito",
+        "Derek Cornelius",
+        "Alphonso Davies",
+        "Ismael Koné",
+        "Stephen Antunes Eustáquio",
+        "Tajon Buchanan",
+        "Liam Millar",
+        "Jonathan David",
+        "Cyle Larin"
+      ],
+      "subs_in": [
+        "Jacob Shaffelburg",
+        "Richie Laryea",
+        "Jonathan Osorio",
+        "Jacen Russell-Rowe"
+      ]
+    }
+  ]
+}

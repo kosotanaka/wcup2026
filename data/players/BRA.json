@@ -1,0 +1,446 @@
+{
+  "name": "Brazil",
+  "group": "C",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Alisson",
+      "dob": "1992-10-02",
+      "caps": 76,
+      "goals": 0,
+      "club": "Liverpool",
+      "eafc26": {
+        "overall": 89,
+        "potential": 89,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 212831
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Ederson",
+      "dob": "1993-08-17",
+      "caps": 31,
+      "goals": 0,
+      "club": "Fenerbahçe",
+      "eafc26": {
+        "overall": 85,
+        "potential": 85,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 210257
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Weverton",
+      "dob": "1987-12-13",
+      "caps": 10,
+      "goals": 0,
+      "club": "Grêmio",
+      "eafc26": {
+        "overall": 68,
+        "potential": 74,
+        "pace": 79,
+        "shooting": 57,
+        "passing": 64,
+        "dribbling": 68,
+        "defending": 62,
+        "physicality": 71,
+        "player_id": 276412
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Marquinhos",
+      "dob": "1994-05-14",
+      "caps": 104,
+      "goals": 7,
+      "club": "Paris Saint-Germain",
+      "eafc26": {
+        "overall": 87,
+        "potential": 87,
+        "pace": 78,
+        "shooting": 56,
+        "passing": 75,
+        "dribbling": 74,
+        "defending": 89,
+        "physicality": 80,
+        "player_id": 207865
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Danilo Luiz",
+      "dob": "1991-07-15",
+      "caps": 68,
+      "goals": 1,
+      "club": "Flamengo"
+    },
+    {
+      "pos": "DF",
+      "name": "Alex Sandro",
+      "dob": "1991-01-26",
+      "caps": 43,
+      "goals": 2,
+      "club": "Flamengo",
+      "eafc26": {
+        "overall": 80,
+        "potential": 84,
+        "pace": 66,
+        "shooting": 40,
+        "passing": 63,
+        "dribbling": 59,
+        "defending": 80,
+        "physicality": 81,
+        "player_id": 269493
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Gabriel Magalhães",
+      "dob": "1997-12-19",
+      "caps": 17,
+      "goals": 1,
+      "club": "Arsenal",
+      "eafc26": {
+        "overall": 88,
+        "potential": 88,
+        "pace": 64,
+        "shooting": 44,
+        "passing": 64,
+        "dribbling": 65,
+        "defending": 88,
+        "physicality": 84,
+        "player_id": 232580
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Bremer",
+      "dob": "1997-03-18",
+      "caps": 6,
+      "goals": 1,
+      "club": "Juventus",
+      "eafc26": {
+        "overall": 85,
+        "potential": 86,
+        "pace": 82,
+        "shooting": 50,
+        "passing": 58,
+        "dribbling": 66,
+        "defending": 86,
+        "physicality": 80,
+        "player_id": 239580
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Wesley",
+      "dob": "2003-09-06",
+      "caps": 6,
+      "goals": 0,
+      "club": "Roma",
+      "eafc26": {
+        "overall": 77,
+        "potential": 85,
+        "pace": 89,
+        "shooting": 62,
+        "passing": 70,
+        "dribbling": 78,
+        "defending": 73,
+        "physicality": 76,
+        "player_id": 80170
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Roger Ibañez",
+      "dob": "1998-11-23",
+      "caps": 5,
+      "goals": 0,
+      "club": "Al-Ahli",
+      "eafc26": {
+        "overall": 82,
+        "potential": 84,
+        "pace": 87,
+        "shooting": 32,
+        "passing": 47,
+        "dribbling": 61,
+        "defending": 83,
+        "physicality": 85,
+        "player_id": 247257
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Douglas Santos",
+      "dob": "1994-03-22",
+      "caps": 5,
+      "goals": 0,
+      "club": "Zenit Saint Petersburg"
+    },
+    {
+      "pos": "DF",
+      "name": "Léo Pereira",
+      "dob": "1996-01-31",
+      "caps": 2,
+      "goals": 0,
+      "club": "Flamengo"
+    },
+    {
+      "pos": "MF",
+      "name": "Casemiro",
+      "dob": "1992-02-23",
+      "caps": 84,
+      "goals": 8,
+      "club": "Manchester United",
+      "captain": true,
+      "eafc26": {
+        "overall": 80,
+        "potential": 80,
+        "pace": 36,
+        "shooting": 74,
+        "passing": 76,
+        "dribbling": 69,
+        "defending": 80,
+        "physicality": 76,
+        "player_id": 200145
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Lucas Paquetá",
+      "dob": "1997-08-27",
+      "caps": 61,
+      "goals": 12,
+      "club": "Flamengo",
+      "eafc26": {
+        "overall": 80,
+        "potential": 80,
+        "pace": 68,
+        "shooting": 78,
+        "passing": 78,
+        "dribbling": 84,
+        "defending": 69,
+        "physicality": 75,
+        "player_id": 233927
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Bruno Guimarães",
+      "dob": "1997-11-16",
+      "caps": 41,
+      "goals": 2,
+      "club": "Newcastle United",
+      "eafc26": {
+        "overall": 86,
+        "potential": 87,
+        "pace": 66,
+        "shooting": 75,
+        "passing": 84,
+        "dribbling": 84,
+        "defending": 79,
+        "physicality": 81,
+        "player_id": 247851
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Fabinho",
+      "dob": "1993-10-23",
+      "caps": 31,
+      "goals": 0,
+      "club": "Al-Ittihad",
+      "eafc26": {
+        "overall": 82,
+        "potential": 82,
+        "pace": 53,
+        "shooting": 69,
+        "passing": 78,
+        "dribbling": 77,
+        "defending": 81,
+        "physicality": 80,
+        "player_id": 209499
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Danilo Santos",
+      "dob": "2001-04-29",
+      "caps": 2,
+      "goals": 1,
+      "club": "Botafogo",
+      "eafc26": {
+        "overall": 67,
+        "potential": 70,
+        "pace": 67,
+        "shooting": 42,
+        "passing": 51,
+        "dribbling": 54,
+        "defending": 66,
+        "physicality": 75,
+        "player_id": 235854
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Neymar",
+      "dob": "1992-02-05",
+      "caps": 128,
+      "goals": 79,
+      "club": "Santos"
+    },
+    {
+      "pos": "FW",
+      "name": "Vinícius Júnior",
+      "dob": "2000-07-12",
+      "caps": 47,
+      "goals": 8,
+      "club": "Real Madrid",
+      "eafc26": {
+        "overall": 89,
+        "potential": 92,
+        "pace": 95,
+        "shooting": 84,
+        "passing": 81,
+        "dribbling": 91,
+        "defending": 29,
+        "physicality": 69,
+        "player_id": 238794
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Raphinha",
+      "dob": "1996-12-14",
+      "caps": 37,
+      "goals": 11,
+      "club": "Barcelona",
+      "eafc26": {
+        "overall": 89,
+        "potential": 89,
+        "pace": 91,
+        "shooting": 84,
+        "passing": 85,
+        "dribbling": 87,
+        "defending": 53,
+        "physicality": 75,
+        "player_id": 233419
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Gabriel Martinelli",
+      "dob": "2001-06-18",
+      "caps": 22,
+      "goals": 4,
+      "club": "Arsenal",
+      "eafc26": {
+        "overall": 81,
+        "potential": 84,
+        "pace": 90,
+        "shooting": 77,
+        "passing": 75,
+        "dribbling": 83,
+        "defending": 46,
+        "physicality": 72,
+        "player_id": 251566
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Matheus Cunha",
+      "dob": "1999-05-27",
+      "caps": 21,
+      "goals": 1,
+      "club": "Manchester United",
+      "eafc26": {
+        "overall": 83,
+        "potential": 85,
+        "pace": 77,
+        "shooting": 85,
+        "passing": 79,
+        "dribbling": 84,
+        "defending": 44,
+        "physicality": 75,
+        "player_id": 240243
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Endrick",
+      "dob": "2006-07-21",
+      "caps": 15,
+      "goals": 3,
+      "club": "Lyon",
+      "eafc26": {
+        "overall": 77,
+        "potential": 91,
+        "pace": 87,
+        "shooting": 77,
+        "passing": 62,
+        "dribbling": 78,
+        "defending": 30,
+        "physicality": 68,
+        "player_id": 272505
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Luiz Henrique",
+      "dob": "2001-01-02",
+      "caps": 13,
+      "goals": 2,
+      "club": "Zenit Saint Petersburg",
+      "eafc26": {
+        "overall": 78,
+        "potential": 83,
+        "pace": 90,
+        "shooting": 73,
+        "passing": 71,
+        "dribbling": 77,
+        "defending": 54,
+        "physicality": 77,
+        "player_id": 256632
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Igor Thiago",
+      "dob": "2001-06-26",
+      "caps": 2,
+      "goals": 1,
+      "club": "Brentford",
+      "eafc26": {
+        "overall": 75,
+        "potential": 79,
+        "pace": 66,
+        "shooting": 75,
+        "passing": 54,
+        "dribbling": 69,
+        "defending": 37,
+        "physicality": 78,
+        "player_id": 275771
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Rayan",
+      "dob": "2006-08-03",
+      "caps": 1,
+      "goals": 0,
+      "club": "Bournemouth"
+    }
+  ]
+}

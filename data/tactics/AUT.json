@@ -1,0 +1,147 @@
+{
+  "name": "Austria",
+  "code": "AUT",
+  "matches_analyzed": 4,
+  "formations": {
+    "4-2-3-1": 9,
+    "4-4-2": 1,
+    "4-2-2-2": 2
+  },
+  "primary_formation": "4-2-3-1",
+  "top_starters": [
+    "Patrick Pentz",
+    "Stefan Posch",
+    "Nicolas Seiwald",
+    "Marcel Sabitzer",
+    "Philipp Lienhart",
+    "Philipp Mwene",
+    "Florian Grillitsch",
+    "Christoph Baumgartner",
+    "Konrad Laimer",
+    "Marko Arnautović",
+    "Maximilian Wöber",
+    "Romano Schmid",
+    "Kevin Danso",
+    "Gernot Trauner",
+    "Alexander Prass"
+  ],
+  "top_subs": [
+    "Alexander Prass",
+    "Michael Gregoritsch",
+    "Patrick Wimmer",
+    "Romano Schmid",
+    "Kevin Danso",
+    "Leopold Querfeld",
+    "Christoph Baumgartner",
+    "Konrad Laimer"
+  ],
+  "matches": [
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3938641,
+      "opponent": "Poland",
+      "score": "3-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Patrick Pentz",
+        "Stefan Posch",
+        "Gernot Trauner",
+        "Philipp Lienhart",
+        "Philipp Mwene",
+        "Nicolas Seiwald",
+        "Florian Grillitsch",
+        "Christoph Baumgartner",
+        "Konrad Laimer",
+        "Marcel Sabitzer",
+        "Marko Arnautović"
+      ],
+      "subs_in": [
+        "Patrick Wimmer",
+        "Kevin Danso",
+        "Alexander Prass",
+        "Romano Schmid",
+        "Michael Gregoritsch"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930180,
+      "opponent": "Netherlands",
+      "score": "3-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Patrick Pentz",
+        "Stefan Posch",
+        "Philipp Lienhart",
+        "Maximilian Wöber",
+        "Alexander Prass",
+        "Nicolas Seiwald",
+        "Florian Grillitsch",
+        "Romano Schmid",
+        "Marcel Sabitzer",
+        "Patrick Wimmer",
+        "Marko Arnautović"
+      ],
+      "subs_in": [
+        "Leopold Querfeld",
+        "Christoph Baumgartner",
+        "Konrad Laimer",
+        "Michael Gregoritsch",
+        "Andreas Weimann"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3941022,
+      "opponent": "Turkey",
+      "score": "1-2",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Patrick Pentz",
+        "Stefan Posch",
+        "Kevin Danso",
+        "Philipp Lienhart",
+        "Philipp Mwene",
+        "Nicolas Seiwald",
+        "Konrad Laimer",
+        "Romano Schmid",
+        "Christoph Baumgartner",
+        "Marcel Sabitzer",
+        "Marko Arnautović"
+      ],
+      "subs_in": [
+        "Michael Gregoritsch",
+        "Alexander Prass",
+        "Maximilian Wöber",
+        "Florian Grillitsch"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930165,
+      "opponent": "France",
+      "score": "0-1",
+      "formation": "4-2-3-1",
+      "starting_xi": [
+        "Patrick Pentz",
+        "Stefan Posch",
+        "Kevin Danso",
+        "Maximilian Wöber",
+        "Philipp Mwene",
+        "Nicolas Seiwald",
+        "Florian Grillitsch",
+        "Konrad Laimer",
+        "Christoph Baumgartner",
+        "Marcel Sabitzer",
+        "Michael Gregoritsch"
+      ],
+      "subs_in": [
+        "Gernot Trauner",
+        "Marko Arnautović",
+        "Patrick Wimmer",
+        "Alexander Prass",
+        "Romano Schmid"
+      ]
+    }
+  ]
+}

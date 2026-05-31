@@ -1,0 +1,338 @@
+{
+  "name": "Morocco",
+  "code": "MAR",
+  "matches_analyzed": 11,
+  "formations": {
+    "4-3-3": 11,
+    "3-4-3": 7,
+    "4-1-4-1": 8,
+    "3-5-1-1": 1,
+    "4-4-2": 2
+  },
+  "primary_formation": "4-3-3",
+  "top_starters": [
+    "Achraf Hakimi Mouh",
+    "Sofyan Amrabat",
+    "Yassine Bounou",
+    "Azzedine Ounahi",
+    "Hakim Ziyech",
+    "Youssef En-Nesyri",
+    "Romain Saïss",
+    "Sofiane Boufal",
+    "Nayef Aguerd",
+    "Selim Amallah",
+    "Noussair Mazraoui",
+    "Jawad El Yamiq",
+    "Yahia Attiyat allah",
+    "Abdelhamid Sabiri",
+    "Achraf Dari"
+  ],
+  "top_subs": [
+    "Yahia Attiyat allah",
+    "Abdessamad Ezzalzouli",
+    "Zakaria Aboukhlal",
+    "Abderrazak Hamdallah",
+    "Selim Amallah",
+    "Jawad El Yamiq",
+    "Abdelhamid Sabiri",
+    "Badr Banoun"
+  ],
+  "matches": [
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857276,
+      "opponent": "Canada",
+      "score": "2-1",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Yassine Bounou",
+        "Achraf Hakimi Mouh",
+        "Nayef Aguerd",
+        "Romain Saïss",
+        "Noussair Mazraoui",
+        "Sofyan Amrabat",
+        "Azzedine Ounahi",
+        "Abdelhamid Sabiri",
+        "Hakim Ziyech",
+        "Sofiane Boufal",
+        "Youssef En-Nesyri"
+      ],
+      "subs_in": [
+        "Zakaria Aboukhlal",
+        "Selim Amallah",
+        "Abderrazak Hamdallah",
+        "Jawad El Yamiq",
+        "Yahya Jabrane"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857277,
+      "opponent": "Croatia",
+      "score": "0-0",
+      "formation": "4-1-4-1",
+      "starting_xi": [
+        "Yassine Bounou",
+        "Achraf Hakimi Mouh",
+        "Nayef Aguerd",
+        "Romain Saïss",
+        "Noussair Mazraoui",
+        "Sofyan Amrabat",
+        "Hakim Ziyech",
+        "Azzedine Ounahi",
+        "Selim Amallah",
+        "Sofiane Boufal",
+        "Youssef En-Nesyri"
+      ],
+      "subs_in": [
+        "Yahia Attiyat allah",
+        "Abdessamad Ezzalzouli",
+        "Abderrazak Hamdallah",
+        "Abdelhamid Sabiri"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869684,
+      "opponent": "Croatia",
+      "score": "1-2",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Yassine Bounou",
+        "Achraf Hakimi Mouh",
+        "Jawad El Yamiq",
+        "Achraf Dari",
+        "Yahia Attiyat allah",
+        "Sofyan Amrabat",
+        "Bilal El Khannous",
+        "Abdelhamid Sabiri",
+        "Hakim Ziyech",
+        "Sofiane Boufal",
+        "Youssef En-Nesyri"
+      ],
+      "subs_in": [
+        "Ilias Chair",
+        "Azzedine Ounahi",
+        "Anass Zaroury",
+        "Badr Banoun",
+        "Selim Amallah"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869486,
+      "opponent": "Portugal",
+      "score": "1-0",
+      "formation": "4-1-4-1",
+      "starting_xi": [
+        "Yassine Bounou",
+        "Achraf Hakimi Mouh",
+        "Jawad El Yamiq",
+        "Romain Saïss",
+        "Yahia Attiyat allah",
+        "Sofyan Amrabat",
+        "Hakim Ziyech",
+        "Azzedine Ounahi",
+        "Selim Amallah",
+        "Sofiane Boufal",
+        "Youssef En-Nesyri"
+      ],
+      "subs_in": [
+        "Achraf Dari",
+        "Walid Cheddira",
+        "Badr Banoun",
+        "Zakaria Aboukhlal",
+        "Yahya Jabrane"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869552,
+      "opponent": "France",
+      "score": "0-2",
+      "formation": "3-4-3",
+      "starting_xi": [
+        "Yassine Bounou",
+        "Achraf Dari",
+        "Romain Saïss",
+        "Jawad El Yamiq",
+        "Achraf Hakimi Mouh",
+        "Noussair Mazraoui",
+        "Sofyan Amrabat",
+        "Azzedine Ounahi",
+        "Hakim Ziyech",
+        "Sofiane Boufal",
+        "Youssef En-Nesyri"
+      ],
+      "subs_in": [
+        "Selim Amallah",
+        "Yahia Attiyat allah",
+        "Abderrazak Hamdallah",
+        "Zakaria Aboukhlal",
+        "Abdessamad Ezzalzouli"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3869220,
+      "opponent": "Spain",
+      "score": "0-0",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Yassine Bounou",
+        "Achraf Hakimi Mouh",
+        "Nayef Aguerd",
+        "Romain Saïss",
+        "Noussair Mazraoui",
+        "Sofyan Amrabat",
+        "Azzedine Ounahi",
+        "Selim Amallah",
+        "Hakim Ziyech",
+        "Sofiane Boufal",
+        "Youssef En-Nesyri"
+      ],
+      "subs_in": [
+        "Abdessamad Ezzalzouli",
+        "Walid Cheddira",
+        "Abdelhamid Sabiri",
+        "Yahia Attiyat allah",
+        "Jawad El Yamiq",
+        "Badr Banoun"
+      ]
+    },
+    {
+      "competition": "FIFA World Cup 2022",
+      "match_id": 3857283,
+      "opponent": "Belgium",
+      "score": "2-0",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Munir Mohand Mohamedi",
+        "Achraf Hakimi Mouh",
+        "Nayef Aguerd",
+        "Romain Saïss",
+        "Noussair Mazraoui",
+        "Sofyan Amrabat",
+        "Selim Amallah",
+        "Azzedine Ounahi",
+        "Hakim Ziyech",
+        "Sofiane Boufal",
+        "Youssef En-Nesyri"
+      ],
+      "subs_in": [
+        "Yahia Attiyat allah",
+        "Abdelhamid Sabiri",
+        "Zakaria Aboukhlal",
+        "Abderrazak Hamdallah",
+        "Jawad El Yamiq"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920394,
+      "opponent": "Tanzania",
+      "score": "3-0",
+      "formation": "4-1-4-1",
+      "starting_xi": [
+        "Yassine Bounou",
+        "Achraf Hakimi Mouh",
+        "Nayef Aguerd",
+        "Romain Saïss",
+        "Mohamed Chibi",
+        "Sofyan Amrabat",
+        "Hakim Ziyech",
+        "Azzedine Ounahi",
+        "Selim Amallah",
+        "Abdessamad Ezzalzouli",
+        "Youssef En-Nesyri"
+      ],
+      "subs_in": [
+        "Amine Adli",
+        "Bilal El Khannous",
+        "Ayoub El Kaabi",
+        "Sofiane Boufal",
+        "Amine Harit"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920405,
+      "opponent": "Congo DR",
+      "score": "1-1",
+      "formation": "4-1-4-1",
+      "starting_xi": [
+        "Yassine Bounou",
+        "Achraf Hakimi Mouh",
+        "Nayef Aguerd",
+        "Romain Saïss",
+        "Mohamed Chibi",
+        "Sofyan Amrabat",
+        "Hakim Ziyech",
+        "Azzedine Ounahi",
+        "Selim Amallah",
+        "Sofiane Boufal",
+        "Youssef En-Nesyri"
+      ],
+      "subs_in": [
+        "Abdessamad Ezzalzouli",
+        "Bilal El Khannous",
+        "Amine Adli",
+        "Ayoub El Kaabi",
+        "Amine Harit"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3922243,
+      "opponent": "South Africa",
+      "score": "0-2",
+      "formation": "4-3-3",
+      "starting_xi": [
+        "Yassine Bounou",
+        "Achraf Hakimi Mouh",
+        "Nayef Aguerd",
+        "Romain Saïss",
+        "Noussair Mazraoui",
+        "Sofyan Amrabat",
+        "Azzedine Ounahi",
+        "Selim Amallah",
+        "Amine Adli",
+        "Abdessamad Ezzalzouli",
+        "Youssef En-Nesyri"
+      ],
+      "subs_in": [
+        "Ismael Saibari",
+        "Amine Harit",
+        "Ayoub El Kaabi",
+        "Yahia Attiyat allah"
+      ]
+    },
+    {
+      "competition": "AFCON 2023",
+      "match_id": 3920419,
+      "opponent": "Zambia",
+      "score": "1-0",
+      "formation": "4-1-4-1",
+      "starting_xi": [
+        "Yassine Bounou",
+        "Achraf Hakimi Mouh",
+        "Nayef Aguerd",
+        "Yunis Abdelhamid",
+        "Yahia Attiyat allah",
+        "Sofyan Amrabat",
+        "Hakim Ziyech",
+        "Azzedine Ounahi",
+        "Ismael Saibari",
+        "Sofiane Boufal",
+        "Ayoub El Kaabi"
+      ],
+      "subs_in": [
+        "Amine Adli",
+        "Abdessamad Ezzalzouli",
+        "Amir Richardson",
+        "Tarik Tissoudali",
+        "Bilal El Khannous"
+      ]
+    }
+  ]
+}

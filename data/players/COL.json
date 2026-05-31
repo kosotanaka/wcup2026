@@ -1,0 +1,354 @@
+{
+  "name": "Colombia",
+  "group": "K",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "David Ospina",
+      "dob": "1988-08-31",
+      "caps": 129,
+      "goals": 0,
+      "club": "Atlético Nacional",
+      "eafc26": {
+        "overall": 76,
+        "potential": 76,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 176550
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Camilo Vargas",
+      "dob": "1989-03-09",
+      "caps": 40,
+      "goals": 0,
+      "club": "Atlas"
+    },
+    {
+      "pos": "GK",
+      "name": "Álvaro Montero",
+      "dob": "1995-03-29",
+      "caps": 11,
+      "goals": 0,
+      "club": "Vélez Sarsfield",
+      "eafc26": {
+        "overall": 75,
+        "potential": 76,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 229541
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Davinson Sánchez",
+      "dob": "1996-06-12",
+      "caps": 77,
+      "goals": 3,
+      "club": "Galatasaray",
+      "eafc26": {
+        "overall": 82,
+        "potential": 82,
+        "pace": 82,
+        "shooting": 58,
+        "passing": 63,
+        "dribbling": 73,
+        "defending": 82,
+        "physicality": 88,
+        "player_id": 220793
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Santiago Arias",
+      "dob": "1992-01-13",
+      "caps": 66,
+      "goals": 0,
+      "club": "Independiente"
+    },
+    {
+      "pos": "DF",
+      "name": "Yerry Mina",
+      "dob": "1994-09-23",
+      "caps": 52,
+      "goals": 8,
+      "club": "Cagliari",
+      "eafc26": {
+        "overall": 77,
+        "potential": 77,
+        "pace": 34,
+        "shooting": 50,
+        "passing": 52,
+        "dribbling": 55,
+        "defending": 77,
+        "physicality": 84,
+        "player_id": 220523
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Daniel Muñoz",
+      "dob": "1996-05-26",
+      "caps": 44,
+      "goals": 3,
+      "club": "Crystal Palace",
+      "eafc26": {
+        "overall": 81,
+        "potential": 81,
+        "pace": 75,
+        "shooting": 69,
+        "passing": 72,
+        "dribbling": 76,
+        "defending": 79,
+        "physicality": 81,
+        "player_id": 237646
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Johan Mojica",
+      "dob": "1992-08-21",
+      "caps": 43,
+      "goals": 1,
+      "club": "Mallorca",
+      "eafc26": {
+        "overall": 78,
+        "potential": 78,
+        "pace": 88,
+        "shooting": 65,
+        "passing": 73,
+        "dribbling": 73,
+        "defending": 74,
+        "physicality": 70,
+        "player_id": 214026
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Jhon Lucumí",
+      "dob": "1998-06-26",
+      "caps": 35,
+      "goals": 1,
+      "club": "Bologna",
+      "eafc26": {
+        "overall": 76,
+        "potential": 78,
+        "pace": 65,
+        "shooting": 38,
+        "passing": 62,
+        "dribbling": 61,
+        "defending": 77,
+        "physicality": 78,
+        "player_id": 231207
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "James Rodríguez",
+      "dob": "1991-07-12",
+      "caps": 124,
+      "goals": 31,
+      "club": "Minnesota United FC",
+      "captain": true,
+      "eafc26": {
+        "overall": 56,
+        "potential": 66,
+        "pace": 67,
+        "shooting": 56,
+        "passing": 53,
+        "dribbling": 57,
+        "defending": 30,
+        "physicality": 46,
+        "player_id": 77502
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Jefferson Lerma",
+      "dob": "1994-10-25",
+      "caps": 64,
+      "goals": 5,
+      "club": "Crystal Palace",
+      "eafc26": {
+        "overall": 77,
+        "potential": 77,
+        "pace": 68,
+        "shooting": 71,
+        "passing": 70,
+        "dribbling": 74,
+        "defending": 76,
+        "physicality": 79,
+        "player_id": 213991
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Juan Fernando Quintero",
+      "dob": "1993-01-18",
+      "caps": 47,
+      "goals": 6,
+      "club": "River Plate",
+      "eafc26": {
+        "overall": 77,
+        "potential": 77,
+        "pace": 62,
+        "shooting": 76,
+        "passing": 79,
+        "dribbling": 81,
+        "defending": 41,
+        "physicality": 54,
+        "player_id": 210513
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Jhon Arias",
+      "dob": "1997-09-21",
+      "caps": 36,
+      "goals": 4,
+      "club": "Palmeiras",
+      "eafc26": {
+        "overall": 78,
+        "potential": 78,
+        "pace": 85,
+        "shooting": 75,
+        "passing": 74,
+        "dribbling": 79,
+        "defending": 42,
+        "physicality": 68,
+        "player_id": 241602
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Richard Ríos",
+      "dob": "2000-06-02",
+      "caps": 30,
+      "goals": 2,
+      "club": "Benfica",
+      "eafc26": {
+        "overall": 79,
+        "potential": 83,
+        "pace": 81,
+        "shooting": 70,
+        "passing": 77,
+        "dribbling": 82,
+        "defending": 72,
+        "physicality": 82,
+        "player_id": 262881
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Kevin Castaño",
+      "dob": "2000-09-29",
+      "caps": 24,
+      "goals": 0,
+      "club": "River Plate",
+      "eafc26": {
+        "overall": 77,
+        "potential": 80,
+        "pace": 76,
+        "shooting": 68,
+        "passing": 76,
+        "dribbling": 76,
+        "defending": 72,
+        "physicality": 75,
+        "player_id": 272951
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Jorge Carrascal",
+      "dob": "1998-05-25",
+      "caps": 22,
+      "goals": 2,
+      "club": "Flamengo",
+      "eafc26": {
+        "overall": 70,
+        "potential": 70,
+        "pace": 66,
+        "shooting": 63,
+        "passing": 70,
+        "dribbling": 65,
+        "defending": 69,
+        "physicality": 71,
+        "player_id": 214366
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Luis Díaz",
+      "dob": "1997-01-13",
+      "caps": 72,
+      "goals": 21,
+      "club": "Bayern Munich",
+      "eafc26": {
+        "overall": 85,
+        "potential": 85,
+        "pace": 88,
+        "shooting": 81,
+        "passing": 76,
+        "dribbling": 87,
+        "defending": 45,
+        "physicality": 75,
+        "player_id": 241084
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Jhon Córdoba",
+      "dob": "1993-05-11",
+      "caps": 21,
+      "goals": 6,
+      "club": "Krasnodar",
+      "eafc26": {
+        "overall": 69,
+        "potential": 72,
+        "pace": 80,
+        "shooting": 59,
+        "passing": 62,
+        "dribbling": 70,
+        "defending": 27,
+        "physicality": 55,
+        "player_id": 247776
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Luis Suárez",
+      "dob": "1997-12-02",
+      "caps": 10,
+      "goals": 4,
+      "club": "Sporting CP",
+      "eafc26": {
+        "overall": 77,
+        "potential": 78,
+        "pace": 83,
+        "shooting": 77,
+        "passing": 66,
+        "dribbling": 75,
+        "defending": 38,
+        "physicality": 78,
+        "player_id": 245158
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Cucho Hernández",
+      "dob": "1999-04-20",
+      "caps": 7,
+      "goals": 2,
+      "club": "Real Betis"
+    }
+  ]
+}

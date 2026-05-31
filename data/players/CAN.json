@@ -1,0 +1,468 @@
+{
+  "name": "Canada",
+  "group": "B",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Dayne St. Clair",
+      "dob": "1997-05-09",
+      "caps": 19,
+      "goals": 0,
+      "club": "Inter Miami CF",
+      "eafc26": {
+        "overall": 73,
+        "potential": 76,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 247228
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Maxime Crépeau",
+      "dob": "1994-04-11",
+      "caps": 30,
+      "goals": 0,
+      "club": "Orlando City SC",
+      "eafc26": {
+        "overall": 69,
+        "potential": 69,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 213536
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Owen Goodman",
+      "dob": "2003-11-27",
+      "caps": 0,
+      "goals": 0,
+      "club": "Barnsley"
+    },
+    {
+      "pos": "DF",
+      "name": "Alphonso Davies",
+      "dob": "2000-11-02",
+      "caps": 58,
+      "goals": 15,
+      "club": "Bayern Munich",
+      "captain": true,
+      "eafc26": {
+        "overall": 84,
+        "potential": 87,
+        "pace": 94,
+        "shooting": 66,
+        "passing": 78,
+        "dribbling": 85,
+        "defending": 74,
+        "physicality": 76,
+        "player_id": 234396
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Alistair Johnston",
+      "dob": "1998-10-08",
+      "caps": 56,
+      "goals": 1,
+      "club": "Celtic",
+      "eafc26": {
+        "overall": 78,
+        "potential": 81,
+        "pace": 82,
+        "shooting": 59,
+        "passing": 73,
+        "dribbling": 72,
+        "defending": 73,
+        "physicality": 80,
+        "player_id": 256107
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Richie Laryea",
+      "dob": "1995-01-07",
+      "caps": 73,
+      "goals": 1,
+      "club": "Toronto FC",
+      "eafc26": {
+        "overall": 72,
+        "potential": 72,
+        "pace": 81,
+        "shooting": 61,
+        "passing": 65,
+        "dribbling": 74,
+        "defending": 64,
+        "physicality": 71,
+        "player_id": 232081
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Derek Cornelius",
+      "dob": "1997-11-25",
+      "caps": 42,
+      "goals": 1,
+      "club": "Rangers",
+      "eafc26": {
+        "overall": 74,
+        "potential": 76,
+        "pace": 67,
+        "shooting": 45,
+        "passing": 55,
+        "dribbling": 57,
+        "defending": 71,
+        "physicality": 85,
+        "player_id": 243009
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Joel Waterman",
+      "dob": "1996-01-24",
+      "caps": 17,
+      "goals": 0,
+      "club": "Chicago Fire FC",
+      "eafc26": {
+        "overall": 68,
+        "potential": 68,
+        "pace": 43,
+        "shooting": 42,
+        "passing": 58,
+        "dribbling": 50,
+        "defending": 68,
+        "physicality": 74,
+        "player_id": 255956
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Moïse Bombito",
+      "dob": "2000-03-30",
+      "caps": 19,
+      "goals": 0,
+      "club": "Nice",
+      "eafc26": {
+        "overall": 76,
+        "potential": 83,
+        "pace": 93,
+        "shooting": 49,
+        "passing": 58,
+        "dribbling": 65,
+        "defending": 75,
+        "physicality": 76,
+        "player_id": 274536
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Niko Sigur",
+      "dob": "2003-09-09",
+      "caps": 17,
+      "goals": 2,
+      "club": "Hajduk Split",
+      "eafc26": {
+        "overall": 70,
+        "potential": 79,
+        "pace": 71,
+        "shooting": 61,
+        "passing": 68,
+        "dribbling": 73,
+        "defending": 62,
+        "physicality": 68,
+        "player_id": 275238
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Luc de Fougerolles",
+      "dob": "2005-10-12",
+      "caps": 11,
+      "goals": 0,
+      "club": "Dender",
+      "eafc26": {
+        "overall": 60,
+        "potential": 80,
+        "pace": 64,
+        "shooting": 32,
+        "passing": 45,
+        "dribbling": 49,
+        "defending": 62,
+        "physicality": 58,
+        "player_id": 279008
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Alfie Jones",
+      "dob": "1997-10-07",
+      "caps": 1,
+      "goals": 0,
+      "club": "Middlesbrough"
+    },
+    {
+      "pos": "MF",
+      "name": "Jonathan Osorio",
+      "dob": "1992-06-12",
+      "caps": 89,
+      "goals": 9,
+      "club": "Toronto FC",
+      "eafc26": {
+        "overall": 71,
+        "potential": 71,
+        "pace": 50,
+        "shooting": 67,
+        "passing": 70,
+        "dribbling": 72,
+        "defending": 61,
+        "physicality": 65,
+        "player_id": 213439
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Tajon Buchanan",
+      "dob": "1999-02-08",
+      "caps": 58,
+      "goals": 8,
+      "club": "Villarreal",
+      "eafc26": {
+        "overall": 74,
+        "potential": 75,
+        "pace": 90,
+        "shooting": 65,
+        "passing": 66,
+        "dribbling": 74,
+        "defending": 67,
+        "physicality": 73,
+        "player_id": 246800
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Stephen Eustáquio",
+      "dob": "1996-12-21",
+      "caps": 54,
+      "goals": 4,
+      "club": "Los Angeles FC",
+      "eafc26": {
+        "overall": 77,
+        "potential": 78,
+        "pace": 66,
+        "shooting": 67,
+        "passing": 76,
+        "dribbling": 73,
+        "defending": 73,
+        "physicality": 74,
+        "player_id": 242380
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Ismaël Koné",
+      "dob": "2002-06-16",
+      "caps": 38,
+      "goals": 4,
+      "club": "Sassuolo",
+      "eafc26": {
+        "overall": 72,
+        "potential": 79,
+        "pace": 78,
+        "shooting": 63,
+        "passing": 68,
+        "dribbling": 71,
+        "defending": 64,
+        "physicality": 69,
+        "player_id": 264207
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Liam Millar",
+      "dob": "1999-09-27",
+      "caps": 39,
+      "goals": 1,
+      "club": "Hull City",
+      "eafc26": {
+        "overall": 72,
+        "potential": 75,
+        "pace": 85,
+        "shooting": 66,
+        "passing": 66,
+        "dribbling": 75,
+        "defending": 52,
+        "physicality": 59,
+        "player_id": 240925
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Jacob Shaffelburg",
+      "dob": "1999-11-26",
+      "caps": 31,
+      "goals": 6,
+      "club": "Los Angeles FC",
+      "eafc26": {
+        "overall": 67,
+        "potential": 70,
+        "pace": 91,
+        "shooting": 63,
+        "passing": 60,
+        "dribbling": 65,
+        "defending": 52,
+        "physicality": 63,
+        "player_id": 251352
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Ali Ahmed",
+      "dob": "2000-10-10",
+      "caps": 24,
+      "goals": 1,
+      "club": "Norwich City",
+      "eafc26": {
+        "overall": 68,
+        "potential": 74,
+        "pace": 78,
+        "shooting": 58,
+        "passing": 65,
+        "dribbling": 72,
+        "defending": 61,
+        "physicality": 65,
+        "player_id": 272604
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Mathieu Choinière",
+      "dob": "1999-02-07",
+      "caps": 22,
+      "goals": 0,
+      "club": "Los Angeles FC",
+      "eafc26": {
+        "overall": 67,
+        "potential": 68,
+        "pace": 60,
+        "shooting": 58,
+        "passing": 66,
+        "dribbling": 66,
+        "defending": 62,
+        "physicality": 59,
+        "player_id": 244680
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Nathan Saliba",
+      "dob": "2004-02-07",
+      "caps": 13,
+      "goals": 2,
+      "club": "Anderlecht",
+      "eafc26": {
+        "overall": 68,
+        "potential": 77,
+        "pace": 67,
+        "shooting": 61,
+        "passing": 67,
+        "dribbling": 74,
+        "defending": 58,
+        "physicality": 64,
+        "player_id": 260398
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Marcelo Flores",
+      "dob": "2003-10-01",
+      "caps": 2,
+      "goals": 0,
+      "club": "UANL"
+    },
+    {
+      "pos": "FW",
+      "name": "Cyle Larin",
+      "dob": "1995-04-17",
+      "caps": 88,
+      "goals": 30,
+      "club": "Southampton",
+      "eafc26": {
+        "overall": 77,
+        "potential": 77,
+        "pace": 70,
+        "shooting": 77,
+        "passing": 68,
+        "dribbling": 71,
+        "defending": 28,
+        "physicality": 78,
+        "player_id": 226777
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Jonathan David",
+      "dob": "2000-01-14",
+      "caps": 75,
+      "goals": 39,
+      "club": "Juventus",
+      "eafc26": {
+        "overall": 82,
+        "potential": 85,
+        "pace": 81,
+        "shooting": 82,
+        "passing": 71,
+        "dribbling": 80,
+        "defending": 34,
+        "physicality": 78,
+        "player_id": 243630
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Tani Oluwaseyi",
+      "dob": "2000-05-15",
+      "caps": 22,
+      "goals": 2,
+      "club": "Villarreal",
+      "eafc26": {
+        "overall": 70,
+        "potential": 74,
+        "pace": 85,
+        "shooting": 71,
+        "passing": 54,
+        "dribbling": 66,
+        "defending": 31,
+        "physicality": 67,
+        "player_id": 271108
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Promise David",
+      "dob": "2001-07-03",
+      "caps": 8,
+      "goals": 3,
+      "club": "Union Saint-Gilloise",
+      "eafc26": {
+        "overall": 75,
+        "potential": 80,
+        "pace": 62,
+        "shooting": 78,
+        "passing": 59,
+        "dribbling": 64,
+        "defending": 29,
+        "physicality": 84,
+        "player_id": 73070
+      }
+    }
+  ]
+}

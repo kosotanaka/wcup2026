@@ -1,0 +1,690 @@
+{
+  "name": "Mexico",
+  "group": "A",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Guillermo Ochoa",
+      "dob": "1985-07-13",
+      "caps": 151,
+      "goals": 0,
+      "club": "AEL Limassol"
+    },
+    {
+      "pos": "GK",
+      "name": "Raúl Rangel",
+      "dob": "2000-02-25",
+      "caps": 12,
+      "goals": 0,
+      "club": "Guadalajara",
+      "eafc26": {
+        "overall": 72,
+        "potential": 76,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 73325
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Carlos Acevedo",
+      "dob": "1996-04-19",
+      "caps": 7,
+      "goals": 0,
+      "club": "Santos Laguna"
+    },
+    {
+      "pos": "GK",
+      "name": "José Antonio Rodríguez",
+      "dob": "1992-07-04",
+      "caps": 2,
+      "goals": 0,
+      "club": "Tijuana"
+    },
+    {
+      "pos": "GK",
+      "name": "Carlos Moreno",
+      "dob": "1998-01-29",
+      "caps": 0,
+      "goals": 0,
+      "club": "Pachuca",
+      "eafc26": {
+        "overall": 72,
+        "potential": 75,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 245359
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Alex Padilla",
+      "dob": "2003-09-01",
+      "caps": 0,
+      "goals": 0,
+      "club": "Athletic Bilbao",
+      "eafc26": {
+        "overall": 68,
+        "potential": 79,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 271034
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Jesús Gallardo",
+      "dob": "1994-08-15",
+      "caps": 119,
+      "goals": 3,
+      "club": "Toluca",
+      "eafc26": {
+        "overall": 75,
+        "potential": 75,
+        "pace": 83,
+        "shooting": 67,
+        "passing": 70,
+        "dribbling": 75,
+        "defending": 69,
+        "physicality": 75,
+        "player_id": 226045
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "César Montes",
+      "dob": "1997-02-24",
+      "caps": 65,
+      "goals": 4,
+      "club": "Lokomotiv Moscow",
+      "eafc26": {
+        "overall": 75,
+        "potential": 77,
+        "pace": 57,
+        "shooting": 46,
+        "passing": 60,
+        "dribbling": 63,
+        "defending": 74,
+        "physicality": 79,
+        "player_id": 229980
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Jorge Sánchez",
+      "dob": "1997-12-10",
+      "caps": 57,
+      "goals": 3,
+      "club": "PAOK",
+      "eafc26": {
+        "overall": 73,
+        "potential": 74,
+        "pace": 84,
+        "shooting": 50,
+        "passing": 63,
+        "dribbling": 71,
+        "defending": 69,
+        "physicality": 78,
+        "player_id": 233493
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Johan Vásquez",
+      "dob": "1998-10-22",
+      "caps": 44,
+      "goals": 1,
+      "club": "Genoa",
+      "eafc26": {
+        "overall": 75,
+        "potential": 78,
+        "pace": 61,
+        "shooting": 33,
+        "passing": 58,
+        "dribbling": 60,
+        "defending": 76,
+        "physicality": 75,
+        "player_id": 244349
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Israel Reyes",
+      "dob": "2000-05-23",
+      "caps": 32,
+      "goals": 2,
+      "club": "América"
+    },
+    {
+      "pos": "DF",
+      "name": "Jesús Alberto Angulo",
+      "dob": "1998-01-30",
+      "caps": 19,
+      "goals": 0,
+      "club": "UANL"
+    },
+    {
+      "pos": "DF",
+      "name": "Julián Araujo",
+      "dob": "2001-08-13",
+      "caps": 16,
+      "goals": 0,
+      "club": "Celtic",
+      "eafc26": {
+        "overall": 74,
+        "potential": 81,
+        "pace": 83,
+        "shooting": 35,
+        "passing": 64,
+        "dribbling": 70,
+        "defending": 71,
+        "physicality": 73,
+        "player_id": 247678
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Mateo Chávez",
+      "dob": "2004-05-11",
+      "caps": 8,
+      "goals": 0,
+      "club": "AZ",
+      "eafc26": {
+        "overall": 72,
+        "potential": 79,
+        "pace": 82,
+        "shooting": 45,
+        "passing": 64,
+        "dribbling": 71,
+        "defending": 65,
+        "physicality": 68,
+        "player_id": 78784
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Víctor Guzmán",
+      "dob": "2002-03-07",
+      "caps": 6,
+      "goals": 0,
+      "club": "Monterrey"
+    },
+    {
+      "pos": "DF",
+      "name": "Richard Ledezma",
+      "dob": "2000-09-06",
+      "caps": 3,
+      "goals": 1,
+      "club": "Guadalajara"
+    },
+    {
+      "pos": "DF",
+      "name": "Everardo López",
+      "dob": "2005-03-23",
+      "caps": 3,
+      "goals": 0,
+      "club": "Toluca"
+    },
+    {
+      "pos": "DF",
+      "name": "Alejandro Gómez",
+      "dob": "2002-01-31",
+      "caps": 2,
+      "goals": 0,
+      "club": "Tijuana"
+    },
+    {
+      "pos": "DF",
+      "name": "Bryan González",
+      "dob": "2003-04-10",
+      "caps": 2,
+      "goals": 0,
+      "club": "Guadalajara"
+    },
+    {
+      "pos": "DF",
+      "name": "Ramón Juárez",
+      "dob": "2001-05-03",
+      "caps": 2,
+      "goals": 0,
+      "club": "América"
+    },
+    {
+      "pos": "MF",
+      "name": "Edson Álvarez",
+      "dob": "1997-10-24",
+      "caps": 96,
+      "goals": 7,
+      "club": "Fenerbahçe",
+      "captain": true,
+      "eafc26": {
+        "overall": 78,
+        "potential": 79,
+        "pace": 65,
+        "shooting": 58,
+        "passing": 69,
+        "dribbling": 72,
+        "defending": 78,
+        "physicality": 79,
+        "player_id": 235844
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Orbelín Pineda",
+      "dob": "1996-03-24",
+      "caps": 90,
+      "goals": 12,
+      "club": "AEK Athens",
+      "eafc26": {
+        "overall": 77,
+        "potential": 77,
+        "pace": 81,
+        "shooting": 74,
+        "passing": 72,
+        "dribbling": 81,
+        "defending": 68,
+        "physicality": 69,
+        "player_id": 224574
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Carlos Rodríguez",
+      "dob": "1997-01-03",
+      "caps": 67,
+      "goals": 0,
+      "club": "Cruz Azul",
+      "eafc26": {
+        "overall": 76,
+        "potential": 76,
+        "pace": 77,
+        "shooting": 67,
+        "passing": 73,
+        "dribbling": 78,
+        "defending": 66,
+        "physicality": 68,
+        "player_id": 235389
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Roberto Alvarado",
+      "dob": "1998-09-07",
+      "caps": 66,
+      "goals": 5,
+      "club": "Guadalajara",
+      "eafc26": {
+        "overall": 78,
+        "potential": 78,
+        "pace": 81,
+        "shooting": 71,
+        "passing": 78,
+        "dribbling": 76,
+        "defending": 53,
+        "physicality": 69,
+        "player_id": 237043
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Luis Romo",
+      "dob": "1995-06-05",
+      "caps": 61,
+      "goals": 4,
+      "club": "Guadalajara"
+    },
+    {
+      "pos": "MF",
+      "name": "Luis Chávez",
+      "dob": "1996-01-15",
+      "caps": 43,
+      "goals": 4,
+      "club": "Dynamo Moscow"
+    },
+    {
+      "pos": "MF",
+      "name": "Érick Sánchez",
+      "dob": "1999-09-27",
+      "caps": 38,
+      "goals": 3,
+      "club": "América",
+      "eafc26": {
+        "overall": 78,
+        "potential": 81,
+        "pace": 74,
+        "shooting": 75,
+        "passing": 77,
+        "dribbling": 73,
+        "defending": 75,
+        "physicality": 72,
+        "player_id": 235537
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Diego Lainez",
+      "dob": "2000-06-09",
+      "caps": 33,
+      "goals": 3,
+      "club": "UANL",
+      "eafc26": {
+        "overall": 76,
+        "potential": 77,
+        "pace": 80,
+        "shooting": 66,
+        "passing": 70,
+        "dribbling": 82,
+        "defending": 52,
+        "physicality": 53,
+        "player_id": 237995
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Érik Lira",
+      "dob": "2000-05-08",
+      "caps": 23,
+      "goals": 0,
+      "club": "Cruz Azul",
+      "eafc26": {
+        "overall": 73,
+        "potential": 80,
+        "pace": 74,
+        "shooting": 58,
+        "passing": 68,
+        "dribbling": 68,
+        "defending": 69,
+        "physicality": 74,
+        "player_id": 257784
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Marcel Ruiz",
+      "dob": "2000-10-26",
+      "caps": 17,
+      "goals": 0,
+      "club": "Toluca",
+      "eafc26": {
+        "overall": 75,
+        "potential": 82,
+        "pace": 74,
+        "shooting": 65,
+        "passing": 75,
+        "dribbling": 75,
+        "defending": 68,
+        "physicality": 68,
+        "player_id": 244973
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Efraín Álvarez",
+      "dob": "2002-06-19",
+      "caps": 7,
+      "goals": 1,
+      "club": "Guadalajara",
+      "eafc26": {
+        "overall": 78,
+        "potential": 79,
+        "pace": 65,
+        "shooting": 58,
+        "passing": 69,
+        "dribbling": 72,
+        "defending": 78,
+        "physicality": 79,
+        "player_id": 235844
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Brian Gutiérrez",
+      "dob": "2003-06-17",
+      "caps": 6,
+      "goals": 2,
+      "club": "Guadalajara"
+    },
+    {
+      "pos": "MF",
+      "name": "Gilberto Mora",
+      "dob": "2008-10-14",
+      "caps": 6,
+      "goals": 0,
+      "club": "Tijuana"
+    },
+    {
+      "pos": "MF",
+      "name": "Alexis Gutiérrez",
+      "dob": "2001-02-26",
+      "caps": 5,
+      "goals": 0,
+      "club": "América"
+    },
+    {
+      "pos": "MF",
+      "name": "Obed Vargas",
+      "dob": "2005-08-05",
+      "caps": 5,
+      "goals": 0,
+      "club": "Atlético Madrid",
+      "eafc26": {
+        "overall": 69,
+        "potential": 79,
+        "pace": 74,
+        "shooting": 52,
+        "passing": 64,
+        "dribbling": 73,
+        "defending": 63,
+        "physicality": 57,
+        "player_id": 263701
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Jesús Ricardo Angulo",
+      "dob": "1997-02-20",
+      "caps": 3,
+      "goals": 1,
+      "club": "Toluca"
+    },
+    {
+      "pos": "MF",
+      "name": "Kevin Castañeda",
+      "dob": "1999-10-28",
+      "caps": 3,
+      "goals": 0,
+      "club": "Tijuana"
+    },
+    {
+      "pos": "MF",
+      "name": "Jordán Carrillo",
+      "dob": "2001-11-30",
+      "caps": 2,
+      "goals": 0,
+      "club": "UNAM"
+    },
+    {
+      "pos": "MF",
+      "name": "Álvaro Fidalgo",
+      "dob": "1997-04-09",
+      "caps": 2,
+      "goals": 0,
+      "club": "Real Betis"
+    },
+    {
+      "pos": "MF",
+      "name": "Jorge Ruvalcaba",
+      "dob": "2001-07-23",
+      "caps": 1,
+      "goals": 0,
+      "club": "New York Red Bulls"
+    },
+    {
+      "pos": "MF",
+      "name": "Alexéi Domínguez",
+      "dob": "2005-01-03",
+      "caps": 0,
+      "goals": 0,
+      "club": "Pachuca"
+    },
+    {
+      "pos": "MF",
+      "name": "Jeremy Márquez",
+      "dob": "2000-06-21",
+      "caps": 0,
+      "goals": 0,
+      "club": "Cruz Azul"
+    },
+    {
+      "pos": "MF",
+      "name": "Elías Montiel",
+      "dob": "2005-10-07",
+      "caps": 0,
+      "goals": 0,
+      "club": "Pachuca"
+    },
+    {
+      "pos": "FW",
+      "name": "Raúl Jiménez",
+      "dob": "1991-05-05",
+      "caps": 123,
+      "goals": 44,
+      "club": "Fulham",
+      "eafc26": {
+        "overall": 77,
+        "potential": 77,
+        "pace": 57,
+        "shooting": 79,
+        "passing": 74,
+        "dribbling": 75,
+        "defending": 46,
+        "physicality": 79,
+        "player_id": 204838
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Alexis Vega",
+      "dob": "1997-11-25",
+      "caps": 50,
+      "goals": 7,
+      "club": "Toluca",
+      "eafc26": {
+        "overall": 78,
+        "potential": 78,
+        "pace": 80,
+        "shooting": 78,
+        "passing": 77,
+        "dribbling": 80,
+        "defending": 32,
+        "physicality": 73,
+        "player_id": 233260
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Santiago Giménez",
+      "dob": "2001-04-18",
+      "caps": 46,
+      "goals": 6,
+      "club": "Milan",
+      "eafc26": {
+        "overall": 79,
+        "potential": 84,
+        "pace": 78,
+        "shooting": 80,
+        "passing": 70,
+        "dribbling": 77,
+        "defending": 46,
+        "physicality": 69,
+        "player_id": 245152
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "César Huerta",
+      "dob": "2000-12-03",
+      "caps": 25,
+      "goals": 3,
+      "club": "Anderlecht",
+      "eafc26": {
+        "overall": 73,
+        "potential": 77,
+        "pace": 84,
+        "shooting": 68,
+        "passing": 68,
+        "dribbling": 75,
+        "defending": 48,
+        "physicality": 70,
+        "player_id": 246289
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Julián Quiñones",
+      "dob": "1997-03-24",
+      "caps": 20,
+      "goals": 2,
+      "club": "Al-Qadsiah",
+      "eafc26": {
+        "overall": 80,
+        "potential": 80,
+        "pace": 88,
+        "shooting": 79,
+        "passing": 70,
+        "dribbling": 79,
+        "defending": 36,
+        "physicality": 83,
+        "player_id": 234579
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Guillermo Martínez",
+      "dob": "1995-03-15",
+      "caps": 10,
+      "goals": 3,
+      "club": "UNAM"
+    },
+    {
+      "pos": "FW",
+      "name": "Germán Berterame",
+      "dob": "1998-11-13",
+      "caps": 9,
+      "goals": 2,
+      "club": "Inter Miami CF",
+      "eafc26": {
+        "overall": 78,
+        "potential": 81,
+        "pace": 77,
+        "shooting": 79,
+        "passing": 68,
+        "dribbling": 75,
+        "defending": 34,
+        "physicality": 73,
+        "player_id": 237248
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Armando González",
+      "dob": "2003-04-20",
+      "caps": 7,
+      "goals": 1,
+      "club": "Guadalajara"
+    }
+  ]
+}

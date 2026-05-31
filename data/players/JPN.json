@@ -1,0 +1,457 @@
+{
+  "name": "Japan",
+  "group": "F",
+  "players": [
+    {
+      "pos": "GK",
+      "name": "Zion Suzuki",
+      "dob": "2002-08-21",
+      "caps": 23,
+      "goals": 0,
+      "club": "Parma",
+      "eafc26": {
+        "overall": 74,
+        "potential": 82,
+        "pace": null,
+        "shooting": null,
+        "passing": null,
+        "dribbling": null,
+        "defending": null,
+        "physicality": null,
+        "player_id": 255981
+      }
+    },
+    {
+      "pos": "GK",
+      "name": "Keisuke Ōsako",
+      "dob": "1999-07-28",
+      "caps": 11,
+      "goals": 0,
+      "club": "Sanfrecce Hiroshima"
+    },
+    {
+      "pos": "GK",
+      "name": "Tomoki Hayakawa",
+      "dob": "1999-03-03",
+      "caps": 3,
+      "goals": 0,
+      "club": "Kashima Antlers"
+    },
+    {
+      "pos": "DF",
+      "name": "Yūto Nagatomo",
+      "dob": "1986-09-12",
+      "caps": 144,
+      "goals": 4,
+      "club": "FC Tokyo"
+    },
+    {
+      "pos": "DF",
+      "name": "Kō Itakura",
+      "dob": "1997-01-27",
+      "caps": 39,
+      "goals": 2,
+      "club": "Ajax",
+      "eafc26": {
+        "overall": 77,
+        "potential": 78,
+        "pace": 75,
+        "shooting": 59,
+        "passing": 61,
+        "dribbling": 74,
+        "defending": 77,
+        "physicality": 76,
+        "player_id": 233152
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Takehiro Tomiyasu",
+      "dob": "1998-11-05",
+      "caps": 42,
+      "goals": 1,
+      "club": "Ajax"
+    },
+    {
+      "pos": "DF",
+      "name": "Shōgo Taniguchi",
+      "dob": "1991-07-15",
+      "caps": 37,
+      "goals": 1,
+      "club": "Sint-Truiden",
+      "eafc26": {
+        "overall": 69,
+        "potential": 69,
+        "pace": 58,
+        "shooting": 45,
+        "passing": 59,
+        "dribbling": 57,
+        "defending": 70,
+        "physicality": 72,
+        "player_id": 233225
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Hiroki Itō",
+      "dob": "1999-05-12",
+      "caps": 23,
+      "goals": 1,
+      "club": "Bayern Munich",
+      "eafc26": {
+        "overall": 78,
+        "potential": 82,
+        "pace": 74,
+        "shooting": 57,
+        "passing": 71,
+        "dribbling": 72,
+        "defending": 80,
+        "physicality": 72,
+        "player_id": 234205
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Yukinari Sugawara",
+      "dob": "2000-06-28",
+      "caps": 20,
+      "goals": 2,
+      "club": "Werder Bremen",
+      "eafc26": {
+        "overall": 74,
+        "potential": 78,
+        "pace": 75,
+        "shooting": 54,
+        "passing": 73,
+        "dribbling": 72,
+        "defending": 69,
+        "physicality": 70,
+        "player_id": 242916
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Ayumu Seko",
+      "dob": "2000-06-07",
+      "caps": 13,
+      "goals": 0,
+      "club": "Le Havre",
+      "eafc26": {
+        "overall": 69,
+        "potential": 74,
+        "pace": 64,
+        "shooting": 36,
+        "passing": 57,
+        "dribbling": 59,
+        "defending": 69,
+        "physicality": 74,
+        "player_id": 247264
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Junnosuke Suzuki",
+      "dob": "2003-07-12",
+      "caps": 6,
+      "goals": 0,
+      "club": "Copenhagen",
+      "eafc26": {
+        "overall": 66,
+        "potential": 75,
+        "pace": 73,
+        "shooting": 44,
+        "passing": 59,
+        "dribbling": 59,
+        "defending": 66,
+        "physicality": 65,
+        "player_id": 266260
+      }
+    },
+    {
+      "pos": "DF",
+      "name": "Tsuyoshi Watanabe",
+      "dob": "1997-02-05",
+      "caps": 10,
+      "goals": 0,
+      "club": "Feyenoord",
+      "eafc26": {
+        "overall": 75,
+        "potential": 75,
+        "pace": 76,
+        "shooting": 39,
+        "passing": 52,
+        "dribbling": 59,
+        "defending": 76,
+        "physicality": 78,
+        "player_id": 246826
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Wataru Endo",
+      "dob": "1993-02-09",
+      "caps": 72,
+      "goals": 4,
+      "club": "Liverpool",
+      "captain": true,
+      "eafc26": {
+        "overall": 79,
+        "potential": 79,
+        "pace": 58,
+        "shooting": 68,
+        "passing": 71,
+        "dribbling": 77,
+        "defending": 79,
+        "physicality": 73,
+        "player_id": 232487
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Junya Itō",
+      "dob": "1993-03-09",
+      "caps": 68,
+      "goals": 15,
+      "club": "Genk",
+      "eafc26": {
+        "overall": 77,
+        "potential": 77,
+        "pace": 86,
+        "shooting": 69,
+        "passing": 72,
+        "dribbling": 78,
+        "defending": 58,
+        "physicality": 70,
+        "player_id": 232905
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Ritsu Dōan",
+      "dob": "1998-06-16",
+      "caps": 64,
+      "goals": 11,
+      "club": "Eintracht Frankfurt",
+      "eafc26": {
+        "overall": 82,
+        "potential": 82,
+        "pace": 82,
+        "shooting": 71,
+        "passing": 78,
+        "dribbling": 85,
+        "defending": 41,
+        "physicality": 64,
+        "player_id": 232639
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Daichi Kamada",
+      "dob": "1996-08-05",
+      "caps": 49,
+      "goals": 12,
+      "club": "Crystal Palace",
+      "eafc26": {
+        "overall": 77,
+        "potential": 77,
+        "pace": 71,
+        "shooting": 72,
+        "passing": 77,
+        "dribbling": 78,
+        "defending": 64,
+        "physicality": 66,
+        "player_id": 232730
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Takefusa Kubo",
+      "dob": "2001-06-04",
+      "caps": 48,
+      "goals": 7,
+      "club": "Real Sociedad",
+      "eafc26": {
+        "overall": 82,
+        "potential": 86,
+        "pace": 86,
+        "shooting": 77,
+        "passing": 78,
+        "dribbling": 85,
+        "defending": 40,
+        "physicality": 64,
+        "player_id": 237681
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Ao Tanaka",
+      "dob": "1998-09-10",
+      "caps": 37,
+      "goals": 8,
+      "club": "Leeds United",
+      "eafc26": {
+        "overall": 76,
+        "potential": 79,
+        "pace": 70,
+        "shooting": 68,
+        "passing": 72,
+        "dribbling": 77,
+        "defending": 73,
+        "physicality": 71,
+        "player_id": 236764
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Keito Nakamura",
+      "dob": "2000-07-28",
+      "caps": 24,
+      "goals": 10,
+      "club": "Reims",
+      "eafc26": {
+        "overall": 76,
+        "potential": 79,
+        "pace": 79,
+        "shooting": 74,
+        "passing": 71,
+        "dribbling": 77,
+        "defending": 41,
+        "physicality": 74,
+        "player_id": 242914
+      }
+    },
+    {
+      "pos": "MF",
+      "name": "Kaishū Sano",
+      "dob": "2000-12-30",
+      "caps": 12,
+      "goals": 0,
+      "club": "Mainz 05",
+      "eafc26": {
+        "overall": 79,
+        "potential": 83,
+        "pace": 79,
+        "shooting": 51,
+        "passing": 67,
+        "dribbling": 76,
+        "defending": 78,
+        "physicality": 75,
+        "player_id": 73078
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Ayase Ueda",
+      "dob": "1998-08-28",
+      "caps": 38,
+      "goals": 16,
+      "club": "Feyenoord",
+      "eafc26": {
+        "overall": 74,
+        "potential": 75,
+        "pace": 74,
+        "shooting": 75,
+        "passing": 58,
+        "dribbling": 69,
+        "defending": 28,
+        "physicality": 69,
+        "player_id": 252162
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Daizen Maeda",
+      "dob": "1997-10-20",
+      "caps": 27,
+      "goals": 4,
+      "club": "Celtic",
+      "eafc26": {
+        "overall": 79,
+        "potential": 79,
+        "pace": 92,
+        "shooting": 79,
+        "passing": 70,
+        "dribbling": 76,
+        "defending": 65,
+        "physicality": 79,
+        "player_id": 246321
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Kōki Ogawa",
+      "dob": "1997-08-08",
+      "caps": 14,
+      "goals": 10,
+      "club": "NEC",
+      "eafc26": {
+        "overall": 68,
+        "potential": 68,
+        "pace": 51,
+        "shooting": 69,
+        "passing": 57,
+        "dribbling": 65,
+        "defending": 29,
+        "physicality": 67,
+        "player_id": 232829
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Yuito Suzuki",
+      "dob": "2001-10-25",
+      "caps": 6,
+      "goals": 0,
+      "club": "SC Freiburg",
+      "eafc26": {
+        "overall": 71,
+        "potential": 79,
+        "pace": 83,
+        "shooting": 68,
+        "passing": 65,
+        "dribbling": 74,
+        "defending": 48,
+        "physicality": 57,
+        "player_id": 255185
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Keisuke Gotō",
+      "dob": "2005-06-03",
+      "caps": 3,
+      "goals": 0,
+      "club": "Sint-Truiden",
+      "eafc26": {
+        "overall": 57,
+        "potential": 68,
+        "pace": 53,
+        "shooting": 58,
+        "passing": 43,
+        "dribbling": 51,
+        "defending": 29,
+        "physicality": 65,
+        "player_id": 76570
+      }
+    },
+    {
+      "pos": "FW",
+      "name": "Kento Shiogai",
+      "dob": "2005-03-26",
+      "caps": 1,
+      "goals": 0,
+      "club": "VfL Wolfsburg",
+      "eafc26": {
+        "overall": 66,
+        "potential": 81,
+        "pace": 84,
+        "shooting": 65,
+        "passing": 55,
+        "dribbling": 66,
+        "defending": 21,
+        "physicality": 57,
+        "player_id": 74879
+      }
+    }
+  ]
+}

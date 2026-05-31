@@ -1,0 +1,121 @@
+{
+  "name": "Scotland",
+  "code": "SCO",
+  "matches_analyzed": 3,
+  "formations": {
+    "3-4-1-2": 1,
+    "3-4-2-1": 3,
+    "3-5-2": 2,
+    "3-4-3": 1,
+    "3-5-1-1": 1
+  },
+  "primary_formation": "3-4-2-1",
+  "top_starters": [
+    "Angus Gunn",
+    "Jack Hendry",
+    "Anthony Ralston",
+    "Andrew Robertson",
+    "Callum McGregor",
+    "Scott McTominay",
+    "Che Adams",
+    "John McGinn",
+    "Grant Campbell Hanley",
+    "Kieran Tierney",
+    "Billy Gilmour",
+    "Scott McKenna",
+    "Ryan Porteous",
+    "Ryan Christie"
+  ],
+  "top_subs": [
+    "Kenneth McLean",
+    "Lawrence Shankland",
+    "Scott McKenna",
+    "Ryan Christie",
+    "Stuart Armstrong",
+    "Lewis Morgan",
+    "Grant Campbell Hanley",
+    "Billy Gilmour"
+  ],
+  "matches": [
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930169,
+      "opponent": "Switzerland",
+      "score": "1-1",
+      "formation": "3-4-1-2",
+      "starting_xi": [
+        "Angus Gunn",
+        "Jack Hendry",
+        "Grant Campbell Hanley",
+        "Kieran Tierney",
+        "Anthony Ralston",
+        "Andrew Robertson",
+        "Billy Gilmour",
+        "Callum McGregor",
+        "Scott McTominay",
+        "Che Adams",
+        "John McGinn"
+      ],
+      "subs_in": [
+        "Scott McKenna",
+        "Kenneth McLean",
+        "Ryan Christie",
+        "Lawrence Shankland"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930177,
+      "opponent": "Hungary",
+      "score": "0-1",
+      "formation": "3-4-2-1",
+      "starting_xi": [
+        "Angus Gunn",
+        "Jack Hendry",
+        "Grant Campbell Hanley",
+        "Scott McKenna",
+        "Anthony Ralston",
+        "Andrew Robertson",
+        "Billy Gilmour",
+        "Callum McGregor",
+        "John McGinn",
+        "Scott McTominay",
+        "Che Adams"
+      ],
+      "subs_in": [
+        "Stuart Armstrong",
+        "Lawrence Shankland",
+        "Ryan Christie",
+        "Kenneth McLean",
+        "Lewis Morgan"
+      ]
+    },
+    {
+      "competition": "UEFA Euro 2024",
+      "match_id": 3930158,
+      "opponent": "Germany",
+      "score": "1-5",
+      "formation": "3-4-3",
+      "starting_xi": [
+        "Angus Gunn",
+        "Ryan Porteous",
+        "Jack Hendry",
+        "Kieran Tierney",
+        "Anthony Ralston",
+        "Andrew Robertson",
+        "Scott McTominay",
+        "Callum McGregor",
+        "John McGinn",
+        "Ryan Christie",
+        "Che Adams"
+      ],
+      "subs_in": [
+        "Grant Campbell Hanley",
+        "Billy Gilmour",
+        "Kenneth McLean",
+        "Scott McKenna",
+        "Lawrence Shankland"
+      ]
+    }
+  ]
+}
