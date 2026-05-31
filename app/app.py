@@ -43,6 +43,25 @@ FLAGS = {
 
 WEEKDAYS_JA = ["月", "火", "水", "木", "金", "土", "日"]
 
+TEAM_NAMES_JA = {
+    "MEX": "メキシコ",     "RSA": "南アフリカ",   "KOR": "韓国",
+    "CZE": "チェコ",       "CAN": "カナダ",        "BIH": "ボスニア",
+    "QAT": "カタール",     "SUI": "スイス",        "BRA": "ブラジル",
+    "MAR": "モロッコ",     "HAI": "ハイチ",        "SCO": "スコットランド",
+    "USA": "アメリカ",     "PAR": "パラグアイ",    "AUS": "オーストラリア",
+    "TUR": "トルコ",       "GER": "ドイツ",        "CUW": "キュラソー",
+    "CIV": "コートジボワール", "ECU": "エクアドル", "NED": "オランダ",
+    "JPN": "日本",         "SWE": "スウェーデン",  "TUN": "チュニジア",
+    "BEL": "ベルギー",     "EGY": "エジプト",      "IRN": "イラン",
+    "NZL": "ニュージーランド", "ESP": "スペイン",   "CPV": "カーボベルデ",
+    "KSA": "サウジアラビア", "URU": "ウルグアイ",  "FRA": "フランス",
+    "SEN": "セネガル",     "IRQ": "イラク",        "NOR": "ノルウェー",
+    "ARG": "アルゼンチン", "ALG": "アルジェリア",  "AUT": "オーストリア",
+    "JOR": "ヨルダン",     "POR": "ポルトガル",    "COL": "コロンビア",
+    "COD": "コンゴ",       "UZB": "ウズベキスタン","ENG": "イングランド",
+    "CRO": "クロアチア",   "GHA": "ガーナ",        "PAN": "パナマ",
+}
+
 
 # ── Data helpers ────────────────────────────────────────────────────────────
 
@@ -105,6 +124,15 @@ def format_jst(dt_jst: datetime) -> str:
 
 def flag(code: str) -> str:
     return FLAGS.get(code, "🏳")
+
+
+def ja(code: str) -> str:
+    return TEAM_NAMES_JA.get(code, code)
+
+
+def team_ja(code: str) -> str:
+    """Flag + Katakana name for display."""
+    return f"{flag(code)} {ja(code)}" if code else "—"
 
 
 def match_has_result(match_id: str, results: dict) -> bool:
@@ -388,7 +416,7 @@ def save_bracket_prediction(username: str, data: dict):
 
 
 def team_label(code: str) -> str:
-    return f"{flag(code)} {code}" if code else "—"
+    return team_ja(code) if code else "—"
 
 
 # ── Pages ───────────────────────────────────────────────────────────────────
@@ -460,7 +488,7 @@ def page_predict():
                     icon = "🥇" if rank == 1 else ("🥈" if rank == 2 else ("🔸" if rank == 3 else ""))
                     standing_rows.append({
                         "": icon,
-                        "チーム": f"{flag(code)} {code}",
+                        "チーム": team_ja(code),
                         "勝点": pts,
                         "得失": f"{gd:+d}",
                         "得点": gf,
@@ -491,7 +519,7 @@ def page_predict():
 
                     with col_teams:
                         st.markdown(
-                            f"**{flag(home_code)} {home_code}** vs **{flag(away_code)} {away_code}**  \n"
+                            f"**{team_ja(home_code)}** vs **{team_ja(away_code)}**  \n"
                             f"<span style='font-size:0.8em;color:gray'>{format_jst(dt_jst)}</span>",
                             unsafe_allow_html=True,
                         )
@@ -531,13 +559,13 @@ def page_predict():
                             pts = score_match(mid, existing, results[mid])
                             st.markdown(f"🔒 **{pts}pt**")
 
-                with st.expander(f"📋 {flag(home_code)}{home_code} vs {flag(away_code)}{away_code} チーム詳細"):
+                with st.expander(f"📋 {team_ja(home_code)} vs {team_ja(away_code)} チーム詳細"):
                     col_h, col_a = st.columns(2)
                     with col_h:
-                        st.markdown(f"**{flag(home_code)} {home_code}**")
+                        st.markdown(f"**{team_ja(home_code)}**")
                         show_team_summary(home_code)
                     with col_a:
-                        st.markdown(f"**{flag(away_code)} {away_code}**")
+                        st.markdown(f"**{team_ja(away_code)}**")
                         show_team_summary(away_code)
 
                 st.divider()
@@ -873,7 +901,7 @@ def page_ranking():
                 away = m.get("away", "?")
                 r = results.get(mid, {})
                 detail_rows.append({
-                    "試合": f"{flag(home)}{home} vs {flag(away)}{away}",
+                    "試合": f"{team_ja(home)} vs {team_ja(away)}",
                     "結果": f"{r.get('home','?')}-{r.get('away','?')}",
                     "ポイント": pts,
                 })
@@ -890,12 +918,12 @@ def page_team_info():
         st.warning("選手データが見つかりません。")
         return
 
-    selected = st.selectbox("チームを選択", team_codes, format_func=lambda c: f"{flag(c)} {c}")
+    selected = st.selectbox("チームを選択", team_codes, format_func=team_ja)
 
     with open(PLAYERS_DIR / f"{selected}.json") as f:
         team_data = json.load(f)
 
-    st.subheader(f"{flag(selected)} {team_data.get('name', selected)}")
+    st.subheader(f"{team_ja(selected)}")
     st.caption(f"グループ: {team_data.get('group', '?')}")
 
     # ── 選手情報 ──
